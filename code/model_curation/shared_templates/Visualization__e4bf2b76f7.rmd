@@ -1,0 +1,200 @@
+---
+title: "Visulaization"
+output: html_document
+date: "2023-10-21"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+library(fmsb)
+library(ggplot2)
+library(reshape2)
+# Load the Excel file
+file_path <- "./confusion_matrices_scores.xlsx" # Update this to the path of your Excel file
+sheet_names <- excel_sheets(file_path)
+
+# Initialize an empty data frame to store the performance metrics
+performance_df <- data.frame(matrix(ncol = 5, nrow = 0))
+colnames(performance_df) <- c("Accuracy", "Precision", "Recall", "F1", "GEM")
+
+# Loop through each sheet (GEM) and load the performance metrics
+for (sheet_name in sheet_names) {
+  data <- read_excel(file_path, sheet = sheet_name)
+  # Replace NA values with zero
+  data[is.na(data)] <- 0
+  performance_metrics <- data[1, c("Accuracy", "Precision", "Recall", "F1")]  # Excluding MCC
+  # Remove "ttmodel_" from GEM names
+  cleaned_name <- gsub("ttmodel_", "", sheet_name)
+  performance_metrics$GEM <- cleaned_name
+  performance_df <- rbind(performance_df, performance_metrics)
+}
+
+# Add max and min values for each metric for plotting
+max_values <- c(1, 1, 1, 1, "max")
+min_values <- c(0, 0, 0, 0, "min")
+performance_df <- rbind(performance_df, max_values, min_values)
+
+# Convert the GEM column to row names
+rownames(performance_df) <- performance_df$GEM
+performance_df$GEM <- NULL
+
+# Ensure all data is numeric
+performance_df <- apply(performance_df, 2, as.numeric)
+
+# Creating the radar chart
+radarchart <- radarchart(as.data.frame(t(performance_df)), axistype = 1, 
+                         paxislabels = c("Accuracy", "Precision", "Recall", "F1"), 
+                         title = "Performance Metrics of GEMs",
+                         vlcex = 0.8)
+
+print(radarchart)
+
+```
+
+
+```{r}
+library(readxl)
+library(plotly)
+library(dplyr)
+library(tidyr)
+library(purrr)
+
+# Load the Excel file
+file_path <- "./confusion_matrices_scores.xlsx" # Update this to the path of your Excel file
+sheet_names <- excel_sheets(file_path)
+
+# Initialize an empty data frame to store the performance metrics
+performance_df <- data.frame(matrix(ncol = 5, nrow = 0))
+colnames(performance_df) <- c("Accuracy", "Precision", "Recall", "F1", "GEM")
+
+# Loop through each sheet (GEM) and load the performance metrics
+for (sheet_name in sheet_names) {
+  data <- read_excel(file_path, sheet = sheet_name)
+  # Replace NA values with zero
+  data[is.na(data)] <- 0
+  performance_metrics <- data[1, c("Accuracy", "Precision", "Recall", "F1")]  # Excluding MCC
+  # Remove "ttmodel_" from GEM names
+  cleaned_name <- gsub("ttmodel_", "", sheet_name)
+  performance_metrics$GEM <- cleaned_name
+  performance_df <- rbind(performance_df, performance_metrics)
+}
+
+# Convert the data frame to long format
+performance_long <- performance_df %>%
+  gather(key = "Metric", value = "Value", -GEM)
+
+# Create a list of radar charts, one for each GEM
+radar_charts <- performance_long %>%
+  split(.$GEM) %>%
+  map(~plot_ly(data = ., type = 'scatterpolar', fill = 'toself') %>%
+        add_trace(r = ~Value, theta = ~Metric) %>%
+        layout(polar = list(radialaxis = list(visible = T, range = c(0, 1))), 
+               showlegend = F, title = ~unique(.x$GEM)))
+
+# Show the radar chart for the first GEM (change the index to view others)
+radar_charts[[1]]
+```
+
+
+```{r}
+library(shiny)
+
+ui <- fluidPage(
+  titlePanel("Radar Charts of GEMs"),
+  selectInput("gem", "Choose a GEM:", choices = names(radar_charts)),
+  plotlyOutput("radarChart")
+)
+
+server <- function(input, output) {
+  output$radarChart <- renderPlotly({
+    radar_charts[[input$gem]]
+  })
+}
+
+shinyApp(ui = ui, server = server)
+
+```
+
+```{r}
+# Defining a set of distinct colors manually
+
+distinct_colors <- c("#E41A1C", "#377EB8", "#4DAF4A", "#984EA3", "#FF7F00", "#FFFF33", "#A65628", "#F781BF", "#999999", "#66C2A5", "#FC8D62", "#8DA0CB", "#E78AC3", "#A6D854", "#FFD92F", "#E5C494", "#B3B3B3","#E7298A")
+
+# Ensure there are enough colors for all GEMs
+if(length(distinct_colors) < length(names(radar_charts))) {
+  stop("Not enough colors provided for all GEMs. Please add more colors to the 'distinct_colors' vector.")
+}
+
+# Creating a single radar chart with all GEMs
+radar_chart_all <- plot_ly(type = 'scatterpolar', fill = 'toself') %>%
+  layout(
+    polar = list(radialaxis = list(visible = T, range = c(0, 1))),
+    title = list(text = "Confusion Matrix Metrics", x = 0, xanchor = "left"),
+    showlegend = TRUE
+  )
+
+# Add each GEM as a trace to the radar chart
+for (i in seq_along(names(radar_charts))) {
+  gem <- names(radar_charts)[i]
+  radar_chart_all <- radar_chart_all %>%
+    add_trace(
+      data = performance_long %>% filter(GEM == gem),
+      r = ~Value, theta = ~Metric,
+      name = gem,
+      line = list(color = distinct_colors[i])
+    )
+}
+
+# Show the radar chart
+radar_chart_all
+```
+
+```{r}
+# Number of GEMs
+num_gems <- length(names(radar_charts))
+
+# Creating a set of distinct colors using the rainbow function
+distinct_colors <- rainbow(num_gems)
+
+# Creating a single radar chart with all GEMs
+radar_chart_all <- plot_ly(type = 'scatterpolar', fill = 'toself') %>%
+layout(
+  polar = list(
+    domain = list(x = c(0.1, 0.9), y = c(0.1, 0.9)),
+    radialaxis = list(
+      visible = T, 
+      range = c(0, 1), 
+      tickfont = list(size = 50, weight = "bold")
+    ),
+    angularaxis = list(tickfont = list(size = 70, color = "black"))
+  ),
+  showlegend = TRUE,
+  legend = list(font = list(size = 43, color = "black"))
+)
+
+# Add each GEM as a trace to the radar chart
+for (i in seq_along(names(radar_charts))) {
+  gem <- names(radar_charts)[i]
+  radar_chart_all <- radar_chart_all %>%
+    add_trace(
+      data = performance_long %>% filter(GEM == gem),
+      r = ~Value, theta = ~Metric,
+      name = gem,
+      line = list(color = distinct_colors[i]),
+      textfont = list(size = 24)
+    )
+}
+
+# Show the radar chart
+radar_chart_all
+
+```
+
+
+

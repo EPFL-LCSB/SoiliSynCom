@@ -1,0 +1,127 @@
+subsystem	strain	reactions
+Glycolysis / Gluconeogenesis	bbet	8
+Glycolysis / Gluconeogenesis	cauj	8
+Glycolysis / Gluconeogenesis	dri	7
+Glycolysis / Gluconeogenesis	mlot	8
+Glycolysis / Gluconeogenesis	pzu	6
+Glycolysis / Gluconeogenesis	tro	6
+Glycolysis / Gluconeogenesis	buol	9
+Glycolysis / Gluconeogenesis	vpe	7
+Glycolysis / Gluconeogenesis	lgu	6
+Glycolysis / Gluconeogenesis	lur	8
+Glycolysis / Gluconeogenesis	pmor	8
+Glycolysis / Gluconeogenesis	pscf	9
+Glycolysis / Gluconeogenesis	racd	9
+Glycolysis / Gluconeogenesis	cuvk	9
+Glycolysis / Gluconeogenesis	cxy	8
+Glycolysis / Gluconeogenesis	mip	7
+Glycolysis / Gluconeogenesis	rfa	9
+Glycolysis / Gluconeogenesis	cpi	7
+Glycolysis / Gluconeogenesis	flk	7
+Glycolysis / Gluconeogenesis	mgk	7
+Glycolysis / Gluconeogenesis	cohm	7
+Pentose phosphate pathway	bbet	48
+Pentose phosphate pathway	cauj	41
+Pentose phosphate pathway	dri	47
+Pentose phosphate pathway	mlot	52
+Pentose phosphate pathway	pzu	42
+Pentose phosphate pathway	tro	45
+Pentose phosphate pathway	buol	49
+Pentose phosphate pathway	vpe	47
+Pentose phosphate pathway	lgu	40
+Pentose phosphate pathway	lur	48
+Pentose phosphate pathway	pmor	48
+Pentose phosphate pathway	pscf	48
+Pentose phosphate pathway	racd	56
+Pentose phosphate pathway	cuvk	51
+Pentose phosphate pathway	cxy	41
+Pentose phosphate pathway	mip	45
+Pentose phosphate pathway	rfa	47
+Pentose phosphate pathway	cpi	47
+Pentose phosphate pathway	flk	39
+Pentose phosphate pathway	mgk	47
+Pentose phosphate pathway	cohm	53
+Citrate cycle (TCA cycle)	bbet	23
+Citrate cycle (TCA cycle)	cauj	19
+Citrate cycle (TCA cycle)	dri	21
+Citrate cycle (TCA cycle)	mlot	21
+Citrate cycle (TCA cycle)	pzu	23
+Citrate cycle (TCA cycle)	tro	21
+Citrate cycle (TCA cycle)	buol	23
+Citrate cycle (TCA cycle)	vpe	24
+Citrate cycle (TCA cycle)	lgu	21
+Citrate cycle (TCA cycle)	lur	20
+Citrate cycle (TCA cycle)	pmor	21
+Citrate cycle (TCA cycle)	pscf	19
+Citrate cycle (TCA cycle)	racd	21
+Citrate cycle (TCA cycle)	cuvk	18
+Citrate cycle (TCA cycle)	cxy	21
+Citrate cycle (TCA cycle)	mip	21
+Citrate cycle (TCA cycle)	rfa	20
+Citrate cycle (TCA cycle)	cpi	21
+Citrate cycle (TCA cycle)	flk	19
+Citrate cycle (TCA cycle)	mgk	18
+Citrate cycle (TCA cycle)	cohm	20
+Pyruvate metabolism	bbet	39
+Pyruvate metabolism	cauj	31
+Pyruvate metabolism	dri	32
+Pyruvate metabolism	mlot	35
+Pyruvate metabolism	pzu	32
+Pyruvate metabolism	tro	36
+Pyruvate metabolism	buol	37
+Pyruvate metabolism	vpe	36
+Pyruvate metabolism	lgu	29
+Pyruvate metabolism	lur	30
+Pyruvate metabolism	pmor	35
+Pyruvate metabolism	pscf	32
+Pyruvate metabolism	racd	36
+Pyruvate metabolism	cuvk	29
+Pyruvate metabolism	cxy	35
+Pyruvate metabolism	mip	30
+Pyruvate metabolism	rfa	32
+Pyruvate metabolism	cpi	30
+Pyruvate metabolism	flk	31
+Pyruvate metabolism	mgk	29
+Pyruvate metabolism	cohm	37
+Glyoxylate and dicarboxylate metabolism	bbet	46
+Glyoxylate and dicarboxylate metabolism	cauj	44
+Glyoxylate and dicarboxylate metabolism	dri	32
+Glyoxylate and dicarboxylate metabolism	mlot	43
+Glyoxylate and dicarboxylate metabolism	pzu	41
+Glyoxylate and dicarboxylate metabolism	tro	46
+Glyoxylate and dicarboxylate metabolism	buol	42
+Glyoxylate and dicarboxylate metabolism	vpe	44
+Glyoxylate and dicarboxylate metabolism	lgu	38
+Glyoxylate and dicarboxylate metabolism	lur	34
+Glyoxylate and dicarboxylate metabolism	pmor	38
+Glyoxylate and dicarboxylate metabolism	pscf	38
+Glyoxylate and dicarboxylate metabolism	racd	35
+Glyoxylate and dicarboxylate metabolism	cuvk	31
+Glyoxylate and dicarboxylate metabolism	cxy	30
+Glyoxylate and dicarboxylate metabolism	mip	30
+Glyoxylate and dicarboxylate metabolism	rfa	41
+Glyoxylate and dicarboxylate metabolism	cpi	31
+Glyoxylate and dicarboxylate metabolism	flk	29
+Glyoxylate and dicarboxylate metabolism	mgk	31
+Glyoxylate and dicarboxylate metabolism	cohm	34
+ETC_Rxns	bbet	35
+ETC_Rxns	cauj	25
+ETC_Rxns	dri	27
+ETC_Rxns	mlot	27
+ETC_Rxns	pzu	18
+ETC_Rxns	tro	32
+ETC_Rxns	buol	30
+ETC_Rxns	vpe	26
+ETC_Rxns	lgu	24
+ETC_Rxns	lur	25
+ETC_Rxns	pmor	25
+ETC_Rxns	pscf	25
+ETC_Rxns	racd	29
+ETC_Rxns	cuvk	14
+ETC_Rxns	cxy	19
+ETC_Rxns	mip	13
+ETC_Rxns	rfa	23
+ETC_Rxns	cpi	26
+ETC_Rxns	flk	17
+ETC_Rxns	mgk	23
+ETC_Rxns	cohm	24

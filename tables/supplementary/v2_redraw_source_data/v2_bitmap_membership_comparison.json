@@ -1,0 +1,37 @@
+{
+  "matched_cells": {
+    "uptake": 1533,
+    "secretion": 353
+  },
+  "differences": [
+    {
+      "role": "secretion",
+      "metabolite": "Pyridoxine",
+      "strain": "buol",
+      "source_state": "absent",
+      "v2_bitmap_state": "both"
+    },
+    {
+      "role": "secretion",
+      "metabolite": "Pyridoxine",
+      "strain": "vpe",
+      "source_state": "absent",
+      "v2_bitmap_state": "both"
+    },
+    {
+      "role": "secretion",
+      "metabolite": "Glycerol",
+      "strain": "buol",
+      "source_state": "both",
+      "v2_bitmap_state": "absent"
+    },
+    {
+      "role": "secretion",
+      "metabolite": "Glycerol",
+      "strain": "vpe",
+      "source_state": "both",
+      "v2_bitmap_state": "absent"
+    }
+  ],
+  "interpretation": "The redrawn figure moves exactly two markers, from Pyridoxine to Glycerol, without changing any other cell membership."
+}

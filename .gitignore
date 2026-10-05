@@ -1,0 +1,46 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# Generated local output
+outputs/
+output/
+results/
+logs/
+*.log
+*.lp
+*.sol
+
+# Local configuration, credentials, and archives
+.env
+.env.*
+!.env.example
+config/local.*
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Optional unpublished inputs used by archival research scripts
+external_data/

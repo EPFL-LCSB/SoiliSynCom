@@ -1,0 +1,7 @@
+recorded_evidence_rule	score_or_increment
+E.C exists in Species	5
+E.C exists in a closely related species	4
+E.C exists in the genus	3
+3 letters E.C. exists in the species/closely related species	2
+3 letters E.C. exists in the genus	1
+Gene exists in the relaxed model	Plus 1

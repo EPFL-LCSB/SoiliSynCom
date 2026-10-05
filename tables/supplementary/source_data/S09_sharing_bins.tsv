@@ -1,0 +1,17 @@
+condition	role	bin	n_metabolites	total_metabolites	percent
+Basal	substrates	1 strain	3	93	3.225806451612903
+Basal	substrates	2-5 strains	9	93	9.67741935483871
+Basal	substrates	6-10 strains	11	93	11.827956989247312
+Basal	substrates	>10 strains	70	93	75.26881720430107
+Conditioned	substrates	1 strain	8	242	3.3057851239669422
+Conditioned	substrates	2-5 strains	32	242	13.223140495867769
+Conditioned	substrates	6-10 strains	53	242	21.90082644628099
+Conditioned	substrates	>10 strains	149	242	61.570247933884296
+Basal	products	1 strain	16	254	6.299212598425197
+Basal	products	2-5 strains	43	254	16.929133858267715
+Basal	products	6-10 strains	47	254	18.503937007874015
+Basal	products	>10 strains	148	254	58.267716535433074
+Conditioned	products	1 strain	18	240	7.5
+Conditioned	products	2-5 strains	59	240	24.583333333333332
+Conditioned	products	6-10 strains	84	240	35.0
+Conditioned	products	>10 strains	79	240	32.916666666666664

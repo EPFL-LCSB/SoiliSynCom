@@ -1,0 +1,316 @@
+metabolite	name	mapped_source	basal_input	basal_product	conditioned_input	added_to_basal
+C00001	Water	False	True	True	True	False
+C00003	NAD	True	True	True	True	False
+C00007	Oxygen	False	True	False	True	False
+C00009	phosphoric acid	False	True	True	True	False
+C00011	Carbon Dioxide	False	False	True	True	True
+C00014	Ammonia	False	True	True	True	False
+C00016	Flavin-Adenine Dinucleotide	False	False	True	True	True
+C00020	Adenosine Monophosphate	True	True	True	True	False
+C00022	Pyruvic Acid	True	True	True	True	False
+C00023	C00023	False	True	False	True	False
+C00025	Glutamic Acid	True	True	True	True	False
+C00026	Ketoglutaric Acids	False	False	True	True	True
+C00027	Hydrogen Peroxide	False	False	True	True	True
+C00029	Uridine Diphosphate Glucose	False	False	True	True	True
+C00032	Heme	False	False	True	True	True
+C00033	Acetic Acid	False	False	True	True	True
+C00034	C00034	False	True	False	True	False
+C00035	Guanosine Diphosphate	False	False	True	True	True
+C00037	Glycine	False	False	True	True	True
+C00038	C00038	False	True	False	True	False
+C00041	Alanine	True	True	True	True	False
+C00042	Succinic Acid	False	False	True	True	True
+C00043	Uridine Diphosphate N-Acetylglucosamine	False	False	True	True	True
+C00044	Guanosine Triphosphate	False	False	True	True	True
+C00047	Lysine	False	False	True	True	True
+C00049	Aspartic Acid	True	True	True	True	False
+C00051	Glutathione	False	False	True	True	True
+C00052	UDP-alpha-D-galactose	False	False	True	True	True
+C00055	Cytidine Monophosphate	False	False	True	True	True
+C00058	formic acid	False	False	True	True	True
+C00059	sulfuric acid	False	True	True	True	False
+C00061	Flavin Mononucleotide	False	False	True	True	True
+C00062	Arginine	True	True	True	True	False
+C00064	Glutamine	True	True	True	True	False
+C00065	Serine	True	True	True	True	False
+C00067	Formaldehyde	False	False	True	True	True
+C00070	C00070	False	True	False	True	False
+C00073	Methionine	False	False	True	True	True
+C00076	C00076	False	True	False	True	False
+C00077	Ornithine	False	False	True	True	True
+C00078	Tryptophan	False	False	True	True	True
+C00079	Phenylalanine	True	True	True	True	False
+C00080	C00080	False	True	False	True	False
+C00082	Tyrosine	True	True	True	True	False
+C00084	Acetaldehyde	False	False	True	True	True
+C00085	D-fructofuranose 6-phosphate	False	False	True	True	True
+C00086	Urea	False	False	True	True	True
+C00088	Nitrous Acid	False	False	True	True	True
+C00089	Sucrose	False	False	True	True	True
+C00090	catechol	True	True	True	True	False
+C00092	D-glucopyranose 6-phosphate	False	False	True	True	True
+C00093	Glycerophosphates	True	True	True	True	False
+C00094	sulfurous acid	False	False	True	True	True
+C00095	D-fructofuranose	False	False	True	True	True
+C00097	Cysteine	False	False	True	True	True
+C00099	beta-Alanine	True	True	True	True	False
+C00103	glucose-1-phosphate	False	False	True	True	True
+C00105	Uridine Monophosphate	True	True	True	True	False
+C00106	Uracil	True	True	True	True	False
+C00109	alpha-ketobutyric acid	False	False	True	True	True
+C00114	Choline	True	True	True	True	False
+C00116	Glycerol	True	True	True	True	False
+C00118	Glyceraldehyde 3-Phosphate	True	True	True	True	False
+C00120	Biotin	False	True	False	True	False
+C00121	D-ribofuranose	False	False	True	True	True
+C00122	fumaric acid	False	False	True	True	True
+C00123	Leucine	True	True	True	True	False
+C00127	Glutathione Disulfide	False	False	True	True	True
+C00130	Inosine Monophosphate	False	False	True	True	True
+C00132	Methanol	False	False	True	True	True
+C00133	D-alanine	False	False	True	True	True
+C00134	Putrescine	False	False	True	True	True
+C00135	Histidine	True	True	True	True	False
+C00137	L-histidine	False	False	True	True	True
+C00140	Acetylglucosamine	False	False	True	True	True
+C00144	Guanosine Monophosphate	True	True	True	True	False
+C00146	Phenol	False	False	True	True	True
+C00147	Adenine	False	False	True	True	True
+C00148	Proline	True	True	True	True	False
+C00149	(S)-malic acid	True	True	True	True	False
+C00152	Asparagine	True	True	True	True	False
+C00156	4-hydroxybenzoic acid	True	True	True	True	False
+C00158	Citric Acid	True	True	True	True	False
+C00159	Mannose	False	False	True	True	True
+C00160	glycolic acid	False	False	True	True	True
+C00163	propionic acid	False	False	True	True	True
+C00164	acetoacetic acid	False	False	True	True	True
+C00167	Uridine Diphosphate Glucuronic Acid	False	False	True	True	True
+C00170	5'-methylthioadenosine	True	True	True	True	False
+C00175	C00175	False	True	False	True	False
+C00178	Thymine	False	False	True	True	True
+C00179	Agmatine	False	False	True	True	True
+C00181	xylopyranose	False	False	True	True	True
+C00183	Valine	False	False	True	True	True
+C00184	Dihydroxyacetone	False	False	True	True	True
+C00185	Cellobiose	False	False	True	True	True
+C00186	Lactic Acid	False	False	True	True	True
+C00188	Threonine	False	False	True	True	True
+C00189	Ethanolamine	True	True	True	True	False
+C00191	glucopyranuronic acid	False	False	True	True	True
+C00198	beta-glucono-1,5-lactone	False	False	True	True	True
+C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	False	False	True	True	True
+C00204	2-keto-3-deoxygluconate	False	False	True	True	True
+C00207	Acetone	False	False	True	True	True
+C00208	Maltose	False	False	True	True	True
+C00212	Adenosine	True	True	True	True	False
+C00213	Sarcosine	True	True	True	True	False
+C00214	Thymidine	True	True	False	True	False
+C00237	Carbon Monoxide	False	False	True	True	True
+C00239	Deoxycytidine Monophosphate	False	False	True	True	True
+C00242	Guanine	True	True	True	True	False
+C00244	Nitric Acid	False	True	True	True	False
+C00245	Taurine	False	False	True	True	True
+C00246	Butyric Acid	False	False	True	True	True
+C00249	Palmitic Acid	False	False	True	True	True
+C00250	Pyridoxal	False	False	True	True	True
+C00253	Niacin	True	True	True	True	False
+C00255	Riboflavin	False	False	True	True	True
+C00256	Lactic Acid	True	True	True	True	False
+C00257	gluconic acid	True	True	True	True	False
+C00258	D-glyceric acid	False	False	True	True	True
+C00262	Hypoxanthine	True	True	True	True	False
+C00263	Homoserine	False	False	True	True	True
+C00270	N-Acetylneuraminic Acid	False	False	True	True	True
+C00275	mannose-6-phosphate	False	False	True	True	True
+C00283	Hydrogen Sulfide	False	False	True	True	True
+C00284	C00284	False	True	False	True	False
+C00288	Bicarbonates	False	False	True	True	True
+C00294	Inosine	True	True	True	True	False
+C00295	Orotic Acid	True	True	True	True	False
+C00296	Quinic Acid	True	True	True	True	False
+C00299	Uridine	True	True	True	True	False
+C00300	Creatine	True	True	False	True	False
+C00305	C00305	False	True	False	True	False
+C00311	isocitric acid	True	True	True	True	False
+C00314	Pyridoxine	True	True	False	True	False
+C00315	Spermidine	False	False	True	True	True
+C00318	C00318	True	True	False	True	False
+C00320	trioxidosulfanidosulfate	False	False	True	True	True
+C00327	Citrulline	True	True	True	True	False
+C00330	Deoxyguanosine	False	False	True	True	True
+C00334	gamma-Aminobutyric Acid	False	False	True	True	True
+C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	False	False	True	True	True
+C00360	2'-deoxy-5'-adenosine monophosphate	False	False	True	True	True
+C00362	2'-deoxyguanosine 5'-phosphate	False	False	True	True	True
+C00364	Thymidine Monophosphate	False	False	True	True	True
+C00365	2'-deoxyuridylic acid	False	False	True	True	True
+C00366	Uric Acid	True	True	False	True	False
+C00369	Glycogen	False	False	True	True	True
+C00378	Thiamine	False	True	False	True	False
+C00380	Cytosine	False	False	True	True	True
+C00385	Xanthine	True	True	True	True	False
+C00387	Guanosine	True	True	True	True	False
+C00388	Histamine	True	True	False	True	False
+C00392	Mannitol	True	True	True	True	False
+C00396	C00396	True	True	False	True	False
+C00398	tryptamine	True	True	True	True	False
+C00402	D-Aspartic Acid	False	False	True	True	True
+C00407	Isoleucine	False	False	True	True	True
+C00408	C00408	True	True	False	True	False
+C00409	methylmercaptan	False	False	True	True	True
+C00417	Aconitic Acid	True	True	True	True	False
+C00418	Mevalonic Acid	True	True	True	True	False
+C00423	cinnamic acid	False	False	True	True	True
+C00429	dihydrouracil	True	True	True	True	False
+C00431	5-aminovaleric acid	False	False	True	True	True
+C00446	galactose-1-phosphate	False	False	True	True	True
+C00455	Nicotinamide Mononucleotide	True	True	True	True	False
+C00463	indole	False	False	True	True	True
+C00469	Ethanol	False	False	True	True	True
+C00475	Cytidine	True	True	True	True	False
+C00479	propionaldehyde	False	False	True	True	True
+C00483	Tyramine	True	True	True	True	False
+C00487	carnitinium	False	False	True	True	True
+C00488	formamide	False	False	True	True	True
+C00493	Shikimic Acid	False	False	True	True	True
+C00497	(R)-malic acid	False	False	True	True	True
+C00499	allantoic acid	False	False	True	True	True
+C00502	xylonic acid	False	False	True	True	True
+C00504	Folic Acid	False	False	True	True	True
+C00526	Deoxyuridine	True	True	True	True	False
+C00533	Nitric Oxide	False	False	True	True	True
+C00534	Pyridoxamine	True	True	False	True	False
+C00544	Homogentisic Acid	True	True	True	True	False
+C00546	Pyruvaldehyde	False	False	True	True	True
+C00559	2'-deoxyadenosine	True	True	True	True	False
+C00577	D-glyceraldehyde	False	False	True	True	True
+C00580	dimethyl sulfide	False	False	True	True	True
+C00601	phenylacetaldehyde	True	True	True	True	False
+C00624	N-acetylglutamic acid	True	True	True	True	False
+C00631	2-phospho-D-glyceric acid	True	True	True	True	False
+C00645	N-acetylmannosamine	False	False	True	True	True
+C00655	xanthosine monophosphate	False	False	True	True	True
+C00671	alpha-keto-beta-methylvaleric acid	True	True	True	True	False
+C00680	meso-2,6-diaminopimelic acid	False	False	True	True	True
+C00698	C00698	False	True	False	True	False
+C00719	Betaine	True	True	True	True	False
+C00739	D-lysine	False	False	True	True	True
+C00740	D-serine	False	False	True	True	True
+C00741	Diacetyl	False	False	True	True	True
+C00763	D-proline	False	False	True	True	True
+C00785	Urocanic Acid	False	False	True	True	True
+C00791	Creatinine	True	True	True	True	False
+C00792	D-arginine	False	False	True	True	True
+C00793	D-cysteine	False	False	True	True	True
+C00794	Sorbitol	True	True	True	True	False
+C00805	Salicylic Acid	True	True	True	True	False
+C00811	p-coumaric acid	False	False	True	True	True
+C00819	Glutamine	False	False	True	True	True
+C00820	D-threonine	False	False	True	True	True
+C00847	C00847	True	True	False	True	False
+C00864	Pantothenic Acid	True	True	True	True	False
+C00881	Deoxycytidine	True	True	True	True	False
+C00898	tartaric acid	False	False	True	True	True
+C00905	D-fructofuranuronic acid	False	False	True	True	True
+C00973	cyclomaltodextrin	False	False	True	True	True
+C00979	O-acetylserine	False	False	True	True	True
+C00986	trimethylenediamine	False	False	True	True	True
+C00993	alanylalanine	False	False	True	True	True
+C01004	C01004	True	True	False	True	False
+C01005	plasmenylserine	False	False	True	True	True
+C01013	hydracrylic acid	False	False	True	True	True
+C01017	C01017	True	True	False	True	False
+C01026	dimethylglycine	True	True	True	True	False
+C01035	gamma-guanidinobutyric acid	True	True	True	True	False
+C01040	L-gulono-1,4-lactone	True	True	True	True	False
+C01042	C01042	True	True	False	True	False
+C01073	C01073	True	True	False	True	False
+C01083	Trehalose	False	False	True	True	True
+C01089	(R)-3-hydroxybutyric acid	True	True	True	True	False
+C01181	gamma-butyrobetaine	True	True	False	True	False
+C01198	C01198	True	True	False	True	False
+C01330	C01330	False	True	False	True	False
+C01367	Adenosine Monophosphate	False	False	True	True	True
+C01368	3'-uridylic acid	False	False	True	True	True
+C01412	butyraldehyde	False	False	True	True	True
+C01417	cyanic acid	False	False	True	True	True
+C01419	cysteinylglycine	False	False	True	True	True
+C01438	Methane	False	False	True	True	True
+C01455	Toluene	False	False	True	True	True
+C01502	Guaiacol	True	True	True	True	False
+C01598	C01598	True	True	False	True	False
+C01672	Cadaverine	False	False	True	True	True
+C01674	N,N-diacetylchitobiose	False	False	True	True	True
+C01697	Galactitol	False	False	True	True	True
+C01717	C01717	True	True	False	True	False
+C01762	xanthosine	True	True	True	True	False
+C01877	C01877	True	True	False	True	False
+C01888	1-aminopropan-2-one	False	False	True	True	True
+C01929	histidinal	False	False	True	True	True
+C02265	D-phenylalanine	False	False	True	True	True
+C02294	C02294	True	True	False	True	False
+C02350	(S)-(+)-allantoin	True	True	True	True	False
+C02376	5-Methylcytosine	True	True	True	True	False
+C02494	C02494	True	True	False	True	False
+C02571	C02571	True	True	False	True	False
+C02630	alpha-hydroxyglutarate	True	True	True	True	False
+C02679	lauric acid	False	False	True	True	True
+C02693	indoleacetamide	True	True	True	True	False
+C02710	C02710	True	True	False	True	False
+C02713	N-acetylmuramic acid	False	False	True	True	True
+C02714	N-acetylputrescine	False	False	True	True	True
+C02835	C02835	True	True	False	True	False
+C02862	C02862	True	True	False	True	False
+C02946	4-acetamidobutanoic acid	True	True	False	True	False
+C02989	methionine sulfoxide	False	False	True	True	True
+C03017	C03017	True	True	False	True	False
+C03089	S-methyl-5-thio-D-ribofuranose	False	False	True	True	True
+C03137	C03137	True	True	False	True	False
+C03198	(S)-4-hydroxymandelic acid	False	False	True	True	True
+C03299	C03299	True	True	False	True	False
+C03406	Argininosuccinic Acid	False	False	True	True	True
+C03519	N-acetylphenylalanine	True	True	True	True	False
+C03589	4-hydroxy-2-oxovalerate	False	False	True	True	True
+C03722	Quinolinic Acid	True	True	True	True	False
+C03752	glucosaminic acid	False	False	True	True	True
+C03765	4-hydroxyphenylacetaldehyde	False	False	True	True	True
+C03793	C03793	True	True	False	True	False
+C05123	Isethionic Acid	False	False	True	True	True
+C05198	5'-deoxyadenosine	True	True	True	True	False
+C05512	deoxyinosine	False	False	True	True	True
+C05583	3-methoxy-4-hydroxyphenylglycolaldehyde	False	False	True	True	True
+C05584	Vanilmandelic Acid	True	True	False	True	False
+C05588	C05588	True	True	False	True	False
+C05629	3-phenylpropionic acid	False	False	True	True	True
+C05635	C05635	True	True	False	True	False
+C05643	C05643	True	True	False	True	False
+C05821	Enterobactin	False	False	True	True	True
+C05822	Cytidine Monophosphate	False	False	True	True	True
+C05984	(S)-2-hydroxybutyric acid	True	True	True	True	False
+C06193	3'-guanylic acid	False	False	True	True	True
+C06423	octanoic acid	False	False	True	True	True
+C06735	2-aminoacetaldehyde	False	False	True	True	True
+C06772	C06772	True	True	False	True	False
+C07086	phenylacetic acid	True	True	True	True	False
+C08362	palmitoleic acid	False	False	True	True	True
+C09332		False	False	True	True	True
+C11499	(S)-3-sulfonatolactate(2-)	False	False	True	True	True
+C11544	mannosylglycerate	False	False	True	True	True
+C11588	cis-3-(1-Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	False	False	True	True	True
+C12989	C12989	True	True	False	True	False
+C13563	C13563	False	True	False	True	False
+C13747	C13747	True	True	False	True	False
+C13881	C13881	False	True	False	True	False
+C14179	sulfoacetic acid	False	False	True	True	True
+C14695	C14695	False	True	False	True	False
+C14818	iron(2+)	False	True	False	True	False
+C14819	C14819	False	True	False	True	False
+C17530	methyl acetate	False	False	True	True	True
+C18237	C18237	False	True	False	True	False
+C20314	C20314	True	True	False	True	False
+C20640	C20640	True	True	False	True	False
+C20657	meso-butane-2,3-diol	False	False	True	True	True
+C20826	C20826	True	True	False	True	False
+C21173	phosphoethanolamine-Kdo2-lipid A	False	False	True	True	True

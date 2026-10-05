@@ -1,0 +1,1784 @@
+class	metabolite	name	producer	consumer
+Inorganics	C00011	Carbon Dioxide	pzu	pmor
+Inorganics	C00011	Carbon Dioxide	pzu	pscf
+Inorganics	C00011	Carbon Dioxide	pzu	mip
+Inorganics	C00011	Carbon Dioxide	buol	pmor
+Inorganics	C00011	Carbon Dioxide	buol	pscf
+Inorganics	C00011	Carbon Dioxide	buol	mip
+Inorganics	C00011	Carbon Dioxide	rfa	pmor
+Inorganics	C00011	Carbon Dioxide	rfa	pscf
+Inorganics	C00011	Carbon Dioxide	rfa	mip
+Inorganics	C00011	Carbon Dioxide	mgk	pmor
+Inorganics	C00011	Carbon Dioxide	mgk	pscf
+Inorganics	C00011	Carbon Dioxide	mgk	mip
+Inorganics	C00011	Carbon Dioxide	cohm	pmor
+Inorganics	C00011	Carbon Dioxide	cohm	pscf
+Inorganics	C00011	Carbon Dioxide	cohm	mip
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	bbet
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	mlot
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	vpe
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	lgu
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	pmor
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	pscf
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	cuvk
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	mip
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	cpi
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	pzu	flk
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	bbet
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	mlot
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	vpe
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	lgu
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	pmor
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	pscf
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	cuvk
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	mip
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	cpi
+Vitamins&Cofactors	C00016	Flavin-Adenine Dinucleotide	cxy	flk
+CarboxylicAcids	C00026	Ketoglutaric Acids	mlot	cauj
+CarboxylicAcids	C00026	Ketoglutaric Acids	mlot	vpe
+CarboxylicAcids	C00026	Ketoglutaric Acids	mlot	mip
+CarboxylicAcids	C00026	Ketoglutaric Acids	mlot	flk
+CarboxylicAcids	C00026	Ketoglutaric Acids	rfa	cauj
+CarboxylicAcids	C00026	Ketoglutaric Acids	rfa	vpe
+CarboxylicAcids	C00026	Ketoglutaric Acids	rfa	mip
+CarboxylicAcids	C00026	Ketoglutaric Acids	rfa	flk
+CarboxylicAcids	C00026	Ketoglutaric Acids	cohm	cauj
+CarboxylicAcids	C00026	Ketoglutaric Acids	cohm	vpe
+CarboxylicAcids	C00026	Ketoglutaric Acids	cohm	mip
+CarboxylicAcids	C00026	Ketoglutaric Acids	cohm	flk
+CarboxylicAcids	C00033	Acetic Acid	bbet	mlot
+CarboxylicAcids	C00033	Acetic Acid	bbet	tro
+CarboxylicAcids	C00033	Acetic Acid	bbet	lur
+CarboxylicAcids	C00033	Acetic Acid	cuvk	mlot
+CarboxylicAcids	C00033	Acetic Acid	cuvk	tro
+CarboxylicAcids	C00033	Acetic Acid	cuvk	lur
+CarboxylicAcids	C00033	Acetic Acid	rfa	mlot
+CarboxylicAcids	C00033	Acetic Acid	rfa	tro
+CarboxylicAcids	C00033	Acetic Acid	rfa	lur
+CarboxylicAcids	C00033	Acetic Acid	mgk	mlot
+CarboxylicAcids	C00033	Acetic Acid	mgk	tro
+CarboxylicAcids	C00033	Acetic Acid	mgk	lur
+CarboxylicAcids	C00033	Acetic Acid	cohm	mlot
+CarboxylicAcids	C00033	Acetic Acid	cohm	tro
+CarboxylicAcids	C00033	Acetic Acid	cohm	lur
+AminoAcids	C00037	Glycine	mlot	bbet
+AminoAcids	C00037	Glycine	mlot	pscf
+AminoAcids	C00037	Glycine	mlot	flk
+AminoAcids	C00037	Glycine	pmor	bbet
+AminoAcids	C00037	Glycine	pmor	pscf
+AminoAcids	C00037	Glycine	pmor	flk
+CarboxylicAcids	C00042	Succinic Acid	lur	cauj
+CarboxylicAcids	C00042	Succinic Acid	lur	pzu
+CarboxylicAcids	C00042	Succinic Acid	lur	tro
+CarboxylicAcids	C00042	Succinic Acid	lur	mip
+CarboxylicAcids	C00042	Succinic Acid	lur	flk
+CarboxylicAcids	C00042	Succinic Acid	lur	mgk
+CarboxylicAcids	C00042	Succinic Acid	cxy	cauj
+CarboxylicAcids	C00042	Succinic Acid	cxy	pzu
+CarboxylicAcids	C00042	Succinic Acid	cxy	tro
+CarboxylicAcids	C00042	Succinic Acid	cxy	mip
+CarboxylicAcids	C00042	Succinic Acid	cxy	flk
+CarboxylicAcids	C00042	Succinic Acid	cxy	mgk
+CarboxylicAcids	C00042	Succinic Acid	rfa	cauj
+CarboxylicAcids	C00042	Succinic Acid	rfa	pzu
+CarboxylicAcids	C00042	Succinic Acid	rfa	tro
+CarboxylicAcids	C00042	Succinic Acid	rfa	mip
+CarboxylicAcids	C00042	Succinic Acid	rfa	flk
+CarboxylicAcids	C00042	Succinic Acid	rfa	mgk
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	bbet
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	mlot
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	vpe
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	pmor
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	pscf
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	mip
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	pzu	cpi
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	bbet
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	mlot
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	vpe
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	pmor
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	pscf
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	mip
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	tro	cpi
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	bbet
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	mlot
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	vpe
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	pmor
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	pscf
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	mip
+Glycosides	C00043	Uridine Diphosphate N-Acetylglucosamine	buol	cpi
+AminoAcids	C00047	Lysine	dri	bbet
+AminoAcids	C00047	Lysine	dri	mip
+AminoAcids	C00047	Lysine	dri	flk
+AminoAcids	C00047	Lysine	mlot	bbet
+AminoAcids	C00047	Lysine	mlot	mip
+AminoAcids	C00047	Lysine	mlot	flk
+AminoAcids	C00047	Lysine	tro	bbet
+AminoAcids	C00047	Lysine	tro	mip
+AminoAcids	C00047	Lysine	tro	flk
+AminoAcids	C00047	Lysine	lgu	bbet
+AminoAcids	C00047	Lysine	lgu	mip
+AminoAcids	C00047	Lysine	lgu	flk
+AminoAcids	C00047	Lysine	pmor	bbet
+AminoAcids	C00047	Lysine	pmor	mip
+AminoAcids	C00047	Lysine	pmor	flk
+AminoAcids	C00047	Lysine	racd	bbet
+AminoAcids	C00047	Lysine	racd	mip
+AminoAcids	C00047	Lysine	racd	flk
+AminoAcids	C00047	Lysine	cpi	bbet
+AminoAcids	C00047	Lysine	cpi	mip
+AminoAcids	C00047	Lysine	cpi	flk
+Glycosides	C00055	Cytidine Monophosphate	cauj	bbet
+Glycosides	C00055	Cytidine Monophosphate	cauj	buol
+Glycosides	C00055	Cytidine Monophosphate	cauj	vpe
+Glycosides	C00055	Cytidine Monophosphate	cauj	pmor
+Glycosides	C00055	Cytidine Monophosphate	cauj	mip
+Glycosides	C00055	Cytidine Monophosphate	cauj	flk
+CarboxylicAcids	C00058	formic acid	cauj	tro
+CarboxylicAcids	C00058	formic acid	cauj	pmor
+CarboxylicAcids	C00058	formic acid	cauj	pscf
+CarboxylicAcids	C00058	formic acid	cauj	cxy
+CarboxylicAcids	C00058	formic acid	dri	tro
+CarboxylicAcids	C00058	formic acid	dri	pmor
+CarboxylicAcids	C00058	formic acid	dri	pscf
+CarboxylicAcids	C00058	formic acid	dri	cxy
+CarboxylicAcids	C00058	formic acid	buol	tro
+CarboxylicAcids	C00058	formic acid	buol	pmor
+CarboxylicAcids	C00058	formic acid	buol	pscf
+CarboxylicAcids	C00058	formic acid	buol	cxy
+CarboxylicAcids	C00058	formic acid	lgu	tro
+CarboxylicAcids	C00058	formic acid	lgu	pmor
+CarboxylicAcids	C00058	formic acid	lgu	pscf
+CarboxylicAcids	C00058	formic acid	lgu	cxy
+CarboxylicAcids	C00058	formic acid	lur	tro
+CarboxylicAcids	C00058	formic acid	lur	pmor
+CarboxylicAcids	C00058	formic acid	lur	pscf
+CarboxylicAcids	C00058	formic acid	lur	cxy
+CarboxylicAcids	C00058	formic acid	rfa	tro
+CarboxylicAcids	C00058	formic acid	rfa	pmor
+CarboxylicAcids	C00058	formic acid	rfa	pscf
+CarboxylicAcids	C00058	formic acid	rfa	cxy
+CarboxylicAcids	C00058	formic acid	cpi	tro
+CarboxylicAcids	C00058	formic acid	cpi	pmor
+CarboxylicAcids	C00058	formic acid	cpi	pscf
+CarboxylicAcids	C00058	formic acid	cpi	cxy
+CarboxylicAcids	C00058	formic acid	mgk	tro
+CarboxylicAcids	C00058	formic acid	mgk	pmor
+CarboxylicAcids	C00058	formic acid	mgk	pscf
+CarboxylicAcids	C00058	formic acid	mgk	cxy
+CarboxylicAcids	C00058	formic acid	cohm	tro
+CarboxylicAcids	C00058	formic acid	cohm	pmor
+CarboxylicAcids	C00058	formic acid	cohm	pscf
+CarboxylicAcids	C00058	formic acid	cohm	cxy
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	bbet
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	mlot
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	vpe
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	pmor
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	pscf
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	cuvk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	mip
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	flk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	pzu	mgk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	bbet
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	mlot
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	vpe
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	pmor
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	pscf
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	cuvk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	mip
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	flk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	buol	mgk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	bbet
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	mlot
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	vpe
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	pmor
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	pscf
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	cuvk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	mip
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	flk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cxy	mgk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	bbet
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	mlot
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	vpe
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	pmor
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	pscf
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	cuvk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	mip
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	flk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	rfa	mgk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	bbet
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	mlot
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	vpe
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	pmor
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	pscf
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	cuvk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	mip
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	flk
+Vitamins&Cofactors	C00061	Flavin Mononucleotide	cohm	mgk
+Aldehydes	C00067	Formaldehyde	dri	bbet
+Aldehydes	C00067	Formaldehyde	dri	vpe
+Aldehydes	C00067	Formaldehyde	dri	pmor
+Aldehydes	C00067	Formaldehyde	dri	racd
+Aldehydes	C00067	Formaldehyde	pzu	bbet
+Aldehydes	C00067	Formaldehyde	pzu	vpe
+Aldehydes	C00067	Formaldehyde	pzu	pmor
+Aldehydes	C00067	Formaldehyde	pzu	racd
+Aldehydes	C00067	Formaldehyde	lgu	bbet
+Aldehydes	C00067	Formaldehyde	lgu	vpe
+Aldehydes	C00067	Formaldehyde	lgu	pmor
+Aldehydes	C00067	Formaldehyde	lgu	racd
+Aldehydes	C00067	Formaldehyde	lur	bbet
+Aldehydes	C00067	Formaldehyde	lur	vpe
+Aldehydes	C00067	Formaldehyde	lur	pmor
+Aldehydes	C00067	Formaldehyde	lur	racd
+Aldehydes	C00067	Formaldehyde	mgk	bbet
+Aldehydes	C00067	Formaldehyde	mgk	vpe
+Aldehydes	C00067	Formaldehyde	mgk	pmor
+Aldehydes	C00067	Formaldehyde	mgk	racd
+Aldehydes	C00067	Formaldehyde	cohm	bbet
+Aldehydes	C00067	Formaldehyde	cohm	vpe
+Aldehydes	C00067	Formaldehyde	cohm	pmor
+Aldehydes	C00067	Formaldehyde	cohm	racd
+AminoAcids	C00077	Ornithine	mlot	bbet
+AminoAcids	C00077	Ornithine	mlot	cuvk
+AminoAcids	C00077	Ornithine	mlot	flk
+AminoAcids	C00077	Ornithine	mlot	cohm
+AminoAcids	C00078	Tryptophan	cauj	bbet
+AminoAcids	C00078	Tryptophan	cauj	vpe
+AminoAcids	C00078	Tryptophan	cauj	pmor
+AminoAcids	C00078	Tryptophan	cauj	mip
+AminoAcids	C00078	Tryptophan	cauj	flk
+AminoAcids	C00078	Tryptophan	dri	bbet
+AminoAcids	C00078	Tryptophan	dri	vpe
+AminoAcids	C00078	Tryptophan	dri	pmor
+AminoAcids	C00078	Tryptophan	dri	mip
+AminoAcids	C00078	Tryptophan	dri	flk
+AminoAcids	C00078	Tryptophan	pzu	bbet
+AminoAcids	C00078	Tryptophan	pzu	vpe
+AminoAcids	C00078	Tryptophan	pzu	pmor
+AminoAcids	C00078	Tryptophan	pzu	mip
+AminoAcids	C00078	Tryptophan	pzu	flk
+AminoAcids	C00078	Tryptophan	tro	bbet
+AminoAcids	C00078	Tryptophan	tro	vpe
+AminoAcids	C00078	Tryptophan	tro	pmor
+AminoAcids	C00078	Tryptophan	tro	mip
+AminoAcids	C00078	Tryptophan	tro	flk
+AminoAcids	C00078	Tryptophan	cuvk	bbet
+AminoAcids	C00078	Tryptophan	cuvk	vpe
+AminoAcids	C00078	Tryptophan	cuvk	pmor
+AminoAcids	C00078	Tryptophan	cuvk	mip
+AminoAcids	C00078	Tryptophan	cuvk	flk
+AminoAcids	C00078	Tryptophan	cxy	bbet
+AminoAcids	C00078	Tryptophan	cxy	vpe
+AminoAcids	C00078	Tryptophan	cxy	pmor
+AminoAcids	C00078	Tryptophan	cxy	mip
+AminoAcids	C00078	Tryptophan	cxy	flk
+AminoAcids	C00078	Tryptophan	rfa	bbet
+AminoAcids	C00078	Tryptophan	rfa	vpe
+AminoAcids	C00078	Tryptophan	rfa	pmor
+AminoAcids	C00078	Tryptophan	rfa	mip
+AminoAcids	C00078	Tryptophan	rfa	flk
+AminoAcids	C00078	Tryptophan	mgk	bbet
+AminoAcids	C00078	Tryptophan	mgk	vpe
+AminoAcids	C00078	Tryptophan	mgk	pmor
+AminoAcids	C00078	Tryptophan	mgk	mip
+AminoAcids	C00078	Tryptophan	mgk	flk
+AminoAcids	C00078	Tryptophan	cohm	bbet
+AminoAcids	C00078	Tryptophan	cohm	vpe
+AminoAcids	C00078	Tryptophan	cohm	pmor
+AminoAcids	C00078	Tryptophan	cohm	mip
+AminoAcids	C00078	Tryptophan	cohm	flk
+Aldehydes	C00084	Acetaldehyde	pmor	tro
+Aldehydes	C00084	Acetaldehyde	pmor	lur
+Aldehydes	C00084	Acetaldehyde	pmor	pscf
+Aldehydes	C00084	Acetaldehyde	rfa	tro
+Aldehydes	C00084	Acetaldehyde	rfa	lur
+Aldehydes	C00084	Acetaldehyde	rfa	pscf
+Aldehydes	C00084	Acetaldehyde	cohm	tro
+Aldehydes	C00084	Acetaldehyde	cohm	lur
+Aldehydes	C00084	Acetaldehyde	cohm	pscf
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	bbet
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	mlot
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	vpe
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	lur
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	pmor
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	pscf
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	cxy
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	mip
+Sugars	C00085	D-fructofuranose 6-phosphate	rfa	flk
+Amides	C00086	Urea	pzu	lgu
+Amides	C00086	Urea	pzu	lur
+Amides	C00086	Urea	pzu	racd
+Amides	C00086	Urea	pzu	mip
+Amides	C00086	Urea	pzu	flk
+Amides	C00086	Urea	pzu	mgk
+Sugars	C00092	D-glucopyranose 6-phosphate	dri	pmor
+Sugars	C00092	D-glucopyranose 6-phosphate	dri	pscf
+Sugars	C00092	D-glucopyranose 6-phosphate	dri	mip
+Sugars	C00092	D-glucopyranose 6-phosphate	dri	flk
+Sugars	C00092	D-glucopyranose 6-phosphate	pzu	pmor
+Sugars	C00092	D-glucopyranose 6-phosphate	pzu	pscf
+Sugars	C00092	D-glucopyranose 6-phosphate	pzu	mip
+Sugars	C00092	D-glucopyranose 6-phosphate	pzu	flk
+Sugars	C00092	D-glucopyranose 6-phosphate	tro	pmor
+Sugars	C00092	D-glucopyranose 6-phosphate	tro	pscf
+Sugars	C00092	D-glucopyranose 6-phosphate	tro	mip
+Sugars	C00092	D-glucopyranose 6-phosphate	tro	flk
+Sugars	C00092	D-glucopyranose 6-phosphate	rfa	pmor
+Sugars	C00092	D-glucopyranose 6-phosphate	rfa	pscf
+Sugars	C00092	D-glucopyranose 6-phosphate	rfa	mip
+Sugars	C00092	D-glucopyranose 6-phosphate	rfa	flk
+Sugars	C00095	D-fructofuranose	dri	bbet
+Sugars	C00095	D-fructofuranose	dri	mlot
+Sugars	C00095	D-fructofuranose	dri	vpe
+Sugars	C00095	D-fructofuranose	dri	lur
+Sugars	C00095	D-fructofuranose	dri	pscf
+Sugars	C00095	D-fructofuranose	dri	flk
+Sugars	C00095	D-fructofuranose	tro	bbet
+Sugars	C00095	D-fructofuranose	tro	mlot
+Sugars	C00095	D-fructofuranose	tro	vpe
+Sugars	C00095	D-fructofuranose	tro	lur
+Sugars	C00095	D-fructofuranose	tro	pscf
+Sugars	C00095	D-fructofuranose	tro	flk
+Sugars	C00095	D-fructofuranose	pmor	bbet
+Sugars	C00095	D-fructofuranose	pmor	mlot
+Sugars	C00095	D-fructofuranose	pmor	vpe
+Sugars	C00095	D-fructofuranose	pmor	lur
+Sugars	C00095	D-fructofuranose	pmor	pscf
+Sugars	C00095	D-fructofuranose	pmor	flk
+Sugars	C00095	D-fructofuranose	racd	bbet
+Sugars	C00095	D-fructofuranose	racd	mlot
+Sugars	C00095	D-fructofuranose	racd	vpe
+Sugars	C00095	D-fructofuranose	racd	lur
+Sugars	C00095	D-fructofuranose	racd	pscf
+Sugars	C00095	D-fructofuranose	racd	flk
+Sugars	C00095	D-fructofuranose	cxy	bbet
+Sugars	C00095	D-fructofuranose	cxy	mlot
+Sugars	C00095	D-fructofuranose	cxy	vpe
+Sugars	C00095	D-fructofuranose	cxy	lur
+Sugars	C00095	D-fructofuranose	cxy	pscf
+Sugars	C00095	D-fructofuranose	cxy	flk
+Sugars	C00103	glucose-1-phosphate	cauj	pmor
+Sugars	C00103	glucose-1-phosphate	cauj	mip
+Sugars	C00103	glucose-1-phosphate	cauj	flk
+Sugars	C00103	glucose-1-phosphate	dri	pmor
+Sugars	C00103	glucose-1-phosphate	dri	mip
+Sugars	C00103	glucose-1-phosphate	dri	flk
+Sugars	C00103	glucose-1-phosphate	pzu	pmor
+Sugars	C00103	glucose-1-phosphate	pzu	mip
+Sugars	C00103	glucose-1-phosphate	pzu	flk
+Sugars	C00103	glucose-1-phosphate	tro	pmor
+Sugars	C00103	glucose-1-phosphate	tro	mip
+Sugars	C00103	glucose-1-phosphate	tro	flk
+Sugars	C00103	glucose-1-phosphate	buol	pmor
+Sugars	C00103	glucose-1-phosphate	buol	mip
+Sugars	C00103	glucose-1-phosphate	buol	flk
+Sugars	C00103	glucose-1-phosphate	lgu	pmor
+Sugars	C00103	glucose-1-phosphate	lgu	mip
+Sugars	C00103	glucose-1-phosphate	lgu	flk
+Sugars	C00103	glucose-1-phosphate	cuvk	pmor
+Sugars	C00103	glucose-1-phosphate	cuvk	mip
+Sugars	C00103	glucose-1-phosphate	cuvk	flk
+Sugars	C00103	glucose-1-phosphate	rfa	pmor
+Sugars	C00103	glucose-1-phosphate	rfa	mip
+Sugars	C00103	glucose-1-phosphate	rfa	flk
+Sugars	C00103	glucose-1-phosphate	cpi	pmor
+Sugars	C00103	glucose-1-phosphate	cpi	mip
+Sugars	C00103	glucose-1-phosphate	cpi	flk
+Sugars	C00103	glucose-1-phosphate	mgk	pmor
+Sugars	C00103	glucose-1-phosphate	mgk	mip
+Sugars	C00103	glucose-1-phosphate	mgk	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cauj	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cauj	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cauj	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cauj	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	dri	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	dri	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	dri	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	dri	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	pzu	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	pzu	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	pzu	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	pzu	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	tro	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	tro	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	tro	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	tro	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	lgu	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	lgu	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	lgu	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	lgu	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cuvk	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cuvk	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cuvk	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cuvk	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	rfa	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	rfa	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	rfa	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	rfa	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	mgk	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	mgk	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	mgk	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	mgk	flk
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cohm	vpe
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cohm	lur
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cohm	mip
+CarboxylicAcids	C00109	alpha-ketobutyric acid	cohm	flk
+Sugars	C00121	D-ribofuranose	rfa	bbet
+Sugars	C00121	D-ribofuranose	rfa	dri
+Sugars	C00121	D-ribofuranose	rfa	mlot
+Sugars	C00121	D-ribofuranose	rfa	tro
+Sugars	C00121	D-ribofuranose	rfa	vpe
+Sugars	C00121	D-ribofuranose	rfa	lur
+Sugars	C00121	D-ribofuranose	rfa	pmor
+Sugars	C00121	D-ribofuranose	rfa	pscf
+Sugars	C00121	D-ribofuranose	rfa	mip
+CarboxylicAcids	C00122	fumaric acid	mlot	bbet
+CarboxylicAcids	C00122	fumaric acid	mlot	cauj
+CarboxylicAcids	C00122	fumaric acid	mlot	pzu
+CarboxylicAcids	C00122	fumaric acid	mlot	vpe
+CarboxylicAcids	C00122	fumaric acid	mlot	mip
+CarboxylicAcids	C00122	fumaric acid	mlot	flk
+CarboxylicAcids	C00122	fumaric acid	racd	bbet
+CarboxylicAcids	C00122	fumaric acid	racd	cauj
+CarboxylicAcids	C00122	fumaric acid	racd	pzu
+CarboxylicAcids	C00122	fumaric acid	racd	vpe
+CarboxylicAcids	C00122	fumaric acid	racd	mip
+CarboxylicAcids	C00122	fumaric acid	racd	flk
+CarboxylicAcids	C00122	fumaric acid	rfa	bbet
+CarboxylicAcids	C00122	fumaric acid	rfa	cauj
+CarboxylicAcids	C00122	fumaric acid	rfa	pzu
+CarboxylicAcids	C00122	fumaric acid	rfa	vpe
+CarboxylicAcids	C00122	fumaric acid	rfa	mip
+CarboxylicAcids	C00122	fumaric acid	rfa	flk
+AminoAcids	C00133	D-alanine	dri	pscf
+AminoAcids	C00133	D-alanine	dri	flk
+AminoAcids	C00133	D-alanine	mlot	pscf
+AminoAcids	C00133	D-alanine	mlot	flk
+AminoAcids	C00133	D-alanine	pmor	pscf
+AminoAcids	C00133	D-alanine	pmor	flk
+AminoAcids	C00133	D-alanine	rfa	pscf
+AminoAcids	C00133	D-alanine	rfa	flk
+Amines	C00134	Putrescine	cauj	mip
+Amines	C00134	Putrescine	cauj	flk
+Amines	C00134	Putrescine	dri	mip
+Amines	C00134	Putrescine	dri	flk
+Amines	C00134	Putrescine	pzu	mip
+Amines	C00134	Putrescine	pzu	flk
+Amines	C00134	Putrescine	tro	mip
+Amines	C00134	Putrescine	tro	flk
+Amines	C00134	Putrescine	buol	mip
+Amines	C00134	Putrescine	buol	flk
+Amines	C00134	Putrescine	cuvk	mip
+Amines	C00134	Putrescine	cuvk	flk
+Amines	C00134	Putrescine	cxy	mip
+Amines	C00134	Putrescine	cxy	flk
+Amines	C00134	Putrescine	rfa	mip
+Amines	C00134	Putrescine	rfa	flk
+Amines	C00134	Putrescine	cpi	mip
+Amines	C00134	Putrescine	cpi	flk
+Amines	C00134	Putrescine	mgk	mip
+Amines	C00134	Putrescine	mgk	flk
+Amines	C00134	Putrescine	cohm	mip
+Amines	C00134	Putrescine	cohm	flk
+Sugars	C00140	Acetylglucosamine	lgu	dri
+Sugars	C00140	Acetylglucosamine	lgu	mlot
+Sugars	C00140	Acetylglucosamine	lgu	vpe
+Sugars	C00140	Acetylglucosamine	lgu	pscf
+Sugars	C00140	Acetylglucosamine	lgu	cuvk
+Hydrocarbons	C00146	Phenol	cpi	bbet
+Hydrocarbons	C00146	Phenol	cpi	cauj
+Hydrocarbons	C00146	Phenol	cpi	tro
+Hydrocarbons	C00146	Phenol	cpi	buol
+Hydrocarbons	C00146	Phenol	cpi	pmor
+Hydrocarbons	C00146	Phenol	cpi	racd
+Hydrocarbons	C00146	Phenol	cpi	cohm
+Hydrocarbons	C00146	Phenol	mgk	bbet
+Hydrocarbons	C00146	Phenol	mgk	cauj
+Hydrocarbons	C00146	Phenol	mgk	tro
+Hydrocarbons	C00146	Phenol	mgk	buol
+Hydrocarbons	C00146	Phenol	mgk	pmor
+Hydrocarbons	C00146	Phenol	mgk	racd
+Hydrocarbons	C00146	Phenol	mgk	cohm
+CarboxylicAcids	C00160	glycolic acid	rfa	cauj
+CarboxylicAcids	C00160	glycolic acid	rfa	tro
+CarboxylicAcids	C00160	glycolic acid	rfa	lur
+CarboxylicAcids	C00160	glycolic acid	rfa	pscf
+CarboxylicAcids	C00160	glycolic acid	rfa	flk
+CarboxylicAcids	C00160	glycolic acid	mgk	cauj
+CarboxylicAcids	C00160	glycolic acid	mgk	tro
+CarboxylicAcids	C00160	glycolic acid	mgk	lur
+CarboxylicAcids	C00160	glycolic acid	mgk	pscf
+CarboxylicAcids	C00160	glycolic acid	mgk	flk
+CarboxylicAcids	C00160	glycolic acid	cohm	cauj
+CarboxylicAcids	C00160	glycolic acid	cohm	tro
+CarboxylicAcids	C00160	glycolic acid	cohm	lur
+CarboxylicAcids	C00160	glycolic acid	cohm	pscf
+CarboxylicAcids	C00160	glycolic acid	cohm	flk
+CarboxylicAcids	C00163	propionic acid	buol	cauj
+CarboxylicAcids	C00163	propionic acid	buol	dri
+CarboxylicAcids	C00163	propionic acid	buol	pzu
+CarboxylicAcids	C00163	propionic acid	buol	tro
+CarboxylicAcids	C00163	propionic acid	buol	vpe
+CarboxylicAcids	C00163	propionic acid	buol	lgu
+CarboxylicAcids	C00163	propionic acid	buol	lur
+CarboxylicAcids	C00163	propionic acid	buol	racd
+CarboxylicAcids	C00163	propionic acid	buol	cxy
+CarboxylicAcids	C00163	propionic acid	buol	mip
+CarboxylicAcids	C00163	propionic acid	buol	rfa
+CarboxylicAcids	C00163	propionic acid	buol	cpi
+CarboxylicAcids	C00163	propionic acid	buol	flk
+CarboxylicAcids	C00163	propionic acid	buol	mgk
+CarboxylicAcids	C00164	acetoacetic acid	racd	bbet
+CarboxylicAcids	C00164	acetoacetic acid	racd	tro
+CarboxylicAcids	C00164	acetoacetic acid	racd	vpe
+CarboxylicAcids	C00164	acetoacetic acid	racd	lur
+CarboxylicAcids	C00164	acetoacetic acid	racd	pmor
+CarboxylicAcids	C00164	acetoacetic acid	racd	mip
+CarboxylicAcids	C00164	acetoacetic acid	racd	flk
+CarboxylicAcids	C00164	acetoacetic acid	rfa	bbet
+CarboxylicAcids	C00164	acetoacetic acid	rfa	tro
+CarboxylicAcids	C00164	acetoacetic acid	rfa	vpe
+CarboxylicAcids	C00164	acetoacetic acid	rfa	lur
+CarboxylicAcids	C00164	acetoacetic acid	rfa	pmor
+CarboxylicAcids	C00164	acetoacetic acid	rfa	mip
+CarboxylicAcids	C00164	acetoacetic acid	rfa	flk
+CarboxylicAcids	C00164	acetoacetic acid	cohm	bbet
+CarboxylicAcids	C00164	acetoacetic acid	cohm	tro
+CarboxylicAcids	C00164	acetoacetic acid	cohm	vpe
+CarboxylicAcids	C00164	acetoacetic acid	cohm	lur
+CarboxylicAcids	C00164	acetoacetic acid	cohm	pmor
+CarboxylicAcids	C00164	acetoacetic acid	cohm	mip
+CarboxylicAcids	C00164	acetoacetic acid	cohm	flk
+HeterocyclicCompounds	C00178	Thymine	dri	bbet
+HeterocyclicCompounds	C00178	Thymine	dri	cauj
+HeterocyclicCompounds	C00178	Thymine	dri	tro
+HeterocyclicCompounds	C00178	Thymine	dri	pmor
+HeterocyclicCompounds	C00178	Thymine	dri	cpi
+HeterocyclicCompounds	C00178	Thymine	buol	bbet
+HeterocyclicCompounds	C00178	Thymine	buol	cauj
+HeterocyclicCompounds	C00178	Thymine	buol	tro
+HeterocyclicCompounds	C00178	Thymine	buol	pmor
+HeterocyclicCompounds	C00178	Thymine	buol	cpi
+HeterocyclicCompounds	C00178	Thymine	lgu	bbet
+HeterocyclicCompounds	C00178	Thymine	lgu	cauj
+HeterocyclicCompounds	C00178	Thymine	lgu	tro
+HeterocyclicCompounds	C00178	Thymine	lgu	pmor
+HeterocyclicCompounds	C00178	Thymine	lgu	cpi
+HeterocyclicCompounds	C00178	Thymine	racd	bbet
+HeterocyclicCompounds	C00178	Thymine	racd	cauj
+HeterocyclicCompounds	C00178	Thymine	racd	tro
+HeterocyclicCompounds	C00178	Thymine	racd	pmor
+HeterocyclicCompounds	C00178	Thymine	racd	cpi
+HeterocyclicCompounds	C00178	Thymine	cuvk	bbet
+HeterocyclicCompounds	C00178	Thymine	cuvk	cauj
+HeterocyclicCompounds	C00178	Thymine	cuvk	tro
+HeterocyclicCompounds	C00178	Thymine	cuvk	pmor
+HeterocyclicCompounds	C00178	Thymine	cuvk	cpi
+HeterocyclicCompounds	C00178	Thymine	cxy	bbet
+HeterocyclicCompounds	C00178	Thymine	cxy	cauj
+HeterocyclicCompounds	C00178	Thymine	cxy	tro
+HeterocyclicCompounds	C00178	Thymine	cxy	pmor
+HeterocyclicCompounds	C00178	Thymine	cxy	cpi
+HeterocyclicCompounds	C00178	Thymine	rfa	bbet
+HeterocyclicCompounds	C00178	Thymine	rfa	cauj
+HeterocyclicCompounds	C00178	Thymine	rfa	tro
+HeterocyclicCompounds	C00178	Thymine	rfa	pmor
+HeterocyclicCompounds	C00178	Thymine	rfa	cpi
+Amidines	C00179	Agmatine	lgu	bbet
+Amidines	C00179	Agmatine	lgu	mlot
+Amidines	C00179	Agmatine	lgu	tro
+Amidines	C00179	Agmatine	lgu	mip
+Amidines	C00179	Agmatine	lgu	mgk
+Amidines	C00179	Agmatine	lgu	cohm
+Amidines	C00179	Agmatine	rfa	bbet
+Amidines	C00179	Agmatine	rfa	mlot
+Amidines	C00179	Agmatine	rfa	tro
+Amidines	C00179	Agmatine	rfa	mip
+Amidines	C00179	Agmatine	rfa	mgk
+Amidines	C00179	Agmatine	rfa	cohm
+Amidines	C00179	Agmatine	cpi	bbet
+Amidines	C00179	Agmatine	cpi	mlot
+Amidines	C00179	Agmatine	cpi	tro
+Amidines	C00179	Agmatine	cpi	mip
+Amidines	C00179	Agmatine	cpi	mgk
+Amidines	C00179	Agmatine	cpi	cohm
+Sugars	C00181	xylopyranose	cuvk	bbet
+Sugars	C00181	xylopyranose	cuvk	mlot
+Sugars	C00181	xylopyranose	cuvk	buol
+Sugars	C00181	xylopyranose	cuvk	lur
+Sugars	C00181	xylopyranose	cuvk	pmor
+Sugars	C00181	xylopyranose	cuvk	pscf
+Sugars	C00181	xylopyranose	cuvk	racd
+Sugars	C00181	xylopyranose	cuvk	cxy
+Sugars	C00181	xylopyranose	cuvk	mip
+AminoAcids	C00183	Valine	cauj	flk
+AminoAcids	C00183	Valine	dri	flk
+AminoAcids	C00183	Valine	pzu	flk
+AminoAcids	C00183	Valine	tro	flk
+AminoAcids	C00183	Valine	buol	flk
+AminoAcids	C00183	Valine	lgu	flk
+AminoAcids	C00183	Valine	lur	flk
+AminoAcids	C00183	Valine	pmor	flk
+AminoAcids	C00183	Valine	cuvk	flk
+AminoAcids	C00183	Valine	cxy	flk
+AminoAcids	C00183	Valine	cohm	flk
+Sugars	C00184	Dihydroxyacetone	cauj	mlot
+Sugars	C00184	Dihydroxyacetone	cauj	flk
+Sugars	C00184	Dihydroxyacetone	dri	mlot
+Sugars	C00184	Dihydroxyacetone	dri	flk
+Sugars	C00184	Dihydroxyacetone	pzu	mlot
+Sugars	C00184	Dihydroxyacetone	pzu	flk
+Sugars	C00184	Dihydroxyacetone	tro	mlot
+Sugars	C00184	Dihydroxyacetone	tro	flk
+Sugars	C00184	Dihydroxyacetone	buol	mlot
+Sugars	C00184	Dihydroxyacetone	buol	flk
+Sugars	C00184	Dihydroxyacetone	rfa	mlot
+Sugars	C00184	Dihydroxyacetone	rfa	flk
+Sugars	C00184	Dihydroxyacetone	mgk	mlot
+Sugars	C00184	Dihydroxyacetone	mgk	flk
+Sugars	C00185	Cellobiose	dri	lur
+Sugars	C00185	Cellobiose	dri	mip
+Sugars	C00185	Cellobiose	dri	flk
+Sugars	C00185	Cellobiose	pzu	lur
+Sugars	C00185	Cellobiose	pzu	mip
+Sugars	C00185	Cellobiose	pzu	flk
+Sugars	C00185	Cellobiose	tro	lur
+Sugars	C00185	Cellobiose	tro	mip
+Sugars	C00185	Cellobiose	tro	flk
+Sugars	C00185	Cellobiose	cpi	lur
+Sugars	C00185	Cellobiose	cpi	mip
+Sugars	C00185	Cellobiose	cpi	flk
+Sugars	C00185	Cellobiose	cohm	lur
+Sugars	C00185	Cellobiose	cohm	mip
+Sugars	C00185	Cellobiose	cohm	flk
+CarboxylicAcids	C00186	Lactic Acid	cuvk	dri
+CarboxylicAcids	C00186	Lactic Acid	cuvk	lur
+CarboxylicAcids	C00186	Lactic Acid	cuvk	pscf
+CarboxylicAcids	C00186	Lactic Acid	cuvk	flk
+CarboxylicAcids	C00186	Lactic Acid	rfa	dri
+CarboxylicAcids	C00186	Lactic Acid	rfa	lur
+CarboxylicAcids	C00186	Lactic Acid	rfa	pscf
+CarboxylicAcids	C00186	Lactic Acid	rfa	flk
+AminoAcids	C00188	Threonine	cauj	bbet
+AminoAcids	C00188	Threonine	cauj	flk
+AminoAcids	C00188	Threonine	dri	bbet
+AminoAcids	C00188	Threonine	dri	flk
+AminoAcids	C00188	Threonine	tro	bbet
+AminoAcids	C00188	Threonine	tro	flk
+AminoAcids	C00188	Threonine	vpe	bbet
+AminoAcids	C00188	Threonine	vpe	flk
+AminoAcids	C00188	Threonine	lur	bbet
+AminoAcids	C00188	Threonine	lur	flk
+AminoAcids	C00188	Threonine	pmor	bbet
+AminoAcids	C00188	Threonine	pmor	flk
+AminoAcids	C00188	Threonine	cuvk	bbet
+AminoAcids	C00188	Threonine	cuvk	flk
+AminoAcids	C00188	Threonine	cxy	bbet
+AminoAcids	C00188	Threonine	cxy	flk
+AminoAcids	C00188	Threonine	rfa	bbet
+AminoAcids	C00188	Threonine	rfa	flk
+AminoAcids	C00188	Threonine	cohm	bbet
+AminoAcids	C00188	Threonine	cohm	flk
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	bbet
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	tro
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	vpe
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	lgu
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	lur
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	pmor
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	cxy
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	mip
+Sugars	C00198	beta-glucono-1,5-lactone	pzu	flk
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	pzu	bbet
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	pzu	mlot
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	pzu	pmor
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	pzu	cpi
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	tro	bbet
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	tro	mlot
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	tro	pmor
+Glycosides	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	tro	cpi
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	bbet
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	lgu
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	lur
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	pmor
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	cxy
+Sugars	C00204	2-keto-3-deoxygluconate	pzu	flk
+Sugars	C00204	2-keto-3-deoxygluconate	tro	bbet
+Sugars	C00204	2-keto-3-deoxygluconate	tro	lgu
+Sugars	C00204	2-keto-3-deoxygluconate	tro	lur
+Sugars	C00204	2-keto-3-deoxygluconate	tro	pmor
+Sugars	C00204	2-keto-3-deoxygluconate	tro	cxy
+Sugars	C00204	2-keto-3-deoxygluconate	tro	flk
+Ketones	C00207	Acetone	cuvk	bbet
+Ketones	C00207	Acetone	cuvk	tro
+Ketones	C00207	Acetone	cuvk	pmor
+Ketones	C00207	Acetone	cuvk	rfa
+Sugars	C00208	Maltose	pzu	bbet
+Sugars	C00208	Maltose	pzu	mlot
+Sugars	C00208	Maltose	pzu	tro
+Sugars	C00208	Maltose	pzu	vpe
+Sugars	C00208	Maltose	pzu	lgu
+Sugars	C00208	Maltose	pzu	lur
+Sugars	C00208	Maltose	pzu	pmor
+Sugars	C00208	Maltose	pzu	pscf
+Sugars	C00208	Maltose	pzu	cxy
+Sugars	C00208	Maltose	pzu	mip
+Sugars	C00208	Maltose	pzu	flk
+Sugars	C00208	Maltose	pzu	cohm
+Inorganics	C00237	Carbon Monoxide	mgk	bbet
+Inorganics	C00237	Carbon Monoxide	mgk	lgu
+Glycosides	C00239	Deoxycytidine Monophosphate	cauj	bbet
+Glycosides	C00239	Deoxycytidine Monophosphate	cauj	vpe
+Glycosides	C00239	Deoxycytidine Monophosphate	cauj	mip
+Glycosides	C00239	Deoxycytidine Monophosphate	cauj	flk
+Glycosides	C00239	Deoxycytidine Monophosphate	mlot	bbet
+Glycosides	C00239	Deoxycytidine Monophosphate	mlot	vpe
+Glycosides	C00239	Deoxycytidine Monophosphate	mlot	mip
+Glycosides	C00239	Deoxycytidine Monophosphate	mlot	flk
+CarboxylicAcids	C00246	Butyric Acid	pzu	dri
+CarboxylicAcids	C00246	Butyric Acid	pzu	tro
+CarboxylicAcids	C00246	Butyric Acid	pzu	racd
+CarboxylicAcids	C00246	Butyric Acid	pzu	cuvk
+CarboxylicAcids	C00246	Butyric Acid	pzu	cxy
+CarboxylicAcids	C00246	Butyric Acid	pzu	flk
+CarboxylicAcids	C00246	Butyric Acid	lur	dri
+CarboxylicAcids	C00246	Butyric Acid	lur	tro
+CarboxylicAcids	C00246	Butyric Acid	lur	racd
+CarboxylicAcids	C00246	Butyric Acid	lur	cuvk
+CarboxylicAcids	C00246	Butyric Acid	lur	cxy
+CarboxylicAcids	C00246	Butyric Acid	lur	flk
+CarboxylicAcids	C00246	Butyric Acid	pmor	dri
+CarboxylicAcids	C00246	Butyric Acid	pmor	tro
+CarboxylicAcids	C00246	Butyric Acid	pmor	racd
+CarboxylicAcids	C00246	Butyric Acid	pmor	cuvk
+CarboxylicAcids	C00246	Butyric Acid	pmor	cxy
+CarboxylicAcids	C00246	Butyric Acid	pmor	flk
+CarboxylicAcids	C00246	Butyric Acid	rfa	dri
+CarboxylicAcids	C00246	Butyric Acid	rfa	tro
+CarboxylicAcids	C00246	Butyric Acid	rfa	racd
+CarboxylicAcids	C00246	Butyric Acid	rfa	cuvk
+CarboxylicAcids	C00246	Butyric Acid	rfa	cxy
+CarboxylicAcids	C00246	Butyric Acid	rfa	flk
+CarboxylicAcids	C00246	Butyric Acid	mgk	dri
+CarboxylicAcids	C00246	Butyric Acid	mgk	tro
+CarboxylicAcids	C00246	Butyric Acid	mgk	racd
+CarboxylicAcids	C00246	Butyric Acid	mgk	cuvk
+CarboxylicAcids	C00246	Butyric Acid	mgk	cxy
+CarboxylicAcids	C00246	Butyric Acid	mgk	flk
+Vitamins&Cofactors	C00250	Pyridoxal	pzu	bbet
+Vitamins&Cofactors	C00250	Pyridoxal	pzu	pmor
+Vitamins&Cofactors	C00250	Pyridoxal	lur	bbet
+Vitamins&Cofactors	C00250	Pyridoxal	lur	pmor
+Vitamins&Cofactors	C00250	Pyridoxal	cxy	bbet
+Vitamins&Cofactors	C00250	Pyridoxal	cxy	pmor
+Vitamins&Cofactors	C00255	Riboflavin	cauj	bbet
+Vitamins&Cofactors	C00255	Riboflavin	cauj	mlot
+Vitamins&Cofactors	C00255	Riboflavin	cauj	vpe
+Vitamins&Cofactors	C00255	Riboflavin	cauj	pmor
+Vitamins&Cofactors	C00255	Riboflavin	cauj	pscf
+Vitamins&Cofactors	C00255	Riboflavin	cauj	cuvk
+Vitamins&Cofactors	C00255	Riboflavin	cauj	flk
+Vitamins&Cofactors	C00255	Riboflavin	dri	bbet
+Vitamins&Cofactors	C00255	Riboflavin	dri	mlot
+Vitamins&Cofactors	C00255	Riboflavin	dri	vpe
+Vitamins&Cofactors	C00255	Riboflavin	dri	pmor
+Vitamins&Cofactors	C00255	Riboflavin	dri	pscf
+Vitamins&Cofactors	C00255	Riboflavin	dri	cuvk
+Vitamins&Cofactors	C00255	Riboflavin	dri	flk
+Vitamins&Cofactors	C00255	Riboflavin	cxy	bbet
+Vitamins&Cofactors	C00255	Riboflavin	cxy	mlot
+Vitamins&Cofactors	C00255	Riboflavin	cxy	vpe
+Vitamins&Cofactors	C00255	Riboflavin	cxy	pmor
+Vitamins&Cofactors	C00255	Riboflavin	cxy	pscf
+Vitamins&Cofactors	C00255	Riboflavin	cxy	cuvk
+Vitamins&Cofactors	C00255	Riboflavin	cxy	flk
+Vitamins&Cofactors	C00255	Riboflavin	rfa	bbet
+Vitamins&Cofactors	C00255	Riboflavin	rfa	mlot
+Vitamins&Cofactors	C00255	Riboflavin	rfa	vpe
+Vitamins&Cofactors	C00255	Riboflavin	rfa	pmor
+Vitamins&Cofactors	C00255	Riboflavin	rfa	pscf
+Vitamins&Cofactors	C00255	Riboflavin	rfa	cuvk
+Vitamins&Cofactors	C00255	Riboflavin	rfa	flk
+Vitamins&Cofactors	C00255	Riboflavin	cpi	bbet
+Vitamins&Cofactors	C00255	Riboflavin	cpi	mlot
+Vitamins&Cofactors	C00255	Riboflavin	cpi	vpe
+Vitamins&Cofactors	C00255	Riboflavin	cpi	pmor
+Vitamins&Cofactors	C00255	Riboflavin	cpi	pscf
+Vitamins&Cofactors	C00255	Riboflavin	cpi	cuvk
+Vitamins&Cofactors	C00255	Riboflavin	cpi	flk
+CarboxylicAcids	C00258	D-glyceric acid	cauj	bbet
+CarboxylicAcids	C00258	D-glyceric acid	cauj	vpe
+CarboxylicAcids	C00258	D-glyceric acid	cauj	pmor
+CarboxylicAcids	C00258	D-glyceric acid	cauj	cxy
+CarboxylicAcids	C00258	D-glyceric acid	cauj	flk
+CarboxylicAcids	C00258	D-glyceric acid	dri	bbet
+CarboxylicAcids	C00258	D-glyceric acid	dri	vpe
+CarboxylicAcids	C00258	D-glyceric acid	dri	pmor
+CarboxylicAcids	C00258	D-glyceric acid	dri	cxy
+CarboxylicAcids	C00258	D-glyceric acid	dri	flk
+CarboxylicAcids	C00258	D-glyceric acid	pzu	bbet
+CarboxylicAcids	C00258	D-glyceric acid	pzu	vpe
+CarboxylicAcids	C00258	D-glyceric acid	pzu	pmor
+CarboxylicAcids	C00258	D-glyceric acid	pzu	cxy
+CarboxylicAcids	C00258	D-glyceric acid	pzu	flk
+AminoAcids	C00263	Homoserine	vpe	bbet
+AminoAcids	C00263	Homoserine	vpe	pzu
+AminoAcids	C00263	Homoserine	vpe	pscf
+AminoAcids	C00263	Homoserine	vpe	rfa
+AminoAcids	C00263	Homoserine	vpe	flk
+AminoAcids	C00263	Homoserine	vpe	mgk
+AminoAcids	C00263	Homoserine	vpe	cohm
+Amines	C00315	Spermidine	cauj	bbet
+Amines	C00315	Spermidine	cauj	cuvk
+Amines	C00315	Spermidine	cauj	mip
+Amines	C00315	Spermidine	mlot	bbet
+Amines	C00315	Spermidine	mlot	cuvk
+Amines	C00315	Spermidine	mlot	mip
+Amines	C00315	Spermidine	lgu	bbet
+Amines	C00315	Spermidine	lgu	cuvk
+Amines	C00315	Spermidine	lgu	mip
+Amines	C00315	Spermidine	lur	bbet
+Amines	C00315	Spermidine	lur	cuvk
+Amines	C00315	Spermidine	lur	mip
+Amines	C00315	Spermidine	pmor	bbet
+Amines	C00315	Spermidine	pmor	cuvk
+Amines	C00315	Spermidine	pmor	mip
+Amines	C00315	Spermidine	rfa	bbet
+Amines	C00315	Spermidine	rfa	cuvk
+Amines	C00315	Spermidine	rfa	mip
+Amines	C00315	Spermidine	cpi	bbet
+Amines	C00315	Spermidine	cpi	cuvk
+Amines	C00315	Spermidine	cpi	mip
+Amines	C00315	Spermidine	mgk	bbet
+Amines	C00315	Spermidine	mgk	cuvk
+Amines	C00315	Spermidine	mgk	mip
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cauj	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cauj	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	dri	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	dri	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	pzu	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	pzu	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	tro	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	tro	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	lgu	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	lgu	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	lur	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	lur	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	pmor	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	pmor	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	racd	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	racd	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cuvk	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cuvk	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cxy	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cxy	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	rfa	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	rfa	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cpi	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	cpi	flk
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	mgk	bbet
+CarboxylicAcids	C00334	gamma-Aminobutyric Acid	mgk	flk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	bbet
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	mlot
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	vpe
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	pmor
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	pscf
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	cuvk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	cxy
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	mip
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	pzu	flk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	bbet
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	mlot
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	vpe
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	pmor
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	pscf
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	cuvk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	cxy
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	mip
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	buol	flk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	bbet
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	mlot
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	vpe
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	pmor
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	pscf
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	cuvk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	cxy
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	mip
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	rfa	flk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	bbet
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	mlot
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	vpe
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	pmor
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	pscf
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	cuvk
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	cxy
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	mip
+Sugars	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	mgk	flk
+Glycosides	C00360	2'-deoxy-5'-adenosine monophosphate	pzu	bbet
+Glycosides	C00360	2'-deoxy-5'-adenosine monophosphate	pzu	vpe
+Glycosides	C00360	2'-deoxy-5'-adenosine monophosphate	pzu	pmor
+Glycosides	C00360	2'-deoxy-5'-adenosine monophosphate	pzu	mip
+Glycosides	C00360	2'-deoxy-5'-adenosine monophosphate	pzu	flk
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	bbet
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	mlot
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	vpe
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	pmor
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	pscf
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	cauj	mip
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	bbet
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	mlot
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	vpe
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	pmor
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	pscf
+Glycosides	C00362	2'-deoxyguanosine 5'-phosphate	pzu	mip
+Glycosides	C00364	Thymidine Monophosphate	cauj	vpe
+Glycosides	C00364	Thymidine Monophosphate	cauj	pmor
+Glycosides	C00364	Thymidine Monophosphate	cauj	pscf
+Glycosides	C00364	Thymidine Monophosphate	cauj	flk
+Glycosides	C00364	Thymidine Monophosphate	dri	vpe
+Glycosides	C00364	Thymidine Monophosphate	dri	pmor
+Glycosides	C00364	Thymidine Monophosphate	dri	pscf
+Glycosides	C00364	Thymidine Monophosphate	dri	flk
+Glycosides	C00364	Thymidine Monophosphate	pzu	vpe
+Glycosides	C00364	Thymidine Monophosphate	pzu	pmor
+Glycosides	C00364	Thymidine Monophosphate	pzu	pscf
+Glycosides	C00364	Thymidine Monophosphate	pzu	flk
+Glycosides	C00364	Thymidine Monophosphate	tro	vpe
+Glycosides	C00364	Thymidine Monophosphate	tro	pmor
+Glycosides	C00364	Thymidine Monophosphate	tro	pscf
+Glycosides	C00364	Thymidine Monophosphate	tro	flk
+Glycosides	C00364	Thymidine Monophosphate	buol	vpe
+Glycosides	C00364	Thymidine Monophosphate	buol	pmor
+Glycosides	C00364	Thymidine Monophosphate	buol	pscf
+Glycosides	C00364	Thymidine Monophosphate	buol	flk
+Glycosides	C00364	Thymidine Monophosphate	lgu	vpe
+Glycosides	C00364	Thymidine Monophosphate	lgu	pmor
+Glycosides	C00364	Thymidine Monophosphate	lgu	pscf
+Glycosides	C00364	Thymidine Monophosphate	lgu	flk
+Glycosides	C00364	Thymidine Monophosphate	lur	vpe
+Glycosides	C00364	Thymidine Monophosphate	lur	pmor
+Glycosides	C00364	Thymidine Monophosphate	lur	pscf
+Glycosides	C00364	Thymidine Monophosphate	lur	flk
+Glycosides	C00364	Thymidine Monophosphate	cuvk	vpe
+Glycosides	C00364	Thymidine Monophosphate	cuvk	pmor
+Glycosides	C00364	Thymidine Monophosphate	cuvk	pscf
+Glycosides	C00364	Thymidine Monophosphate	cuvk	flk
+Glycosides	C00364	Thymidine Monophosphate	cxy	vpe
+Glycosides	C00364	Thymidine Monophosphate	cxy	pmor
+Glycosides	C00364	Thymidine Monophosphate	cxy	pscf
+Glycosides	C00364	Thymidine Monophosphate	cxy	flk
+Glycosides	C00364	Thymidine Monophosphate	cpi	vpe
+Glycosides	C00364	Thymidine Monophosphate	cpi	pmor
+Glycosides	C00364	Thymidine Monophosphate	cpi	pscf
+Glycosides	C00364	Thymidine Monophosphate	cpi	flk
+Glycosides	C00364	Thymidine Monophosphate	cohm	vpe
+Glycosides	C00364	Thymidine Monophosphate	cohm	pmor
+Glycosides	C00364	Thymidine Monophosphate	cohm	pscf
+Glycosides	C00364	Thymidine Monophosphate	cohm	flk
+Glycosides	C00365	2'-deoxyuridylic acid	cauj	bbet
+Glycosides	C00365	2'-deoxyuridylic acid	cauj	vpe
+Glycosides	C00365	2'-deoxyuridylic acid	cauj	pmor
+Glycosides	C00365	2'-deoxyuridylic acid	cauj	mip
+Glycosides	C00365	2'-deoxyuridylic acid	cauj	flk
+Glycosides	C00365	2'-deoxyuridylic acid	pzu	bbet
+Glycosides	C00365	2'-deoxyuridylic acid	pzu	vpe
+Glycosides	C00365	2'-deoxyuridylic acid	pzu	pmor
+Glycosides	C00365	2'-deoxyuridylic acid	pzu	mip
+Glycosides	C00365	2'-deoxyuridylic acid	pzu	flk
+Glycosides	C00365	2'-deoxyuridylic acid	lur	bbet
+Glycosides	C00365	2'-deoxyuridylic acid	lur	vpe
+Glycosides	C00365	2'-deoxyuridylic acid	lur	pmor
+Glycosides	C00365	2'-deoxyuridylic acid	lur	mip
+Glycosides	C00365	2'-deoxyuridylic acid	lur	flk
+Glycosides	C00365	2'-deoxyuridylic acid	rfa	bbet
+Glycosides	C00365	2'-deoxyuridylic acid	rfa	vpe
+Glycosides	C00365	2'-deoxyuridylic acid	rfa	pmor
+Glycosides	C00365	2'-deoxyuridylic acid	rfa	mip
+Glycosides	C00365	2'-deoxyuridylic acid	rfa	flk
+Sugars	C00369	Glycogen	cpi	lgu
+Sugars	C00369	Glycogen	cpi	flk
+Sugars	C00369	Glycogen	mgk	lgu
+Sugars	C00369	Glycogen	mgk	flk
+Sugars	C00369	Glycogen	cohm	lgu
+Sugars	C00369	Glycogen	cohm	flk
+AminoAcids	C00402	D-Aspartic Acid	racd	bbet
+AminoAcids	C00402	D-Aspartic Acid	racd	pmor
+AminoAcids	C00402	D-Aspartic Acid	racd	flk
+AminoAcids	C00407	Isoleucine	cauj	flk
+AminoAcids	C00407	Isoleucine	dri	flk
+AminoAcids	C00407	Isoleucine	pzu	flk
+AminoAcids	C00407	Isoleucine	tro	flk
+AminoAcids	C00407	Isoleucine	buol	flk
+AminoAcids	C00407	Isoleucine	lgu	flk
+AminoAcids	C00407	Isoleucine	lur	flk
+AminoAcids	C00407	Isoleucine	pmor	flk
+AminoAcids	C00407	Isoleucine	cuvk	flk
+AminoAcids	C00407	Isoleucine	cxy	flk
+AminoAcids	C00407	Isoleucine	rfa	flk
+AminoAcids	C00407	Isoleucine	cpi	flk
+AminoAcids	C00407	Isoleucine	mgk	flk
+AminoAcids	C00407	Isoleucine	cohm	flk
+CarboxylicAcids	C00423	cinnamic acid	mgk	bbet
+CarboxylicAcids	C00423	cinnamic acid	mgk	mlot
+CarboxylicAcids	C00423	cinnamic acid	mgk	pscf
+CarboxylicAcids	C00423	cinnamic acid	mgk	racd
+CarboxylicAcids	C00423	cinnamic acid	mgk	mip
+CarboxylicAcids	C00423	cinnamic acid	mgk	flk
+AminoAcids	C00431	5-aminovaleric acid	dri	bbet
+AminoAcids	C00431	5-aminovaleric acid	dri	lgu
+AminoAcids	C00431	5-aminovaleric acid	buol	bbet
+AminoAcids	C00431	5-aminovaleric acid	buol	lgu
+AminoAcids	C00431	5-aminovaleric acid	vpe	bbet
+AminoAcids	C00431	5-aminovaleric acid	vpe	lgu
+AminoAcids	C00431	5-aminovaleric acid	pmor	bbet
+AminoAcids	C00431	5-aminovaleric acid	pmor	lgu
+AminoAcids	C00431	5-aminovaleric acid	racd	bbet
+AminoAcids	C00431	5-aminovaleric acid	racd	lgu
+AminoAcids	C00431	5-aminovaleric acid	cpi	bbet
+AminoAcids	C00431	5-aminovaleric acid	cpi	lgu
+AminoAcids	C00431	5-aminovaleric acid	cohm	bbet
+AminoAcids	C00431	5-aminovaleric acid	cohm	lgu
+Sugars	C00446	galactose-1-phosphate	cuvk	racd
+Sugars	C00446	galactose-1-phosphate	cuvk	mip
+Sugars	C00446	galactose-1-phosphate	cuvk	flk
+Sugars	C00446	galactose-1-phosphate	rfa	racd
+Sugars	C00446	galactose-1-phosphate	rfa	mip
+Sugars	C00446	galactose-1-phosphate	rfa	flk
+Sugars	C00446	galactose-1-phosphate	mgk	racd
+Sugars	C00446	galactose-1-phosphate	mgk	mip
+Sugars	C00446	galactose-1-phosphate	mgk	flk
+HeterocyclicCompounds	C00463	indole	cauj	bbet
+HeterocyclicCompounds	C00463	indole	cauj	mip
+HeterocyclicCompounds	C00463	indole	cauj	rfa
+HeterocyclicCompounds	C00463	indole	cauj	cpi
+HeterocyclicCompounds	C00463	indole	cauj	flk
+HeterocyclicCompounds	C00463	indole	dri	bbet
+HeterocyclicCompounds	C00463	indole	dri	mip
+HeterocyclicCompounds	C00463	indole	dri	rfa
+HeterocyclicCompounds	C00463	indole	dri	cpi
+HeterocyclicCompounds	C00463	indole	dri	flk
+HeterocyclicCompounds	C00463	indole	mlot	bbet
+HeterocyclicCompounds	C00463	indole	mlot	mip
+HeterocyclicCompounds	C00463	indole	mlot	rfa
+HeterocyclicCompounds	C00463	indole	mlot	cpi
+HeterocyclicCompounds	C00463	indole	mlot	flk
+HeterocyclicCompounds	C00463	indole	cxy	bbet
+HeterocyclicCompounds	C00463	indole	cxy	mip
+HeterocyclicCompounds	C00463	indole	cxy	rfa
+HeterocyclicCompounds	C00463	indole	cxy	cpi
+HeterocyclicCompounds	C00463	indole	cxy	flk
+HeterocyclicCompounds	C00463	indole	mgk	bbet
+HeterocyclicCompounds	C00463	indole	mgk	mip
+HeterocyclicCompounds	C00463	indole	mgk	rfa
+HeterocyclicCompounds	C00463	indole	mgk	cpi
+HeterocyclicCompounds	C00463	indole	mgk	flk
+Alcohols	C00469	Ethanol	rfa	mip
+Alcohols	C00469	Ethanol	cohm	mip
+CarboxylicAcids	C00488	formamide	cpi	bbet
+CarboxylicAcids	C00488	formamide	cpi	mlot
+CarboxylicAcids	C00488	formamide	cpi	tro
+CarboxylicAcids	C00488	formamide	cpi	buol
+CarboxylicAcids	C00488	formamide	cpi	vpe
+CarboxylicAcids	C00488	formamide	cpi	rfa
+CarboxylicAcids	C00493	Shikimic Acid	cauj	bbet
+CarboxylicAcids	C00493	Shikimic Acid	cauj	vpe
+CarboxylicAcids	C00493	Shikimic Acid	cauj	lur
+CarboxylicAcids	C00493	Shikimic Acid	cauj	pscf
+CarboxylicAcids	C00493	Shikimic Acid	cauj	mip
+CarboxylicAcids	C00493	Shikimic Acid	cauj	flk
+CarboxylicAcids	C00493	Shikimic Acid	tro	bbet
+CarboxylicAcids	C00493	Shikimic Acid	tro	vpe
+CarboxylicAcids	C00493	Shikimic Acid	tro	lur
+CarboxylicAcids	C00493	Shikimic Acid	tro	pscf
+CarboxylicAcids	C00493	Shikimic Acid	tro	mip
+CarboxylicAcids	C00493	Shikimic Acid	tro	flk
+CarboxylicAcids	C00493	Shikimic Acid	lgu	bbet
+CarboxylicAcids	C00493	Shikimic Acid	lgu	vpe
+CarboxylicAcids	C00493	Shikimic Acid	lgu	lur
+CarboxylicAcids	C00493	Shikimic Acid	lgu	pscf
+CarboxylicAcids	C00493	Shikimic Acid	lgu	mip
+CarboxylicAcids	C00493	Shikimic Acid	lgu	flk
+CarboxylicAcids	C00493	Shikimic Acid	rfa	bbet
+CarboxylicAcids	C00493	Shikimic Acid	rfa	vpe
+CarboxylicAcids	C00493	Shikimic Acid	rfa	lur
+CarboxylicAcids	C00493	Shikimic Acid	rfa	pscf
+CarboxylicAcids	C00493	Shikimic Acid	rfa	mip
+CarboxylicAcids	C00493	Shikimic Acid	rfa	flk
+CarboxylicAcids	C00493	Shikimic Acid	mgk	bbet
+CarboxylicAcids	C00493	Shikimic Acid	mgk	vpe
+CarboxylicAcids	C00493	Shikimic Acid	mgk	lur
+CarboxylicAcids	C00493	Shikimic Acid	mgk	pscf
+CarboxylicAcids	C00493	Shikimic Acid	mgk	mip
+CarboxylicAcids	C00493	Shikimic Acid	mgk	flk
+Amides	C00499	allantoic acid	rfa	pzu
+Amides	C00499	allantoic acid	rfa	tro
+Sugars	C00502	xylonic acid	cuvk	bbet
+Sugars	C00502	xylonic acid	cuvk	cauj
+Sugars	C00502	xylonic acid	cuvk	dri
+Sugars	C00502	xylonic acid	cuvk	pzu
+Sugars	C00502	xylonic acid	cuvk	tro
+Sugars	C00502	xylonic acid	cuvk	buol
+Sugars	C00502	xylonic acid	cuvk	vpe
+Sugars	C00502	xylonic acid	cuvk	lgu
+Sugars	C00502	xylonic acid	cuvk	lur
+Sugars	C00502	xylonic acid	cuvk	pmor
+Sugars	C00502	xylonic acid	cuvk	racd
+Sugars	C00502	xylonic acid	cuvk	cxy
+Sugars	C00502	xylonic acid	cuvk	rfa
+Sugars	C00502	xylonic acid	cuvk	cpi
+Sugars	C00502	xylonic acid	cuvk	flk
+Sugars	C00502	xylonic acid	cuvk	mgk
+Vitamins&Cofactors	C00504	Folic Acid	cauj	mlot
+Vitamins&Cofactors	C00504	Folic Acid	cauj	mip
+Vitamins&Cofactors	C00504	Folic Acid	dri	mlot
+Vitamins&Cofactors	C00504	Folic Acid	dri	mip
+Vitamins&Cofactors	C00504	Folic Acid	tro	mlot
+Vitamins&Cofactors	C00504	Folic Acid	tro	mip
+Vitamins&Cofactors	C00504	Folic Acid	buol	mlot
+Vitamins&Cofactors	C00504	Folic Acid	buol	mip
+Vitamins&Cofactors	C00504	Folic Acid	lur	mlot
+Vitamins&Cofactors	C00504	Folic Acid	lur	mip
+Vitamins&Cofactors	C00504	Folic Acid	racd	mlot
+Vitamins&Cofactors	C00504	Folic Acid	racd	mip
+Vitamins&Cofactors	C00504	Folic Acid	cpi	mlot
+Vitamins&Cofactors	C00504	Folic Acid	cpi	mip
+Vitamins&Cofactors	C00504	Folic Acid	mgk	mlot
+Vitamins&Cofactors	C00504	Folic Acid	mgk	mip
+Vitamins&Cofactors	C00504	Folic Acid	cohm	mlot
+Vitamins&Cofactors	C00504	Folic Acid	cohm	mip
+Aldehydes	C00546	Pyruvaldehyde	racd	tro
+Aldehydes	C00546	Pyruvaldehyde	racd	vpe
+Aldehydes	C00546	Pyruvaldehyde	racd	lgu
+Aldehydes	C00546	Pyruvaldehyde	racd	lur
+Aldehydes	C00546	Pyruvaldehyde	racd	pmor
+Aldehydes	C00546	Pyruvaldehyde	racd	mip
+Aldehydes	C00546	Pyruvaldehyde	racd	cpi
+Aldehydes	C00546	Pyruvaldehyde	racd	flk
+Aldehydes	C00546	Pyruvaldehyde	racd	mgk
+Aldehydes	C00546	Pyruvaldehyde	rfa	tro
+Aldehydes	C00546	Pyruvaldehyde	rfa	vpe
+Aldehydes	C00546	Pyruvaldehyde	rfa	lgu
+Aldehydes	C00546	Pyruvaldehyde	rfa	lur
+Aldehydes	C00546	Pyruvaldehyde	rfa	pmor
+Aldehydes	C00546	Pyruvaldehyde	rfa	mip
+Aldehydes	C00546	Pyruvaldehyde	rfa	cpi
+Aldehydes	C00546	Pyruvaldehyde	rfa	flk
+Aldehydes	C00546	Pyruvaldehyde	rfa	mgk
+Aldehydes	C00546	Pyruvaldehyde	cohm	tro
+Aldehydes	C00546	Pyruvaldehyde	cohm	vpe
+Aldehydes	C00546	Pyruvaldehyde	cohm	lgu
+Aldehydes	C00546	Pyruvaldehyde	cohm	lur
+Aldehydes	C00546	Pyruvaldehyde	cohm	pmor
+Aldehydes	C00546	Pyruvaldehyde	cohm	mip
+Aldehydes	C00546	Pyruvaldehyde	cohm	cpi
+Aldehydes	C00546	Pyruvaldehyde	cohm	flk
+Aldehydes	C00546	Pyruvaldehyde	cohm	mgk
+Sugars	C00577	D-glyceraldehyde	cauj	bbet
+Sugars	C00577	D-glyceraldehyde	cauj	vpe
+Sugars	C00577	D-glyceraldehyde	cauj	lur
+Sugars	C00577	D-glyceraldehyde	cauj	pmor
+Sugars	C00577	D-glyceraldehyde	cauj	pscf
+Sugars	C00577	D-glyceraldehyde	cauj	cxy
+Sugars	C00577	D-glyceraldehyde	cauj	flk
+Sugars	C00577	D-glyceraldehyde	dri	bbet
+Sugars	C00577	D-glyceraldehyde	dri	vpe
+Sugars	C00577	D-glyceraldehyde	dri	lur
+Sugars	C00577	D-glyceraldehyde	dri	pmor
+Sugars	C00577	D-glyceraldehyde	dri	pscf
+Sugars	C00577	D-glyceraldehyde	dri	cxy
+Sugars	C00577	D-glyceraldehyde	dri	flk
+Sugars	C00577	D-glyceraldehyde	pzu	bbet
+Sugars	C00577	D-glyceraldehyde	pzu	vpe
+Sugars	C00577	D-glyceraldehyde	pzu	lur
+Sugars	C00577	D-glyceraldehyde	pzu	pmor
+Sugars	C00577	D-glyceraldehyde	pzu	pscf
+Sugars	C00577	D-glyceraldehyde	pzu	cxy
+Sugars	C00577	D-glyceraldehyde	pzu	flk
+Sugars	C00577	D-glyceraldehyde	tro	bbet
+Sugars	C00577	D-glyceraldehyde	tro	vpe
+Sugars	C00577	D-glyceraldehyde	tro	lur
+Sugars	C00577	D-glyceraldehyde	tro	pmor
+Sugars	C00577	D-glyceraldehyde	tro	pscf
+Sugars	C00577	D-glyceraldehyde	tro	cxy
+Sugars	C00577	D-glyceraldehyde	tro	flk
+Sugars	C00577	D-glyceraldehyde	buol	bbet
+Sugars	C00577	D-glyceraldehyde	buol	vpe
+Sugars	C00577	D-glyceraldehyde	buol	lur
+Sugars	C00577	D-glyceraldehyde	buol	pmor
+Sugars	C00577	D-glyceraldehyde	buol	pscf
+Sugars	C00577	D-glyceraldehyde	buol	cxy
+Sugars	C00577	D-glyceraldehyde	buol	flk
+SulfurCompounds	C00580	dimethyl sulfide	pzu	bbet
+Sugars	C00645	N-acetylmannosamine	dri	racd
+Sugars	C00645	N-acetylmannosamine	dri	cuvk
+Sugars	C00645	N-acetylmannosamine	dri	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cauj	mgk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	dri	mgk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	tro	mgk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	lur	mgk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cpi	mgk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	bbet
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	lgu
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	pscf
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	mip
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	flk
+CarboxylicAcids	C00680	meso-2,6-diaminopimelic acid	cohm	mgk
+AminoAcids	C00739	D-lysine	dri	bbet
+AminoAcids	C00739	D-lysine	dri	pscf
+AminoAcids	C00739	D-lysine	dri	cuvk
+AminoAcids	C00739	D-lysine	dri	cxy
+AminoAcids	C00739	D-lysine	dri	mip
+AminoAcids	C00739	D-lysine	dri	flk
+AminoAcids	C00739	D-lysine	mlot	bbet
+AminoAcids	C00739	D-lysine	mlot	pscf
+AminoAcids	C00739	D-lysine	mlot	cuvk
+AminoAcids	C00739	D-lysine	mlot	cxy
+AminoAcids	C00739	D-lysine	mlot	mip
+AminoAcids	C00739	D-lysine	mlot	flk
+AminoAcids	C00739	D-lysine	pmor	bbet
+AminoAcids	C00739	D-lysine	pmor	pscf
+AminoAcids	C00739	D-lysine	pmor	cuvk
+AminoAcids	C00739	D-lysine	pmor	cxy
+AminoAcids	C00739	D-lysine	pmor	mip
+AminoAcids	C00739	D-lysine	pmor	flk
+AminoAcids	C00740	D-serine	dri	cauj
+AminoAcids	C00740	D-serine	dri	flk
+AminoAcids	C00740	D-serine	pzu	cauj
+AminoAcids	C00740	D-serine	pzu	flk
+AminoAcids	C00740	D-serine	tro	cauj
+AminoAcids	C00740	D-serine	tro	flk
+AminoAcids	C00740	D-serine	lur	cauj
+AminoAcids	C00740	D-serine	lur	flk
+AminoAcids	C00740	D-serine	pmor	cauj
+AminoAcids	C00740	D-serine	pmor	flk
+AminoAcids	C00740	D-serine	cuvk	cauj
+AminoAcids	C00740	D-serine	cuvk	flk
+AminoAcids	C00740	D-serine	cxy	cauj
+AminoAcids	C00740	D-serine	cxy	flk
+AminoAcids	C00740	D-serine	rfa	cauj
+AminoAcids	C00740	D-serine	rfa	flk
+AminoAcids	C00740	D-serine	cpi	cauj
+AminoAcids	C00740	D-serine	cpi	flk
+AminoAcids	C00740	D-serine	cohm	cauj
+AminoAcids	C00740	D-serine	cohm	flk
+CarboxylicAcids	C00785	Urocanic Acid	pscf	vpe
+CarboxylicAcids	C00785	Urocanic Acid	pscf	flk
+AminoAcids	C00792	D-arginine	lgu	bbet
+AminoAcids	C00792	D-arginine	lgu	cauj
+AminoAcids	C00792	D-arginine	lgu	pzu
+AminoAcids	C00792	D-arginine	lgu	tro
+AminoAcids	C00792	D-arginine	lgu	racd
+AminoAcids	C00792	D-arginine	lgu	cuvk
+AminoAcids	C00792	D-arginine	lgu	mip
+AminoAcids	C00792	D-arginine	lgu	flk
+AminoAcids	C00792	D-arginine	lgu	cohm
+AminoAcids	C00792	D-arginine	cxy	bbet
+AminoAcids	C00792	D-arginine	cxy	cauj
+AminoAcids	C00792	D-arginine	cxy	pzu
+AminoAcids	C00792	D-arginine	cxy	tro
+AminoAcids	C00792	D-arginine	cxy	racd
+AminoAcids	C00792	D-arginine	cxy	cuvk
+AminoAcids	C00792	D-arginine	cxy	mip
+AminoAcids	C00792	D-arginine	cxy	flk
+AminoAcids	C00792	D-arginine	cxy	cohm
+CarboxylicAcids	C00811	p-coumaric acid	cauj	bbet
+CarboxylicAcids	C00811	p-coumaric acid	cauj	vpe
+CarboxylicAcids	C00811	p-coumaric acid	cauj	pscf
+CarboxylicAcids	C00811	p-coumaric acid	cauj	mip
+CarboxylicAcids	C00811	p-coumaric acid	cauj	flk
+CarboxylicAcids	C00811	p-coumaric acid	mgk	bbet
+CarboxylicAcids	C00811	p-coumaric acid	mgk	vpe
+CarboxylicAcids	C00811	p-coumaric acid	mgk	pscf
+CarboxylicAcids	C00811	p-coumaric acid	mgk	mip
+CarboxylicAcids	C00811	p-coumaric acid	mgk	flk
+AminoAcids	C00820	D-threonine	pmor	bbet
+AminoAcids	C00820	D-threonine	pmor	pzu
+AminoAcids	C00820	D-threonine	pmor	flk
+AminoAcids	C00820	D-threonine	cohm	bbet
+AminoAcids	C00820	D-threonine	cohm	pzu
+AminoAcids	C00820	D-threonine	cohm	flk
+Sugars	C00898	tartaric acid	dri	bbet
+Sugars	C00898	tartaric acid	dri	vpe
+Sugars	C00898	tartaric acid	dri	pmor
+Sugars	C00898	tartaric acid	dri	cxy
+Sugars	C00898	tartaric acid	dri	flk
+Sugars	C00898	tartaric acid	mlot	bbet
+Sugars	C00898	tartaric acid	mlot	vpe
+Sugars	C00898	tartaric acid	mlot	pmor
+Sugars	C00898	tartaric acid	mlot	cxy
+Sugars	C00898	tartaric acid	mlot	flk
+Sugars	C00898	tartaric acid	pzu	bbet
+Sugars	C00898	tartaric acid	pzu	vpe
+Sugars	C00898	tartaric acid	pzu	pmor
+Sugars	C00898	tartaric acid	pzu	cxy
+Sugars	C00898	tartaric acid	pzu	flk
+Sugars	C00898	tartaric acid	tro	bbet
+Sugars	C00898	tartaric acid	tro	vpe
+Sugars	C00898	tartaric acid	tro	pmor
+Sugars	C00898	tartaric acid	tro	cxy
+Sugars	C00898	tartaric acid	tro	flk
+Sugars	C00898	tartaric acid	buol	bbet
+Sugars	C00898	tartaric acid	buol	vpe
+Sugars	C00898	tartaric acid	buol	pmor
+Sugars	C00898	tartaric acid	buol	cxy
+Sugars	C00898	tartaric acid	buol	flk
+Sugars	C00973	cyclomaltodextrin	cauj	lur
+Sugars	C00973	cyclomaltodextrin	cauj	mip
+Sugars	C00973	cyclomaltodextrin	cauj	flk
+Sugars	C00973	cyclomaltodextrin	dri	lur
+Sugars	C00973	cyclomaltodextrin	dri	mip
+Sugars	C00973	cyclomaltodextrin	dri	flk
+Sugars	C00973	cyclomaltodextrin	pzu	lur
+Sugars	C00973	cyclomaltodextrin	pzu	mip
+Sugars	C00973	cyclomaltodextrin	pzu	flk
+Sugars	C00973	cyclomaltodextrin	buol	lur
+Sugars	C00973	cyclomaltodextrin	buol	mip
+Sugars	C00973	cyclomaltodextrin	buol	flk
+Sugars	C00973	cyclomaltodextrin	racd	lur
+Sugars	C00973	cyclomaltodextrin	racd	mip
+Sugars	C00973	cyclomaltodextrin	racd	flk
+Sugars	C00973	cyclomaltodextrin	cuvk	lur
+Sugars	C00973	cyclomaltodextrin	cuvk	mip
+Sugars	C00973	cyclomaltodextrin	cuvk	flk
+Sugars	C00973	cyclomaltodextrin	rfa	lur
+Sugars	C00973	cyclomaltodextrin	rfa	mip
+Sugars	C00973	cyclomaltodextrin	rfa	flk
+Sugars	C00973	cyclomaltodextrin	cpi	lur
+Sugars	C00973	cyclomaltodextrin	cpi	mip
+Sugars	C00973	cyclomaltodextrin	cpi	flk
+Sugars	C00973	cyclomaltodextrin	mgk	lur
+Sugars	C00973	cyclomaltodextrin	mgk	mip
+Sugars	C00973	cyclomaltodextrin	mgk	flk
+Sugars	C00973	cyclomaltodextrin	cohm	lur
+Sugars	C00973	cyclomaltodextrin	cohm	mip
+Sugars	C00973	cyclomaltodextrin	cohm	flk
+AminoAcids	C00979	O-acetylserine	rfa	mip
+AminoAcids	C00979	O-acetylserine	rfa	flk
+AminoAcids	C00979	O-acetylserine	cohm	mip
+AminoAcids	C00979	O-acetylserine	cohm	flk
+Amines	C00986	trimethylenediamine	mlot	bbet
+Amines	C00986	trimethylenediamine	mlot	mip
+Amines	C00986	trimethylenediamine	mlot	rfa
+Amines	C00986	trimethylenediamine	mlot	flk
+Amines	C00986	trimethylenediamine	mlot	mgk
+Peptides	C00993	alanylalanine	cauj	bbet
+Peptides	C00993	alanylalanine	cauj	pmor
+Peptides	C00993	alanylalanine	cauj	pscf
+Peptides	C00993	alanylalanine	cauj	flk
+Peptides	C00993	alanylalanine	pzu	bbet
+Peptides	C00993	alanylalanine	pzu	pmor
+Peptides	C00993	alanylalanine	pzu	pscf
+Peptides	C00993	alanylalanine	pzu	flk
+Peptides	C00993	alanylalanine	tro	bbet
+Peptides	C00993	alanylalanine	tro	pmor
+Peptides	C00993	alanylalanine	tro	pscf
+Peptides	C00993	alanylalanine	tro	flk
+Peptides	C00993	alanylalanine	buol	bbet
+Peptides	C00993	alanylalanine	buol	pmor
+Peptides	C00993	alanylalanine	buol	pscf
+Peptides	C00993	alanylalanine	buol	flk
+Peptides	C00993	alanylalanine	lgu	bbet
+Peptides	C00993	alanylalanine	lgu	pmor
+Peptides	C00993	alanylalanine	lgu	pscf
+Peptides	C00993	alanylalanine	lgu	flk
+Peptides	C00993	alanylalanine	lur	bbet
+Peptides	C00993	alanylalanine	lur	pmor
+Peptides	C00993	alanylalanine	lur	pscf
+Peptides	C00993	alanylalanine	lur	flk
+Peptides	C00993	alanylalanine	cuvk	bbet
+Peptides	C00993	alanylalanine	cuvk	pmor
+Peptides	C00993	alanylalanine	cuvk	pscf
+Peptides	C00993	alanylalanine	cuvk	flk
+Peptides	C00993	alanylalanine	cxy	bbet
+Peptides	C00993	alanylalanine	cxy	pmor
+Peptides	C00993	alanylalanine	cxy	pscf
+Peptides	C00993	alanylalanine	cxy	flk
+Peptides	C00993	alanylalanine	rfa	bbet
+Peptides	C00993	alanylalanine	rfa	pmor
+Peptides	C00993	alanylalanine	rfa	pscf
+Peptides	C00993	alanylalanine	rfa	flk
+Peptides	C00993	alanylalanine	cpi	bbet
+Peptides	C00993	alanylalanine	cpi	pmor
+Peptides	C00993	alanylalanine	cpi	pscf
+Peptides	C00993	alanylalanine	cpi	flk
+Peptides	C00993	alanylalanine	mgk	bbet
+Peptides	C00993	alanylalanine	mgk	pmor
+Peptides	C00993	alanylalanine	mgk	pscf
+Peptides	C00993	alanylalanine	mgk	flk
+CarboxylicAcids	C01013	hydracrylic acid	pzu	dri
+CarboxylicAcids	C01013	hydracrylic acid	pzu	tro
+CarboxylicAcids	C01013	hydracrylic acid	pzu	vpe
+CarboxylicAcids	C01013	hydracrylic acid	pzu	lur
+CarboxylicAcids	C01013	hydracrylic acid	pzu	cuvk
+CarboxylicAcids	C01013	hydracrylic acid	pzu	mip
+CarboxylicAcids	C01013	hydracrylic acid	pzu	flk
+CarboxylicAcids	C01013	hydracrylic acid	pzu	mgk
+CarboxylicAcids	C01013	hydracrylic acid	buol	dri
+CarboxylicAcids	C01013	hydracrylic acid	buol	tro
+CarboxylicAcids	C01013	hydracrylic acid	buol	vpe
+CarboxylicAcids	C01013	hydracrylic acid	buol	lur
+CarboxylicAcids	C01013	hydracrylic acid	buol	cuvk
+CarboxylicAcids	C01013	hydracrylic acid	buol	mip
+CarboxylicAcids	C01013	hydracrylic acid	buol	flk
+CarboxylicAcids	C01013	hydracrylic acid	buol	mgk
+CarboxylicAcids	C01013	hydracrylic acid	lgu	dri
+CarboxylicAcids	C01013	hydracrylic acid	lgu	tro
+CarboxylicAcids	C01013	hydracrylic acid	lgu	vpe
+CarboxylicAcids	C01013	hydracrylic acid	lgu	lur
+CarboxylicAcids	C01013	hydracrylic acid	lgu	cuvk
+CarboxylicAcids	C01013	hydracrylic acid	lgu	mip
+CarboxylicAcids	C01013	hydracrylic acid	lgu	flk
+CarboxylicAcids	C01013	hydracrylic acid	lgu	mgk
+CarboxylicAcids	C01013	hydracrylic acid	rfa	dri
+CarboxylicAcids	C01013	hydracrylic acid	rfa	tro
+CarboxylicAcids	C01013	hydracrylic acid	rfa	vpe
+CarboxylicAcids	C01013	hydracrylic acid	rfa	lur
+CarboxylicAcids	C01013	hydracrylic acid	rfa	cuvk
+CarboxylicAcids	C01013	hydracrylic acid	rfa	mip
+CarboxylicAcids	C01013	hydracrylic acid	rfa	flk
+CarboxylicAcids	C01013	hydracrylic acid	rfa	mgk
+Sugars	C01083	Trehalose	dri	bbet
+Sugars	C01083	Trehalose	dri	mlot
+Sugars	C01083	Trehalose	dri	tro
+Sugars	C01083	Trehalose	dri	vpe
+Sugars	C01083	Trehalose	dri	lgu
+Sugars	C01083	Trehalose	dri	lur
+Sugars	C01083	Trehalose	dri	cxy
+Sugars	C01083	Trehalose	dri	mip
+Sugars	C01083	Trehalose	dri	flk
+Sugars	C01083	Trehalose	dri	cohm
+Sugars	C01083	Trehalose	racd	bbet
+Sugars	C01083	Trehalose	racd	mlot
+Sugars	C01083	Trehalose	racd	tro
+Sugars	C01083	Trehalose	racd	vpe
+Sugars	C01083	Trehalose	racd	lgu
+Sugars	C01083	Trehalose	racd	lur
+Sugars	C01083	Trehalose	racd	cxy
+Sugars	C01083	Trehalose	racd	mip
+Sugars	C01083	Trehalose	racd	flk
+Sugars	C01083	Trehalose	racd	cohm
+Glycosides	C01368	3'-uridylic acid	pzu	vpe
+Glycosides	C01368	3'-uridylic acid	pzu	pscf
+Glycosides	C01368	3'-uridylic acid	pzu	mip
+Glycosides	C01368	3'-uridylic acid	pzu	flk
+Hydroxides	C01417	cyanic acid	bbet	pmor
+Hydroxides	C01417	cyanic acid	bbet	pscf
+Hydrocarbons	C01438	Methane	pzu	bbet
+Hydrocarbons	C01438	Methane	pzu	cauj
+Hydrocarbons	C01438	Methane	pzu	mlot
+Hydrocarbons	C01438	Methane	pzu	buol
+Hydrocarbons	C01438	Methane	pzu	lur
+Hydrocarbons	C01438	Methane	pzu	pmor
+Hydrocarbons	C01438	Methane	pzu	pscf
+Hydrocarbons	C01438	Methane	pzu	rfa
+Hydrocarbons	C01438	Methane	tro	bbet
+Hydrocarbons	C01438	Methane	tro	cauj
+Hydrocarbons	C01438	Methane	tro	mlot
+Hydrocarbons	C01438	Methane	tro	buol
+Hydrocarbons	C01438	Methane	tro	lur
+Hydrocarbons	C01438	Methane	tro	pmor
+Hydrocarbons	C01438	Methane	tro	pscf
+Hydrocarbons	C01438	Methane	tro	rfa
+Hydrocarbons	C01455	Toluene	cauj	bbet
+Hydrocarbons	C01455	Toluene	cauj	vpe
+Hydrocarbons	C01455	Toluene	cauj	pmor
+Hydrocarbons	C01455	Toluene	cauj	pscf
+Hydrocarbons	C01455	Toluene	tro	bbet
+Hydrocarbons	C01455	Toluene	tro	vpe
+Hydrocarbons	C01455	Toluene	tro	pmor
+Hydrocarbons	C01455	Toluene	tro	pscf
+Hydrocarbons	C01455	Toluene	rfa	bbet
+Hydrocarbons	C01455	Toluene	rfa	vpe
+Hydrocarbons	C01455	Toluene	rfa	pmor
+Hydrocarbons	C01455	Toluene	rfa	pscf
+Amines	C01672	Cadaverine	dri	bbet
+Amines	C01672	Cadaverine	dri	lgu
+Amines	C01672	Cadaverine	dri	cxy
+Amines	C01672	Cadaverine	dri	mip
+Amines	C01672	Cadaverine	dri	flk
+Amines	C01672	Cadaverine	pmor	bbet
+Amines	C01672	Cadaverine	pmor	lgu
+Amines	C01672	Cadaverine	pmor	cxy
+Amines	C01672	Cadaverine	pmor	mip
+Amines	C01672	Cadaverine	pmor	flk
+Amines	C01672	Cadaverine	cpi	bbet
+Amines	C01672	Cadaverine	cpi	lgu
+Amines	C01672	Cadaverine	cpi	cxy
+Amines	C01672	Cadaverine	cpi	mip
+Amines	C01672	Cadaverine	cpi	flk
+Ketones	C01888	1-aminopropan-2-one	mlot	bbet
+Ketones	C01888	1-aminopropan-2-one	mlot	mip
+Ketones	C01888	1-aminopropan-2-one	mlot	cpi
+Ketones	C01888	1-aminopropan-2-one	mlot	flk
+Ketones	C01888	1-aminopropan-2-one	pmor	bbet
+Ketones	C01888	1-aminopropan-2-one	pmor	mip
+Ketones	C01888	1-aminopropan-2-one	pmor	cpi
+Ketones	C01888	1-aminopropan-2-one	pmor	flk
+Amines	C01929	histidinal	mlot	bbet
+Amines	C01929	histidinal	mlot	buol
+Amines	C01929	histidinal	mlot	vpe
+Amines	C01929	histidinal	mlot	pmor
+Amines	C01929	histidinal	mlot	racd
+Amines	C01929	histidinal	mlot	cuvk
+Amines	C01929	histidinal	mlot	cxy
+Amines	C01929	histidinal	mlot	mip
+Amines	C01929	histidinal	mlot	flk
+Amines	C01929	histidinal	pzu	bbet
+Amines	C01929	histidinal	pzu	buol
+Amines	C01929	histidinal	pzu	vpe
+Amines	C01929	histidinal	pzu	pmor
+Amines	C01929	histidinal	pzu	racd
+Amines	C01929	histidinal	pzu	cuvk
+Amines	C01929	histidinal	pzu	cxy
+Amines	C01929	histidinal	pzu	mip
+Amines	C01929	histidinal	pzu	flk
+Amines	C01929	histidinal	cohm	bbet
+Amines	C01929	histidinal	cohm	buol
+Amines	C01929	histidinal	cohm	vpe
+Amines	C01929	histidinal	cohm	pmor
+Amines	C01929	histidinal	cohm	racd
+Amines	C01929	histidinal	cohm	cuvk
+Amines	C01929	histidinal	cohm	cxy
+Amines	C01929	histidinal	cohm	mip
+Amines	C01929	histidinal	cohm	flk
+AminoAcids	C02265	D-phenylalanine	cauj	bbet
+AminoAcids	C02265	D-phenylalanine	cauj	tro
+AminoAcids	C02265	D-phenylalanine	cauj	buol
+AminoAcids	C02265	D-phenylalanine	cauj	vpe
+AminoAcids	C02265	D-phenylalanine	cauj	lur
+AminoAcids	C02265	D-phenylalanine	cauj	cpi
+AminoAcids	C02265	D-phenylalanine	cauj	flk
+AminoAcids	C02265	D-phenylalanine	pzu	bbet
+AminoAcids	C02265	D-phenylalanine	pzu	tro
+AminoAcids	C02265	D-phenylalanine	pzu	buol
+AminoAcids	C02265	D-phenylalanine	pzu	vpe
+AminoAcids	C02265	D-phenylalanine	pzu	lur
+AminoAcids	C02265	D-phenylalanine	pzu	cpi
+AminoAcids	C02265	D-phenylalanine	pzu	flk
+AminoAcids	C02265	D-phenylalanine	racd	bbet
+AminoAcids	C02265	D-phenylalanine	racd	tro
+AminoAcids	C02265	D-phenylalanine	racd	buol
+AminoAcids	C02265	D-phenylalanine	racd	vpe
+AminoAcids	C02265	D-phenylalanine	racd	lur
+AminoAcids	C02265	D-phenylalanine	racd	cpi
+AminoAcids	C02265	D-phenylalanine	racd	flk
+AminoAcids	C02265	D-phenylalanine	rfa	bbet
+AminoAcids	C02265	D-phenylalanine	rfa	tro
+AminoAcids	C02265	D-phenylalanine	rfa	buol
+AminoAcids	C02265	D-phenylalanine	rfa	vpe
+AminoAcids	C02265	D-phenylalanine	rfa	lur
+AminoAcids	C02265	D-phenylalanine	rfa	cpi
+AminoAcids	C02265	D-phenylalanine	rfa	flk
+AminoAcids	C02265	D-phenylalanine	mgk	bbet
+AminoAcids	C02265	D-phenylalanine	mgk	tro
+AminoAcids	C02265	D-phenylalanine	mgk	buol
+AminoAcids	C02265	D-phenylalanine	mgk	vpe
+AminoAcids	C02265	D-phenylalanine	mgk	lur
+AminoAcids	C02265	D-phenylalanine	mgk	cpi
+AminoAcids	C02265	D-phenylalanine	mgk	flk
+Sugars	C02713	N-acetylmuramic acid	cauj	bbet
+Sugars	C02713	N-acetylmuramic acid	cauj	mlot
+Sugars	C02713	N-acetylmuramic acid	cauj	vpe
+Sugars	C02713	N-acetylmuramic acid	cauj	pmor
+Sugars	C02713	N-acetylmuramic acid	cauj	pscf
+Sugars	C02713	N-acetylmuramic acid	cauj	cuvk
+Sugars	C02713	N-acetylmuramic acid	pzu	bbet
+Sugars	C02713	N-acetylmuramic acid	pzu	mlot
+Sugars	C02713	N-acetylmuramic acid	pzu	vpe
+Sugars	C02713	N-acetylmuramic acid	pzu	pmor
+Sugars	C02713	N-acetylmuramic acid	pzu	pscf
+Sugars	C02713	N-acetylmuramic acid	pzu	cuvk
+Sugars	C02713	N-acetylmuramic acid	buol	bbet
+Sugars	C02713	N-acetylmuramic acid	buol	mlot
+Sugars	C02713	N-acetylmuramic acid	buol	vpe
+Sugars	C02713	N-acetylmuramic acid	buol	pmor
+Sugars	C02713	N-acetylmuramic acid	buol	pscf
+Sugars	C02713	N-acetylmuramic acid	buol	cuvk
+Sugars	C02713	N-acetylmuramic acid	lgu	bbet
+Sugars	C02713	N-acetylmuramic acid	lgu	mlot
+Sugars	C02713	N-acetylmuramic acid	lgu	vpe
+Sugars	C02713	N-acetylmuramic acid	lgu	pmor
+Sugars	C02713	N-acetylmuramic acid	lgu	pscf
+Sugars	C02713	N-acetylmuramic acid	lgu	cuvk
+SulfurCompounds	C03089	S-methyl-5-thio-D-ribofuranose	pzu	bbet
+SulfurCompounds	C03089	S-methyl-5-thio-D-ribofuranose	pzu	mlot
+SulfurCompounds	C03089	S-methyl-5-thio-D-ribofuranose	cuvk	bbet
+SulfurCompounds	C03089	S-methyl-5-thio-D-ribofuranose	cuvk	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	dri	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	pzu	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	tro	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	buol	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	lgu	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	rfa	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	cpi	mip
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	bbet
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	mlot
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	vpe
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	pmor
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	pscf
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	racd
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	cxy
+CarboxylicAcids	C03198	(S)-4-hydroxymandelic acid	mgk	mip
+CarboxylicAcids	C03406	Argininosuccinic Acid	dri	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	dri	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	tro	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	tro	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	buol	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	buol	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	vpe	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	vpe	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	lgu	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	lgu	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	lur	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	lur	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	racd	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	racd	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	cxy	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	cxy	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	rfa	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	rfa	cuvk
+CarboxylicAcids	C03406	Argininosuccinic Acid	mgk	pzu
+CarboxylicAcids	C03406	Argininosuccinic Acid	mgk	cuvk
+Sugars	C03752	glucosaminic acid	racd	bbet
+Sugars	C03752	glucosaminic acid	racd	buol
+Sugars	C03752	glucosaminic acid	racd	pmor
+Sugars	C03752	glucosaminic acid	racd	pscf
+Sugars	C03752	glucosaminic acid	racd	rfa
+Hydrocarbons	C05123	Isethionic Acid	flk	dri
+Hydrocarbons	C05123	Isethionic Acid	flk	mlot
+Hydrocarbons	C05123	Isethionic Acid	flk	tro
+Hydrocarbons	C05123	Isethionic Acid	flk	vpe
+Hydrocarbons	C05123	Isethionic Acid	flk	pmor
+Hydrocarbons	C05123	Isethionic Acid	flk	pscf
+Hydrocarbons	C05123	Isethionic Acid	flk	cuvk
+Hydrocarbons	C05123	Isethionic Acid	flk	cpi
+Hydrocarbons	C05123	Isethionic Acid	flk	mgk
+Hydrocarbons	C05123	Isethionic Acid	flk	cohm
+Glycosides	C05822	Cytidine Monophosphate	pzu	bbet
+Glycosides	C05822	Cytidine Monophosphate	pzu	tro
+Glycosides	C05822	Cytidine Monophosphate	pzu	buol
+Glycosides	C05822	Cytidine Monophosphate	pzu	vpe
+Glycosides	C05822	Cytidine Monophosphate	pzu	pmor
+Glycosides	C05822	Cytidine Monophosphate	pzu	pscf
+Glycosides	C05822	Cytidine Monophosphate	pzu	mip
+Glycosides	C05822	Cytidine Monophosphate	rfa	bbet
+Glycosides	C05822	Cytidine Monophosphate	rfa	tro
+Glycosides	C05822	Cytidine Monophosphate	rfa	buol
+Glycosides	C05822	Cytidine Monophosphate	rfa	vpe
+Glycosides	C05822	Cytidine Monophosphate	rfa	pmor
+Glycosides	C05822	Cytidine Monophosphate	rfa	pscf
+Glycosides	C05822	Cytidine Monophosphate	rfa	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cauj	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cauj	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cauj	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cauj	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cauj	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	tro	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	tro	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	tro	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	tro	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	tro	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	vpe	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	vpe	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	vpe	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	vpe	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	vpe	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	lur	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	lur	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	lur	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	lur	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	lur	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	pmor	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	pmor	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	pmor	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	pmor	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	pmor	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	mgk	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	mgk	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	mgk	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	mgk	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	mgk	cpi
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cohm	mlot
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cohm	pscf
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cohm	cuvk
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cohm	mip
+SulfurCompounds	C11499	(S)-3-sulfonatolactate(2-)	cohm	cpi
+CarboxylicAcids	C14179	sulfoacetic acid	rfa	vpe
+CarboxylicAcids	C14179	sulfoacetic acid	flk	vpe
+CarboxylicAcids	C17530	methyl acetate	cohm	bbet
+CarboxylicAcids	C17530	methyl acetate	cohm	pzu
+CarboxylicAcids	C17530	methyl acetate	cohm	tro
+CarboxylicAcids	C17530	methyl acetate	cohm	vpe

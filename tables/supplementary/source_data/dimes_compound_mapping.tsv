@@ -1,0 +1,269 @@
+metabolite	name	class
+C00001	Water	Inorganics
+C00003	NAD	Glycosides
+C00007	Oxygen	Inorganics
+C00009	phosphoric acid	Inorganics
+C00011	Carbon Dioxide	Inorganics
+C00014	Ammonia	Inorganics
+C00016	Flavin-Adenine Dinucleotide	Vitamins&Cofactors
+C00020	Adenosine Monophosphate	Glycosides
+C00022	Pyruvic Acid	CarboxylicAcids
+C00025	Glutamic Acid	AminoAcids
+C00026	Ketoglutaric Acids	CarboxylicAcids
+C00027	Hydrogen Peroxide	Inorganics
+C00029	Uridine Diphosphate Glucose	Glycosides
+C00032	Heme	Inorganics
+C00033	Acetic Acid	CarboxylicAcids
+C00035	Guanosine Diphosphate	Glycosides
+C00037	Glycine	AminoAcids
+C00041	Alanine	AminoAcids
+C00042	Succinic Acid	CarboxylicAcids
+C00043	Uridine Diphosphate N-Acetylglucosamine	Glycosides
+C00044	Guanosine Triphosphate	Glycosides
+C00047	Lysine	AminoAcids
+C00049	Aspartic Acid	AminoAcids
+C00051	Glutathione	Peptides
+C00052	UDP-alpha-D-galactose	Glycosides
+C00055	Cytidine Monophosphate	Glycosides
+C00058	formic acid	CarboxylicAcids
+C00059	sulfuric acid	SulfurCompounds
+C00061	Flavin Mononucleotide	Vitamins&Cofactors
+C00062	Arginine	AminoAcids
+C00064	Glutamine	AminoAcids
+C00065	Serine	AminoAcids
+C00067	Formaldehyde	Aldehydes
+C00073	Methionine	SulfurCompounds
+C00077	Ornithine	AminoAcids
+C00078	Tryptophan	AminoAcids
+C00079	Phenylalanine	AminoAcids
+C00082	Tyrosine	AminoAcids
+C00084	Acetaldehyde	Aldehydes
+C00085	D-fructofuranose 6-phosphate	Sugars
+C00086	Urea	Amides
+C00088	Nitrous Acid	Inorganics
+C00089	Sucrose	Sugars
+C00090	catechol	Hydrocarbons
+C00092	D-glucopyranose 6-phosphate	Sugars
+C00093	Glycerophosphates	Sugars
+C00094	sulfurous acid	Inorganics
+C00095	D-fructofuranose	Sugars
+C00097	Cysteine	SulfurCompounds
+C00099	beta-Alanine	AminoAcids
+C00103	glucose-1-phosphate	Sugars
+C00105	Uridine Monophosphate	Glycosides
+C00106	Uracil	HeterocyclicCompounds
+C00109	alpha-ketobutyric acid	CarboxylicAcids
+C00114	Choline	Amines
+C00116	Glycerol	Sugars
+C00118	Glyceraldehyde 3-Phosphate	Sugars
+C00120	Biotin	Vitamins&Cofactors
+C00121	D-ribofuranose	Sugars
+C00122	fumaric acid	CarboxylicAcids
+C00123	Leucine	AminoAcids
+C00127	Glutathione Disulfide	Peptides
+C00130	Inosine Monophosphate	Glycosides
+C00132	Methanol	Alcohols
+C00133	D-alanine	AminoAcids
+C00134	Putrescine	Amines
+C00135	Histidine	AminoAcids
+C00137	L-histidine	Sugars
+C00140	Acetylglucosamine	Sugars
+C00144	Guanosine Monophosphate	Glycosides
+C00146	Phenol	Hydrocarbons
+C00147	Adenine	HeterocyclicCompounds
+C00148	Proline	AminoAcids
+C00149	(S)-malic acid	CarboxylicAcids
+C00152	Asparagine	AminoAcids
+C00156	4-hydroxybenzoic acid	Hydrocarbons
+C00158	Citric Acid	CarboxylicAcids
+C00159	Mannose	Sugars
+C00160	glycolic acid	CarboxylicAcids
+C00163	propionic acid	CarboxylicAcids
+C00164	acetoacetic acid	CarboxylicAcids
+C00167	Uridine Diphosphate Glucuronic Acid	Glycosides
+C00170	5'-methylthioadenosine	Glycosides
+C00178	Thymine	HeterocyclicCompounds
+C00179	Agmatine	Amidines
+C00181	xylopyranose	Sugars
+C00183	Valine	AminoAcids
+C00184	Dihydroxyacetone	Sugars
+C00185	Cellobiose	Sugars
+C00186	Lactic Acid	CarboxylicAcids
+C00188	Threonine	AminoAcids
+C00189	Ethanolamine	Amines
+C00191	glucopyranuronic acid	Sugars
+C00198	beta-glucono-1,5-lactone	Sugars
+C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	Glycosides
+C00204	2-keto-3-deoxygluconate	Sugars
+C00207	Acetone	Ketones
+C00208	Maltose	Sugars
+C00212	Adenosine	Glycosides
+C00213	Sarcosine	Peptides
+C00214	Thymidine	Glycosides
+C00237	Carbon Monoxide	Inorganics
+C00239	Deoxycytidine Monophosphate	Glycosides
+C00242	Guanine	HeterocyclicCompounds
+C00244	Nitric Acid	Inorganics
+C00245	Taurine	Hydrocarbons
+C00246	Butyric Acid	CarboxylicAcids
+C00249	Palmitic Acid	FattyAcids
+C00250	Pyridoxal	Vitamins&Cofactors
+C00253	Niacin	Vitamins&Cofactors
+C00255	Riboflavin	Vitamins&Cofactors
+C00256	Lactic Acid	CarboxylicAcids
+C00257	gluconic acid	Sugars
+C00258	D-glyceric acid	CarboxylicAcids
+C00262	Hypoxanthine	HeterocyclicCompounds
+C00263	Homoserine	AminoAcids
+C00270	N-Acetylneuraminic Acid	Sugars
+C00275	mannose-6-phosphate	Sugars
+C00283	Hydrogen Sulfide	SulfurCompounds
+C00288	Bicarbonates	Inorganics
+C00294	Inosine	Glycosides
+C00295	Orotic Acid	HeterocyclicCompounds
+C00296	Quinic Acid	CarboxylicAcids
+C00299	Uridine	Glycosides
+C00300	Creatine	Amidines
+C00311	isocitric acid	CarboxylicAcids
+C00314	Pyridoxine	Vitamins&Cofactors
+C00315	Spermidine	Amines
+C00320	trioxidosulfanidosulfate	Inorganics
+C00327	Citrulline	AminoAcids
+C00330	Deoxyguanosine	Glycosides
+C00334	gamma-Aminobutyric Acid	CarboxylicAcids
+C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	Sugars
+C00360	2'-deoxy-5'-adenosine monophosphate	Glycosides
+C00362	2'-deoxyguanosine 5'-phosphate	Glycosides
+C00364	Thymidine Monophosphate	Glycosides
+C00365	2'-deoxyuridylic acid	Glycosides
+C00366	Uric Acid	HeterocyclicCompounds
+C00369	Glycogen	Sugars
+C00378	Thiamine	Vitamins&Cofactors
+C00380	Cytosine	HeterocyclicCompounds
+C00385	Xanthine	HeterocyclicCompounds
+C00387	Guanosine	Glycosides
+C00388	Histamine	Amines
+C00392	Mannitol	Sugars
+C00398	tryptamine	Amines
+C00402	D-Aspartic Acid	AminoAcids
+C00407	Isoleucine	AminoAcids
+C00409	methylmercaptan	SulfurCompounds
+C00417	Aconitic Acid	CarboxylicAcids
+C00418	Mevalonic Acid	CarboxylicAcids
+C00423	cinnamic acid	CarboxylicAcids
+C00429	dihydrouracil	HeterocyclicCompounds
+C00431	5-aminovaleric acid	AminoAcids
+C00446	galactose-1-phosphate	Sugars
+C00455	Nicotinamide Mononucleotide	Glycosides
+C00463	indole	HeterocyclicCompounds
+C00469	Ethanol	Alcohols
+C00475	Cytidine	Glycosides
+C00479	propionaldehyde	Aldehydes
+C00483	Tyramine	Amines
+C00487	carnitinium	Inorganics
+C00488	formamide	CarboxylicAcids
+C00493	Shikimic Acid	CarboxylicAcids
+C00497	(R)-malic acid	CarboxylicAcids
+C00499	allantoic acid	Amides
+C00502	xylonic acid	Sugars
+C00504	Folic Acid	Vitamins&Cofactors
+C00526	Deoxyuridine	Glycosides
+C00533	Nitric Oxide	Inorganics
+C00534	Pyridoxamine	Vitamins&Cofactors
+C00544	Homogentisic Acid	CarboxylicAcids
+C00546	Pyruvaldehyde	Aldehydes
+C00559	2'-deoxyadenosine	Glycosides
+C00577	D-glyceraldehyde	Sugars
+C00580	dimethyl sulfide	SulfurCompounds
+C00601	phenylacetaldehyde	Aldehydes
+C00624	N-acetylglutamic acid	AminoAcids
+C00631	2-phospho-D-glyceric acid	Sugars
+C00645	N-acetylmannosamine	Sugars
+C00655	xanthosine monophosphate	Glycosides
+C00671	alpha-keto-beta-methylvaleric acid	CarboxylicAcids
+C00680	meso-2,6-diaminopimelic acid	CarboxylicAcids
+C00719	Betaine	Amines
+C00739	D-lysine	AminoAcids
+C00740	D-serine	AminoAcids
+C00741	Diacetyl	Ketones
+C00763	D-proline	AminoAcids
+C00785	Urocanic Acid	CarboxylicAcids
+C00791	Creatinine	HeterocyclicCompounds
+C00792	D-arginine	AminoAcids
+C00793	D-cysteine	AminoAcids
+C00794	Sorbitol	AminoAcids
+C00805	Salicylic Acid	CarboxylicAcids
+C00811	p-coumaric acid	CarboxylicAcids
+C00819	Glutamine	AminoAcids
+C00820	D-threonine	AminoAcids
+C00864	Pantothenic Acid	Vitamins&Cofactors
+C00881	Deoxycytidine	Glycosides
+C00898	tartaric acid	Sugars
+C00905	D-fructofuranuronic acid	CarboxylicAcids
+C00973	cyclomaltodextrin	Sugars
+C00979	O-acetylserine	AminoAcids
+C00986	trimethylenediamine	Amines
+C00993	alanylalanine	Peptides
+C01005	plasmenylserine	Sugars
+C01013	hydracrylic acid	CarboxylicAcids
+C01026	dimethylglycine	Peptides
+C01035	gamma-guanidinobutyric acid	Amidines
+C01040	L-gulono-1,4-lactone	HeterocyclicCompounds
+C01083	Trehalose	Sugars
+C01089	(R)-3-hydroxybutyric acid	CarboxylicAcids
+C01181	gamma-butyrobetaine	Amines
+C01367	Adenosine Monophosphate	Glycosides
+C01368	3'-uridylic acid	Glycosides
+C01412	butyraldehyde	Aldehydes
+C01417	cyanic acid	Hydroxides
+C01419	cysteinylglycine	Peptides
+C01438	Methane	Hydrocarbons
+C01455	Toluene	Hydrocarbons
+C01502	Guaiacol	Hydrocarbons
+C01672	Cadaverine	Amines
+C01674	N,N-diacetylchitobiose	Sugars
+C01697	Galactitol	Sugars
+C01762	xanthosine	Glycosides
+C01888	1-aminopropan-2-one	Ketones
+C01929	histidinal	Amines
+C02265	D-phenylalanine	AminoAcids
+C02350	(S)-(+)-allantoin	HeterocyclicCompounds
+C02376	5-Methylcytosine	HeterocyclicCompounds
+C02630	alpha-hydroxyglutarate	CarboxylicAcids
+C02679	lauric acid	FattyAcids
+C02693	indoleacetamide	HeterocyclicCompounds
+C02713	N-acetylmuramic acid	Sugars
+C02714	N-acetylputrescine	Amines
+C02946	4-acetamidobutanoic acid	CarboxylicAcids
+C02989	methionine sulfoxide	SulfurCompounds
+C03089	S-methyl-5-thio-D-ribofuranose	SulfurCompounds
+C03198	(S)-4-hydroxymandelic acid	CarboxylicAcids
+C03406	Argininosuccinic Acid	CarboxylicAcids
+C03519	N-acetylphenylalanine	AminoAcids
+C03589	4-hydroxy-2-oxovalerate	CarboxylicAcids
+C03722	Quinolinic Acid	HeterocyclicCompounds
+C03752	glucosaminic acid	Sugars
+C03765	4-hydroxyphenylacetaldehyde	Hydrocarbons
+C05123	Isethionic Acid	Hydrocarbons
+C05198	5'-deoxyadenosine	Glycosides
+C05512	deoxyinosine	Glycosides
+C05583	3-methoxy-4-hydroxyphenylglycolaldehyde	Phenols
+C05584	Vanilmandelic Acid	CarboxylicAcids
+C05629	3-phenylpropionic acid	CarboxylicAcids
+C05821	Enterobactin	Peptides
+C05822	Cytidine Monophosphate	Glycosides
+C05984	(S)-2-hydroxybutyric acid	CarboxylicAcids
+C06193	3'-guanylic acid	Glycosides
+C06423	octanoic acid	CarboxylicAcids
+C06735	2-aminoacetaldehyde	AminoAcids
+C07086	phenylacetic acid	CarboxylicAcids
+C08362	palmitoleic acid	FattyAcids
+C09332		AminoAcids
+C11499	(S)-3-sulfonatolactate(2-)	SulfurCompounds
+C11544	mannosylglycerate	Sugars
+C11588	cis-3-(1-Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	CarbocyclicCompounds
+C14179	sulfoacetic acid	CarboxylicAcids
+C14818	iron(2+)	Inorganics
+C17530	methyl acetate	CarboxylicAcids
+C20657	meso-butane-2,3-diol	Alcohols
+C21173	phosphoethanolamine-Kdo2-lipid A	CarboxylicEsters

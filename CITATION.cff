@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software or its models, please cite the accompanying manuscript."
+type: software
+title: "Genome-scale metabolic models for a synthetic soil microbial community as a path for understanding community functioning"
+repository-code: "https://github.com/EPFL-LCSB/SoilSynCom"
+license: GPL-3.0-only
+authors:
+  - family-names: Keshk
+    given-names: Omar
+  - family-names: Vayena
+    given-names: Evangelia
+  - family-names: Čaušević
+    given-names: Senka
+  - family-names: Sintsova
+    given-names: Anna
+  - family-names: Wijaya
+    given-names: Davin
+  - family-names: van der Meer
+    given-names: Jan Roelof
+  - family-names: Hatzimanikatis
+    given-names: Vassily
+    email: vassily.hatzimanikatis@epfl.ch
+keywords:
+  - genome-scale metabolic models
+  - synthetic microbial community
+  - soil microbiome
+  - thermodynamics
+  - metabolic interactions
+  - constraint-based modeling
+abstract: >-
+  Research code, curated genome-scale metabolic models, figures, and source
+  data for a species-resolved analysis of metabolism and nutrient exchange in
+  a defined 21-member soil synthetic microbial community.

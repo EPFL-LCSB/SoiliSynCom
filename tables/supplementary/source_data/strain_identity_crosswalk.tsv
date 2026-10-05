@@ -1,0 +1,22 @@
+model_code	assembly_identifier	culture_label	GTDB_assignment	GTDB_phylum	GTDB_class	assembly_accession
+bbet	PB02	Bra	Bradyrhizobium	Pseudomonadota	Alphaproteobacteria	GCA_988226255
+buol	PB15	Bur	Paraburkholderia aspalathi	Pseudomonadota	Gammaproteobacteria	GCA_988226305
+cauj	PB07	Cau	Caulobacter	Pseudomonadota	Alphaproteobacteria	GCA_988226285
+cxy	PB01	Cell	Cellulomonas	Actinomycetota	Actinomycetes	GCA_988226295
+cpi	PB16b	Chi	Chitinophaga	Bacteroidota	Bacteroidia	GCA_988226415
+cohm	PB10	Coh	Cohnella	Bacillota	Bacilli	GCA_988226435
+cuvk	018_S8	Cur	Curtobacterium sp003234365	Actinomycetota	Actinomycetes	GCA_988226495
+dri	PB09	Dev	Devosia	Pseudomonadota	Alphaproteobacteria	GCA_988226505
+flk	005_S3	Fla	Flavobacterium	Bacteroidota	Bacteroidia	GCA_988226525
+lur	PB03a	Lut	Luteibacter	Pseudomonadota	Gammaproteobacteria	GCA_988226445
+lgu	PB06	Lys	Lysobacter	Pseudomonadota	Gammaproteobacteria	GCA_988226385
+mlot	PB05	Mes	Mesorhizobium	Pseudomonadota	Alphaproteobacteria	GCA_988226395
+mip	012_S5	Mic	Microbacterium sp001595495	Actinomycetota	Actinomycetes	GCA_988226335
+mgk	015_S7	Muc	Mucilaginibacter	Bacteroidota	Bacteroidia	GCA_988226455
+pzu	PB04	Phe	Phenylobacterium	Pseudomonadota	Alphaproteobacteria	GCA_988226365
+pmor	PB08	Pse-1	Aquipseudomonas sp003605735	Pseudomonadota	Gammaproteobacteria	GCA_988226405
+pscf	PB14	Pse-2	Aquipseudomonas paracarnis	Pseudomonadota	Gammaproteobacteria	GCA_988226325
+racd	PB12	Rah	Rahnella victoriana	Pseudomonadota	Gammaproteobacteria	GCA_988226485
+rfa	PB13	Rho	Rhodococcoides fascians	Actinomycetota	Actinomycetes	GCA_988226545
+tro	PB11	Tar	Tardiphaga sp008329525	Pseudomonadota	Alphaproteobacteria	GCA_988226465
+vpe	004_S2	Var	Variovorax	Pseudomonadota	Gammaproteobacteria	GCA_988226355

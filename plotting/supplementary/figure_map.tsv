@@ -1,0 +1,94 @@
+figure	file	source	treatment
+S1	figures/S01_succinate_atlas_p1.svg	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p1.svg	unchanged artwork; new filename
+S1	figures/S01_succinate_atlas_p1.pdf	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p1.pdf	unchanged artwork; new filename
+S1	figures/S01_succinate_atlas_p1.png	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p1.png	unchanged artwork; new filename
+S1	figures/S01_succinate_atlas_p2.svg	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p2.svg	unchanged artwork; new filename
+S1	figures/S01_succinate_atlas_p2.pdf	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p2.pdf	unchanged artwork; new filename
+S1	figures/S01_succinate_atlas_p2.png	SoilSynCom_supmat/V4_assets/figures/S01_succinate_atlas_p2.png	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p1.svg	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p1.svg	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p1.pdf	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p1.pdf	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p1.png	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p1.png	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p2.svg	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p2.svg	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p2.pdf	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p2.pdf	unchanged artwork; new filename
+S2	figures/S02_PTYG_atlas_p2.png	SoilSynCom_supmat/V4_assets/figures/S02_PTYG_atlas_p2.png	unchanged artwork; new filename
+S3	figures/S03_genome_assembly_structure.svg	SoilSynCom_supmat/V4_assets/figures/S14_genome_assembly_structure.svg	unchanged artwork; new filename
+S3	figures/S03_genome_assembly_structure.pdf	SoilSynCom_supmat/V4_assets/figures/S14_genome_assembly_structure.pdf	unchanged artwork; new filename
+S3	figures/S03_genome_assembly_structure.png	SoilSynCom_supmat/V4_assets/figures/S14_genome_assembly_structure.png	unchanged artwork; new filename
+S4	figures/S04_workflow.png	SoilSynCom_supmat/V5_assets/v2_artwork/workflow.png	Workflow reconstructed from the local diagram and manuscript methods; claims and stage labels aligned with the reviewed caption.
+S4	figures/S04_workflow.svg	SoilSynCom_supmat/V5_assets/v2_artwork/workflow.svg	Workflow reconstructed from the local diagram and manuscript methods; claims and stage labels aligned with the reviewed caption.
+S4	figures/S04_workflow.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/workflow.pdf	Workflow reconstructed from the local diagram and manuscript methods; claims and stage labels aligned with the reviewed caption.
+S5	figures/S05_diagnostics.png	SoilSynCom_supmat/V5_assets/v2_artwork/diagnostics.png	Original V2 artwork recovered from its embedded PDF; matching live-text SVG.
+S5	figures/S05_diagnostics.svg	SoilSynCom_supmat/V5_assets/v2_artwork/diagnostics.svg	Original V2 artwork recovered from its embedded PDF; matching live-text SVG.
+S5	figures/S05_diagnostics.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/diagnostics_original.pdf	Original V2 artwork recovered from its embedded PDF; matching live-text SVG.
+S6	figures/S06a_genome_and_curation.svg	SoilSynCom_supmat/V4_assets/figures/S03a_genome_and_curation.svg	unchanged artwork; new filename
+S6	figures/S06a_genome_and_curation.pdf	SoilSynCom_supmat/V4_assets/figures/S03a_genome_and_curation.pdf	unchanged artwork; new filename
+S6	figures/S06a_genome_and_curation.png	SoilSynCom_supmat/V4_assets/figures/S03a_genome_and_curation.png	unchanged artwork; new filename
+S6	figures/S06b_substrate_prediction_errors.svg	SoilSynCom_supmat/V4_assets/figures/S03b_substrate_prediction_errors.svg	unchanged artwork; new filename
+S6	figures/S06b_substrate_prediction_errors.pdf	SoilSynCom_supmat/V4_assets/figures/S03b_substrate_prediction_errors.pdf	unchanged artwork; new filename
+S6	figures/S06b_substrate_prediction_errors.png	SoilSynCom_supmat/V4_assets/figures/S03b_substrate_prediction_errors.png	unchanged artwork; new filename
+S7	figures/S07_gapfill_evidence_scores.svg	SoilSynCom_supmat/V4_assets/figures/S05_gapfill_evidence_scores.svg	unchanged artwork; new filename
+S7	figures/S07_gapfill_evidence_scores.pdf	SoilSynCom_supmat/V4_assets/figures/S05_gapfill_evidence_scores.pdf	unchanged artwork; new filename
+S7	figures/S07_gapfill_evidence_scores.png	SoilSynCom_supmat/V4_assets/figures/S05_gapfill_evidence_scores.png	unchanged artwork; new filename
+S8	figures/S08_quality_and_thermodynamics.svg	SoilSynCom_supmat/V4_assets/figures/S04_quality_and_thermodynamics.svg	unchanged artwork; new filename
+S8	figures/S08_quality_and_thermodynamics.pdf	SoilSynCom_supmat/V4_assets/figures/S04_quality_and_thermodynamics.pdf	unchanged artwork; new filename
+S8	figures/S08_quality_and_thermodynamics.png	SoilSynCom_supmat/V4_assets/figures/S04_quality_and_thermodynamics.png	unchanged artwork; new filename
+S9	figures/S09_nutrient_alternative_cardinality.svg	SoilSynCom_supmat/V4_assets/figures/S06_nutrient_alternative_cardinality.svg	unchanged artwork; new filename
+S9	figures/S09_nutrient_alternative_cardinality.pdf	SoilSynCom_supmat/V4_assets/figures/S06_nutrient_alternative_cardinality.pdf	unchanged artwork; new filename
+S9	figures/S09_nutrient_alternative_cardinality.png	SoilSynCom_supmat/V4_assets/figures/S06_nutrient_alternative_cardinality.png	unchanged artwork; new filename
+S10	figures/S10_supplementation_validation.svg	SoilSynCom_supmat/V4_assets/figures/S07_supplementation_validation.svg	unchanged artwork; new filename
+S10	figures/S10_supplementation_validation.pdf	SoilSynCom_supmat/V4_assets/figures/S07_supplementation_validation.pdf	unchanged artwork; new filename
+S10	figures/S10_supplementation_validation.png	SoilSynCom_supmat/V4_assets/figures/S07_supplementation_validation.png	unchanged artwork; new filename
+S11	figures/S11_class_coverage_01.svg	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_01.svg	unchanged artwork; new filename
+S11	figures/S11_class_coverage_01.pdf	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_01.pdf	unchanged artwork; new filename
+S11	figures/S11_class_coverage_01.png	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_01.png	unchanged artwork; new filename
+S11	figures/S11_class_coverage_02.svg	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_02.svg	unchanged artwork; new filename
+S11	figures/S11_class_coverage_02.pdf	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_02.pdf	unchanged artwork; new filename
+S11	figures/S11_class_coverage_02.png	SoilSynCom_supmat/V4_assets/figures/S08_class_coverage_02.png	unchanged artwork; new filename
+S12	figures/S12_v2_profiles_sheet1.png	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet1.png	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S12	figures/S12_v2_profiles_sheet1.svg	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet1.svg	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S12	figures/S12_v2_profiles_sheet1.pdf	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet1.pdf	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S12	figures/S12_v2_profiles_sheet2.png	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet2.png	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S12	figures/S12_v2_profiles_sheet2.svg	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet2.svg	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S12	figures/S12_v2_profiles_sheet2.pdf	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_profiles_sheet2.pdf	Replotted from exact original ClassMatrix source workbooks, preserving all panel-specific values and orders; added colour keys and readable labels.
+S13	figures/S13_sharing.png	SoilSynCom_supmat/V5_assets/v2_artwork/sharing.png	Original V2 donut geometry and counts preserved; products/substrates labels clarified as secretion/uptake.
+S13	figures/S13_sharing.svg	SoilSynCom_supmat/V5_assets/v2_artwork/sharing.svg	Original V2 donut geometry and counts preserved; products/substrates labels clarified as secretion/uptake.
+S13	figures/S13_sharing.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/sharing.pdf	Original V2 donut geometry and counts preserved; products/substrates labels clarified as secretion/uptake.
+S14	figures/S14_optimal_vs_pooled.svg	SoilSynCom_supmat/V4_assets/figures/S11_optimal_vs_pooled.svg	unchanged artwork; new filename
+S14	figures/S14_optimal_vs_pooled.pdf	SoilSynCom_supmat/V4_assets/figures/S11_optimal_vs_pooled.pdf	unchanged artwork; new filename
+S14	figures/S14_optimal_vs_pooled.png	SoilSynCom_supmat/V4_assets/figures/S11_optimal_vs_pooled.png	unchanged artwork; new filename
+S14	figures/S14_niche_overlap_sensitivity.svg	SoilSynCom_supmat/V4_assets/figures/S11_niche_overlap_sensitivity.svg	unchanged artwork; new filename
+S14	figures/S14_niche_overlap_sensitivity.pdf	SoilSynCom_supmat/V4_assets/figures/S11_niche_overlap_sensitivity.pdf	unchanged artwork; new filename
+S14	figures/S14_niche_overlap_sensitivity.png	SoilSynCom_supmat/V4_assets/figures/S11_niche_overlap_sensitivity.png	unchanged artwork; new filename
+S15	figures/S15_v2_metabolomics_sheet1.png	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet1.png	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S15	figures/S15_v2_metabolomics_sheet1.svg	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet1.svg	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S15	figures/S15_v2_metabolomics_sheet1.pdf	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet1.pdf	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S15	figures/S15_v2_metabolomics_sheet2.png	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet2.png	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S15	figures/S15_v2_metabolomics_sheet2.svg	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet2.svg	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S15	figures/S15_v2_metabolomics_sheet2.pdf	SoilSynCom_supmat/V5_assets/v2_redraw/figures/v2_metabolomics_sheet2.pdf	Source-faithful redraw of the pooled-yield comparison, split for readability. Corrected two secretion markers buol/vpe from Pyridoxine to Glycerol according to source summaries; basal mip missingness explicit.
+S16	figures/S16_central_metabolic_cores.svg	SoilSynCom_supmat/V4_assets/figures/S16_central_metabolic_cores.svg	unchanged artwork; new filename
+S16	figures/S16_central_metabolic_cores.pdf	SoilSynCom_supmat/V4_assets/figures/S16_central_metabolic_cores.pdf	unchanged artwork; new filename
+S16	figures/S16_central_metabolic_cores.png	SoilSynCom_supmat/V4_assets/figures/S16_central_metabolic_cores.png	unchanged artwork; new filename
+S17	figures/S17_biosynthesis_A_left.png	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_left.png	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_A_left.svg	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_left.svg	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_A_left.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_left.pdf	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_A_right.png	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_right.png	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_A_right.svg	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_right.svg	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_A_right.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_A_right.pdf	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_B.png	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_B.png	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_B.svg	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_B.svg	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S17	figures/S17_biosynthesis_B.pdf	SoilSynCom_supmat/V5_assets/v2_artwork/biosynthesis_B.pdf	Original V2 vector heatmaps and bar values preserved; panel A split into two enlarged sheets, repeated colour keys and taxonomic legends, bar tick labels enlarged on third sheet.
+S18	figures/S18_ptyg_biosynthetic_similarity.svg	SoilSynCom_supmat/V4_assets/figures/S12_ptyg_biosynthetic_similarity.svg	unchanged artwork; new filename
+S18	figures/S18_ptyg_biosynthetic_similarity.pdf	SoilSynCom_supmat/V4_assets/figures/S12_ptyg_biosynthetic_similarity.pdf	unchanged artwork; new filename
+S18	figures/S18_ptyg_biosynthetic_similarity.png	SoilSynCom_supmat/V4_assets/figures/S12_ptyg_biosynthetic_similarity.png	unchanged artwork; new filename
+S19	figures/S19_bbb_route_sizes.svg	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_sizes.svg	unchanged artwork; new filename
+S19	figures/S19_bbb_route_sizes.pdf	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_sizes.pdf	unchanged artwork; new filename
+S19	figures/S19_bbb_route_sizes.png	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_sizes.png	unchanged artwork; new filename
+S19	figures/S19_bbb_route_alternatives.svg	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_alternatives.svg	unchanged artwork; new filename
+S19	figures/S19_bbb_route_alternatives.pdf	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_alternatives.pdf	unchanged artwork; new filename
+S19	figures/S19_bbb_route_alternatives.png	SoilSynCom_supmat/V4_assets/figures/S15_bbb_route_alternatives.png	unchanged artwork; new filename
+S20	figures/S20_gene_sets_and_medium_overlap.svg	SoilSynCom_supmat/V4_assets/figures/S13_gene_sets_and_medium_overlap.svg	unchanged artwork; new filename
+S20	figures/S20_gene_sets_and_medium_overlap.pdf	SoilSynCom_supmat/V4_assets/figures/S13_gene_sets_and_medium_overlap.pdf	unchanged artwork; new filename
+S20	figures/S20_gene_sets_and_medium_overlap.png	SoilSynCom_supmat/V4_assets/figures/S13_gene_sets_and_medium_overlap.png	unchanged artwork; new filename
+S20	figures/S20_bbb_memberships.svg	SoilSynCom_supmat/V4_assets/figures/S13_bbb_memberships.svg	unchanged artwork; new filename
+S20	figures/S20_bbb_memberships.pdf	SoilSynCom_supmat/V4_assets/figures/S13_bbb_memberships.pdf	unchanged artwork; new filename
+S20	figures/S20_bbb_memberships.png	SoilSynCom_supmat/V4_assets/figures/S13_bbb_memberships.png	unchanged artwork; new filename

@@ -1,0 +1,22 @@
+model_id	original_culture_genus_label	original_isolate_id	plot_group	plot_color
+bbet	Bradyrhizobium	6478	Alphaproteobacteria	#d95f02
+cauj	Caulobacter	6537	Alphaproteobacteria	#d95f02
+dri	Devosia	6593	Alphaproteobacteria	#d95f02
+mlot	Mesorhizobium	6519	Alphaproteobacteria	#d95f02
+pzu	Phenylobacterium	6508	Alphaproteobacteria	#d95f02
+tro	Tardiphaga	6697	Alphaproteobacteria	#d95f02
+buol	Burkholderia	6699	Betaproteobacteria	#7570b3
+vpe	Variovorax	6146	Betaproteobacteria	#7570b3
+lgu	Lysobacter	6525	Gammaproteobacteria	#e7298a
+lur	Luteibacter	6500	Gammaproteobacteria	#e7298a
+pmor	Pseudomonas 1	6551	Gammaproteobacteria	#e7298a
+pscf	Pseudomonas 2	6533	Gammaproteobacteria	#e7298a
+racd	Rahnella	6700	Gammaproteobacteria	#e7298a
+cuvk	Curtobacterium	6155	Actinobacteria	#1b9e77
+cxy	Cellulomonas	6483	Actinobacteria	#1b9e77
+mip	Microbacterium	6150	Actinobacteria	#1b9e77
+rfa	Rhodococcus	6477	Actinobacteria	#1b9e77
+cpi	Chitinophaga	spr	Bacteroidetes	#e6ab02
+flk	Flavobacterium	6147	Bacteroidetes	#e6ab02
+mgk	Mucilaginibacter	6152	Bacteroidetes	#e6ab02
+cohm	Cohnella	6695	Firmicutes	#66a61e

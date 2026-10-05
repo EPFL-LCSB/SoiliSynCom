@@ -1,0 +1,1897 @@
+recipient	metabolite	name	n_other_donors	bin	other_donors	recipient_is_basal_producer
+bbet	C00011	Carbon Dioxide	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+bbet	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+bbet	C00026	Ketoglutaric Acids	14	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00027	Hydrogen Peroxide	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+bbet	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+bbet	C00037	Glycine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+bbet	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00047	Lysine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00058	formic acid	13	2+ others	cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	True
+bbet	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+bbet	C00067	Formaldehyde	12	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+bbet	C00077	Ornithine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	False
+bbet	C00078	Tryptophan	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00084	Acetaldehyde	15	2+ others	cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+bbet	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+bbet	C00086	Urea	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+bbet	C00088	Nitrous Acid	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+bbet	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+bbet	C00094	sulfurous acid	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+bbet	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+bbet	C00097	Cysteine	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00109	alpha-ketobutyric acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+bbet	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+bbet	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+bbet	C00133	D-alanine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00134	Putrescine	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00146	Phenol	2	2+ others	cpi;mgk	False
+bbet	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00159	Mannose	10	2+ others	cauj;dri;pzu;tro;pmor;racd;cuvk;cxy;rfa;mgk	True
+bbet	C00160	glycolic acid	12	2+ others	dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00163	propionic acid	2	2+ others	buol;pmor	True
+bbet	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+bbet	C00178	Thymine	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	False
+bbet	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+bbet	C00181	xylopyranose	1	1 other	cuvk	False
+bbet	C00183	Valine	16	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00184	Dihydroxyacetone	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+bbet	C00186	Lactic Acid	13	2+ others	cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00188	Threonine	14	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	False
+bbet	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+bbet	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+bbet	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	11	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	False
+bbet	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+bbet	C00207	Acetone	2	2+ others	buol;cuvk	False
+bbet	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+bbet	C00237	Carbon Monoxide	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	False
+bbet	C00239	Deoxycytidine Monophosphate	14	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00245	Taurine	7	2+ others	mlot;buol;racd;cxy;rfa;flk;cohm	True
+bbet	C00246	Butyric Acid	10	2+ others	cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	True
+bbet	C00249	Palmitic Acid	16	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00250	Pyridoxal	6	2+ others	cauj;mlot;pzu;lur;racd;cxy	False
+bbet	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+bbet	C00258	D-glyceric acid	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+bbet	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+bbet	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+bbet	C00283	Hydrogen Sulfide	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+bbet	C00288	Bicarbonates	19	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+bbet	C00315	Spermidine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	False
+bbet	C00320	trioxidosulfanidosulfate	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+bbet	C00334	gamma-Aminobutyric Acid	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	False
+bbet	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+bbet	C00360	2'-deoxy-5'-adenosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00364	Thymidine Monophosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm	True
+bbet	C00365	2'-deoxyuridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+bbet	C00380	Cytosine	14	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	False
+bbet	C00402	D-Aspartic Acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm	False
+bbet	C00407	Isoleucine	16	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00409	methylmercaptan	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+bbet	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+bbet	C00431	5-aminovaleric acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;pmor;racd;rfa;cpi;cohm	False
+bbet	C00463	indole	12	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	False
+bbet	C00469	Ethanol	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+bbet	C00488	formamide	2	2+ others	cpi;mgk	False
+bbet	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+bbet	C00499	allantoic acid	8	2+ others	dri;mlot;buol;vpe;pmor;pscf;rfa;cpi	True
+bbet	C00502	xylonic acid	1	1 other	cuvk	False
+bbet	C00533	Nitric Oxide	2	2+ others	cauj;flk	True
+bbet	C00546	Pyruvaldehyde	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	True
+bbet	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+bbet	C00580	dimethyl sulfide	1	1 other	pzu	False
+bbet	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+bbet	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+bbet	C00740	D-serine	15	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+bbet	C00741	Diacetyl	1	1 other	racd	False
+bbet	C00785	Urocanic Acid	12	2+ others	cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+bbet	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+bbet	C00793	D-cysteine	18	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00811	p-coumaric acid	9	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk	False
+bbet	C00819	Glutamine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+bbet	C00820	D-threonine	9	2+ others	cauj;dri;tro;buol;vpe;pmor;cpi;mgk;cohm	False
+bbet	C00898	tartaric acid	12	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+bbet	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+bbet	C00979	O-acetylserine	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+bbet	C00986	trimethylenediamine	11	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	False
+bbet	C00993	alanylalanine	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C01005	plasmenylserine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+bbet	C01013	hydracrylic acid	9	2+ others	cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	True
+bbet	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+bbet	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+bbet	C01412	butyraldehyde	9	2+ others	cauj;dri;tro;buol;vpe;pmor;racd;rfa;cohm	True
+bbet	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+bbet	C01438	Methane	2	2+ others	pzu;tro	False
+bbet	C01455	Toluene	4	2+ others	cauj;mlot;tro;rfa	False
+bbet	C01672	Cadaverine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	False
+bbet	C01888	1-aminopropan-2-one	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	False
+bbet	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+bbet	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+bbet	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+bbet	C03089	S-methyl-5-thio-D-ribofuranose	5	2+ others	pzu;buol;racd;cuvk;cxy	False
+bbet	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+bbet	C03752	glucosaminic acid	1	1 other	racd	False
+bbet	C05123	Isethionic Acid	5	2+ others	buol;racd;cxy;rfa;flk	True
+bbet	C05821	Enterobactin	6	2+ others	cauj;tro;buol;lgu;cuvk;mgk	True
+bbet	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+bbet	C06423	octanoic acid	1	1 other	racd	False
+bbet	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	True
+bbet	C17530	methyl acetate	3	2+ others	dri;buol;cohm	False
+cauj	C00011	Carbon Dioxide	17	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C00016	Flavin-Adenine Dinucleotide	10	2+ others	dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	True
+cauj	C00026	Ketoglutaric Acids	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+cauj	C00027	Hydrogen Peroxide	18	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+cauj	C00033	Acetic Acid	14	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+cauj	C00037	Glycine	16	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+cauj	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cauj	C00044	Guanosine Triphosphate	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00047	Lysine	16	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00051	Glutathione	9	2+ others	tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00061	Flavin Mononucleotide	10	2+ others	dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	True
+cauj	C00073	Methionine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	True
+cauj	C00077	Ornithine	14	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+cauj	C00084	Acetaldehyde	15	2+ others	bbet;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C00085	D-fructofuranose 6-phosphate	11	2+ others	dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+cauj	C00086	Urea	14	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+cauj	C00088	Nitrous Acid	16	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+cauj	C00089	Sucrose	6	2+ others	tro;buol;racd;cuvk;cpi;mgk	True
+cauj	C00092	D-glucopyranose 6-phosphate	11	2+ others	dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+cauj	C00094	sulfurous acid	17	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+cauj	C00095	D-fructofuranose	11	2+ others	dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+cauj	C00097	Cysteine	18	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00121	D-ribofuranose	6	2+ others	buol;lgu;racd;cuvk;rfa;cohm	True
+cauj	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+cauj	C00130	Inosine Monophosphate	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+cauj	C00133	D-alanine	17	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00146	Phenol	2	2+ others	cpi;mgk	False
+cauj	C00147	Adenine	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00159	Mannose	10	2+ others	bbet;dri;pzu;tro;pmor;racd;cuvk;cxy;rfa;mgk	True
+cauj	C00160	glycolic acid	13	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+cauj	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+cauj	C00164	acetoacetic acid	10	2+ others	dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+cauj	C00178	Thymine	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	False
+cauj	C00186	Lactic Acid	13	2+ others	bbet;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	True
+cauj	C00208	Maltose	8	2+ others	dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	True
+cauj	C00237	Carbon Monoxide	15	2+ others	dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+cauj	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+cauj	C00246	Butyric Acid	10	2+ others	bbet;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	True
+cauj	C00249	Palmitic Acid	16	2+ others	bbet;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00250	Pyridoxal	5	2+ others	mlot;pzu;lur;racd;cxy	True
+cauj	C00263	Homoserine	10	2+ others	dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	True
+cauj	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+cauj	C00275	mannose-6-phosphate	10	2+ others	dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+cauj	C00283	Hydrogen Sulfide	17	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+cauj	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00330	Deoxyguanosine	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cauj	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	True
+cauj	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00380	Cytosine	13	2+ others	dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+cauj	C00402	D-Aspartic Acid	10	2+ others	dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm	True
+cauj	C00409	methylmercaptan	15	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+cauj	C00431	5-aminovaleric acid	10	2+ others	dri;pzu;tro;buol;vpe;pmor;racd;rfa;cpi;cohm	True
+cauj	C00469	Ethanol	18	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C00479	propionaldehyde	2	2+ others	racd;rfa	True
+cauj	C00502	xylonic acid	1	1 other	cuvk	False
+cauj	C00533	Nitric Oxide	2	2+ others	bbet;flk	True
+cauj	C00546	Pyruvaldehyde	9	2+ others	bbet;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	True
+cauj	C00655	xanthosine monophosphate	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00739	D-lysine	13	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+cauj	C00740	D-serine	16	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	False
+cauj	C00785	Urocanic Acid	12	2+ others	bbet;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+cauj	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+cauj	C00793	D-cysteine	18	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C00819	Glutamine	13	2+ others	dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+cauj	C00820	D-threonine	8	2+ others	dri;tro;buol;vpe;pmor;cpi;mgk;cohm	True
+cauj	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+cauj	C00979	O-acetylserine	15	2+ others	bbet;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C01005	plasmenylserine	17	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C01013	hydracrylic acid	9	2+ others	bbet;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	True
+cauj	C01083	Trehalose	8	2+ others	dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	True
+cauj	C01367	Adenosine Monophosphate	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C01368	3'-uridylic acid	13	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+cauj	C01412	butyraldehyde	9	2+ others	bbet;dri;tro;buol;vpe;pmor;racd;rfa;cohm	True
+cauj	C01419	cysteinylglycine	9	2+ others	pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	True
+cauj	C01438	Methane	2	2+ others	pzu;tro	False
+cauj	C01672	Cadaverine	12	2+ others	dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	True
+cauj	C01888	1-aminopropan-2-one	15	2+ others	dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+cauj	C01929	histidinal	10	2+ others	dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	True
+cauj	C02989	methionine sulfoxide	6	2+ others	buol;lgu;lur;racd;rfa;cpi	True
+cauj	C03589	4-hydroxy-2-oxovalerate	2	2+ others	rfa;cohm	True
+cauj	C05822	Cytidine Monophosphate	12	2+ others	dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+cauj	C06423	octanoic acid	1	1 other	racd	False
+dri	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	True
+dri	C00026	Ketoglutaric Acids	14	2+ others	bbet;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+dri	C00033	Acetic Acid	14	2+ others	bbet;cauj;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C00035	Guanosine Diphosphate	11	2+ others	pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+dri	C00037	Glycine	16	2+ others	cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00042	Succinic Acid	8	2+ others	buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	True
+dri	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+dri	C00044	Guanosine Triphosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+dri	C00055	Cytidine Monophosphate	11	2+ others	cauj;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00061	Flavin Mononucleotide	10	2+ others	cauj;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	True
+dri	C00073	Methionine	11	2+ others	cauj;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	True
+dri	C00077	Ornithine	14	2+ others	cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+dri	C00084	Acetaldehyde	15	2+ others	bbet;cauj;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+dri	C00086	Urea	14	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+dri	C00088	Nitrous Acid	16	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+dri	C00094	sulfurous acid	17	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+dri	C00097	Cysteine	18	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+dri	C00122	fumaric acid	12	2+ others	mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00130	Inosine Monophosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00132	Methanol	8	2+ others	mlot;tro;buol;pmor;pscf;racd;rfa;cohm	True
+dri	C00140	Acetylglucosamine	5	2+ others	lgu;lur;racd;flk;mgk	False
+dri	C00147	Adenine	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00159	Mannose	10	2+ others	bbet;cauj;pzu;tro;pmor;racd;cuvk;cxy;rfa;mgk	True
+dri	C00160	glycolic acid	12	2+ others	bbet;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+dri	C00164	acetoacetic acid	10	2+ others	cauj;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+dri	C00179	Agmatine	10	2+ others	buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	True
+dri	C00186	Lactic Acid	14	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+dri	C00198	beta-glucono-1,5-lactone	7	2+ others	pzu;buol;racd;cuvk;cpi;mgk;cohm	True
+dri	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	True
+dri	C00204	2-keto-3-deoxygluconate	8	2+ others	pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	True
+dri	C00208	Maltose	8	2+ others	cauj;pzu;buol;racd;cuvk;rfa;cpi;mgk	True
+dri	C00237	Carbon Monoxide	15	2+ others	cauj;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+dri	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+dri	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+dri	C00249	Palmitic Acid	16	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00263	Homoserine	10	2+ others	cauj;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	True
+dri	C00270	N-Acetylneuraminic Acid	1	1 other	mgk	True
+dri	C00275	mannose-6-phosphate	10	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+dri	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+dri	C00315	Spermidine	15	2+ others	cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+dri	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00330	Deoxyguanosine	12	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+dri	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	True
+dri	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+dri	C00380	Cytosine	13	2+ others	cauj;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+dri	C00402	D-Aspartic Acid	10	2+ others	cauj;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm	True
+dri	C00409	methylmercaptan	15	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+dri	C00469	Ethanol	18	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C00499	allantoic acid	8	2+ others	bbet;mlot;buol;vpe;pmor;pscf;rfa;cpi	True
+dri	C00502	xylonic acid	1	1 other	cuvk	False
+dri	C00546	Pyruvaldehyde	9	2+ others	bbet;cauj;pzu;buol;racd;cuvk;cxy;rfa;cohm	True
+dri	C00655	xanthosine monophosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00792	D-arginine	9	2+ others	mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	True
+dri	C00793	D-cysteine	18	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00819	Glutamine	13	2+ others	cauj;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+dri	C00820	D-threonine	8	2+ others	cauj;tro;buol;vpe;pmor;cpi;mgk;cohm	True
+dri	C00979	O-acetylserine	15	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C00993	alanylalanine	14	2+ others	cauj;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C01005	plasmenylserine	17	2+ others	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+dri	C01367	Adenosine Monophosphate	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C01368	3'-uridylic acid	13	2+ others	cauj;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+dri	C01412	butyraldehyde	9	2+ others	bbet;cauj;tro;buol;vpe;pmor;racd;rfa;cohm	True
+dri	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+dri	C01888	1-aminopropan-2-one	15	2+ others	cauj;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+dri	C01929	histidinal	10	2+ others	cauj;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	True
+dri	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+dri	C05822	Cytidine Monophosphate	12	2+ others	cauj;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+dri	C06423	octanoic acid	1	1 other	racd	False
+dri	C17530	methyl acetate	2	2+ others	buol;cohm	True
+mlot	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+mlot	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+mlot	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+mlot	C00033	Acetic Acid	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+mlot	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+mlot	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+mlot	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+mlot	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+mlot	C00078	Tryptophan	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+mlot	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mlot	C00086	Urea	14	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+mlot	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+mlot	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+mlot	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+mlot	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+mlot	C00097	Cysteine	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+mlot	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+mlot	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00132	Methanol	8	2+ others	dri;tro;buol;pmor;pscf;racd;rfa;cohm	True
+mlot	C00134	Putrescine	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+mlot	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+mlot	C00140	Acetylglucosamine	5	2+ others	lgu;lur;racd;flk;mgk	False
+mlot	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+mlot	C00181	xylopyranose	1	1 other	cuvk	False
+mlot	C00184	Dihydroxyacetone	14	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+mlot	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	11	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	False
+mlot	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+mlot	C00237	Carbon Monoxide	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+mlot	C00245	Taurine	7	2+ others	bbet;buol;racd;cxy;rfa;flk;cohm	True
+mlot	C00249	Palmitic Acid	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00250	Pyridoxal	5	2+ others	cauj;pzu;lur;racd;cxy	True
+mlot	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+mlot	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+mlot	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+mlot	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+mlot	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+mlot	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00380	Cytosine	13	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+mlot	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+mlot	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+mlot	C00469	Ethanol	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+mlot	C00488	formamide	2	2+ others	cpi;mgk	False
+mlot	C00499	allantoic acid	8	2+ others	bbet;dri;buol;vpe;pmor;pscf;rfa;cpi	True
+mlot	C00504	Folic Acid	9	2+ others	cauj;dri;tro;buol;lur;racd;cpi;mgk;cohm	False
+mlot	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C00740	D-serine	15	2+ others	bbet;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mlot	C00785	Urocanic Acid	12	2+ others	bbet;cauj;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+mlot	C00792	D-arginine	9	2+ others	dri;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	True
+mlot	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+mlot	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+mlot	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+mlot	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mlot	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+mlot	C01438	Methane	2	2+ others	pzu;tro	False
+mlot	C01455	Toluene	3	2+ others	cauj;tro;rfa	True
+mlot	C01672	Cadaverine	12	2+ others	cauj;dri;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	True
+mlot	C01674	N,N-diacetylchitobiose	5	2+ others	lgu;lur;racd;flk;mgk	False
+mlot	C01697	Galactitol	1	1 other	racd	False
+mlot	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+mlot	C03089	S-methyl-5-thio-D-ribofuranose	5	2+ others	pzu;buol;racd;cuvk;cxy	False
+mlot	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+mlot	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+mlot	C06423	octanoic acid	1	1 other	racd	False
+mlot	C11499	(S)-3-sulfonatolactate(2-)	13	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	False
+pzu	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+pzu	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+pzu	C00035	Guanosine Diphosphate	11	2+ others	dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+pzu	C00037	Glycine	16	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+pzu	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00047	Lysine	16	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pzu	C00058	formic acid	13	2+ others	bbet;cauj;dri;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	True
+pzu	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+pzu	C00077	Ornithine	14	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+pzu	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+pzu	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+pzu	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+pzu	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+pzu	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pzu	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00147	Adenine	13	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00160	glycolic acid	12	2+ others	bbet;dri;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+pzu	C00164	acetoacetic acid	10	2+ others	cauj;dri;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+pzu	C00186	Lactic Acid	13	2+ others	bbet;cauj;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+pzu	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+pzu	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00255	Riboflavin	10	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cxy;rfa;cpi	True
+pzu	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+pzu	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+pzu	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+pzu	C00315	Spermidine	15	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+pzu	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00330	Deoxyguanosine	12	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+pzu	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cpi;cohm	True
+pzu	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+pzu	C00431	5-aminovaleric acid	10	2+ others	cauj;dri;tro;buol;vpe;pmor;racd;rfa;cpi;cohm	True
+pzu	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+pzu	C00493	Shikimic Acid	10	2+ others	cauj;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+pzu	C00499	allantoic acid	9	2+ others	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa;cpi	False
+pzu	C00502	xylonic acid	1	1 other	cuvk	False
+pzu	C00546	Pyruvaldehyde	9	2+ others	bbet;cauj;dri;buol;racd;cuvk;cxy;rfa;cohm	True
+pzu	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	True
+pzu	C00739	D-lysine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+pzu	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+pzu	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00819	Glutamine	13	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+pzu	C00820	D-threonine	9	2+ others	cauj;dri;tro;buol;vpe;pmor;cpi;mgk;cohm	False
+pzu	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C00986	trimethylenediamine	10	2+ others	mlot;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	True
+pzu	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+pzu	C01083	Trehalose	8	2+ others	cauj;dri;buol;racd;cuvk;rfa;cpi;mgk	True
+pzu	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pzu	C01419	cysteinylglycine	9	2+ others	cauj;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	True
+pzu	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	True
+pzu	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+pzu	C02989	methionine sulfoxide	7	2+ others	cauj;buol;lgu;lur;racd;rfa;cpi	False
+pzu	C03406	Argininosuccinic Acid	11	2+ others	dri;tro;buol;vpe;lgu;lur;racd;cxy;rfa;mgk;cohm	False
+pzu	C06423	octanoic acid	1	1 other	racd	False
+pzu	C17530	methyl acetate	3	2+ others	dri;buol;cohm	False
+tro	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+tro	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;buol;lur;racd;cxy;rfa;mgk;cohm	True
+tro	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+tro	C00033	Acetic Acid	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+tro	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+tro	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+tro	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00051	Glutathione	9	2+ others	cauj;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00058	formic acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	False
+tro	C00061	Flavin Mononucleotide	10	2+ others	cauj;dri;pzu;buol;lur;racd;cxy;rfa;cpi;cohm	True
+tro	C00067	Formaldehyde	11	2+ others	dri;pzu;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+tro	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+tro	C00084	Acetaldehyde	16	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+tro	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+tro	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+tro	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+tro	C00089	Sucrose	6	2+ others	cauj;buol;racd;cuvk;cpi;mgk	True
+tro	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+tro	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+tro	C00122	fumaric acid	12	2+ others	dri;mlot;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00132	Methanol	8	2+ others	dri;mlot;buol;pmor;pscf;racd;rfa;cohm	True
+tro	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00146	Phenol	2	2+ others	cpi;mgk	False
+tro	C00147	Adenine	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00160	glycolic acid	13	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+tro	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+tro	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+tro	C00178	Thymine	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	False
+tro	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+tro	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+tro	C00207	Acetone	2	2+ others	buol;cuvk	False
+tro	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+tro	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+tro	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+tro	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+tro	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00255	Riboflavin	10	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cxy;rfa;cpi	True
+tro	C00263	Homoserine	10	2+ others	cauj;dri;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	True
+tro	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+tro	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+tro	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+tro	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+tro	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	True
+tro	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+tro	C00380	Cytosine	13	2+ others	cauj;dri;mlot;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+tro	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;buol;vpe;lgu;lur;racd;cpi;cohm	True
+tro	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+tro	C00423	cinnamic acid	6	2+ others	buol;lgu;lur;cxy;cpi;mgk	True
+tro	C00431	5-aminovaleric acid	10	2+ others	cauj;dri;pzu;buol;vpe;pmor;racd;rfa;cpi;cohm	True
+tro	C00463	indole	11	2+ others	cauj;dri;mlot;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	True
+tro	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+tro	C00488	formamide	2	2+ others	cpi;mgk	False
+tro	C00499	allantoic acid	9	2+ others	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa;cpi	False
+tro	C00502	xylonic acid	1	1 other	cuvk	False
+tro	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+tro	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+tro	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+tro	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+tro	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00811	p-coumaric acid	8	2+ others	cauj;buol;lgu;lur;racd;cxy;cpi;mgk	True
+tro	C00819	Glutamine	13	2+ others	cauj;dri;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+tro	C00820	D-threonine	8	2+ others	cauj;dri;buol;vpe;pmor;cpi;mgk;cohm	True
+tro	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C00986	trimethylenediamine	10	2+ others	mlot;pzu;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	True
+tro	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+tro	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+tro	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+tro	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+tro	C01412	butyraldehyde	9	2+ others	bbet;cauj;dri;buol;vpe;pmor;racd;rfa;cohm	True
+tro	C01417	cyanic acid	3	2+ others	bbet;vpe;lur	True
+tro	C01419	cysteinylglycine	9	2+ others	cauj;pzu;buol;vpe;cuvk;cxy;rfa;mgk;cohm	True
+tro	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	True
+tro	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+tro	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;lgu;lur;rfa;cpi;mgk;cohm	True
+tro	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+tro	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+tro	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+tro	C06423	octanoic acid	1	1 other	racd	False
+tro	C17530	methyl acetate	3	2+ others	dri;buol;cohm	False
+buol	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;lur;racd;cxy;rfa;mgk;cohm	True
+buol	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+buol	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+buol	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+buol	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00042	Succinic Acid	8	2+ others	dri;lgu;lur;racd;cuvk;cxy;rfa;cpi	True
+buol	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+buol	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+buol	C00067	Formaldehyde	11	2+ others	dri;pzu;tro;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00073	Methionine	11	2+ others	cauj;dri;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	True
+buol	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+buol	C00078	Tryptophan	13	2+ others	cauj;dri;mlot;pzu;tro;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+buol	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+buol	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+buol	C00089	Sucrose	6	2+ others	cauj;tro;racd;cuvk;cpi;mgk	True
+buol	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+buol	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+buol	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00109	alpha-ketobutyric acid	12	2+ others	bbet;cauj;dri;pzu;tro;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00121	D-ribofuranose	6	2+ others	cauj;lgu;racd;cuvk;rfa;cohm	True
+buol	C00122	fumaric acid	12	2+ others	dri;mlot;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00132	Methanol	8	2+ others	dri;mlot;tro;pmor;pscf;racd;rfa;cohm	True
+buol	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00146	Phenol	2	2+ others	cpi;mgk	False
+buol	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00164	acetoacetic acid	10	2+ others	cauj;dri;pzu;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00179	Agmatine	10	2+ others	dri;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	True
+buol	C00181	xylopyranose	1	1 other	cuvk	False
+buol	C00185	Cellobiose	8	2+ others	dri;pzu;tro;racd;cuvk;cpi;mgk;cohm	True
+buol	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00188	Threonine	13	2+ others	cauj;dri;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+buol	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+buol	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;racd;cuvk;cpi;mgk;cohm	True
+buol	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;racd;cuvk;cpi;mgk;cohm	True
+buol	C00207	Acetone	1	1 other	cuvk	True
+buol	C00208	Maltose	8	2+ others	cauj;dri;pzu;racd;cuvk;rfa;cpi;mgk	True
+buol	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+buol	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00245	Taurine	7	2+ others	bbet;mlot;racd;cxy;rfa;flk;cohm	True
+buol	C00246	Butyric Acid	10	2+ others	bbet;cauj;pzu;vpe;lgu;lur;pmor;rfa;cpi;mgk	True
+buol	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00255	Riboflavin	10	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cxy;rfa;cpi	True
+buol	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cpi;mgk;cohm	True
+buol	C00263	Homoserine	10	2+ others	cauj;dri;tro;vpe;lgu;lur;racd;cuvk;cxy;cpi	True
+buol	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;lgu;racd;cuvk;rfa;cpi;mgk	True
+buol	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+buol	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+buol	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00334	gamma-Aminobutyric Acid	14	2+ others	cauj;dri;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+buol	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+buol	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+buol	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;vpe;lgu;lur;racd;cpi;cohm	True
+buol	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+buol	C00423	cinnamic acid	6	2+ others	tro;lgu;lur;cxy;cpi;mgk	True
+buol	C00463	indole	11	2+ others	cauj;dri;mlot;tro;lgu;lur;racd;cuvk;cxy;mgk;cohm	True
+buol	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+buol	C00488	formamide	2	2+ others	cpi;mgk	False
+buol	C00493	Shikimic Acid	10	2+ others	cauj;pzu;tro;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+buol	C00499	allantoic acid	8	2+ others	bbet;dri;mlot;vpe;pmor;pscf;rfa;cpi	True
+buol	C00502	xylonic acid	1	1 other	cuvk	False
+buol	C00546	Pyruvaldehyde	9	2+ others	bbet;cauj;dri;pzu;racd;cuvk;cxy;rfa;cohm	True
+buol	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;pzu;tro;vpe;lur;racd;cxy;rfa;cpi;cohm	True
+buol	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+buol	C00740	D-serine	15	2+ others	bbet;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+buol	C00763	D-proline	4	2+ others	vpe;lgu;cpi;mgk	False
+buol	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+buol	C00792	D-arginine	9	2+ others	dri;mlot;vpe;lgu;pmor;pscf;cxy;rfa;cpi	True
+buol	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00811	p-coumaric acid	8	2+ others	cauj;tro;lgu;lur;racd;cxy;cpi;mgk	True
+buol	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+buol	C00820	D-threonine	8	2+ others	cauj;dri;tro;vpe;pmor;cpi;mgk;cohm	True
+buol	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+buol	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;vpe;pmor;pscf;racd;cuvk;cxy;cpi	True
+buol	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+buol	C01083	Trehalose	8	2+ others	cauj;dri;pzu;racd;cuvk;rfa;cpi;mgk	True
+buol	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+buol	C01412	butyraldehyde	9	2+ others	bbet;cauj;dri;tro;vpe;pmor;racd;rfa;cohm	True
+buol	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;vpe;cuvk;cxy;rfa;mgk;cohm	True
+buol	C01438	Methane	2	2+ others	pzu;tro	False
+buol	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;vpe;pmor;racd;cuvk;rfa;cpi;cohm	True
+buol	C01697	Galactitol	1	1 other	racd	False
+buol	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+buol	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+buol	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+buol	C02989	methionine sulfoxide	6	2+ others	cauj;lgu;lur;racd;rfa;cpi	True
+buol	C03089	S-methyl-5-thio-D-ribofuranose	4	2+ others	pzu;racd;cuvk;cxy	True
+buol	C03752	glucosaminic acid	1	1 other	racd	False
+buol	C05123	Isethionic Acid	5	2+ others	bbet;racd;cxy;rfa;flk	True
+buol	C05821	Enterobactin	6	2+ others	bbet;cauj;tro;lgu;cuvk;mgk	True
+buol	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+buol	C06423	octanoic acid	1	1 other	racd	False
+buol	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	bbet;cauj;tro;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	True
+buol	C14179	sulfoacetic acid	5	2+ others	racd;cxy;rfa;flk;cohm	True
+buol	C17530	methyl acetate	2	2+ others	dri;cohm	True
+vpe	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+vpe	C00026	Ketoglutaric Acids	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+vpe	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+vpe	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+vpe	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00051	Glutathione	9	2+ others	cauj;tro;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00058	formic acid	13	2+ others	bbet;cauj;dri;pzu;buol;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	True
+vpe	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+vpe	C00067	Formaldehyde	12	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00073	Methionine	11	2+ others	cauj;dri;buol;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	True
+vpe	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+vpe	C00078	Tryptophan	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+vpe	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	True
+vpe	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+vpe	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+vpe	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+vpe	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+vpe	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00109	alpha-ketobutyric acid	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+vpe	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+vpe	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+vpe	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+vpe	C00140	Acetylglucosamine	5	2+ others	lgu;lur;racd;flk;mgk	False
+vpe	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+vpe	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+vpe	C00179	Agmatine	10	2+ others	dri;buol;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	True
+vpe	C00183	Valine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+vpe	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+vpe	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+vpe	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+vpe	C00239	Deoxycytidine Monophosphate	14	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+vpe	C00246	Butyric Acid	10	2+ others	bbet;cauj;pzu;buol;lgu;lur;pmor;rfa;cpi;mgk	True
+vpe	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+vpe	C00258	D-glyceric acid	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+vpe	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+vpe	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+vpe	C00288	Bicarbonates	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+vpe	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+vpe	C00334	gamma-Aminobutyric Acid	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+vpe	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+vpe	C00360	2'-deoxy-5'-adenosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00364	Thymidine Monophosphate	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm	False
+vpe	C00365	2'-deoxyuridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+vpe	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+vpe	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cpi;cohm	True
+vpe	C00407	Isoleucine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+vpe	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C00488	formamide	2	2+ others	cpi;mgk	False
+vpe	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+vpe	C00497	(R)-malic acid	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00499	allantoic acid	8	2+ others	bbet;dri;mlot;buol;pmor;pscf;rfa;cpi	True
+vpe	C00502	xylonic acid	1	1 other	cuvk	False
+vpe	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+vpe	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+vpe	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	True
+vpe	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+vpe	C00740	D-serine	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+vpe	C00741	Diacetyl	1	1 other	racd	False
+vpe	C00763	D-proline	3	2+ others	lgu;cpi;mgk	True
+vpe	C00785	Urocanic Acid	13	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	False
+vpe	C00792	D-arginine	9	2+ others	dri;mlot;buol;lgu;pmor;pscf;cxy;rfa;cpi	True
+vpe	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00811	p-coumaric acid	9	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk	False
+vpe	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+vpe	C00820	D-threonine	8	2+ others	cauj;dri;tro;buol;pmor;cpi;mgk;cohm	True
+vpe	C00898	tartaric acid	12	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+vpe	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;pmor;pscf;racd;cuvk;cxy;cpi	True
+vpe	C00993	alanylalanine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+vpe	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+vpe	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+vpe	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+vpe	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C01368	3'-uridylic acid	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+vpe	C01412	butyraldehyde	9	2+ others	bbet;cauj;dri;tro;buol;pmor;racd;rfa;cohm	True
+vpe	C01417	cyanic acid	3	2+ others	bbet;tro;lur	True
+vpe	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;cuvk;cxy;rfa;mgk;cohm	True
+vpe	C01455	Toluene	4	2+ others	cauj;mlot;tro;rfa	False
+vpe	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;buol;pmor;racd;cuvk;rfa;cpi;cohm	True
+vpe	C01674	N,N-diacetylchitobiose	5	2+ others	lgu;lur;racd;flk;mgk	False
+vpe	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+vpe	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+vpe	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+vpe	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+vpe	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+vpe	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+vpe	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+vpe	C06423	octanoic acid	1	1 other	racd	False
+vpe	C14179	sulfoacetic acid	6	2+ others	buol;racd;cxy;rfa;flk;cohm	False
+vpe	C17530	methyl acetate	3	2+ others	dri;buol;cohm	False
+lgu	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+lgu	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+lgu	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+lgu	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00042	Succinic Acid	8	2+ others	dri;buol;lur;racd;cuvk;cxy;rfa;cpi	True
+lgu	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+lgu	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+lgu	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lur;pmor;racd;cuvk;rfa;cpi;cohm	True
+lgu	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+lgu	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;racd;cuvk;rfa;cpi;mgk;cohm	True
+lgu	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+lgu	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+lgu	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+lgu	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;racd;cuvk;rfa;cpi;mgk;cohm	True
+lgu	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+lgu	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;buol;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+lgu	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00121	D-ribofuranose	6	2+ others	cauj;buol;racd;cuvk;rfa;cohm	True
+lgu	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+lgu	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+lgu	C00164	acetoacetic acid	10	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk;cohm	True
+lgu	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00188	Threonine	13	2+ others	cauj;dri;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+lgu	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+lgu	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lur;racd;cuvk;flk;mgk;cohm	True
+lgu	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+lgu	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+lgu	C00237	Carbon Monoxide	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	False
+lgu	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+lgu	C00246	Butyric Acid	10	2+ others	bbet;cauj;pzu;buol;vpe;lur;pmor;rfa;cpi;mgk	True
+lgu	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00255	Riboflavin	10	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi	True
+lgu	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lur;racd;cuvk;cpi;mgk;cohm	True
+lgu	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lur;racd;cuvk;cxy;cpi	True
+lgu	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;racd;cuvk;rfa;cpi;mgk	True
+lgu	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+lgu	C00288	Bicarbonates	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+lgu	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;rfa;cpi;mgk;cohm	True
+lgu	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+lgu	C00369	Glycogen	3	2+ others	cpi;mgk;cohm	False
+lgu	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lur;pscf;racd;cuvk;cxy;rfa;cohm	True
+lgu	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cpi;cohm	True
+lgu	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+lgu	C00423	cinnamic acid	6	2+ others	tro;buol;lur;cxy;cpi;mgk	True
+lgu	C00431	5-aminovaleric acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;pmor;racd;rfa;cpi;cohm	False
+lgu	C00463	indole	11	2+ others	cauj;dri;mlot;tro;buol;lur;racd;cuvk;cxy;mgk;cohm	True
+lgu	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C00502	xylonic acid	1	1 other	cuvk	False
+lgu	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+lgu	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	True
+lgu	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+lgu	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;rfa;cpi;cohm	True
+lgu	C00740	D-serine	15	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+lgu	C00741	Diacetyl	1	1 other	racd	False
+lgu	C00763	D-proline	3	2+ others	vpe;cpi;mgk	True
+lgu	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+lgu	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C00811	p-coumaric acid	8	2+ others	cauj;tro;buol;lur;racd;cxy;cpi;mgk	True
+lgu	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+lgu	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lur;racd;cuvk;cpi;mgk;cohm	True
+lgu	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+lgu	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lgu	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+lgu	C01672	Cadaverine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	False
+lgu	C01674	N,N-diacetylchitobiose	4	2+ others	lur;racd;flk;mgk	True
+lgu	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+lgu	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;tro;lur;rfa;cpi;mgk;cohm	True
+lgu	C02265	D-phenylalanine	6	2+ others	cauj;pzu;racd;rfa;mgk;cohm	True
+lgu	C02989	methionine sulfoxide	6	2+ others	cauj;buol;lur;racd;rfa;cpi	True
+lgu	C05629	3-phenylpropionic acid	2	2+ others	cpi;mgk	True
+lgu	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lgu	C06423	octanoic acid	1	1 other	racd	False
+lur	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lur	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;buol;racd;cxy;rfa;mgk;cohm	True
+lur	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+lur	C00033	Acetic Acid	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+lur	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk	True
+lur	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+lur	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+lur	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00061	Flavin Mononucleotide	10	2+ others	cauj;dri;pzu;tro;buol;racd;cxy;rfa;cpi;cohm	True
+lur	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;pmor;racd;cuvk;rfa;cpi;cohm	True
+lur	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cxy;rfa;cpi;mgk	True
+lur	C00078	Tryptophan	13	2+ others	cauj;dri;mlot;pzu;tro;buol;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00084	Acetaldehyde	16	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+lur	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+lur	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+lur	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+lur	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+lur	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+lur	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+lur	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00109	alpha-ketobutyric acid	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+lur	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+lur	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+lur	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00140	Acetylglucosamine	4	2+ others	lgu;racd;flk;mgk	True
+lur	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00160	glycolic acid	13	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+lur	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+lur	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+lur	C00178	Thymine	7	2+ others	dri;buol;lgu;racd;cuvk;cxy;rfa	True
+lur	C00179	Agmatine	10	2+ others	dri;buol;vpe;lgu;pmor;pscf;racd;rfa;cpi;flk	True
+lur	C00181	xylopyranose	1	1 other	cuvk	False
+lur	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;racd;cuvk;rfa;cpi;mgk;cohm	True
+lur	C00185	Cellobiose	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+lur	C00186	Lactic Acid	14	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+lur	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+lur	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+lur	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;racd;cuvk;flk;mgk;cohm	True
+lur	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+lur	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+lur	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+lur	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+lur	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00255	Riboflavin	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cxy;rfa;cpi	True
+lur	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;cpi;mgk;cohm	True
+lur	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lgu;racd;cuvk;cxy;cpi	True
+lur	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+lur	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+lur	C00288	Bicarbonates	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lur	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+lur	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;rfa;cpi;mgk;cohm	True
+lur	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;pscf;racd;cuvk;cxy;rfa;cohm	True
+lur	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;racd;cpi;cohm	True
+lur	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;rfa;cpi;mgk	True
+lur	C00423	cinnamic acid	6	2+ others	tro;buol;lgu;cxy;cpi;mgk	True
+lur	C00463	indole	11	2+ others	cauj;dri;mlot;tro;buol;lgu;racd;cuvk;cxy;mgk;cohm	True
+lur	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lur	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+lur	C00502	xylonic acid	1	1 other	cuvk	False
+lur	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+lur	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+lur	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;rfa;cpi;cohm	True
+lur	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;pmor;pscf;racd;cxy;cpi;mgk	True
+lur	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C00811	p-coumaric acid	8	2+ others	cauj;tro;buol;lgu;racd;cxy;cpi;mgk	True
+lur	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;cohm	True
+lur	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	True
+lur	C00905	D-fructofuranuronic acid	2	2+ others	cpi;cohm	True
+lur	C00973	cyclomaltodextrin	10	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk;cohm	False
+lur	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lur	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+lur	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+lur	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+lur	C01417	cyanic acid	3	2+ others	bbet;tro;vpe	True
+lur	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+lur	C01438	Methane	2	2+ others	pzu;tro	False
+lur	C01674	N,N-diacetylchitobiose	4	2+ others	lgu;racd;flk;mgk	True
+lur	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+lur	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;tro;lgu;rfa;cpi;mgk;cohm	True
+lur	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+lur	C02989	methionine sulfoxide	6	2+ others	cauj;buol;lgu;racd;rfa;cpi	True
+lur	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+lur	C06423	octanoic acid	1	1 other	racd	False
+pmor	C00011	Carbon Dioxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pmor	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+pmor	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+pmor	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+pmor	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+pmor	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00058	formic acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	False
+pmor	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+pmor	C00067	Formaldehyde	12	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;racd;cuvk;rfa;cpi;cohm	True
+pmor	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cxy;rfa;cpi;mgk	True
+pmor	C00078	Tryptophan	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pmor	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pscf;cuvk;cxy;rfa;cpi;cohm	True
+pmor	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cxy;rfa;cpi;mgk	True
+pmor	C00092	D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pmor	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+pmor	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pmor	C00103	glucose-1-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+pmor	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+pmor	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00132	Methanol	8	2+ others	dri;mlot;tro;buol;pscf;racd;rfa;cohm	True
+pmor	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pmor	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+pmor	C00146	Phenol	2	2+ others	cpi;mgk	False
+pmor	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00163	propionic acid	2	2+ others	bbet;buol	True
+pmor	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pmor	C00178	Thymine	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	False
+pmor	C00179	Agmatine	10	2+ others	dri;buol;vpe;lgu;lur;pscf;racd;rfa;cpi;flk	True
+pmor	C00181	xylopyranose	1	1 other	cuvk	False
+pmor	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+pmor	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+pmor	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	11	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	False
+pmor	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+pmor	C00207	Acetone	2	2+ others	buol;cuvk	False
+pmor	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+pmor	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+pmor	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+pmor	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pmor	C00250	Pyridoxal	6	2+ others	cauj;mlot;pzu;lur;racd;cxy	False
+pmor	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+pmor	C00258	D-glyceric acid	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+pmor	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+pmor	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+pmor	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pmor	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+pmor	C00360	2'-deoxy-5'-adenosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00364	Thymidine Monophosphate	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm	False
+pmor	C00365	2'-deoxyuridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+pmor	C00402	D-Aspartic Acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm	False
+pmor	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;rfa;cpi;mgk	True
+pmor	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+pmor	C00499	allantoic acid	8	2+ others	bbet;dri;mlot;buol;vpe;pscf;rfa;cpi	True
+pmor	C00502	xylonic acid	1	1 other	cuvk	False
+pmor	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+pmor	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+pmor	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C00741	Diacetyl	1	1 other	racd	False
+pmor	C00763	D-proline	4	2+ others	vpe;lgu;cpi;mgk	False
+pmor	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pscf;racd;cxy;cpi;mgk	True
+pmor	C00792	D-arginine	9	2+ others	dri;mlot;buol;vpe;lgu;pscf;cxy;rfa;cpi	True
+pmor	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pmor	C00898	tartaric acid	12	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+pmor	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pscf;racd;cuvk;cxy;cpi	True
+pmor	C00993	alanylalanine	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C01005	plasmenylserine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pmor	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pmor	C01417	cyanic acid	4	2+ others	bbet;tro;vpe;lur	False
+pmor	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+pmor	C01438	Methane	2	2+ others	pzu;tro	False
+pmor	C01455	Toluene	4	2+ others	cauj;mlot;tro;rfa	False
+pmor	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+pmor	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+pmor	C02989	methionine sulfoxide	7	2+ others	cauj;buol;lgu;lur;racd;rfa;cpi	False
+pmor	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+pmor	C03752	glucosaminic acid	1	1 other	racd	False
+pmor	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+pmor	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pmor	C06423	octanoic acid	1	1 other	racd	False
+pscf	C00011	Carbon Dioxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pscf	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+pscf	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+pscf	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+pscf	C00037	Glycine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+pscf	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00058	formic acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	False
+pscf	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+pscf	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+pscf	C00084	Acetaldehyde	16	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pscf	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pscf	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;cuvk;cxy;rfa;cpi;cohm	True
+pscf	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+pscf	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+pscf	C00092	D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pscf	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+pscf	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+pscf	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pscf	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+pscf	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00132	Methanol	8	2+ others	dri;mlot;tro;buol;pmor;racd;rfa;cohm	True
+pscf	C00133	D-alanine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pscf	C00140	Acetylglucosamine	5	2+ others	lgu;lur;racd;flk;mgk	False
+pscf	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00160	glycolic acid	13	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00179	Agmatine	10	2+ others	dri;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;flk	True
+pscf	C00181	xylopyranose	1	1 other	cuvk	False
+pscf	C00186	Lactic Acid	14	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+pscf	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	True
+pscf	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+pscf	C00249	Palmitic Acid	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+pscf	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+pscf	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+pscf	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+pscf	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pscf	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+pscf	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00364	Thymidine Monophosphate	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm	False
+pscf	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cohm	True
+pscf	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;mgk	True
+pscf	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+pscf	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+pscf	C00499	allantoic acid	8	2+ others	bbet;dri;mlot;buol;vpe;pmor;rfa;cpi	True
+pscf	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+pscf	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+pscf	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+pscf	C00792	D-arginine	9	2+ others	dri;mlot;buol;vpe;lgu;pmor;cxy;rfa;cpi	True
+pscf	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+pscf	C00811	p-coumaric acid	9	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk	False
+pscf	C00819	Glutamine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+pscf	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;cxy;cpi	True
+pscf	C00993	alanylalanine	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C01005	plasmenylserine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pscf	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C01368	3'-uridylic acid	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+pscf	C01417	cyanic acid	4	2+ others	bbet;tro;vpe;lur	False
+pscf	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+pscf	C01438	Methane	2	2+ others	pzu;tro	False
+pscf	C01455	Toluene	4	2+ others	cauj;mlot;tro;rfa	False
+pscf	C01674	N,N-diacetylchitobiose	5	2+ others	lgu;lur;racd;flk;mgk	False
+pscf	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+pscf	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+pscf	C03752	glucosaminic acid	1	1 other	racd	False
+pscf	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+pscf	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+pscf	C06423	octanoic acid	1	1 other	racd	False
+pscf	C11499	(S)-3-sulfonatolactate(2-)	13	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	False
+racd	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;cxy;rfa;mgk;cohm	True
+racd	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;flk;mgk	True
+racd	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk	True
+racd	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00042	Succinic Acid	8	2+ others	dri;buol;lgu;lur;cuvk;cxy;rfa;cpi	True
+racd	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;flk;mgk;cohm	True
+racd	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00051	Glutathione	9	2+ others	cauj;tro;vpe;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00058	formic acid	13	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;rfa;cpi;flk;mgk;cohm	True
+racd	C00061	Flavin Mononucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;cxy;rfa;cpi;cohm	True
+racd	C00067	Formaldehyde	12	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	False
+racd	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;cuvk;rfa;cpi;cohm	True
+racd	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cxy;rfa;cpi;mgk	True
+racd	C00078	Tryptophan	13	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+racd	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cxy;rfa;cpi;mgk	True
+racd	C00089	Sucrose	6	2+ others	cauj;tro;buol;cuvk;cpi;mgk	True
+racd	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;mgk;cohm	True
+racd	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00103	glucose-1-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	True
+racd	C00109	alpha-ketobutyric acid	12	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00121	D-ribofuranose	6	2+ others	cauj;buol;lgu;cuvk;rfa;cohm	True
+racd	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00132	Methanol	8	2+ others	dri;mlot;tro;buol;pmor;pscf;rfa;cohm	True
+racd	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00134	Putrescine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00140	Acetylglucosamine	4	2+ others	lgu;lur;flk;mgk	True
+racd	C00146	Phenol	2	2+ others	cpi;mgk	False
+racd	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00159	Mannose	10	2+ others	bbet;cauj;dri;pzu;tro;pmor;cuvk;cxy;rfa;mgk	True
+racd	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;vpe;lgu;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+racd	C00179	Agmatine	10	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;rfa;cpi;flk	True
+racd	C00181	xylopyranose	1	1 other	cuvk	False
+racd	C00183	Valine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00185	Cellobiose	8	2+ others	dri;pzu;tro;buol;cuvk;cpi;mgk;cohm	True
+racd	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00188	Threonine	13	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;cohm	True
+racd	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+racd	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;buol;cuvk;cpi;mgk;cohm	True
+racd	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;lur;cuvk;flk;mgk;cohm	True
+racd	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;buol;cuvk;cpi;mgk;cohm	True
+racd	C00208	Maltose	8	2+ others	cauj;dri;pzu;buol;cuvk;rfa;cpi;mgk	True
+racd	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;cxy;rfa;cpi;flk;mgk	True
+racd	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00245	Taurine	7	2+ others	bbet;mlot;buol;cxy;rfa;flk;cohm	True
+racd	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+racd	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00250	Pyridoxal	5	2+ others	cauj;mlot;pzu;lur;cxy	True
+racd	C00255	Riboflavin	10	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cxy;rfa;cpi	True
+racd	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;lur;cuvk;cpi;mgk;cohm	True
+racd	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;cuvk;cxy;cpi	True
+racd	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+racd	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	True
+racd	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;mgk	True
+racd	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cxy;rfa;cpi;flk;mgk	True
+racd	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;rfa;cpi;mgk;cohm	True
+racd	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00364	Thymidine Monophosphate	12	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;cpi;cohm	True
+racd	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;cohm	True
+racd	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;cuvk;cxy;rfa;cohm	True
+racd	C00407	Isoleucine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;rfa;cpi;mgk	True
+racd	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+racd	C00446	galactose-1-phosphate	3	2+ others	cuvk;rfa;mgk	False
+racd	C00463	indole	11	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;cuvk;cxy;mgk;cohm	True
+racd	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C00493	Shikimic Acid	10	2+ others	cauj;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk;cohm	True
+racd	C00497	(R)-malic acid	15	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00502	xylonic acid	1	1 other	cuvk	False
+racd	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;lgu;cuvk;cpi;mgk;cohm	True
+racd	C00645	N-acetylmannosamine	3	2+ others	dri;flk;mgk	False
+racd	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;cxy;rfa;cpi;cohm	True
+racd	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;rfa;cpi;cohm	True
+racd	C00740	D-serine	15	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;cohm	True
+racd	C00741	Diacetyl	0	0 other		True
+racd	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;cxy;cpi;mgk	True
+racd	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+racd	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00811	p-coumaric acid	8	2+ others	cauj;tro;buol;lgu;lur;cxy;cpi;mgk	True
+racd	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;cohm	True
+racd	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;cuvk;cpi;mgk;cohm	True
+racd	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+racd	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;cpi	True
+racd	C00993	alanylalanine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C01013	hydracrylic acid	9	2+ others	bbet;cauj;pzu;buol;lgu;cxy;rfa;cpi;cohm	True
+racd	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm	True
+racd	C01412	butyraldehyde	9	2+ others	bbet;cauj;dri;tro;buol;vpe;pmor;rfa;cohm	True
+racd	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+racd	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;cuvk;rfa;cpi;cohm	True
+racd	C01674	N,N-diacetylchitobiose	4	2+ others	lgu;lur;flk;mgk	True
+racd	C01697	Galactitol	0	0 other		True
+racd	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;mgk;cohm	True
+racd	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+racd	C02713	N-acetylmuramic acid	4	2+ others	cauj;pzu;buol;lgu	True
+racd	C02989	methionine sulfoxide	6	2+ others	cauj;buol;lgu;lur;rfa;cpi	True
+racd	C03089	S-methyl-5-thio-D-ribofuranose	4	2+ others	pzu;buol;cuvk;cxy	True
+racd	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+racd	C05123	Isethionic Acid	5	2+ others	bbet;buol;cxy;rfa;flk	True
+racd	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;cuvk;cxy;rfa;cpi;flk;mgk;cohm	True
+racd	C06423	octanoic acid	0	0 other		True
+racd	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;cxy;rfa;flk;mgk;cohm	True
+racd	C11544	mannosylglycerate	0	0 other		True
+racd	C14179	sulfoacetic acid	5	2+ others	buol;cxy;rfa;flk;cohm	True
+racd	C20657	meso-butane-2,3-diol	0	0 other		True
+cuvk	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cxy;rfa;cpi;flk;mgk;cohm	True
+cuvk	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+cuvk	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk	True
+cuvk	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk	True
+cuvk	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00042	Succinic Acid	8	2+ others	dri;buol;lgu;lur;racd;cxy;rfa;cpi	True
+cuvk	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;flk;mgk;cohm	True
+cuvk	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+cuvk	C00067	Formaldehyde	11	2+ others	dri;pzu;tro;buol;lgu;lur;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	True
+cuvk	C00077	Ornithine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	False
+cuvk	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cxy;rfa;cpi;flk;mgk;cohm	True
+cuvk	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cxy;rfa;cpi;cohm	True
+cuvk	C00088	Nitrous Acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	False
+cuvk	C00089	Sucrose	6	2+ others	cauj;tro;buol;racd;cpi;mgk	True
+cuvk	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;mgk;cohm	True
+cuvk	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cxy;cpi;mgk;cohm	True
+cuvk	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00121	D-ribofuranose	6	2+ others	cauj;buol;lgu;racd;rfa;cohm	True
+cuvk	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+cuvk	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+cuvk	C00140	Acetylglucosamine	5	2+ others	lgu;lur;racd;flk;mgk	False
+cuvk	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00159	Mannose	10	2+ others	bbet;cauj;dri;pzu;tro;pmor;racd;cxy;rfa;mgk	True
+cuvk	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00164	acetoacetic acid	10	2+ others	cauj;dri;pzu;buol;lgu;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00185	Cellobiose	8	2+ others	dri;pzu;tro;buol;racd;cpi;mgk;cohm	True
+cuvk	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+cuvk	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;buol;racd;cpi;mgk;cohm	True
+cuvk	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;flk;mgk;cohm	True
+cuvk	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;buol;racd;cpi;mgk;cohm	True
+cuvk	C00208	Maltose	8	2+ others	cauj;dri;pzu;buol;racd;rfa;cpi;mgk	True
+cuvk	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+cuvk	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+cuvk	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+cuvk	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cpi;mgk;cohm	True
+cuvk	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cxy;cpi	True
+cuvk	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+cuvk	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;rfa;cpi;mgk	True
+cuvk	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+cuvk	C00315	Spermidine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	False
+cuvk	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+cuvk	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;cohm	True
+cuvk	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cxy;rfa;cohm	True
+cuvk	C00409	methylmercaptan	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	False
+cuvk	C00463	indole	11	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cxy;mgk;cohm	True
+cuvk	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk;cohm	True
+cuvk	C00493	Shikimic Acid	10	2+ others	cauj;pzu;tro;buol;lgu;racd;rfa;cpi;mgk;cohm	True
+cuvk	C00546	Pyruvaldehyde	9	2+ others	bbet;cauj;dri;pzu;buol;racd;cxy;rfa;cohm	True
+cuvk	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cpi;mgk;cohm	True
+cuvk	C00645	N-acetylmannosamine	3	2+ others	dri;flk;mgk	False
+cuvk	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+cuvk	C00741	Diacetyl	1	1 other	racd	False
+cuvk	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+cuvk	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cxy;rfa;cpi;cohm	True
+cuvk	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cpi;mgk;cohm	True
+cuvk	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cxy;cpi	True
+cuvk	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cxy;rfa;cpi;flk;mgk;cohm	True
+cuvk	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+cuvk	C01083	Trehalose	8	2+ others	cauj;dri;pzu;buol;racd;rfa;cpi;mgk	True
+cuvk	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi;mgk;cohm	True
+cuvk	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;vpe;cxy;rfa;mgk;cohm	True
+cuvk	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;rfa;cpi;cohm	True
+cuvk	C01674	N,N-diacetylchitobiose	5	2+ others	lgu;lur;racd;flk;mgk	False
+cuvk	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;mgk;cohm	True
+cuvk	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+cuvk	C02713	N-acetylmuramic acid	5	2+ others	cauj;pzu;buol;lgu;racd	False
+cuvk	C03198	(S)-4-hydroxymandelic acid	8	2+ others	dri;pzu;tro;buol;lgu;rfa;cpi;mgk	True
+cuvk	C03406	Argininosuccinic Acid	11	2+ others	dri;tro;buol;vpe;lgu;lur;racd;cxy;rfa;mgk;cohm	False
+cuvk	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+cuvk	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cxy;rfa;cpi;flk;mgk;cohm	True
+cuvk	C06423	octanoic acid	1	1 other	racd	False
+cuvk	C11499	(S)-3-sulfonatolactate(2-)	13	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	False
+cxy	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;flk;mgk	True
+cxy	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk	True
+cxy	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;flk;mgk;cohm	True
+cxy	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00058	formic acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm	False
+cxy	C00067	Formaldehyde	11	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+cxy	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;mgk	True
+cxy	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+cxy	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;rfa;cpi;cohm	True
+cxy	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	True
+cxy	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+cxy	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;mgk;cohm	True
+cxy	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+cxy	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00159	Mannose	10	2+ others	bbet;cauj;dri;pzu;tro;pmor;racd;cuvk;rfa;mgk	True
+cxy	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+cxy	C00181	xylopyranose	1	1 other	cuvk	False
+cxy	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+cxy	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+cxy	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+cxy	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+cxy	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;rfa;cpi;flk;mgk	True
+cxy	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00245	Taurine	7	2+ others	bbet;mlot;buol;racd;rfa;flk;cohm	True
+cxy	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+cxy	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00258	D-glyceric acid	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+cxy	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cpi	True
+cxy	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+cxy	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;mgk	True
+cxy	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;flk;mgk	True
+cxy	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+cxy	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+cxy	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;cohm	True
+cxy	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;rfa;cohm	True
+cxy	C00409	methylmercaptan	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	False
+cxy	C00423	cinnamic acid	6	2+ others	tro;buol;lgu;lur;cpi;mgk	True
+cxy	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C00502	xylonic acid	1	1 other	cuvk	False
+cxy	C00546	Pyruvaldehyde	9	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;rfa;cohm	True
+cxy	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+cxy	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;rfa;cpi;cohm	True
+cxy	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+cxy	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cpi;mgk	True
+cxy	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00811	p-coumaric acid	8	2+ others	cauj;tro;buol;lgu;lur;racd;cpi;mgk	True
+cxy	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;rfa;cpi;cohm	True
+cxy	C00898	tartaric acid	12	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+cxy	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+cxy	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cpi	True
+cxy	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C01013	hydracrylic acid	9	2+ others	bbet;cauj;pzu;buol;lgu;racd;rfa;cpi;cohm	True
+cxy	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+cxy	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	True
+cxy	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;vpe;cuvk;rfa;mgk;cohm	True
+cxy	C01672	Cadaverine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	False
+cxy	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;mgk;cohm	True
+cxy	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+cxy	C03089	S-methyl-5-thio-D-ribofuranose	4	2+ others	pzu;buol;racd;cuvk	True
+cxy	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+cxy	C05123	Isethionic Acid	5	2+ others	bbet;buol;racd;rfa;flk	True
+cxy	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;rfa;cpi;flk;mgk;cohm	True
+cxy	C06423	octanoic acid	1	1 other	racd	False
+cxy	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;rfa;flk;mgk;cohm	True
+cxy	C14179	sulfoacetic acid	5	2+ others	buol;racd;rfa;flk;cohm	True
+mip	C00011	Carbon Dioxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+mip	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+mip	C00026	Ketoglutaric Acids	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00027	Hydrogen Peroxide	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	False
+mip	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+mip	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+mip	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+mip	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00047	Lysine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+mip	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+mip	C00078	Tryptophan	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+mip	C00088	Nitrous Acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	False
+mip	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+mip	C00092	D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00094	sulfurous acid	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	False
+mip	C00097	Cysteine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00103	glucose-1-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+mip	C00109	alpha-ketobutyric acid	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00121	D-ribofuranose	7	2+ others	cauj;buol;lgu;racd;cuvk;rfa;cohm	False
+mip	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+mip	C00134	Putrescine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+mip	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+mip	C00181	xylopyranose	1	1 other	cuvk	False
+mip	C00185	Cellobiose	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+mip	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+mip	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+mip	C00239	Deoxycytidine Monophosphate	14	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+mip	C00249	Palmitic Acid	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+mip	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+mip	C00283	Hydrogen Sulfide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	False
+mip	C00315	Spermidine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk	False
+mip	C00320	trioxidosulfanidosulfate	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+mip	C00360	2'-deoxy-5'-adenosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00362	2'-deoxyguanosine 5'-phosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00365	2'-deoxyuridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+mip	C00380	Cytosine	14	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm	False
+mip	C00409	methylmercaptan	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	False
+mip	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+mip	C00446	galactose-1-phosphate	3	2+ others	cuvk;rfa;mgk	False
+mip	C00463	indole	12	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	False
+mip	C00469	Ethanol	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+mip	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00504	Folic Acid	9	2+ others	cauj;dri;tro;buol;lur;racd;cpi;mgk;cohm	False
+mip	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+mip	C00645	N-acetylmannosamine	3	2+ others	dri;flk;mgk	False
+mip	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+mip	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+mip	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+mip	C00793	D-cysteine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00811	p-coumaric acid	9	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk	False
+mip	C00973	cyclomaltodextrin	10	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk;cohm	False
+mip	C00979	O-acetylserine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C00986	trimethylenediamine	11	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	False
+mip	C01005	plasmenylserine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+mip	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+mip	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+mip	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C01368	3'-uridylic acid	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+mip	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+mip	C01672	Cadaverine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	False
+mip	C01888	1-aminopropan-2-one	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	False
+mip	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+mip	C03198	(S)-4-hydroxymandelic acid	9	2+ others	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk	False
+mip	C05822	Cytidine Monophosphate	13	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm	False
+mip	C06423	octanoic acid	1	1 other	racd	False
+mip	C11499	(S)-3-sulfonatolactate(2-)	13	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	False
+rfa	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;mgk;cohm	True
+rfa	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;flk;mgk	True
+rfa	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk	True
+rfa	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;flk;mgk;cohm	True
+rfa	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00067	Formaldehyde	11	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;cpi;cohm	True
+rfa	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;cpi;mgk	True
+rfa	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;cpi;cohm	True
+rfa	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	True
+rfa	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+rfa	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mgk;cohm	True
+rfa	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00132	Methanol	8	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;cohm	True
+rfa	C00137	L-histidine	2	2+ others	cpi;mgk	True
+rfa	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+rfa	C00183	Valine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00207	Acetone	2	2+ others	buol;cuvk	False
+rfa	C00208	Maltose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;cpi;mgk	True
+rfa	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;cpi;flk;mgk	True
+rfa	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00245	Taurine	7	2+ others	bbet;mlot;buol;racd;cxy;flk;cohm	True
+rfa	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+rfa	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk	True
+rfa	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;mgk	True
+rfa	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	True
+rfa	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;cohm	True
+rfa	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cpi;mgk	True
+rfa	C00431	5-aminovaleric acid	10	2+ others	cauj;dri;pzu;tro;buol;vpe;pmor;racd;cpi;cohm	True
+rfa	C00463	indole	12	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	False
+rfa	C00488	formamide	2	2+ others	cpi;mgk	False
+rfa	C00502	xylonic acid	1	1 other	cuvk	False
+rfa	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00680	meso-2,6-diaminopimelic acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;cpi;cohm	True
+rfa	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cpi;cohm	True
+rfa	C00792	D-arginine	9	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;cpi	True
+rfa	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi;cohm	True
+rfa	C00986	trimethylenediamine	11	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	False
+rfa	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi;flk;mgk;cohm	True
+rfa	C01083	Trehalose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;cpi;mgk	True
+rfa	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;mgk;cohm	True
+rfa	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;mgk;cohm	True
+rfa	C01438	Methane	2	2+ others	pzu;tro	False
+rfa	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;cpi;cohm	True
+rfa	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mgk;cohm	True
+rfa	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;cpi;mgk;cohm	True
+rfa	C02989	methionine sulfoxide	6	2+ others	cauj;buol;lgu;lur;racd;cpi	True
+rfa	C03752	glucosaminic acid	1	1 other	racd	False
+rfa	C05123	Isethionic Acid	5	2+ others	bbet;buol;racd;cxy;flk	True
+rfa	C06423	octanoic acid	1	1 other	racd	False
+rfa	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;flk;mgk;cohm	True
+cpi	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+cpi	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;flk;mgk	True
+cpi	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk	True
+cpi	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00042	Succinic Acid	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	True
+cpi	C00043	Uridine Diphosphate N-Acetylglucosamine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	False
+cpi	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00061	Flavin Mononucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cohm	True
+cpi	C00067	Formaldehyde	11	2+ others	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cohm	True
+cpi	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;mgk	True
+cpi	C00078	Tryptophan	13	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cohm	True
+cpi	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;mgk	True
+cpi	C00089	Sucrose	6	2+ others	cauj;tro;buol;racd;cuvk;mgk	True
+cpi	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00094	sulfurous acid	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	False
+cpi	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;mgk;cohm	True
+cpi	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00109	alpha-ketobutyric acid	12	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+cpi	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00137	L-histidine	2	2+ others	rfa;mgk	True
+cpi	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00160	glycolic acid	12	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+cpi	C00164	acetoacetic acid	10	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00178	Thymine	8	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa	False
+cpi	C00183	Valine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00188	Threonine	13	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cohm	True
+cpi	C00191	glucopyranuronic acid	1	1 other	cohm	True
+cpi	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;buol;racd;cuvk;mgk;cohm	True
+cpi	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	11	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm	False
+cpi	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;buol;racd;cuvk;mgk;cohm	True
+cpi	C00208	Maltose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;mgk	True
+cpi	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;flk;mgk	True
+cpi	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+cpi	C00246	Butyric Acid	10	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;mgk	True
+cpi	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;mgk;cohm	True
+cpi	C00263	Homoserine	10	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy	True
+cpi	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;mgk	True
+cpi	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk	True
+cpi	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;mgk;cohm	True
+cpi	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cohm	True
+cpi	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cohm	True
+cpi	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;mgk	True
+cpi	C00423	cinnamic acid	6	2+ others	tro;buol;lgu;lur;cxy;mgk	True
+cpi	C00463	indole	12	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	False
+cpi	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C00493	Shikimic Acid	10	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;mgk;cohm	True
+cpi	C00499	allantoic acid	8	2+ others	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa	True
+cpi	C00502	xylonic acid	1	1 other	cuvk	False
+cpi	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+cpi	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;mgk;cohm	True
+cpi	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cohm	True
+cpi	C00763	D-proline	3	2+ others	vpe;lgu;mgk	True
+cpi	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;mgk	True
+cpi	C00792	D-arginine	9	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa	True
+cpi	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00811	p-coumaric acid	8	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;mgk	True
+cpi	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cohm	True
+cpi	C00820	D-threonine	8	2+ others	cauj;dri;tro;buol;vpe;pmor;mgk;cohm	True
+cpi	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;mgk;cohm	True
+cpi	C00905	D-fructofuranuronic acid	2	2+ others	lur;cohm	True
+cpi	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C00986	trimethylenediamine	10	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy	True
+cpi	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C01013	hydracrylic acid	9	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cohm	True
+cpi	C01083	Trehalose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;mgk	True
+cpi	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+cpi	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+cpi	C01888	1-aminopropan-2-one	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	False
+cpi	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;mgk;cohm	True
+cpi	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+cpi	C02989	methionine sulfoxide	6	2+ others	cauj;buol;lgu;lur;racd;rfa	True
+cpi	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+cpi	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm	True
+cpi	C06423	octanoic acid	1	1 other	racd	False
+cpi	C11499	(S)-3-sulfonatolactate(2-)	13	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm	False
+flk	C00011	Carbon Dioxide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C00016	Flavin-Adenine Dinucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm	False
+flk	C00026	Ketoglutaric Acids	15	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+flk	C00033	Acetic Acid	14	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+flk	C00037	Glycine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+flk	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;mgk;cohm	True
+flk	C00044	Guanosine Triphosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00047	Lysine	17	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00051	Glutathione	10	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00055	Cytidine Monophosphate	12	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00058	formic acid	13	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;mgk;cohm	True
+flk	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+flk	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+flk	C00077	Ornithine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	False
+flk	C00078	Tryptophan	14	2+ others	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C00085	D-fructofuranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+flk	C00088	Nitrous Acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	False
+flk	C00092	D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00094	sulfurous acid	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm	False
+flk	C00095	D-fructofuranose	12	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm	False
+flk	C00097	Cysteine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00103	glucose-1-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+flk	C00109	alpha-ketobutyric acid	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00122	fumaric acid	13	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00130	Inosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+flk	C00133	D-alanine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00134	Putrescine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+flk	C00140	Acetylglucosamine	4	2+ others	lgu;lur;racd;mgk	True
+flk	C00147	Adenine	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00160	glycolic acid	13	2+ others	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+flk	C00164	acetoacetic acid	11	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00179	Agmatine	10	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi	True
+flk	C00183	Valine	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00184	Dihydroxyacetone	14	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00185	Cellobiose	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+flk	C00186	Lactic Acid	14	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00188	Threonine	14	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	False
+flk	C00191	glucopyranuronic acid	2	2+ others	cpi;cohm	False
+flk	C00198	beta-glucono-1,5-lactone	8	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm	False
+flk	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;mgk;cohm	True
+flk	C00204	2-keto-3-deoxygluconate	9	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm	False
+flk	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+flk	C00237	Carbon Monoxide	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	True
+flk	C00239	Deoxycytidine Monophosphate	14	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00245	Taurine	7	2+ others	bbet;mlot;buol;racd;cxy;rfa;cohm	True
+flk	C00246	Butyric Acid	11	2+ others	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk	False
+flk	C00249	Palmitic Acid	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00255	Riboflavin	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi	False
+flk	C00258	D-glyceric acid	11	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+flk	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+flk	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+flk	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+flk	C00283	Hydrogen Sulfide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	False
+flk	C00315	Spermidine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	True
+flk	C00320	trioxidosulfanidosulfate	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00330	Deoxyguanosine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00334	gamma-Aminobutyric Acid	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	False
+flk	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm	False
+flk	C00360	2'-deoxy-5'-adenosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00364	Thymidine Monophosphate	13	2+ others	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm	False
+flk	C00365	2'-deoxyuridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+flk	C00369	Glycogen	3	2+ others	cpi;mgk;cohm	False
+flk	C00402	D-Aspartic Acid	11	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm	False
+flk	C00407	Isoleucine	17	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00409	methylmercaptan	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	False
+flk	C00423	cinnamic acid	7	2+ others	tro;buol;lgu;lur;cxy;cpi;mgk	False
+flk	C00446	galactose-1-phosphate	3	2+ others	cuvk;rfa;mgk	False
+flk	C00463	indole	12	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm	False
+flk	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C00493	Shikimic Acid	11	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00502	xylonic acid	1	1 other	cuvk	False
+flk	C00533	Nitric Oxide	2	2+ others	bbet;cauj	True
+flk	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+flk	C00577	D-glyceraldehyde	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm	False
+flk	C00645	N-acetylmannosamine	2	2+ others	dri;mgk	True
+flk	C00655	xanthosine monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+flk	C00739	D-lysine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm	False
+flk	C00740	D-serine	16	2+ others	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	False
+flk	C00785	Urocanic Acid	13	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk	False
+flk	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+flk	C00793	D-cysteine	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00811	p-coumaric acid	9	2+ others	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk	False
+flk	C00819	Glutamine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+flk	C00820	D-threonine	9	2+ others	cauj;dri;tro;buol;vpe;pmor;cpi;mgk;cohm	False
+flk	C00898	tartaric acid	12	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm	False
+flk	C00905	D-fructofuranuronic acid	3	2+ others	lur;cpi;cohm	False
+flk	C00973	cyclomaltodextrin	10	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk;cohm	False
+flk	C00979	O-acetylserine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C00986	trimethylenediamine	11	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	False
+flk	C00993	alanylalanine	15	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+flk	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+flk	C01367	Adenosine Monophosphate	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C01368	3'-uridylic acid	14	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	False
+flk	C01419	cysteinylglycine	10	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm	False
+flk	C01672	Cadaverine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm	False
+flk	C01674	N,N-diacetylchitobiose	4	2+ others	lgu;lur;racd;mgk	True
+flk	C01888	1-aminopropan-2-one	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm	False
+flk	C01929	histidinal	11	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm	False
+flk	C02265	D-phenylalanine	7	2+ others	cauj;pzu;lgu;racd;rfa;mgk;cohm	False
+flk	C02989	methionine sulfoxide	7	2+ others	cauj;buol;lgu;lur;racd;rfa;cpi	False
+flk	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm	True
+flk	C06423	octanoic acid	1	1 other	racd	False
+flk	C11499	(S)-3-sulfonatolactate(2-)	12	2+ others	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;mgk;cohm	True
+mgk	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cohm	True
+mgk	C00026	Ketoglutaric Acids	14	2+ others	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00027	Hydrogen Peroxide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk	True
+mgk	C00035	Guanosine Diphosphate	11	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	True
+mgk	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00042	Succinic Acid	9	2+ others	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	False
+mgk	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;cohm	True
+mgk	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00061	Flavin Mononucleotide	11	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm	False
+mgk	C00073	Methionine	12	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm	False
+mgk	C00077	Ornithine	14	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi	True
+mgk	C00084	Acetaldehyde	15	2+ others	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;cohm	True
+mgk	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;cohm	True
+mgk	C00086	Urea	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm	False
+mgk	C00088	Nitrous Acid	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi	True
+mgk	C00089	Sucrose	6	2+ others	cauj;tro;buol;racd;cuvk;cpi	True
+mgk	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;cohm	True
+mgk	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cohm	True
+mgk	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;cohm	True
+mgk	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00132	Methanol	9	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm	False
+mgk	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00137	L-histidine	2	2+ others	rfa;cpi	True
+mgk	C00140	Acetylglucosamine	4	2+ others	lgu;lur;racd;flk	True
+mgk	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00159	Mannose	10	2+ others	bbet;cauj;dri;pzu;tro;pmor;racd;cuvk;cxy;rfa	True
+mgk	C00163	propionic acid	3	2+ others	bbet;buol;pmor	False
+mgk	C00164	acetoacetic acid	10	2+ others	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;cohm	True
+mgk	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+mgk	C00183	Valine	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00185	Cellobiose	8	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;cohm	True
+mgk	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;buol;racd;cuvk;cpi;cohm	True
+mgk	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;cohm	True
+mgk	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;cohm	True
+mgk	C00208	Maltose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi	True
+mgk	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00245	Taurine	8	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk;cohm	False
+mgk	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;cohm	True
+mgk	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+mgk	C00270	N-Acetylneuraminic Acid	1	1 other	dri	True
+mgk	C00275	mannose-6-phosphate	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi	True
+mgk	C00283	Hydrogen Sulfide	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi	True
+mgk	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;cohm	True
+mgk	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00409	methylmercaptan	15	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi	True
+mgk	C00469	Ethanol	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;cohm	True
+mgk	C00488	formamide	1	1 other	cpi	True
+mgk	C00502	xylonic acid	1	1 other	cuvk	False
+mgk	C00546	Pyruvaldehyde	10	2+ others	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm	False
+mgk	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;cohm	True
+mgk	C00645	N-acetylmannosamine	2	2+ others	dri;flk	True
+mgk	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00680	meso-2,6-diaminopimelic acid	12	2+ others	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm	False
+mgk	C00763	D-proline	3	2+ others	vpe;lgu;cpi	True
+mgk	C00785	Urocanic Acid	12	2+ others	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi	True
+mgk	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00819	Glutamine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	False
+mgk	C00820	D-threonine	8	2+ others	cauj;dri;tro;buol;vpe;pmor;cpi;cohm	True
+mgk	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;cohm	True
+mgk	C00979	O-acetylserine	15	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C00986	trimethylenediamine	11	2+ others	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi	False
+mgk	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;cohm	True
+mgk	C01013	hydracrylic acid	10	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm	False
+mgk	C01083	Trehalose	8	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi	True
+mgk	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm	True
+mgk	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;cohm	True
+mgk	C01674	N,N-diacetylchitobiose	4	2+ others	lgu;lur;racd;flk	True
+mgk	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cohm	True
+mgk	C01929	histidinal	10	2+ others	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;cohm	True
+mgk	C02989	methionine sulfoxide	7	2+ others	cauj;buol;lgu;lur;racd;rfa;cpi	False
+mgk	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+mgk	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;cohm	True
+mgk	C06423	octanoic acid	1	1 other	racd	False
+cohm	C00016	Flavin-Adenine Dinucleotide	10	2+ others	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk	True
+cohm	C00027	Hydrogen Peroxide	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	False
+cohm	C00035	Guanosine Diphosphate	12	2+ others	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	False
+cohm	C00037	Glycine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00043	Uridine Diphosphate N-Acetylglucosamine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk	True
+cohm	C00044	Guanosine Triphosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00047	Lysine	16	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00051	Glutathione	9	2+ others	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00055	Cytidine Monophosphate	11	2+ others	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00073	Methionine	11	2+ others	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi	True
+cohm	C00077	Ornithine	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk	False
+cohm	C00085	D-fructofuranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+cohm	C00086	Urea	14	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi	True
+cohm	C00088	Nitrous Acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk	False
+cohm	C00089	Sucrose	7	2+ others	cauj;tro;buol;racd;cuvk;cpi;mgk	False
+cohm	C00092	D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+cohm	C00094	sulfurous acid	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk	True
+cohm	C00095	D-fructofuranose	11	2+ others	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk	True
+cohm	C00097	Cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00121	D-ribofuranose	6	2+ others	cauj;buol;lgu;racd;cuvk;rfa	True
+cohm	C00122	fumaric acid	12	2+ others	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00130	Inosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00132	Methanol	8	2+ others	dri;mlot;tro;buol;pmor;pscf;racd;rfa	True
+cohm	C00133	D-alanine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00137	L-histidine	3	2+ others	rfa;cpi;mgk	False
+cohm	C00146	Phenol	2	2+ others	cpi;mgk	False
+cohm	C00147	Adenine	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00179	Agmatine	11	2+ others	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk	False
+cohm	C00184	Dihydroxyacetone	13	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;cpi;mgk	True
+cohm	C00186	Lactic Acid	13	2+ others	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00191	glucopyranuronic acid	1	1 other	cpi	True
+cohm	C00198	beta-glucono-1,5-lactone	7	2+ others	dri;pzu;buol;racd;cuvk;cpi;mgk	True
+cohm	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	10	2+ others	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk	True
+cohm	C00204	2-keto-3-deoxygluconate	8	2+ others	dri;pzu;tro;buol;racd;cuvk;cpi;mgk	True
+cohm	C00208	Maltose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+cohm	C00239	Deoxycytidine Monophosphate	13	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00245	Taurine	7	2+ others	bbet;mlot;buol;racd;cxy;rfa;flk	True
+cohm	C00249	Palmitic Acid	16	2+ others	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00258	D-glyceric acid	10	2+ others	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk	True
+cohm	C00263	Homoserine	11	2+ others	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi	False
+cohm	C00270	N-Acetylneuraminic Acid	2	2+ others	dri;mgk	False
+cohm	C00275	mannose-6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	False
+cohm	C00283	Hydrogen Sulfide	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	False
+cohm	C00288	Bicarbonates	19	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+cohm	C00320	trioxidosulfanidosulfate	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00330	Deoxyguanosine	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk	True
+cohm	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	11	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk	True
+cohm	C00360	2'-deoxy-5'-adenosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00362	2'-deoxyguanosine 5'-phosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00365	2'-deoxyuridylic acid	12	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi	True
+cohm	C00380	Cytosine	13	2+ others	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa	True
+cohm	C00402	D-Aspartic Acid	10	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi	True
+cohm	C00409	methylmercaptan	16	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk	False
+cohm	C00463	indole	11	2+ others	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk	True
+cohm	C00493	Shikimic Acid	10	2+ others	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk	True
+cohm	C00533	Nitric Oxide	3	2+ others	bbet;cauj;flk	False
+cohm	C00577	D-glyceraldehyde	10	2+ others	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk	True
+cohm	C00655	xanthosine monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00739	D-lysine	13	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi	True
+cohm	C00792	D-arginine	10	2+ others	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi	False
+cohm	C00793	D-cysteine	18	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C00819	Glutamine	13	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi	True
+cohm	C00898	tartaric acid	11	2+ others	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk	True
+cohm	C00905	D-fructofuranuronic acid	2	2+ others	lur;cpi	True
+cohm	C00993	alanylalanine	14	2+ others	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C01005	plasmenylserine	17	2+ others	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+cohm	C01013	hydracrylic acid	9	2+ others	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi	True
+cohm	C01083	Trehalose	9	2+ others	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk	False
+cohm	C01367	Adenosine Monophosphate	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C01368	3'-uridylic acid	13	2+ others	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk	True
+cohm	C01419	cysteinylglycine	9	2+ others	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk	True
+cohm	C01672	Cadaverine	12	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi	True
+cohm	C01697	Galactitol	1	1 other	racd	False
+cohm	C01888	1-aminopropan-2-one	15	2+ others	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk	True
+cohm	C02265	D-phenylalanine	6	2+ others	cauj;pzu;lgu;racd;rfa;mgk	True
+cohm	C03406	Argininosuccinic Acid	10	2+ others	dri;tro;buol;vpe;lgu;lur;racd;cxy;rfa;mgk	True
+cohm	C05123	Isethionic Acid	6	2+ others	bbet;buol;racd;cxy;rfa;flk	False
+cohm	C05822	Cytidine Monophosphate	12	2+ others	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk	True
+cohm	C06423	octanoic acid	1	1 other	racd	False
+cohm	C14179	sulfoacetic acid	5	2+ others	buol;racd;cxy;rfa;flk	True

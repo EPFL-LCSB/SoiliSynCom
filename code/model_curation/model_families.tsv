@@ -1,0 +1,5 @@
+family_id	medium	carbon_source	formulation	model_type	source_relative	donor_relative	output_relative	expected_count	expected_reconnected_gpr_genes
+rich_fba	PTYG	mixed/complex (PTYG)	Rich PTYG medium with vitamin constraints	FBA	ModelCuration/$ThermoConversionHub/FBAPTYGVitConstrained	ModelCuration/$ThermoConversionHub/FBAPTYGVitConstrained/Full	rich/FBA_short	21	5
+rich_tfa	PTYG	mixed/complex (PTYG)	Rich PTYG medium with vitamin constraints	TFA	ModelCuration/$ThermoConversionHub/TFAPTYGModels	ModelCuration/$ThermoConversionHub/TFAPTYGModels/Full	rich/TFA_long	21	5
+m9_fba	M9	succinate	M9 minimal medium with vitamin constraints; cxy and lur use xylose	FBA	ModelCuration/$ThermoConversionHub/FBASuccinateVitConstrained	ModelCuration/$ThermoConversionHub/FBASuccinateVitConstrained/Full	M9/FBA_short	19	4
+m9_tfa	M9	succinate	M9 minimal medium with vitamin constraints; cxy and lur use xylose	TFA	ModelCuration/$ThermoConversionHub/TFASuccinateModels	ModelCuration/$ThermoConversionHub/TFASuccinateModels/Full	M9/TFA_long	19	4

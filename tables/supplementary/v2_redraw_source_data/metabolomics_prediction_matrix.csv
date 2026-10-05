@@ -1,0 +1,1891 @@
+role,metabolite_id,metabolite_name,class_original,strain,basal,conditioned,state,related_compound_only
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,bbet,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,buol,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,cauj,True,False,basal_only,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,cohm,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,cpi,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,cuvk,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,cxy,True,True,both,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,dri,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,flk,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,lgu,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,lur,True,False,basal_only,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,mgk,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,mip,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,mlot,True,False,basal_only,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,pmor,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,pscf,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,pzu,True,False,basal_only,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,racd,True,False,basal_only,True
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,rfa,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,tro,False,False,absent,False
+secretion,C00314,Pyridoxine,Vitamins&Cofactors,vpe,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,bbet,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,buol,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,cauj,True,False,basal_only,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,cohm,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,cpi,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,cuvk,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,cxy,True,True,both,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,dri,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,flk,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,lgu,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,lur,True,False,basal_only,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,mgk,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,mip,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,mlot,True,False,basal_only,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,pmor,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,pscf,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,pzu,True,False,basal_only,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,racd,True,False,basal_only,True
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,rfa,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,tro,False,False,absent,False
+secretion,C00534,Pyridoxamine,Vitamins&Cofactors,vpe,False,False,absent,False
+secretion,C00116,Glycerol,Sugars,bbet,True,True,both,False
+secretion,C00116,Glycerol,Sugars,buol,True,True,both,False
+secretion,C00116,Glycerol,Sugars,cauj,True,True,both,False
+secretion,C00116,Glycerol,Sugars,cohm,True,True,both,False
+secretion,C00116,Glycerol,Sugars,cpi,True,True,both,False
+secretion,C00116,Glycerol,Sugars,cuvk,True,True,both,False
+secretion,C00116,Glycerol,Sugars,cxy,True,True,both,False
+secretion,C00116,Glycerol,Sugars,dri,True,True,both,False
+secretion,C00116,Glycerol,Sugars,flk,False,False,absent,False
+secretion,C00116,Glycerol,Sugars,lgu,True,True,both,False
+secretion,C00116,Glycerol,Sugars,lur,True,True,both,False
+secretion,C00116,Glycerol,Sugars,mgk,True,True,both,False
+secretion,C00116,Glycerol,Sugars,mip,False,True,conditioned_only,False
+secretion,C00116,Glycerol,Sugars,mlot,True,False,basal_only,False
+secretion,C00116,Glycerol,Sugars,pmor,True,False,basal_only,False
+secretion,C00116,Glycerol,Sugars,pscf,False,False,absent,False
+secretion,C00116,Glycerol,Sugars,pzu,True,False,basal_only,False
+secretion,C00116,Glycerol,Sugars,racd,True,True,both,False
+secretion,C00116,Glycerol,Sugars,rfa,True,False,basal_only,False
+secretion,C00116,Glycerol,Sugars,tro,True,True,both,False
+secretion,C00116,Glycerol,Sugars,vpe,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,bbet,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,buol,False,True,conditioned_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,cauj,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,cohm,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,cpi,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,cuvk,True,False,basal_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,cxy,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,dri,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,flk,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,lgu,False,True,conditioned_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,lur,False,True,conditioned_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,mgk,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,mip,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,mlot,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,pmor,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,pscf,False,False,absent,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,pzu,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,racd,True,False,basal_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,rfa,True,False,basal_only,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,tro,True,True,both,False
+secretion,C00118,Glyceraldehyde 3-Phosphate,Sugars,vpe,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,bbet,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,buol,True,True,both,False
+secretion,C01502,Guaiacol,Hydrocarbons,cauj,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,cohm,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,cpi,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,cuvk,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,cxy,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,dri,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,flk,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,lgu,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,lur,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,mgk,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,mip,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,mlot,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,pmor,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,pscf,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,pzu,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,racd,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,rfa,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,tro,False,False,absent,False
+secretion,C01502,Guaiacol,Hydrocarbons,vpe,False,False,absent,False
+secretion,C00366,Uric Acid,HeterocyclicCompounds,bbet,False,False,absent,False
+secretion,C00366,Uric Acid,HeterocyclicCompounds,buol,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,cauj,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,cohm,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,cpi,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,cuvk,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,cxy,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,dri,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,flk,False,False,absent,False
+secretion,C00366,Uric Acid,HeterocyclicCompounds,lgu,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,lur,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,mgk,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,mip,False,True,conditioned_only,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,mlot,False,False,absent,False
+secretion,C00366,Uric Acid,HeterocyclicCompounds,pmor,False,True,conditioned_only,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,pscf,False,False,absent,False
+secretion,C00366,Uric Acid,HeterocyclicCompounds,pzu,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,racd,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,rfa,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,tro,True,True,both,True
+secretion,C00366,Uric Acid,HeterocyclicCompounds,vpe,False,False,absent,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,bbet,False,False,absent,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,buol,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,cauj,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,cohm,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,cpi,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,cuvk,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,cxy,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,dri,False,False,absent,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,flk,False,False,absent,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,lgu,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,lur,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,mgk,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,mlot,True,False,basal_only,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,pmor,False,True,conditioned_only,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,pscf,False,False,absent,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,pzu,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,racd,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,rfa,True,False,basal_only,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,tro,True,True,both,False
+secretion,C03722,Quinolinic Acid,HeterocyclicCompounds,vpe,False,True,conditioned_only,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,bbet,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,buol,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,cauj,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,cohm,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,cpi,True,True,both,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,cuvk,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,cxy,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,dri,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,flk,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,lgu,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,lur,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,mgk,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,mip,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,mlot,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,pmor,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,pscf,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,pzu,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,racd,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,rfa,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,tro,False,False,absent,False
+secretion,C01040,"L-gulono-1,4-lactone",HeterocyclicCompounds,vpe,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,bbet,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,buol,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,cauj,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,cohm,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,cpi,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,cuvk,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,cxy,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,dri,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,flk,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,lgu,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,lur,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,mgk,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,mip,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,mlot,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,pmor,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,pscf,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,pzu,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,racd,False,False,absent,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,rfa,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,tro,True,False,basal_only,False
+secretion,C02693,indoleacetamide,HeterocyclicCompounds,vpe,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,bbet,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,buol,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,cauj,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,cohm,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,cpi,True,False,basal_only,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,cuvk,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,cxy,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,dri,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,flk,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,lgu,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,lur,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,mgk,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,mlot,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,pmor,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,pscf,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,pzu,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,racd,True,True,both,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,rfa,True,False,basal_only,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,tro,False,False,absent,False
+secretion,C00429,dihydrouracil,HeterocyclicCompounds,vpe,False,False,absent,False
+secretion,C00003,NAD,Glycosides,bbet,False,False,absent,False
+secretion,C00003,NAD,Glycosides,buol,True,True,both,False
+secretion,C00003,NAD,Glycosides,cauj,True,True,both,False
+secretion,C00003,NAD,Glycosides,cohm,True,True,both,False
+secretion,C00003,NAD,Glycosides,cpi,True,True,both,False
+secretion,C00003,NAD,Glycosides,cuvk,True,True,both,False
+secretion,C00003,NAD,Glycosides,cxy,True,True,both,False
+secretion,C00003,NAD,Glycosides,dri,True,True,both,False
+secretion,C00003,NAD,Glycosides,flk,True,True,both,False
+secretion,C00003,NAD,Glycosides,lgu,True,False,basal_only,False
+secretion,C00003,NAD,Glycosides,lur,True,False,basal_only,False
+secretion,C00003,NAD,Glycosides,mgk,True,True,both,False
+secretion,C00003,NAD,Glycosides,mip,False,True,conditioned_only,False
+secretion,C00003,NAD,Glycosides,mlot,False,False,absent,False
+secretion,C00003,NAD,Glycosides,pmor,False,False,absent,False
+secretion,C00003,NAD,Glycosides,pscf,False,False,absent,False
+secretion,C00003,NAD,Glycosides,pzu,True,True,both,False
+secretion,C00003,NAD,Glycosides,racd,True,True,both,False
+secretion,C00003,NAD,Glycosides,rfa,True,False,basal_only,False
+secretion,C00003,NAD,Glycosides,tro,True,True,both,False
+secretion,C00003,NAD,Glycosides,vpe,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,bbet,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,buol,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,cauj,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,cohm,True,True,both,False
+secretion,C00881,Deoxycytidine,Glycosides,cpi,True,True,both,False
+secretion,C00881,Deoxycytidine,Glycosides,cuvk,True,True,both,False
+secretion,C00881,Deoxycytidine,Glycosides,cxy,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,dri,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,flk,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,lgu,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,lur,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,mgk,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,mip,False,True,conditioned_only,False
+secretion,C00881,Deoxycytidine,Glycosides,mlot,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,pmor,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,pscf,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,pzu,False,False,absent,False
+secretion,C00881,Deoxycytidine,Glycosides,racd,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,rfa,True,False,basal_only,False
+secretion,C00881,Deoxycytidine,Glycosides,tro,True,True,both,False
+secretion,C00881,Deoxycytidine,Glycosides,vpe,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,bbet,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,buol,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,cauj,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,cohm,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,cpi,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,cuvk,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,cxy,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,dri,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,flk,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,lgu,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,lur,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,mgk,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,mip,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,mlot,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,pmor,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,pscf,False,False,absent,False
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,pzu,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,racd,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,rfa,True,False,basal_only,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,tro,True,True,both,True
+secretion,C02946,4-acetamidobutanoic acid,CarboxylicAcids,vpe,True,False,basal_only,True
+secretion,C00979,O-acetylserine,AminoAcids,bbet,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,buol,True,False,basal_only,False
+secretion,C00979,O-acetylserine,AminoAcids,cauj,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,cohm,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,cpi,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,cuvk,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,cxy,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,dri,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,flk,False,True,conditioned_only,False
+secretion,C00979,O-acetylserine,AminoAcids,lgu,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,lur,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,mgk,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,mip,False,True,conditioned_only,False
+secretion,C00979,O-acetylserine,AminoAcids,mlot,False,False,absent,False
+secretion,C00979,O-acetylserine,AminoAcids,pmor,False,False,absent,False
+secretion,C00979,O-acetylserine,AminoAcids,pscf,False,False,absent,False
+secretion,C00979,O-acetylserine,AminoAcids,pzu,True,False,basal_only,False
+secretion,C00979,O-acetylserine,AminoAcids,racd,True,True,both,False
+secretion,C00979,O-acetylserine,AminoAcids,rfa,True,False,basal_only,False
+secretion,C00979,O-acetylserine,AminoAcids,tro,True,False,basal_only,False
+secretion,C00979,O-acetylserine,AminoAcids,vpe,True,False,basal_only,False
+secretion,C00483,Tyramine,Amines,bbet,False,False,absent,False
+secretion,C00483,Tyramine,Amines,buol,False,False,absent,False
+secretion,C00483,Tyramine,Amines,cauj,False,False,absent,False
+secretion,C00483,Tyramine,Amines,cohm,False,False,absent,False
+secretion,C00483,Tyramine,Amines,cpi,True,True,both,False
+secretion,C00483,Tyramine,Amines,cuvk,False,False,absent,False
+secretion,C00483,Tyramine,Amines,cxy,False,False,absent,False
+secretion,C00483,Tyramine,Amines,dri,False,False,absent,False
+secretion,C00483,Tyramine,Amines,flk,False,False,absent,False
+secretion,C00483,Tyramine,Amines,lgu,True,False,basal_only,False
+secretion,C00483,Tyramine,Amines,lur,False,False,absent,False
+secretion,C00483,Tyramine,Amines,mgk,False,False,absent,False
+secretion,C00483,Tyramine,Amines,mip,False,False,absent,False
+secretion,C00483,Tyramine,Amines,mlot,False,False,absent,False
+secretion,C00483,Tyramine,Amines,pmor,False,False,absent,False
+secretion,C00483,Tyramine,Amines,pscf,False,False,absent,False
+secretion,C00483,Tyramine,Amines,pzu,False,False,absent,False
+secretion,C00483,Tyramine,Amines,racd,True,False,basal_only,False
+secretion,C00483,Tyramine,Amines,rfa,False,False,absent,False
+secretion,C00483,Tyramine,Amines,tro,False,False,absent,False
+secretion,C00483,Tyramine,Amines,vpe,False,False,absent,False
+secretion,C00398,tryptamine,Amines,bbet,False,False,absent,False
+secretion,C00398,tryptamine,Amines,buol,False,False,absent,False
+secretion,C00398,tryptamine,Amines,cauj,False,False,absent,False
+secretion,C00398,tryptamine,Amines,cohm,False,False,absent,False
+secretion,C00398,tryptamine,Amines,cpi,False,True,conditioned_only,False
+secretion,C00398,tryptamine,Amines,cuvk,False,False,absent,False
+secretion,C00398,tryptamine,Amines,cxy,False,False,absent,False
+secretion,C00398,tryptamine,Amines,dri,False,False,absent,False
+secretion,C00398,tryptamine,Amines,flk,False,False,absent,False
+secretion,C00398,tryptamine,Amines,lgu,False,False,absent,False
+secretion,C00398,tryptamine,Amines,lur,False,False,absent,False
+secretion,C00398,tryptamine,Amines,mgk,False,False,absent,False
+secretion,C00398,tryptamine,Amines,mip,False,False,absent,False
+secretion,C00398,tryptamine,Amines,mlot,False,False,absent,False
+secretion,C00398,tryptamine,Amines,pmor,False,False,absent,False
+secretion,C00398,tryptamine,Amines,pscf,False,False,absent,False
+secretion,C00398,tryptamine,Amines,pzu,True,False,basal_only,False
+secretion,C00398,tryptamine,Amines,racd,True,False,basal_only,False
+secretion,C00398,tryptamine,Amines,rfa,False,False,absent,False
+secretion,C00398,tryptamine,Amines,tro,False,False,absent,False
+secretion,C00398,tryptamine,Amines,vpe,False,False,absent,False
+secretion,C00388,Histamine,Amines,bbet,False,False,absent,False
+secretion,C00388,Histamine,Amines,buol,False,False,absent,False
+secretion,C00388,Histamine,Amines,cauj,True,True,both,True
+secretion,C00388,Histamine,Amines,cohm,True,True,both,True
+secretion,C00388,Histamine,Amines,cpi,True,True,both,True
+secretion,C00388,Histamine,Amines,cuvk,False,False,absent,False
+secretion,C00388,Histamine,Amines,cxy,False,False,absent,False
+secretion,C00388,Histamine,Amines,dri,True,True,both,True
+secretion,C00388,Histamine,Amines,flk,False,False,absent,False
+secretion,C00388,Histamine,Amines,lgu,False,False,absent,False
+secretion,C00388,Histamine,Amines,lur,True,False,basal_only,True
+secretion,C00388,Histamine,Amines,mgk,True,True,both,True
+secretion,C00388,Histamine,Amines,mip,False,False,absent,False
+secretion,C00388,Histamine,Amines,mlot,True,False,basal_only,True
+secretion,C00388,Histamine,Amines,pmor,False,True,conditioned_only,True
+secretion,C00388,Histamine,Amines,pscf,False,False,absent,False
+secretion,C00388,Histamine,Amines,pzu,True,False,basal_only,True
+secretion,C00388,Histamine,Amines,racd,True,False,basal_only,True
+secretion,C00388,Histamine,Amines,rfa,True,False,basal_only,True
+secretion,C00388,Histamine,Amines,tro,True,True,both,True
+secretion,C00388,Histamine,Amines,vpe,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,bbet,True,True,both,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,buol,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,cauj,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,cohm,False,True,conditioned_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,cpi,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,cuvk,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,cxy,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,dri,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,flk,True,True,both,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,lgu,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,lur,False,True,conditioned_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,mgk,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,mip,False,True,conditioned_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,mlot,True,False,basal_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,pmor,True,True,both,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,pscf,True,False,basal_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,pzu,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,racd,False,True,conditioned_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,rfa,False,True,conditioned_only,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,tro,False,False,absent,False
+uptake,C00864,Pantothenic Acid,Vitamins&Cofactors,vpe,True,False,basal_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,bbet,True,True,both,False
+uptake,C00253,Niacin,Vitamins&Cofactors,buol,True,True,both,False
+uptake,C00253,Niacin,Vitamins&Cofactors,cauj,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,cohm,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,cpi,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,cuvk,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,cxy,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,dri,True,True,both,False
+uptake,C00253,Niacin,Vitamins&Cofactors,flk,True,True,both,False
+uptake,C00253,Niacin,Vitamins&Cofactors,lgu,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,lur,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,mgk,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,mip,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,mlot,True,False,basal_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,pmor,True,False,basal_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,pscf,True,False,basal_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,pzu,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,racd,False,True,conditioned_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,rfa,False,False,absent,False
+uptake,C00253,Niacin,Vitamins&Cofactors,tro,False,True,conditioned_only,False
+uptake,C00253,Niacin,Vitamins&Cofactors,vpe,True,True,both,False
+uptake,C00392,Mannitol,Sugars,bbet,True,True,both,False
+uptake,C00392,Mannitol,Sugars,buol,True,True,both,False
+uptake,C00392,Mannitol,Sugars,cauj,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,cohm,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,cpi,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,cuvk,True,True,both,False
+uptake,C00392,Mannitol,Sugars,cxy,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,dri,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,flk,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,lgu,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,lur,True,True,both,False
+uptake,C00392,Mannitol,Sugars,mgk,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,mip,False,True,conditioned_only,False
+uptake,C00392,Mannitol,Sugars,mlot,True,False,basal_only,False
+uptake,C00392,Mannitol,Sugars,pmor,True,True,both,False
+uptake,C00392,Mannitol,Sugars,pscf,True,True,both,False
+uptake,C00392,Mannitol,Sugars,pzu,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,racd,True,True,both,False
+uptake,C00392,Mannitol,Sugars,rfa,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,tro,False,False,absent,False
+uptake,C00392,Mannitol,Sugars,vpe,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,bbet,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,buol,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,cauj,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,cohm,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,cpi,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,cuvk,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,cxy,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,dri,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,flk,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,lgu,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,lur,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,mgk,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,mip,False,True,conditioned_only,False
+uptake,C00093,Glycerophosphates,Sugars,mlot,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,pmor,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,pscf,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,pzu,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,racd,True,True,both,False
+uptake,C00093,Glycerophosphates,Sugars,rfa,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,tro,False,False,absent,False
+uptake,C00093,Glycerophosphates,Sugars,vpe,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,bbet,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,buol,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,cauj,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,cohm,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,cpi,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,cuvk,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,cxy,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,dri,True,False,basal_only,False
+uptake,C00257,gluconic acid,Sugars,flk,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,lgu,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,lur,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,mgk,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,mip,False,False,absent,False
+uptake,C00257,gluconic acid,Sugars,mlot,True,False,basal_only,False
+uptake,C00257,gluconic acid,Sugars,pmor,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,pscf,True,False,basal_only,False
+uptake,C00257,gluconic acid,Sugars,pzu,True,False,basal_only,False
+uptake,C00257,gluconic acid,Sugars,racd,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,rfa,True,False,basal_only,False
+uptake,C00257,gluconic acid,Sugars,tro,True,True,both,False
+uptake,C00257,gluconic acid,Sugars,vpe,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,bbet,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,buol,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,cauj,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,cohm,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,cpi,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,cuvk,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,cxy,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,dri,False,False,absent,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,flk,False,False,absent,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,lgu,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,lur,False,False,absent,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,mgk,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,mip,False,True,conditioned_only,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,mlot,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,pmor,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,pscf,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,pzu,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,racd,True,True,both,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,rfa,True,False,basal_only,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,tro,False,False,absent,False
+uptake,C00631,2-phospho-D-glyceric acid,Sugars,vpe,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,bbet,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,buol,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,cauj,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,cohm,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,cpi,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,cuvk,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,cxy,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,dri,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,flk,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,lgu,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,lur,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,mgk,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,mip,False,False,absent,False
+uptake,C00213,Sarcosine,Peptides,mlot,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,pmor,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,pscf,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,pzu,True,False,basal_only,False
+uptake,C00213,Sarcosine,Peptides,racd,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,rfa,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,tro,True,True,both,False
+uptake,C00213,Sarcosine,Peptides,vpe,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,bbet,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,buol,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,cauj,False,False,absent,False
+uptake,C01026,dimethylglycine,Peptides,cohm,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,cpi,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,cuvk,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,cxy,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,dri,False,False,absent,False
+uptake,C01026,dimethylglycine,Peptides,flk,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,lgu,True,False,basal_only,False
+uptake,C01026,dimethylglycine,Peptides,lur,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,mgk,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,mip,False,False,absent,False
+uptake,C01026,dimethylglycine,Peptides,mlot,True,False,basal_only,False
+uptake,C01026,dimethylglycine,Peptides,pmor,True,False,basal_only,False
+uptake,C01026,dimethylglycine,Peptides,pscf,True,False,basal_only,False
+uptake,C01026,dimethylglycine,Peptides,pzu,False,False,absent,False
+uptake,C01026,dimethylglycine,Peptides,racd,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,rfa,True,True,both,False
+uptake,C01026,dimethylglycine,Peptides,tro,False,False,absent,False
+uptake,C01026,dimethylglycine,Peptides,vpe,True,True,both,False
+uptake,C00090,catechol,Hydrocarbons,bbet,True,True,both,False
+uptake,C00090,catechol,Hydrocarbons,buol,True,False,basal_only,False
+uptake,C00090,catechol,Hydrocarbons,cauj,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,cohm,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,cpi,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,cuvk,True,False,basal_only,False
+uptake,C00090,catechol,Hydrocarbons,cxy,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,dri,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,flk,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,lgu,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,lur,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,mgk,True,True,both,False
+uptake,C00090,catechol,Hydrocarbons,mip,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,mlot,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,pmor,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,pscf,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,pzu,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,racd,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,rfa,False,False,absent,False
+uptake,C00090,catechol,Hydrocarbons,tro,True,False,basal_only,False
+uptake,C00090,catechol,Hydrocarbons,vpe,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,bbet,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,buol,True,False,basal_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,cauj,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,cohm,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,cpi,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,cuvk,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,cxy,False,True,conditioned_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,dri,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,flk,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,lgu,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,lur,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,mgk,True,False,basal_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,mip,False,True,conditioned_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,mlot,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,pmor,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,pscf,True,False,basal_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,pzu,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,racd,True,True,both,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,rfa,False,False,absent,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,tro,False,True,conditioned_only,False
+uptake,C00156,4-hydroxybenzoic acid,Hydrocarbons,vpe,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,cauj,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,cohm,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,cxy,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,flk,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,lgu,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,lur,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,mgk,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,mlot,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,pmor,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,pzu,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C00385,Xanthine,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,cauj,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,cohm,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,cxy,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,flk,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,lgu,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,lur,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,mgk,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+uptake,C00106,Uracil,HeterocyclicCompounds,mlot,True,False,basal_only,False
+uptake,C00106,Uracil,HeterocyclicCompounds,pmor,True,False,basal_only,False
+uptake,C00106,Uracil,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,pzu,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C00106,Uracil,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,cauj,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,cohm,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,cxy,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,flk,False,False,absent,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,lgu,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,lur,True,False,basal_only,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,mgk,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,mip,False,False,absent,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,mlot,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,pmor,True,False,basal_only,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,pscf,True,False,basal_only,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,pzu,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C00295,Orotic Acid,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,cauj,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,cohm,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,cxy,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,flk,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,lgu,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,lur,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,mgk,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,mlot,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,pmor,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,pzu,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C00262,Hypoxanthine,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,cauj,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,cohm,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,cxy,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,flk,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,lgu,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,lur,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,mgk,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,mip,False,True,conditioned_only,False
+uptake,C00242,Guanine,HeterocyclicCompounds,mlot,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,pmor,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,pzu,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C00242,Guanine,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,bbet,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,buol,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,cauj,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,cohm,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,cpi,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,cuvk,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,cxy,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,dri,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,flk,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,lgu,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,lur,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,mgk,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,mip,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,mlot,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,pmor,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,pscf,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,pzu,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,racd,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,rfa,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,tro,False,False,absent,False
+uptake,C00791,Creatinine,HeterocyclicCompounds,vpe,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,buol,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,cauj,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,cohm,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,cpi,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,cuvk,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,cxy,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,dri,True,False,basal_only,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,flk,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,lgu,True,False,basal_only,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,lur,True,False,basal_only,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,mgk,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,mip,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,mlot,True,False,basal_only,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,pmor,True,False,basal_only,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,pzu,False,False,absent,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,racd,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C02376,5-Methylcytosine,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,bbet,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,buol,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,cauj,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,cohm,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,cpi,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,cuvk,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,cxy,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,dri,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,flk,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,lgu,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,lur,False,True,conditioned_only,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,mgk,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,mip,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,mlot,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,pmor,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,pscf,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,pzu,True,False,basal_only,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,racd,False,False,absent,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,rfa,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,tro,True,True,both,False
+uptake,C02350,(S)-(+)-allantoin,HeterocyclicCompounds,vpe,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,bbet,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,buol,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,cauj,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,cohm,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,cpi,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,cuvk,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,cxy,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,dri,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,flk,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,lgu,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,lur,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,mgk,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C01762,xanthosine,Glycosides,mlot,True,False,basal_only,False
+uptake,C01762,xanthosine,Glycosides,pmor,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,pscf,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,pzu,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,racd,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,rfa,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,tro,True,True,both,False
+uptake,C01762,xanthosine,Glycosides,vpe,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,bbet,False,False,absent,False
+uptake,C00105,Uridine Monophosphate,Glycosides,buol,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,cauj,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,cohm,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,cpi,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,cuvk,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,cxy,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,dri,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,flk,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,lgu,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,lur,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,mgk,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,mlot,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,pmor,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,pscf,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,pzu,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,racd,True,True,both,False
+uptake,C00105,Uridine Monophosphate,Glycosides,rfa,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,tro,True,False,basal_only,False
+uptake,C00105,Uridine Monophosphate,Glycosides,vpe,False,False,absent,False
+uptake,C00299,Uridine,Glycosides,bbet,True,True,both,False
+uptake,C00299,Uridine,Glycosides,buol,True,True,both,False
+uptake,C00299,Uridine,Glycosides,cauj,True,True,both,False
+uptake,C00299,Uridine,Glycosides,cohm,True,True,both,False
+uptake,C00299,Uridine,Glycosides,cpi,True,True,both,False
+uptake,C00299,Uridine,Glycosides,cuvk,True,True,both,False
+uptake,C00299,Uridine,Glycosides,cxy,True,True,both,False
+uptake,C00299,Uridine,Glycosides,dri,True,True,both,False
+uptake,C00299,Uridine,Glycosides,flk,True,True,both,False
+uptake,C00299,Uridine,Glycosides,lgu,True,True,both,False
+uptake,C00299,Uridine,Glycosides,lur,True,True,both,False
+uptake,C00299,Uridine,Glycosides,mgk,True,True,both,False
+uptake,C00299,Uridine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00299,Uridine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,pmor,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,pscf,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,pzu,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,racd,True,True,both,False
+uptake,C00299,Uridine,Glycosides,rfa,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,tro,True,False,basal_only,False
+uptake,C00299,Uridine,Glycosides,vpe,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,bbet,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,buol,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,cauj,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,cohm,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,cpi,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,cuvk,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,cxy,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,dri,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,flk,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,lgu,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,lur,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,mgk,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,mip,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,mlot,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,pmor,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,pscf,True,True,both,False
+uptake,C00214,Thymidine,Glycosides,pzu,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,racd,False,False,absent,False
+uptake,C00214,Thymidine,Glycosides,rfa,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,tro,True,False,basal_only,False
+uptake,C00214,Thymidine,Glycosides,vpe,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,bbet,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,buol,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,cauj,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,cohm,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,cpi,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,cuvk,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,cxy,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,dri,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,flk,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,lgu,False,False,absent,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,lur,False,False,absent,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,mgk,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,mip,False,False,absent,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,mlot,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,pmor,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,pscf,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,pzu,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,racd,True,True,both,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,rfa,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,tro,True,False,basal_only,False
+uptake,C00455,Nicotinamide Mononucleotide,Glycosides,vpe,True,True,both,False
+uptake,C00294,Inosine,Glycosides,bbet,True,True,both,False
+uptake,C00294,Inosine,Glycosides,buol,True,True,both,False
+uptake,C00294,Inosine,Glycosides,cauj,True,True,both,False
+uptake,C00294,Inosine,Glycosides,cohm,True,True,both,False
+uptake,C00294,Inosine,Glycosides,cpi,True,True,both,False
+uptake,C00294,Inosine,Glycosides,cuvk,True,True,both,False
+uptake,C00294,Inosine,Glycosides,cxy,True,True,both,False
+uptake,C00294,Inosine,Glycosides,dri,True,True,both,False
+uptake,C00294,Inosine,Glycosides,flk,True,True,both,False
+uptake,C00294,Inosine,Glycosides,lgu,True,True,both,False
+uptake,C00294,Inosine,Glycosides,lur,True,True,both,False
+uptake,C00294,Inosine,Glycosides,mgk,True,True,both,False
+uptake,C00294,Inosine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00294,Inosine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00294,Inosine,Glycosides,pmor,True,True,both,False
+uptake,C00294,Inosine,Glycosides,pscf,True,True,both,False
+uptake,C00294,Inosine,Glycosides,pzu,True,True,both,False
+uptake,C00294,Inosine,Glycosides,racd,True,True,both,False
+uptake,C00294,Inosine,Glycosides,rfa,True,True,both,False
+uptake,C00294,Inosine,Glycosides,tro,True,True,both,False
+uptake,C00294,Inosine,Glycosides,vpe,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,bbet,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,buol,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,cauj,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,cohm,True,False,basal_only,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,cpi,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,cuvk,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,cxy,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,dri,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,flk,True,False,basal_only,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,lgu,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,lur,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,mgk,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,mlot,True,False,basal_only,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,pmor,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,pscf,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,pzu,True,False,basal_only,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,racd,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,rfa,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,tro,True,True,both,False
+uptake,C00144,Guanosine Monophosphate,Glycosides,vpe,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,bbet,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,buol,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,cauj,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,cohm,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,cpi,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,cuvk,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,cxy,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,dri,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,flk,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,lgu,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,lur,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,mgk,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00387,Guanosine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00387,Guanosine,Glycosides,pmor,True,False,basal_only,False
+uptake,C00387,Guanosine,Glycosides,pscf,True,False,basal_only,False
+uptake,C00387,Guanosine,Glycosides,pzu,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,racd,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,rfa,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,tro,True,True,both,False
+uptake,C00387,Guanosine,Glycosides,vpe,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,bbet,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,buol,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,cauj,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,cohm,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,cpi,False,False,absent,False
+uptake,C00526,Deoxyuridine,Glycosides,cuvk,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,cxy,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,dri,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,flk,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,lgu,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,lur,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,mgk,False,False,absent,False
+uptake,C00526,Deoxyuridine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00526,Deoxyuridine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,pmor,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,pscf,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,pzu,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,racd,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,rfa,True,False,basal_only,False
+uptake,C00526,Deoxyuridine,Glycosides,tro,True,True,both,False
+uptake,C00526,Deoxyuridine,Glycosides,vpe,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,bbet,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,buol,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,cauj,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,cohm,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,cpi,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,cuvk,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,cxy,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,dri,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,flk,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,lgu,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,lur,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,mgk,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00475,Cytidine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00475,Cytidine,Glycosides,pmor,True,False,basal_only,False
+uptake,C00475,Cytidine,Glycosides,pscf,True,False,basal_only,False
+uptake,C00475,Cytidine,Glycosides,pzu,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,racd,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,rfa,True,False,basal_only,False
+uptake,C00475,Cytidine,Glycosides,tro,True,True,both,False
+uptake,C00475,Cytidine,Glycosides,vpe,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,bbet,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,buol,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,cauj,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,cohm,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,cpi,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,cuvk,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,cxy,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,dri,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,flk,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,lgu,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,lur,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,mgk,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,mlot,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,pmor,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,pscf,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,pzu,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,racd,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,rfa,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,tro,True,True,both,False
+uptake,C00020,Adenosine Monophosphate,Glycosides,vpe,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,bbet,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,buol,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,cauj,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,cohm,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,cpi,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,cuvk,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,cxy,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,dri,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,flk,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,lgu,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,lur,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,mgk,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00212,Adenosine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00212,Adenosine,Glycosides,pmor,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,pscf,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,pzu,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,racd,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,rfa,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,tro,True,True,both,False
+uptake,C00212,Adenosine,Glycosides,vpe,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,bbet,False,True,conditioned_only,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,buol,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,cauj,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,cohm,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,cpi,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,cuvk,True,False,basal_only,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,cxy,True,False,basal_only,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,dri,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,flk,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,lgu,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,lur,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,mgk,True,False,basal_only,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,mip,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,mlot,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,pmor,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,pscf,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,pzu,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,racd,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,rfa,True,True,both,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,tro,False,False,absent,False
+uptake,C00170,5'-methylthioadenosine,Glycosides,vpe,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,bbet,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,buol,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,cauj,False,True,conditioned_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,cohm,True,False,basal_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,cpi,True,False,basal_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,cuvk,False,False,absent,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,cxy,False,True,conditioned_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,dri,False,True,conditioned_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,flk,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,lgu,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,lur,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,mgk,True,False,basal_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,mip,False,False,absent,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,mlot,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,pmor,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,pscf,True,True,both,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,pzu,False,False,absent,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,racd,False,True,conditioned_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,rfa,False,True,conditioned_only,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,tro,False,False,absent,False
+uptake,C05198,5'-deoxyadenosine,Glycosides,vpe,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,bbet,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,buol,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,cauj,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,cohm,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,cpi,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,cuvk,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,cxy,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,dri,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,flk,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,lgu,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,lur,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,mgk,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,mip,False,True,conditioned_only,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,mlot,True,False,basal_only,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,pmor,True,False,basal_only,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,pscf,True,False,basal_only,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,pzu,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,racd,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,rfa,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,tro,True,True,both,False
+uptake,C00559,2'-deoxyadenosine,Glycosides,vpe,True,True,both,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,bbet,True,False,basal_only,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,buol,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,cauj,True,False,basal_only,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,cpi,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,mlot,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,pscf,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,racd,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,tro,False,False,absent,False
+uptake,C05584,Vanilmandelic Acid,CarboxylicAcids,vpe,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,bbet,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,buol,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,cpi,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,mlot,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,pscf,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,racd,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,tro,False,False,absent,False
+uptake,C00805,Salicylic Acid,CarboxylicAcids,vpe,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,buol,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,cauj,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,cohm,True,True,both,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,cpi,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,cuvk,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,dri,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,pzu,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,racd,False,True,conditioned_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,tro,True,False,basal_only,False
+uptake,C00296,Quinic Acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,cxy,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,mgk,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,mip,False,True,conditioned_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,pzu,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,racd,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00022,Pyruvic Acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,buol,True,False,basal_only,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,cpi,True,False,basal_only,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,mlot,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,pscf,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,racd,False,False,absent,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C07086,phenylacetic acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,bbet,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,buol,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,cpi,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,mlot,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,pscf,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,racd,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,tro,False,False,absent,False
+uptake,C00418,Mevalonic Acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,cuvk,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,cxy,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,mgk,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,racd,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00256,Lactic Acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,cxy,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,flk,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,mgk,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,mip,False,True,conditioned_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,racd,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00311,isocitric acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00311,isocitric acid,CarboxylicAcids,vpe,True,False,basal_only,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,cpi,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,mlot,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,racd,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,tro,False,False,absent,False
+uptake,C00544,Homogentisic Acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,cpi,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,cuvk,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,cxy,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,mgk,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,mip,False,True,conditioned_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,pscf,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,racd,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00158,Citric Acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00158,Citric Acid,CarboxylicAcids,vpe,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,buol,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,cpi,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,cuvk,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,lgu,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,lur,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,racd,True,True,both,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,tro,False,False,absent,False
+uptake,C00671,alpha-keto-beta-methylvaleric acid,CarboxylicAcids,vpe,True,False,basal_only,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,bbet,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,buol,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,cohm,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,cpi,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,dri,True,True,both,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,flk,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,lur,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,mgk,True,True,both,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,mip,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,mlot,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,racd,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,tro,False,False,absent,False
+uptake,C02630,alpha-hydroxyglutarate,CarboxylicAcids,vpe,False,False,absent,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,buol,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,cxy,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,flk,False,False,absent,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,mgk,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,racd,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00417,Aconitic Acid,CarboxylicAcids,vpe,True,False,basal_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,cohm,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,cxy,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,mgk,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,mip,False,True,conditioned_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,racd,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C00149,(S)-malic acid,CarboxylicAcids,vpe,True,False,basal_only,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,buol,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,cauj,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,cpi,True,False,basal_only,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,cuvk,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,cxy,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,dri,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,lgu,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,lur,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,mgk,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,pmor,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,pscf,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,pzu,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,racd,True,True,both,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,rfa,False,False,absent,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,tro,True,False,basal_only,False
+uptake,C05984,(S)-2-hydroxybutyric acid,CarboxylicAcids,vpe,False,False,absent,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,bbet,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,buol,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,cauj,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,cohm,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,cpi,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,cuvk,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,cxy,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,dri,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,flk,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,lgu,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,lur,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,mgk,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,mip,False,False,absent,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,mlot,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,pmor,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,pscf,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,pzu,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,racd,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,rfa,True,False,basal_only,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,tro,True,True,both,False
+uptake,C01089,(R)-3-hydroxybutyric acid,CarboxylicAcids,vpe,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,bbet,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,buol,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,cauj,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,cohm,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,cpi,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,cuvk,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,cxy,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,dri,True,False,basal_only,False
+uptake,C00082,Tyrosine,AminoAcids,flk,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,lgu,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,lur,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,mgk,True,False,basal_only,False
+uptake,C00082,Tyrosine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00082,Tyrosine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00082,Tyrosine,AminoAcids,pmor,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,pscf,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,pzu,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,racd,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00082,Tyrosine,AminoAcids,tro,True,True,both,False
+uptake,C00082,Tyrosine,AminoAcids,vpe,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,bbet,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,buol,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,cauj,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,cohm,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,cpi,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,cuvk,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,cxy,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,dri,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,flk,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,lgu,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,lur,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,mgk,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00794,Sorbitol,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00794,Sorbitol,AminoAcids,pmor,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00794,Sorbitol,AminoAcids,pzu,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,racd,True,True,both,False
+uptake,C00794,Sorbitol,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00794,Sorbitol,AminoAcids,tro,True,False,basal_only,False
+uptake,C00794,Sorbitol,AminoAcids,vpe,True,True,both,False
+uptake,C00065,Serine,AminoAcids,bbet,True,True,both,False
+uptake,C00065,Serine,AminoAcids,buol,True,True,both,False
+uptake,C00065,Serine,AminoAcids,cauj,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,cohm,True,False,basal_only,False
+uptake,C00065,Serine,AminoAcids,cpi,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,cuvk,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,cxy,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,dri,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,flk,True,True,both,False
+uptake,C00065,Serine,AminoAcids,lgu,True,True,both,False
+uptake,C00065,Serine,AminoAcids,lur,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,mgk,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,mip,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,mlot,True,True,both,False
+uptake,C00065,Serine,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00065,Serine,AminoAcids,pscf,True,True,both,False
+uptake,C00065,Serine,AminoAcids,pzu,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,racd,True,True,both,False
+uptake,C00065,Serine,AminoAcids,rfa,False,False,absent,False
+uptake,C00065,Serine,AminoAcids,tro,True,False,basal_only,False
+uptake,C00065,Serine,AminoAcids,vpe,True,True,both,False
+uptake,C00148,Proline,AminoAcids,bbet,True,True,both,False
+uptake,C00148,Proline,AminoAcids,buol,True,True,both,False
+uptake,C00148,Proline,AminoAcids,cauj,True,True,both,False
+uptake,C00148,Proline,AminoAcids,cohm,True,False,basal_only,False
+uptake,C00148,Proline,AminoAcids,cpi,True,True,both,False
+uptake,C00148,Proline,AminoAcids,cuvk,True,True,both,False
+uptake,C00148,Proline,AminoAcids,cxy,True,True,both,False
+uptake,C00148,Proline,AminoAcids,dri,True,True,both,False
+uptake,C00148,Proline,AminoAcids,flk,True,True,both,False
+uptake,C00148,Proline,AminoAcids,lgu,True,False,basal_only,False
+uptake,C00148,Proline,AminoAcids,lur,True,True,both,False
+uptake,C00148,Proline,AminoAcids,mgk,True,True,both,False
+uptake,C00148,Proline,AminoAcids,mip,False,False,absent,False
+uptake,C00148,Proline,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00148,Proline,AminoAcids,pmor,True,True,both,False
+uptake,C00148,Proline,AminoAcids,pscf,True,True,both,False
+uptake,C00148,Proline,AminoAcids,pzu,False,False,absent,False
+uptake,C00148,Proline,AminoAcids,racd,True,True,both,False
+uptake,C00148,Proline,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00148,Proline,AminoAcids,tro,True,False,basal_only,False
+uptake,C00148,Proline,AminoAcids,vpe,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,bbet,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,buol,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,cauj,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,cohm,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,cpi,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,cuvk,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,cxy,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,dri,False,True,conditioned_only,False
+uptake,C00079,Phenylalanine,AminoAcids,flk,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,lgu,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,lur,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,mgk,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00079,Phenylalanine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,pmor,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,pscf,True,True,both,False
+uptake,C00079,Phenylalanine,AminoAcids,pzu,False,False,absent,False
+uptake,C00079,Phenylalanine,AminoAcids,racd,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,tro,True,False,basal_only,False
+uptake,C00079,Phenylalanine,AminoAcids,vpe,True,True,both,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,bbet,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,buol,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,cauj,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,cohm,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,cpi,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,cuvk,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,cxy,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,dri,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,flk,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,lgu,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,lur,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,mgk,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,mip,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,mlot,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,pmor,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,pscf,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,pzu,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,racd,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,rfa,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,tro,False,False,absent,False
+uptake,C03519,N-acetylphenylalanine,AminoAcids,vpe,False,False,absent,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,bbet,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,buol,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,cauj,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,cohm,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,cpi,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,cuvk,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,cxy,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,dri,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,flk,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,lgu,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,lur,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,mgk,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,pzu,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,racd,True,False,basal_only,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,rfa,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,tro,True,True,both,False
+uptake,C00624,N-acetylglutamic acid,AminoAcids,vpe,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,bbet,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,buol,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,cauj,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,cohm,False,False,absent,False
+uptake,C00123,Leucine,AminoAcids,cpi,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,cuvk,False,False,absent,False
+uptake,C00123,Leucine,AminoAcids,cxy,False,False,absent,False
+uptake,C00123,Leucine,AminoAcids,dri,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,flk,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,lgu,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,lur,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,mgk,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,mip,False,False,absent,False
+uptake,C00123,Leucine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,pmor,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,racd,True,True,both,False
+uptake,C00123,Leucine,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,tro,True,False,basal_only,False
+uptake,C00123,Leucine,AminoAcids,vpe,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,bbet,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,buol,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,cauj,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,cohm,True,False,basal_only,False
+uptake,C00135,Histidine,AminoAcids,cpi,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,cuvk,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,cxy,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,dri,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,flk,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,lgu,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,lur,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,mgk,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00135,Histidine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00135,Histidine,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00135,Histidine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00135,Histidine,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00135,Histidine,AminoAcids,racd,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,rfa,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,tro,True,True,both,False
+uptake,C00135,Histidine,AminoAcids,vpe,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,bbet,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,buol,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,cauj,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,cohm,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,cpi,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,cuvk,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,cxy,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,dri,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,flk,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,lgu,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,lur,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,mgk,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,mip,False,False,absent,False
+uptake,C00064,Glutamine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00064,Glutamine,AminoAcids,pmor,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00064,Glutamine,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00064,Glutamine,AminoAcids,racd,True,False,basal_only,False
+uptake,C00064,Glutamine,AminoAcids,rfa,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,tro,True,True,both,False
+uptake,C00064,Glutamine,AminoAcids,vpe,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,bbet,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,buol,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,cauj,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,cohm,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,cpi,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,cuvk,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,cxy,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,dri,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,flk,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,lgu,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,lur,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,mgk,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,pscf,True,True,both,False
+uptake,C00025,Glutamic Acid,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,racd,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,tro,True,False,basal_only,False
+uptake,C00025,Glutamic Acid,AminoAcids,vpe,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,bbet,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,buol,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,cauj,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,cohm,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,cpi,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,cuvk,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,cxy,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,dri,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,flk,False,False,absent,False
+uptake,C00327,Citrulline,AminoAcids,lgu,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,lur,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,mgk,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,mip,False,False,absent,False
+uptake,C00327,Citrulline,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00327,Citrulline,AminoAcids,pmor,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00327,Citrulline,AminoAcids,pzu,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,racd,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,rfa,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,tro,True,True,both,False
+uptake,C00327,Citrulline,AminoAcids,vpe,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,bbet,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,buol,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,cauj,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,cohm,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,cpi,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,cuvk,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,cxy,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,dri,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,flk,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,lgu,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,lur,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,mgk,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00099,beta-Alanine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00099,beta-Alanine,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00099,beta-Alanine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00099,beta-Alanine,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00099,beta-Alanine,AminoAcids,racd,True,False,basal_only,False
+uptake,C00099,beta-Alanine,AminoAcids,rfa,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,tro,True,True,both,False
+uptake,C00099,beta-Alanine,AminoAcids,vpe,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,bbet,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,buol,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,cauj,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,cohm,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,cpi,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,cuvk,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,cxy,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,dri,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,flk,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,lgu,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,lur,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,mgk,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00049,Aspartic Acid,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00049,Aspartic Acid,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00049,Aspartic Acid,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00049,Aspartic Acid,AminoAcids,pzu,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,racd,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,rfa,True,False,basal_only,False
+uptake,C00049,Aspartic Acid,AminoAcids,tro,True,True,both,False
+uptake,C00049,Aspartic Acid,AminoAcids,vpe,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,bbet,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,buol,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,cauj,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,cohm,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,cpi,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,cuvk,False,True,conditioned_only,False
+uptake,C00152,Asparagine,AminoAcids,cxy,False,False,absent,False
+uptake,C00152,Asparagine,AminoAcids,dri,False,True,conditioned_only,False
+uptake,C00152,Asparagine,AminoAcids,flk,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,lgu,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,lur,False,True,conditioned_only,False
+uptake,C00152,Asparagine,AminoAcids,mgk,True,False,basal_only,False
+uptake,C00152,Asparagine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00152,Asparagine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00152,Asparagine,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00152,Asparagine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00152,Asparagine,AminoAcids,pzu,False,False,absent,False
+uptake,C00152,Asparagine,AminoAcids,racd,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,rfa,True,True,both,False
+uptake,C00152,Asparagine,AminoAcids,tro,False,False,absent,False
+uptake,C00152,Asparagine,AminoAcids,vpe,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,bbet,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,buol,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,cauj,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,cohm,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,cpi,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,cuvk,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,cxy,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,dri,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,flk,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,lgu,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,lur,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,mgk,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,mip,False,True,conditioned_only,False
+uptake,C00062,Arginine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00062,Arginine,AminoAcids,pmor,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,pscf,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,pzu,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,racd,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,rfa,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,tro,True,True,both,False
+uptake,C00062,Arginine,AminoAcids,vpe,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,bbet,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,buol,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,cauj,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,cohm,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,cpi,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,cuvk,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,cxy,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,dri,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,flk,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,lgu,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,lur,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,mgk,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,mip,False,False,absent,False
+uptake,C00041,Alanine,AminoAcids,mlot,True,False,basal_only,False
+uptake,C00041,Alanine,AminoAcids,pmor,True,False,basal_only,False
+uptake,C00041,Alanine,AminoAcids,pscf,True,False,basal_only,False
+uptake,C00041,Alanine,AminoAcids,pzu,True,False,basal_only,False
+uptake,C00041,Alanine,AminoAcids,racd,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,rfa,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,tro,True,True,both,False
+uptake,C00041,Alanine,AminoAcids,vpe,True,True,both,False
+uptake,C01181,gamma-butyrobetaine,Amines,bbet,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,buol,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,cauj,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,cohm,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,cpi,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,cuvk,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,cxy,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,dri,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,flk,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,lgu,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,lur,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,mgk,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,mip,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,mlot,True,False,basal_only,False
+uptake,C01181,gamma-butyrobetaine,Amines,pmor,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,pscf,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,pzu,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,racd,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,rfa,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,tro,False,False,absent,False
+uptake,C01181,gamma-butyrobetaine,Amines,vpe,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,bbet,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,buol,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,cauj,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,cohm,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,cpi,True,False,basal_only,False
+uptake,C00189,Ethanolamine,Amines,cuvk,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,cxy,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,dri,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,flk,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,lgu,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,lur,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,mgk,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,mip,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,mlot,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,pmor,True,False,basal_only,False
+uptake,C00189,Ethanolamine,Amines,pscf,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,pzu,False,False,absent,False
+uptake,C00189,Ethanolamine,Amines,racd,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,rfa,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,tro,True,True,both,False
+uptake,C00189,Ethanolamine,Amines,vpe,True,True,both,False
+uptake,C00114,Choline,Amines,bbet,True,True,both,False
+uptake,C00114,Choline,Amines,buol,True,True,both,False
+uptake,C00114,Choline,Amines,cauj,False,False,absent,False
+uptake,C00114,Choline,Amines,cohm,False,False,absent,False
+uptake,C00114,Choline,Amines,cpi,False,False,absent,False
+uptake,C00114,Choline,Amines,cuvk,False,False,absent,False
+uptake,C00114,Choline,Amines,cxy,False,False,absent,False
+uptake,C00114,Choline,Amines,dri,False,False,absent,False
+uptake,C00114,Choline,Amines,flk,False,False,absent,False
+uptake,C00114,Choline,Amines,lgu,False,False,absent,False
+uptake,C00114,Choline,Amines,lur,False,False,absent,False
+uptake,C00114,Choline,Amines,mgk,False,False,absent,False
+uptake,C00114,Choline,Amines,mip,False,True,conditioned_only,False
+uptake,C00114,Choline,Amines,mlot,True,False,basal_only,False
+uptake,C00114,Choline,Amines,pmor,True,True,both,False
+uptake,C00114,Choline,Amines,pscf,True,True,both,False
+uptake,C00114,Choline,Amines,pzu,False,False,absent,False
+uptake,C00114,Choline,Amines,racd,True,True,both,False
+uptake,C00114,Choline,Amines,rfa,True,True,both,False
+uptake,C00114,Choline,Amines,tro,False,False,absent,False
+uptake,C00114,Choline,Amines,vpe,True,True,both,False
+uptake,C00719,Betaine,Amines,bbet,True,True,both,False
+uptake,C00719,Betaine,Amines,buol,True,True,both,False
+uptake,C00719,Betaine,Amines,cauj,False,False,absent,False
+uptake,C00719,Betaine,Amines,cohm,False,False,absent,False
+uptake,C00719,Betaine,Amines,cpi,True,True,both,False
+uptake,C00719,Betaine,Amines,cuvk,False,False,absent,False
+uptake,C00719,Betaine,Amines,cxy,False,False,absent,False
+uptake,C00719,Betaine,Amines,dri,False,False,absent,False
+uptake,C00719,Betaine,Amines,flk,False,False,absent,False
+uptake,C00719,Betaine,Amines,lgu,False,False,absent,False
+uptake,C00719,Betaine,Amines,lur,True,True,both,False
+uptake,C00719,Betaine,Amines,mgk,True,True,both,False
+uptake,C00719,Betaine,Amines,mip,False,True,conditioned_only,False
+uptake,C00719,Betaine,Amines,mlot,True,False,basal_only,False
+uptake,C00719,Betaine,Amines,pmor,True,False,basal_only,False
+uptake,C00719,Betaine,Amines,pscf,True,False,basal_only,False
+uptake,C00719,Betaine,Amines,pzu,False,False,absent,False
+uptake,C00719,Betaine,Amines,racd,True,True,both,False
+uptake,C00719,Betaine,Amines,rfa,True,False,basal_only,False
+uptake,C00719,Betaine,Amines,tro,False,False,absent,False
+uptake,C00719,Betaine,Amines,vpe,True,True,both,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,bbet,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,buol,True,True,both,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,cauj,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,cohm,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,cpi,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,cuvk,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,cxy,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,dri,False,True,conditioned_only,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,flk,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,lgu,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,lur,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,mgk,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,mip,False,True,conditioned_only,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,mlot,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,pmor,True,True,both,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,pscf,True,False,basal_only,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,pzu,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,racd,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,rfa,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,tro,False,False,absent,False
+uptake,C01035,gamma-guanidinobutyric acid,Amidines,vpe,True,False,basal_only,False
+uptake,C00300,Creatine,Amidines,bbet,False,False,absent,False
+uptake,C00300,Creatine,Amidines,buol,False,False,absent,False
+uptake,C00300,Creatine,Amidines,cauj,True,False,basal_only,False
+uptake,C00300,Creatine,Amidines,cohm,False,False,absent,False
+uptake,C00300,Creatine,Amidines,cpi,False,False,absent,False
+uptake,C00300,Creatine,Amidines,cuvk,False,False,absent,False
+uptake,C00300,Creatine,Amidines,cxy,False,False,absent,False
+uptake,C00300,Creatine,Amidines,dri,False,False,absent,False
+uptake,C00300,Creatine,Amidines,flk,False,False,absent,False
+uptake,C00300,Creatine,Amidines,lgu,False,False,absent,False
+uptake,C00300,Creatine,Amidines,lur,False,False,absent,False
+uptake,C00300,Creatine,Amidines,mgk,False,False,absent,False
+uptake,C00300,Creatine,Amidines,mip,False,False,absent,False
+uptake,C00300,Creatine,Amidines,mlot,True,False,basal_only,False
+uptake,C00300,Creatine,Amidines,pmor,False,False,absent,False
+uptake,C00300,Creatine,Amidines,pscf,False,False,absent,False
+uptake,C00300,Creatine,Amidines,pzu,False,False,absent,False
+uptake,C00300,Creatine,Amidines,racd,True,False,basal_only,False
+uptake,C00300,Creatine,Amidines,rfa,False,False,absent,False
+uptake,C00300,Creatine,Amidines,tro,False,False,absent,False
+uptake,C00300,Creatine,Amidines,vpe,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,bbet,True,True,both,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,buol,True,True,both,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,cauj,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,cohm,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,cpi,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,cuvk,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,cxy,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,dri,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,flk,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,lgu,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,lur,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,mgk,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,mip,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,mlot,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,pmor,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,pscf,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,pzu,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,racd,False,False,absent,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,rfa,True,False,basal_only,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,tro,True,False,basal_only,False
+uptake,C00601,phenylacetaldehyde,Aldehydes,vpe,True,True,both,False

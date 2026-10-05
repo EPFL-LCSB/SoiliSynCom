@@ -1,0 +1,3812 @@
+{
+  "actual_model_count": 80,
+  "expected_model_count": 80,
+  "families": [
+    {
+      "count": 21,
+      "family_id": "rich_fba",
+      "reaction_rebuilds": 6,
+      "reconnected": 5,
+      "removed": 977
+    },
+    {
+      "count": 21,
+      "family_id": "rich_tfa",
+      "reaction_rebuilds": 6,
+      "reconnected": 5,
+      "removed": 977
+    },
+    {
+      "count": 19,
+      "family_id": "m9_fba",
+      "reaction_rebuilds": 5,
+      "reconnected": 4,
+      "removed": 900
+    },
+    {
+      "count": 19,
+      "family_id": "m9_tfa",
+      "reaction_rebuilds": 5,
+      "reconnected": 4,
+      "removed": 900
+    }
+  ],
+  "invariants": {
+    "gene_annotation_lengths_match_genes": true,
+    "mat_reload_succeeded": true,
+    "metabolite_annotation_lengths_match_mets": true,
+    "non_target_fields_preserved": true,
+    "reaction_annotation_lengths_match_rxns": true,
+    "rules_match_rxn_gene_matrix": true,
+    "rxn_gene_matrix_orphan_columns": 0,
+    "rxn_gene_matrix_shape_valid": true
+  },
+  "models": [
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1401,
+        "geneSBOTerms": 1401,
+        "genes": 1401
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1401,
+      "gr_rules_length": 3586,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3265,
+        "metAliases": 3265,
+        "metBiGGID": 3265,
+        "metInChIKey": 3265,
+        "metMetaNetXID": 3265,
+        "metMiriams": 3265,
+        "metPka": 3265,
+        "metPkb": 3265,
+        "metSBOTerms": 3265,
+        "metSmiles": 3265
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3265,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/bbetPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3586,
+        "rxnMiriams": 3586,
+        "rxnRheaID": 3586,
+        "rxnSBOTerms": 3586
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3586,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3586,
+        1401
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3586,
+      "status": "PASS",
+      "strain_code": "bbet"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1492,
+        "geneSBOTerms": 1492,
+        "genes": 1492
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1492,
+      "gr_rules_length": 3651,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3297,
+        "metAliases": 3297,
+        "metBiGGID": 3297,
+        "metInChIKey": 3297,
+        "metMetaNetXID": 3297,
+        "metMiriams": 3297,
+        "metPka": 3297,
+        "metPkb": 3297,
+        "metSBOTerms": 3297,
+        "metSmiles": 3297
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3297,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/buolPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3651,
+        "rxnMiriams": 3651,
+        "rxnRheaID": 3651,
+        "rxnSBOTerms": 3651
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3651,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3651,
+        1492
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3651,
+      "status": "PASS",
+      "strain_code": "buol"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 875,
+        "geneSBOTerms": 875,
+        "genes": 875
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 875,
+      "gr_rules_length": 3241,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3000,
+        "metAliases": 3000,
+        "metBiGGID": 3000,
+        "metInChIKey": 3000,
+        "metMetaNetXID": 3000,
+        "metMiriams": 3000,
+        "metPka": 3000,
+        "metPkb": 3000,
+        "metSBOTerms": 3000,
+        "metSmiles": 3000
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3000,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/caujPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3241,
+        "rxnMiriams": 3241,
+        "rxnRheaID": 3241,
+        "rxnSBOTerms": 3241
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3241,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3241,
+        875
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3241,
+      "status": "PASS",
+      "strain_code": "cauj"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 928,
+        "geneSBOTerms": 928,
+        "genes": 928
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 928,
+      "gr_rules_length": 3229,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2936,
+        "metAliases": 2936,
+        "metBiGGID": 2936,
+        "metInChIKey": 2936,
+        "metMetaNetXID": 2936,
+        "metMiriams": 2936,
+        "metPka": 2936,
+        "metPkb": 2936,
+        "metSBOTerms": 2936,
+        "metSmiles": 2936
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2936,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/cohmPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3229,
+        "rxnMiriams": 3229,
+        "rxnRheaID": 3229,
+        "rxnSBOTerms": 3229
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3229,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3229,
+        928
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3229,
+      "status": "PASS",
+      "strain_code": "cohm"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 836,
+        "geneSBOTerms": 836,
+        "genes": 836
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 836,
+      "gr_rules_length": 3183,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2931,
+        "metAliases": 2931,
+        "metBiGGID": 2931,
+        "metInChIKey": 2931,
+        "metMetaNetXID": 2931,
+        "metMiriams": 2931,
+        "metPka": 2931,
+        "metPkb": 2931,
+        "metSBOTerms": 2931,
+        "metSmiles": 2931
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2931,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/cpiPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3183,
+        "rxnMiriams": 3183,
+        "rxnRheaID": 3183,
+        "rxnSBOTerms": 3183
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3183,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3183,
+        836
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3183,
+      "status": "PASS",
+      "strain_code": "cpi"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2951,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2727,
+        "metAliases": 2727,
+        "metBiGGID": 2727,
+        "metInChIKey": 2727,
+        "metMetaNetXID": 2727,
+        "metMiriams": 2727,
+        "metPka": 2727,
+        "metPkb": 2727,
+        "metSBOTerms": 2727,
+        "metSmiles": 2727
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2727,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/cuvkPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2951,
+        "rxnMiriams": 2951,
+        "rxnRheaID": 2951,
+        "rxnSBOTerms": 2951
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2951,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2951,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2951,
+      "status": "PASS",
+      "strain_code": "cuvk"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2985,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2728,
+        "metAliases": 2728,
+        "metBiGGID": 2728,
+        "metInChIKey": 2728,
+        "metMetaNetXID": 2728,
+        "metMiriams": 2728,
+        "metPka": 2728,
+        "metPkb": 2728,
+        "metSBOTerms": 2728,
+        "metSmiles": 2728
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2728,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/cxyPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2985,
+        "rxnMiriams": 2985,
+        "rxnRheaID": 2985,
+        "rxnSBOTerms": 2985
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2985,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2985,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2985,
+      "status": "PASS",
+      "strain_code": "cxy"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 730,
+        "geneSBOTerms": 730,
+        "genes": 730
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 730,
+      "gr_rules_length": 3030,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2781,
+        "metAliases": 2781,
+        "metBiGGID": 2781,
+        "metInChIKey": 2781,
+        "metMetaNetXID": 2781,
+        "metMiriams": 2781,
+        "metPka": 2781,
+        "metPkb": 2781,
+        "metSBOTerms": 2781,
+        "metSmiles": 2781
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2781,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/driPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3030,
+        "rxnMiriams": 3030,
+        "rxnRheaID": 3030,
+        "rxnSBOTerms": 3030
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3030,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3030,
+        730
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3030,
+      "status": "PASS",
+      "strain_code": "dri"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 650,
+        "geneSBOTerms": 650,
+        "genes": 650
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 650,
+      "gr_rules_length": 2892,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2706,
+        "metAliases": 2706,
+        "metBiGGID": 2706,
+        "metInChIKey": 2706,
+        "metMetaNetXID": 2706,
+        "metMiriams": 2706,
+        "metPka": 2706,
+        "metPkb": 2706,
+        "metSBOTerms": 2706,
+        "metSmiles": 2706
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2706,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/flkPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2892,
+        "rxnMiriams": 2892,
+        "rxnRheaID": 2892,
+        "rxnSBOTerms": 2892
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2892,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2892,
+        650
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2892,
+      "status": "PASS",
+      "strain_code": "flk"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 703,
+        "geneSBOTerms": 703,
+        "genes": 703
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 703,
+      "gr_rules_length": 2977,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2734,
+        "metAliases": 2734,
+        "metBiGGID": 2734,
+        "metInChIKey": 2734,
+        "metMetaNetXID": 2734,
+        "metMiriams": 2734,
+        "metPka": 2734,
+        "metPkb": 2734,
+        "metSBOTerms": 2734,
+        "metSmiles": 2734
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2734,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/lguPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2977,
+        "rxnMiriams": 2977,
+        "rxnRheaID": 2977,
+        "rxnSBOTerms": 2977
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2977,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2977,
+        703
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2977,
+      "status": "PASS",
+      "strain_code": "lgu"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 764,
+        "geneSBOTerms": 764,
+        "genes": 764
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 764,
+      "gr_rules_length": 3146,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2885,
+        "metAliases": 2885,
+        "metBiGGID": 2885,
+        "metInChIKey": 2885,
+        "metMetaNetXID": 2885,
+        "metMiriams": 2885,
+        "metPka": 2885,
+        "metPkb": 2885,
+        "metSBOTerms": 2885,
+        "metSmiles": 2885
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2885,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/lurPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3146,
+        "rxnMiriams": 3146,
+        "rxnRheaID": 3146,
+        "rxnSBOTerms": 3146
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3146,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3146,
+        764
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3146,
+      "status": "PASS",
+      "strain_code": "lur"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 727,
+        "geneSBOTerms": 727,
+        "genes": 727
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 727,
+      "gr_rules_length": 3088,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2860,
+        "metAliases": 2860,
+        "metBiGGID": 2860,
+        "metInChIKey": 2860,
+        "metMetaNetXID": 2860,
+        "metMiriams": 2860,
+        "metPka": 2860,
+        "metPkb": 2860,
+        "metSBOTerms": 2860,
+        "metSmiles": 2860
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2860,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/mgkPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3088,
+        "rxnMiriams": 3088,
+        "rxnRheaID": 3088,
+        "rxnSBOTerms": 3088
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3088,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3088,
+        727
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3088,
+      "status": "PASS",
+      "strain_code": "mgk"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 644,
+        "geneSBOTerms": 644,
+        "genes": 644
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 644,
+      "gr_rules_length": 2849,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2598,
+        "metAliases": 2598,
+        "metBiGGID": 2598,
+        "metInChIKey": 2598,
+        "metMetaNetXID": 2598,
+        "metMiriams": 2598,
+        "metPka": 2598,
+        "metPkb": 2598,
+        "metSBOTerms": 2598,
+        "metSmiles": 2598
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2598,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/mipPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2849,
+        "rxnMiriams": 2849,
+        "rxnRheaID": 2849,
+        "rxnSBOTerms": 2849
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2849,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2849,
+        644
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2849,
+      "status": "PASS",
+      "strain_code": "mip"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1186,
+        "geneSBOTerms": 1186,
+        "genes": 1186
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1186,
+      "gr_rules_length": 3414,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3060,
+        "metAliases": 3060,
+        "metBiGGID": 3060,
+        "metInChIKey": 3060,
+        "metMetaNetXID": 3060,
+        "metMiriams": 3060,
+        "metPka": 3060,
+        "metPkb": 3060,
+        "metSBOTerms": 3060,
+        "metSmiles": 3060
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3060,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/mlotPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3414,
+        "rxnMiriams": 3414,
+        "rxnRheaID": 3414,
+        "rxnSBOTerms": 3414
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3414,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3414,
+        1186
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3414,
+      "status": "PASS",
+      "strain_code": "mlot"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1166,
+        "geneSBOTerms": 1166,
+        "genes": 1166
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1166,
+      "gr_rules_length": 3406,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3049,
+        "metAliases": 3049,
+        "metBiGGID": 3049,
+        "metInChIKey": 3049,
+        "metMetaNetXID": 3049,
+        "metMiriams": 3049,
+        "metPka": 3049,
+        "metPkb": 3049,
+        "metSBOTerms": 3049,
+        "metSmiles": 3049
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3049,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/pmorPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3406,
+        "rxnMiriams": 3406,
+        "rxnRheaID": 3406,
+        "rxnSBOTerms": 3406
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3406,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3406,
+        1166
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3406,
+      "status": "PASS",
+      "strain_code": "pmor"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1006,
+        "geneSBOTerms": 1006,
+        "genes": 1006
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1006,
+      "gr_rules_length": 3347,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3007,
+        "metAliases": 3007,
+        "metBiGGID": 3007,
+        "metInChIKey": 3007,
+        "metMetaNetXID": 3007,
+        "metMiriams": 3007,
+        "metPka": 3007,
+        "metPkb": 3007,
+        "metSBOTerms": 3007,
+        "metSmiles": 3007
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3007,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/pscfPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3347,
+        "rxnMiriams": 3347,
+        "rxnRheaID": 3347,
+        "rxnSBOTerms": 3347
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3347,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3347,
+        1006
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3347,
+      "status": "PASS",
+      "strain_code": "pscf"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 787,
+        "geneSBOTerms": 787,
+        "genes": 787
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 787,
+      "gr_rules_length": 3126,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2932,
+        "metAliases": 2932,
+        "metBiGGID": 2932,
+        "metInChIKey": 2932,
+        "metMetaNetXID": 2932,
+        "metMiriams": 2932,
+        "metPka": 2932,
+        "metPkb": 2932,
+        "metSBOTerms": 2932,
+        "metSmiles": 2932
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2932,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/pzuPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3126,
+        "rxnMiriams": 3126,
+        "rxnRheaID": 3126,
+        "rxnSBOTerms": 3126
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3126,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3126,
+        787
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3126,
+      "status": "PASS",
+      "strain_code": "pzu"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1005,
+        "geneSBOTerms": 1005,
+        "genes": 1005
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1005,
+      "gr_rules_length": 3233,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2849,
+        "metAliases": 2849,
+        "metBiGGID": 2849,
+        "metInChIKey": 2849,
+        "metMetaNetXID": 2849,
+        "metMiriams": 2849,
+        "metPka": 2849,
+        "metPkb": 2849,
+        "metSBOTerms": 2849,
+        "metSmiles": 2849
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2849,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/racdPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3233,
+        "rxnMiriams": 3233,
+        "rxnRheaID": 3233,
+        "rxnSBOTerms": 3233
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3233,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3233,
+        1005
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3233,
+      "status": "PASS",
+      "strain_code": "racd"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1080,
+        "geneSBOTerms": 1080,
+        "genes": 1080
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1080,
+      "gr_rules_length": 3393,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3069,
+        "metAliases": 3069,
+        "metBiGGID": 3069,
+        "metInChIKey": 3069,
+        "metMetaNetXID": 3069,
+        "metMiriams": 3069,
+        "metPka": 3069,
+        "metPkb": 3069,
+        "metSBOTerms": 3069,
+        "metSmiles": 3069
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3069,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/rfaPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3393,
+        "rxnMiriams": 3393,
+        "rxnRheaID": 3393,
+        "rxnSBOTerms": 3393
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3393,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3393,
+        1080
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3393,
+      "status": "PASS",
+      "strain_code": "rfa"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1099,
+        "geneSBOTerms": 1099,
+        "genes": 1099
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1099,
+      "gr_rules_length": 3306,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3061,
+        "metAliases": 3061,
+        "metBiGGID": 3061,
+        "metInChIKey": 3061,
+        "metMetaNetXID": 3061,
+        "metMiriams": 3061,
+        "metPka": 3061,
+        "metPkb": 3061,
+        "metSBOTerms": 3061,
+        "metSmiles": 3061
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3061,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/troPTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3306,
+        "rxnMiriams": 3306,
+        "rxnRheaID": 3306,
+        "rxnSBOTerms": 3306
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3306,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3306,
+        1099
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3306,
+      "status": "PASS",
+      "strain_code": "tro"
+    },
+    {
+      "family_id": "rich_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1171,
+        "geneSBOTerms": 1171,
+        "genes": 1171
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1171,
+      "gr_rules_length": 3434,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3129,
+        "metAliases": 3129,
+        "metBiGGID": 3129,
+        "metInChIKey": 3129,
+        "metMetaNetXID": 3129,
+        "metMiriams": 3129,
+        "metPka": 3129,
+        "metPkb": 3129,
+        "metSBOTerms": 3129,
+        "metSmiles": 3129
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3129,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/FBA_short/vpePTYGVitconstrainedFinal.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3434,
+        "rxnMiriams": 3434,
+        "rxnRheaID": 3434,
+        "rxnSBOTerms": 3434
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3434,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3434,
+        1171
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3434,
+      "status": "PASS",
+      "strain_code": "vpe"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1401,
+        "geneSBOTerms": 1401,
+        "genes": 1401
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1401,
+      "gr_rules_length": 3586,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3265,
+        "metAliases": 3265,
+        "metBiGGID": 3265,
+        "metInChIKey": 3265,
+        "metMetaNetXID": 3265,
+        "metMiriams": 3265,
+        "metPka": 3265,
+        "metPkb": 3265,
+        "metSBOTerms": 3265,
+        "metSmiles": 3265
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3265,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermobbetPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3586,
+        "rxnMiriams": 3586,
+        "rxnRheaID": 3586,
+        "rxnSBOTerms": 3586
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3586,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3586,
+        1401
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3586,
+      "status": "PASS",
+      "strain_code": "bbet"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1492,
+        "geneSBOTerms": 1492,
+        "genes": 1492
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1492,
+      "gr_rules_length": 3651,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3297,
+        "metAliases": 3297,
+        "metBiGGID": 3297,
+        "metInChIKey": 3297,
+        "metMetaNetXID": 3297,
+        "metMiriams": 3297,
+        "metPka": 3297,
+        "metPkb": 3297,
+        "metSBOTerms": 3297,
+        "metSmiles": 3297
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3297,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermobuolPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3651,
+        "rxnMiriams": 3651,
+        "rxnRheaID": 3651,
+        "rxnSBOTerms": 3651
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3651,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3651,
+        1492
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3651,
+      "status": "PASS",
+      "strain_code": "buol"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 875,
+        "geneSBOTerms": 875,
+        "genes": 875
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 875,
+      "gr_rules_length": 3241,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3000,
+        "metAliases": 3000,
+        "metBiGGID": 3000,
+        "metInChIKey": 3000,
+        "metMetaNetXID": 3000,
+        "metMiriams": 3000,
+        "metPka": 3000,
+        "metPkb": 3000,
+        "metSBOTerms": 3000,
+        "metSmiles": 3000
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3000,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermocaujPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3241,
+        "rxnMiriams": 3241,
+        "rxnRheaID": 3241,
+        "rxnSBOTerms": 3241
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3241,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3241,
+        875
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3241,
+      "status": "PASS",
+      "strain_code": "cauj"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 928,
+        "geneSBOTerms": 928,
+        "genes": 928
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 928,
+      "gr_rules_length": 3229,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2936,
+        "metAliases": 2936,
+        "metBiGGID": 2936,
+        "metInChIKey": 2936,
+        "metMetaNetXID": 2936,
+        "metMiriams": 2936,
+        "metPka": 2936,
+        "metPkb": 2936,
+        "metSBOTerms": 2936,
+        "metSmiles": 2936
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2936,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermocohmPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3229,
+        "rxnMiriams": 3229,
+        "rxnRheaID": 3229,
+        "rxnSBOTerms": 3229
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3229,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3229,
+        928
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3229,
+      "status": "PASS",
+      "strain_code": "cohm"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 836,
+        "geneSBOTerms": 836,
+        "genes": 836
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 836,
+      "gr_rules_length": 3183,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2931,
+        "metAliases": 2931,
+        "metBiGGID": 2931,
+        "metInChIKey": 2931,
+        "metMetaNetXID": 2931,
+        "metMiriams": 2931,
+        "metPka": 2931,
+        "metPkb": 2931,
+        "metSBOTerms": 2931,
+        "metSmiles": 2931
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2931,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermocpiPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3183,
+        "rxnMiriams": 3183,
+        "rxnRheaID": 3183,
+        "rxnSBOTerms": 3183
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3183,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3183,
+        836
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3183,
+      "status": "PASS",
+      "strain_code": "cpi"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2951,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2727,
+        "metAliases": 2727,
+        "metBiGGID": 2727,
+        "metInChIKey": 2727,
+        "metMetaNetXID": 2727,
+        "metMiriams": 2727,
+        "metPka": 2727,
+        "metPkb": 2727,
+        "metSBOTerms": 2727,
+        "metSmiles": 2727
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2727,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermocuvkPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2951,
+        "rxnMiriams": 2951,
+        "rxnRheaID": 2951,
+        "rxnSBOTerms": 2951
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2951,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2951,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2951,
+      "status": "PASS",
+      "strain_code": "cuvk"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2985,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2728,
+        "metAliases": 2728,
+        "metBiGGID": 2728,
+        "metInChIKey": 2728,
+        "metMetaNetXID": 2728,
+        "metMiriams": 2728,
+        "metPka": 2728,
+        "metPkb": 2728,
+        "metSBOTerms": 2728,
+        "metSmiles": 2728
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2728,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermocxyPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2985,
+        "rxnMiriams": 2985,
+        "rxnRheaID": 2985,
+        "rxnSBOTerms": 2985
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2985,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2985,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2985,
+      "status": "PASS",
+      "strain_code": "cxy"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 730,
+        "geneSBOTerms": 730,
+        "genes": 730
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 730,
+      "gr_rules_length": 3030,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2781,
+        "metAliases": 2781,
+        "metBiGGID": 2781,
+        "metInChIKey": 2781,
+        "metMetaNetXID": 2781,
+        "metMiriams": 2781,
+        "metPka": 2781,
+        "metPkb": 2781,
+        "metSBOTerms": 2781,
+        "metSmiles": 2781
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2781,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermodriPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3030,
+        "rxnMiriams": 3030,
+        "rxnRheaID": 3030,
+        "rxnSBOTerms": 3030
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3030,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3030,
+        730
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3030,
+      "status": "PASS",
+      "strain_code": "dri"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 650,
+        "geneSBOTerms": 650,
+        "genes": 650
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 650,
+      "gr_rules_length": 2892,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2706,
+        "metAliases": 2706,
+        "metBiGGID": 2706,
+        "metInChIKey": 2706,
+        "metMetaNetXID": 2706,
+        "metMiriams": 2706,
+        "metPka": 2706,
+        "metPkb": 2706,
+        "metSBOTerms": 2706,
+        "metSmiles": 2706
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2706,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermoflkPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2892,
+        "rxnMiriams": 2892,
+        "rxnRheaID": 2892,
+        "rxnSBOTerms": 2892
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2892,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2892,
+        650
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2892,
+      "status": "PASS",
+      "strain_code": "flk"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 703,
+        "geneSBOTerms": 703,
+        "genes": 703
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 703,
+      "gr_rules_length": 2977,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2734,
+        "metAliases": 2734,
+        "metBiGGID": 2734,
+        "metInChIKey": 2734,
+        "metMetaNetXID": 2734,
+        "metMiriams": 2734,
+        "metPka": 2734,
+        "metPkb": 2734,
+        "metSBOTerms": 2734,
+        "metSmiles": 2734
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2734,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermolguPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2977,
+        "rxnMiriams": 2977,
+        "rxnRheaID": 2977,
+        "rxnSBOTerms": 2977
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2977,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2977,
+        703
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2977,
+      "status": "PASS",
+      "strain_code": "lgu"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 764,
+        "geneSBOTerms": 764,
+        "genes": 764
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 764,
+      "gr_rules_length": 3146,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2885,
+        "metAliases": 2885,
+        "metBiGGID": 2885,
+        "metInChIKey": 2885,
+        "metMetaNetXID": 2885,
+        "metMiriams": 2885,
+        "metPka": 2885,
+        "metPkb": 2885,
+        "metSBOTerms": 2885,
+        "metSmiles": 2885
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2885,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermolurPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3146,
+        "rxnMiriams": 3146,
+        "rxnRheaID": 3146,
+        "rxnSBOTerms": 3146
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3146,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3146,
+        764
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3146,
+      "status": "PASS",
+      "strain_code": "lur"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 727,
+        "geneSBOTerms": 727,
+        "genes": 727
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 727,
+      "gr_rules_length": 3088,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2860,
+        "metAliases": 2860,
+        "metBiGGID": 2860,
+        "metInChIKey": 2860,
+        "metMetaNetXID": 2860,
+        "metMiriams": 2860,
+        "metPka": 2860,
+        "metPkb": 2860,
+        "metSBOTerms": 2860,
+        "metSmiles": 2860
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2860,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermomgkPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3088,
+        "rxnMiriams": 3088,
+        "rxnRheaID": 3088,
+        "rxnSBOTerms": 3088
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3088,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3088,
+        727
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3088,
+      "status": "PASS",
+      "strain_code": "mgk"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 644,
+        "geneSBOTerms": 644,
+        "genes": 644
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 644,
+      "gr_rules_length": 2849,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2598,
+        "metAliases": 2598,
+        "metBiGGID": 2598,
+        "metInChIKey": 2598,
+        "metMetaNetXID": 2598,
+        "metMiriams": 2598,
+        "metPka": 2598,
+        "metPkb": 2598,
+        "metSBOTerms": 2598,
+        "metSmiles": 2598
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2598,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermomipPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2849,
+        "rxnMiriams": 2849,
+        "rxnRheaID": 2849,
+        "rxnSBOTerms": 2849
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2849,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2849,
+        644
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2849,
+      "status": "PASS",
+      "strain_code": "mip"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1186,
+        "geneSBOTerms": 1186,
+        "genes": 1186
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1186,
+      "gr_rules_length": 3414,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3060,
+        "metAliases": 3060,
+        "metBiGGID": 3060,
+        "metInChIKey": 3060,
+        "metMetaNetXID": 3060,
+        "metMiriams": 3060,
+        "metPka": 3060,
+        "metPkb": 3060,
+        "metSBOTerms": 3060,
+        "metSmiles": 3060
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3060,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermomlotPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3414,
+        "rxnMiriams": 3414,
+        "rxnRheaID": 3414,
+        "rxnSBOTerms": 3414
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3414,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3414,
+        1186
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3414,
+      "status": "PASS",
+      "strain_code": "mlot"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1166,
+        "geneSBOTerms": 1166,
+        "genes": 1166
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1166,
+      "gr_rules_length": 3406,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3049,
+        "metAliases": 3049,
+        "metBiGGID": 3049,
+        "metInChIKey": 3049,
+        "metMetaNetXID": 3049,
+        "metMiriams": 3049,
+        "metPka": 3049,
+        "metPkb": 3049,
+        "metSBOTerms": 3049,
+        "metSmiles": 3049
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3049,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermopmorPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3406,
+        "rxnMiriams": 3406,
+        "rxnRheaID": 3406,
+        "rxnSBOTerms": 3406
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3406,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3406,
+        1166
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3406,
+      "status": "PASS",
+      "strain_code": "pmor"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1006,
+        "geneSBOTerms": 1006,
+        "genes": 1006
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1006,
+      "gr_rules_length": 3347,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3007,
+        "metAliases": 3007,
+        "metBiGGID": 3007,
+        "metInChIKey": 3007,
+        "metMetaNetXID": 3007,
+        "metMiriams": 3007,
+        "metPka": 3007,
+        "metPkb": 3007,
+        "metSBOTerms": 3007,
+        "metSmiles": 3007
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3007,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermopscfPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3347,
+        "rxnMiriams": 3347,
+        "rxnRheaID": 3347,
+        "rxnSBOTerms": 3347
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3347,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3347,
+        1006
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3347,
+      "status": "PASS",
+      "strain_code": "pscf"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 787,
+        "geneSBOTerms": 787,
+        "genes": 787
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 787,
+      "gr_rules_length": 3126,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2932,
+        "metAliases": 2932,
+        "metBiGGID": 2932,
+        "metInChIKey": 2932,
+        "metMetaNetXID": 2932,
+        "metMiriams": 2932,
+        "metPka": 2932,
+        "metPkb": 2932,
+        "metSBOTerms": 2932,
+        "metSmiles": 2932
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2932,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermopzuPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3126,
+        "rxnMiriams": 3126,
+        "rxnRheaID": 3126,
+        "rxnSBOTerms": 3126
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3126,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3126,
+        787
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3126,
+      "status": "PASS",
+      "strain_code": "pzu"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1005,
+        "geneSBOTerms": 1005,
+        "genes": 1005
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1005,
+      "gr_rules_length": 3233,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2849,
+        "metAliases": 2849,
+        "metBiGGID": 2849,
+        "metInChIKey": 2849,
+        "metMetaNetXID": 2849,
+        "metMiriams": 2849,
+        "metPka": 2849,
+        "metPkb": 2849,
+        "metSBOTerms": 2849,
+        "metSmiles": 2849
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2849,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermoracdPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3233,
+        "rxnMiriams": 3233,
+        "rxnRheaID": 3233,
+        "rxnSBOTerms": 3233
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3233,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3233,
+        1005
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3233,
+      "status": "PASS",
+      "strain_code": "racd"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1080,
+        "geneSBOTerms": 1080,
+        "genes": 1080
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1080,
+      "gr_rules_length": 3393,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3069,
+        "metAliases": 3069,
+        "metBiGGID": 3069,
+        "metInChIKey": 3069,
+        "metMetaNetXID": 3069,
+        "metMiriams": 3069,
+        "metPka": 3069,
+        "metPkb": 3069,
+        "metSBOTerms": 3069,
+        "metSmiles": 3069
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3069,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermorfaPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3393,
+        "rxnMiriams": 3393,
+        "rxnRheaID": 3393,
+        "rxnSBOTerms": 3393
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3393,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3393,
+        1080
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3393,
+      "status": "PASS",
+      "strain_code": "rfa"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1099,
+        "geneSBOTerms": 1099,
+        "genes": 1099
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1099,
+      "gr_rules_length": 3306,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3061,
+        "metAliases": 3061,
+        "metBiGGID": 3061,
+        "metInChIKey": 3061,
+        "metMetaNetXID": 3061,
+        "metMiriams": 3061,
+        "metPka": 3061,
+        "metPkb": 3061,
+        "metSBOTerms": 3061,
+        "metSmiles": 3061
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3061,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermotroPTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3306,
+        "rxnMiriams": 3306,
+        "rxnRheaID": 3306,
+        "rxnSBOTerms": 3306
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3306,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3306,
+        1099
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3306,
+      "status": "PASS",
+      "strain_code": "tro"
+    },
+    {
+      "family_id": "rich_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1171,
+        "geneSBOTerms": 1171,
+        "genes": 1171
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1171,
+      "gr_rules_length": 3434,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3129,
+        "metAliases": 3129,
+        "metBiGGID": 3129,
+        "metInChIKey": 3129,
+        "metMetaNetXID": 3129,
+        "metMiriams": 3129,
+        "metPka": 3129,
+        "metPkb": 3129,
+        "metSBOTerms": 3129,
+        "metSmiles": 3129
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3129,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/rich/TFA_long/ThermovpePTYGVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": true,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3434,
+        "rxnMiriams": 3434,
+        "rxnRheaID": 3434,
+        "rxnSBOTerms": 3434
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3434,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3434,
+        1171
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3434,
+      "status": "PASS",
+      "strain_code": "vpe"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1401,
+        "geneSBOTerms": 1401,
+        "genes": 1401
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1401,
+      "gr_rules_length": 3586,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3265,
+        "metAliases": 3265,
+        "metBiGGID": 3265,
+        "metInChIKey": 3265,
+        "metMetaNetXID": 3265,
+        "metMiriams": 3265,
+        "metPka": 3265,
+        "metPkb": 3265,
+        "metSBOTerms": 3265,
+        "metSmiles": 3265
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3265,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/bbetM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3586,
+        "rxnMiriams": 3586,
+        "rxnRheaID": 3586,
+        "rxnSBOTerms": 3586
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3586,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3586,
+        1401
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3586,
+      "status": "PASS",
+      "strain_code": "bbet"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1492,
+        "geneSBOTerms": 1492,
+        "genes": 1492
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1492,
+      "gr_rules_length": 3651,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3297,
+        "metAliases": 3297,
+        "metBiGGID": 3297,
+        "metInChIKey": 3297,
+        "metMetaNetXID": 3297,
+        "metMiriams": 3297,
+        "metPka": 3297,
+        "metPkb": 3297,
+        "metSBOTerms": 3297,
+        "metSmiles": 3297
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3297,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/buolM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3651,
+        "rxnMiriams": 3651,
+        "rxnRheaID": 3651,
+        "rxnSBOTerms": 3651
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3651,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3651,
+        1492
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3651,
+      "status": "PASS",
+      "strain_code": "buol"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 875,
+        "geneSBOTerms": 875,
+        "genes": 875
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 875,
+      "gr_rules_length": 3241,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3000,
+        "metAliases": 3000,
+        "metBiGGID": 3000,
+        "metInChIKey": 3000,
+        "metMetaNetXID": 3000,
+        "metMiriams": 3000,
+        "metPka": 3000,
+        "metPkb": 3000,
+        "metSBOTerms": 3000,
+        "metSmiles": 3000
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3000,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/caujM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3241,
+        "rxnMiriams": 3241,
+        "rxnRheaID": 3241,
+        "rxnSBOTerms": 3241
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3241,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3241,
+        875
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3241,
+      "status": "PASS",
+      "strain_code": "cauj"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 836,
+        "geneSBOTerms": 836,
+        "genes": 836
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 836,
+      "gr_rules_length": 3183,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2931,
+        "metAliases": 2931,
+        "metBiGGID": 2931,
+        "metInChIKey": 2931,
+        "metMetaNetXID": 2931,
+        "metMiriams": 2931,
+        "metPka": 2931,
+        "metPkb": 2931,
+        "metSBOTerms": 2931,
+        "metSmiles": 2931
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2931,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/cpiM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3183,
+        "rxnMiriams": 3183,
+        "rxnRheaID": 3183,
+        "rxnSBOTerms": 3183
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3183,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3183,
+        836
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3183,
+      "status": "PASS",
+      "strain_code": "cpi"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2951,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2727,
+        "metAliases": 2727,
+        "metBiGGID": 2727,
+        "metInChIKey": 2727,
+        "metMetaNetXID": 2727,
+        "metMiriams": 2727,
+        "metPka": 2727,
+        "metPkb": 2727,
+        "metSBOTerms": 2727,
+        "metSmiles": 2727
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2727,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/cuvkM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2951,
+        "rxnMiriams": 2951,
+        "rxnRheaID": 2951,
+        "rxnSBOTerms": 2951
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2951,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2951,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2951,
+      "status": "PASS",
+      "strain_code": "cuvk"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2985,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2728,
+        "metAliases": 2728,
+        "metBiGGID": 2728,
+        "metInChIKey": 2728,
+        "metMetaNetXID": 2728,
+        "metMiriams": 2728,
+        "metPka": 2728,
+        "metPkb": 2728,
+        "metSBOTerms": 2728,
+        "metSmiles": 2728
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2728,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/cxyXyloseVitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2985,
+        "rxnMiriams": 2985,
+        "rxnRheaID": 2985,
+        "rxnSBOTerms": 2985
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2985,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2985,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2985,
+      "status": "PASS",
+      "strain_code": "cxy"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 730,
+        "geneSBOTerms": 730,
+        "genes": 730
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 730,
+      "gr_rules_length": 3030,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2781,
+        "metAliases": 2781,
+        "metBiGGID": 2781,
+        "metInChIKey": 2781,
+        "metMetaNetXID": 2781,
+        "metMiriams": 2781,
+        "metPka": 2781,
+        "metPkb": 2781,
+        "metSBOTerms": 2781,
+        "metSmiles": 2781
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2781,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/driM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3030,
+        "rxnMiriams": 3030,
+        "rxnRheaID": 3030,
+        "rxnSBOTerms": 3030
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3030,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3030,
+        730
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3030,
+      "status": "PASS",
+      "strain_code": "dri"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 650,
+        "geneSBOTerms": 650,
+        "genes": 650
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 650,
+      "gr_rules_length": 2892,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2706,
+        "metAliases": 2706,
+        "metBiGGID": 2706,
+        "metInChIKey": 2706,
+        "metMetaNetXID": 2706,
+        "metMiriams": 2706,
+        "metPka": 2706,
+        "metPkb": 2706,
+        "metSBOTerms": 2706,
+        "metSmiles": 2706
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2706,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/flkM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2892,
+        "rxnMiriams": 2892,
+        "rxnRheaID": 2892,
+        "rxnSBOTerms": 2892
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2892,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2892,
+        650
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2892,
+      "status": "PASS",
+      "strain_code": "flk"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 703,
+        "geneSBOTerms": 703,
+        "genes": 703
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 703,
+      "gr_rules_length": 2977,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2734,
+        "metAliases": 2734,
+        "metBiGGID": 2734,
+        "metInChIKey": 2734,
+        "metMetaNetXID": 2734,
+        "metMiriams": 2734,
+        "metPka": 2734,
+        "metPkb": 2734,
+        "metSBOTerms": 2734,
+        "metSmiles": 2734
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2734,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/lguM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2977,
+        "rxnMiriams": 2977,
+        "rxnRheaID": 2977,
+        "rxnSBOTerms": 2977
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2977,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2977,
+        703
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2977,
+      "status": "PASS",
+      "strain_code": "lgu"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 764,
+        "geneSBOTerms": 764,
+        "genes": 764
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 764,
+      "gr_rules_length": 3146,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2885,
+        "metAliases": 2885,
+        "metBiGGID": 2885,
+        "metInChIKey": 2885,
+        "metMetaNetXID": 2885,
+        "metMiriams": 2885,
+        "metPka": 2885,
+        "metPkb": 2885,
+        "metSBOTerms": 2885,
+        "metSmiles": 2885
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2885,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/lurXyloseVitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3146,
+        "rxnMiriams": 3146,
+        "rxnRheaID": 3146,
+        "rxnSBOTerms": 3146
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3146,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3146,
+        764
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3146,
+      "status": "PASS",
+      "strain_code": "lur"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 727,
+        "geneSBOTerms": 727,
+        "genes": 727
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 727,
+      "gr_rules_length": 3088,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2860,
+        "metAliases": 2860,
+        "metBiGGID": 2860,
+        "metInChIKey": 2860,
+        "metMetaNetXID": 2860,
+        "metMiriams": 2860,
+        "metPka": 2860,
+        "metPkb": 2860,
+        "metSBOTerms": 2860,
+        "metSmiles": 2860
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2860,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/mgkM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3088,
+        "rxnMiriams": 3088,
+        "rxnRheaID": 3088,
+        "rxnSBOTerms": 3088
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3088,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3088,
+        727
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3088,
+      "status": "PASS",
+      "strain_code": "mgk"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1186,
+        "geneSBOTerms": 1186,
+        "genes": 1186
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1186,
+      "gr_rules_length": 3414,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3060,
+        "metAliases": 3060,
+        "metBiGGID": 3060,
+        "metInChIKey": 3060,
+        "metMetaNetXID": 3060,
+        "metMiriams": 3060,
+        "metPka": 3060,
+        "metPkb": 3060,
+        "metSBOTerms": 3060,
+        "metSmiles": 3060
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3060,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/mlotM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3414,
+        "rxnMiriams": 3414,
+        "rxnRheaID": 3414,
+        "rxnSBOTerms": 3414
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3414,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3414,
+        1186
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3414,
+      "status": "PASS",
+      "strain_code": "mlot"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1166,
+        "geneSBOTerms": 1166,
+        "genes": 1166
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1166,
+      "gr_rules_length": 3406,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3049,
+        "metAliases": 3049,
+        "metBiGGID": 3049,
+        "metInChIKey": 3049,
+        "metMetaNetXID": 3049,
+        "metMiriams": 3049,
+        "metPka": 3049,
+        "metPkb": 3049,
+        "metSBOTerms": 3049,
+        "metSmiles": 3049
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3049,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/pmorM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3406,
+        "rxnMiriams": 3406,
+        "rxnRheaID": 3406,
+        "rxnSBOTerms": 3406
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3406,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3406,
+        1166
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3406,
+      "status": "PASS",
+      "strain_code": "pmor"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1006,
+        "geneSBOTerms": 1006,
+        "genes": 1006
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1006,
+      "gr_rules_length": 3347,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3007,
+        "metAliases": 3007,
+        "metBiGGID": 3007,
+        "metInChIKey": 3007,
+        "metMetaNetXID": 3007,
+        "metMiriams": 3007,
+        "metPka": 3007,
+        "metPkb": 3007,
+        "metSBOTerms": 3007,
+        "metSmiles": 3007
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3007,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/pscfM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3347,
+        "rxnMiriams": 3347,
+        "rxnRheaID": 3347,
+        "rxnSBOTerms": 3347
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3347,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3347,
+        1006
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3347,
+      "status": "PASS",
+      "strain_code": "pscf"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 787,
+        "geneSBOTerms": 787,
+        "genes": 787
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 787,
+      "gr_rules_length": 3126,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2932,
+        "metAliases": 2932,
+        "metBiGGID": 2932,
+        "metInChIKey": 2932,
+        "metMetaNetXID": 2932,
+        "metMiriams": 2932,
+        "metPka": 2932,
+        "metPkb": 2932,
+        "metSBOTerms": 2932,
+        "metSmiles": 2932
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2932,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/pzuM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3126,
+        "rxnMiriams": 3126,
+        "rxnRheaID": 3126,
+        "rxnSBOTerms": 3126
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3126,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3126,
+        787
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3126,
+      "status": "PASS",
+      "strain_code": "pzu"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1005,
+        "geneSBOTerms": 1005,
+        "genes": 1005
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1005,
+      "gr_rules_length": 3233,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2849,
+        "metAliases": 2849,
+        "metBiGGID": 2849,
+        "metInChIKey": 2849,
+        "metMetaNetXID": 2849,
+        "metMiriams": 2849,
+        "metPka": 2849,
+        "metPkb": 2849,
+        "metSBOTerms": 2849,
+        "metSmiles": 2849
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2849,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/racdM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3233,
+        "rxnMiriams": 3233,
+        "rxnRheaID": 3233,
+        "rxnSBOTerms": 3233
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3233,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3233,
+        1005
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3233,
+      "status": "PASS",
+      "strain_code": "racd"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1080,
+        "geneSBOTerms": 1080,
+        "genes": 1080
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1080,
+      "gr_rules_length": 3393,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3069,
+        "metAliases": 3069,
+        "metBiGGID": 3069,
+        "metInChIKey": 3069,
+        "metMetaNetXID": 3069,
+        "metMiriams": 3069,
+        "metPka": 3069,
+        "metPkb": 3069,
+        "metSBOTerms": 3069,
+        "metSmiles": 3069
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3069,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/rfaM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3393,
+        "rxnMiriams": 3393,
+        "rxnRheaID": 3393,
+        "rxnSBOTerms": 3393
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3393,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3393,
+        1080
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3393,
+      "status": "PASS",
+      "strain_code": "rfa"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1099,
+        "geneSBOTerms": 1099,
+        "genes": 1099
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1099,
+      "gr_rules_length": 3306,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3061,
+        "metAliases": 3061,
+        "metBiGGID": 3061,
+        "metInChIKey": 3061,
+        "metMetaNetXID": 3061,
+        "metMiriams": 3061,
+        "metPka": 3061,
+        "metPkb": 3061,
+        "metSBOTerms": 3061,
+        "metSmiles": 3061
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3061,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/troM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3306,
+        "rxnMiriams": 3306,
+        "rxnRheaID": 3306,
+        "rxnSBOTerms": 3306
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3306,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3306,
+        1099
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3306,
+      "status": "PASS",
+      "strain_code": "tro"
+    },
+    {
+      "family_id": "m9_fba",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1171,
+        "geneSBOTerms": 1171,
+        "genes": 1171
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1171,
+      "gr_rules_length": 3434,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3129,
+        "metAliases": 3129,
+        "metBiGGID": 3129,
+        "metInChIKey": 3129,
+        "metMetaNetXID": 3129,
+        "metMiriams": 3129,
+        "metPka": 3129,
+        "metPkb": 3129,
+        "metSBOTerms": 3129,
+        "metSmiles": 3129
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3129,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/FBA_short/vpeM9VitconstrainedFinalAllfixed.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3434,
+        "rxnMiriams": 3434,
+        "rxnRheaID": 3434,
+        "rxnSBOTerms": 3434
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3434,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3434,
+        1171
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3434,
+      "status": "PASS",
+      "strain_code": "vpe"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1401,
+        "geneSBOTerms": 1401,
+        "genes": 1401
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1401,
+      "gr_rules_length": 3586,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3265,
+        "metAliases": 3265,
+        "metBiGGID": 3265,
+        "metInChIKey": 3265,
+        "metMetaNetXID": 3265,
+        "metMiriams": 3265,
+        "metPka": 3265,
+        "metPkb": 3265,
+        "metSBOTerms": 3265,
+        "metSmiles": 3265
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3265,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermobbetSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3586,
+        "rxnMiriams": 3586,
+        "rxnRheaID": 3586,
+        "rxnSBOTerms": 3586
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3586,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3586,
+        1401
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3586,
+      "status": "PASS",
+      "strain_code": "bbet"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1492,
+        "geneSBOTerms": 1492,
+        "genes": 1492
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1492,
+      "gr_rules_length": 3651,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3297,
+        "metAliases": 3297,
+        "metBiGGID": 3297,
+        "metInChIKey": 3297,
+        "metMetaNetXID": 3297,
+        "metMiriams": 3297,
+        "metPka": 3297,
+        "metPkb": 3297,
+        "metSBOTerms": 3297,
+        "metSmiles": 3297
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3297,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermobuolSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3651,
+        "rxnMiriams": 3651,
+        "rxnRheaID": 3651,
+        "rxnSBOTerms": 3651
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3651,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3651,
+        1492
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3651,
+      "status": "PASS",
+      "strain_code": "buol"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 875,
+        "geneSBOTerms": 875,
+        "genes": 875
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 875,
+      "gr_rules_length": 3241,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3000,
+        "metAliases": 3000,
+        "metBiGGID": 3000,
+        "metInChIKey": 3000,
+        "metMetaNetXID": 3000,
+        "metMiriams": 3000,
+        "metPka": 3000,
+        "metPkb": 3000,
+        "metSBOTerms": 3000,
+        "metSmiles": 3000
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3000,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermocaujSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3241,
+        "rxnMiriams": 3241,
+        "rxnRheaID": 3241,
+        "rxnSBOTerms": 3241
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3241,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3241,
+        875
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3241,
+      "status": "PASS",
+      "strain_code": "cauj"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 836,
+        "geneSBOTerms": 836,
+        "genes": 836
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 836,
+      "gr_rules_length": 3183,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2931,
+        "metAliases": 2931,
+        "metBiGGID": 2931,
+        "metInChIKey": 2931,
+        "metMetaNetXID": 2931,
+        "metMiriams": 2931,
+        "metPka": 2931,
+        "metPkb": 2931,
+        "metSBOTerms": 2931,
+        "metSmiles": 2931
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2931,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermocpiSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3183,
+        "rxnMiriams": 3183,
+        "rxnRheaID": 3183,
+        "rxnSBOTerms": 3183
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3183,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3183,
+        836
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3183,
+      "status": "PASS",
+      "strain_code": "cpi"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2951,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2727,
+        "metAliases": 2727,
+        "metBiGGID": 2727,
+        "metInChIKey": 2727,
+        "metMetaNetXID": 2727,
+        "metMiriams": 2727,
+        "metPka": 2727,
+        "metPkb": 2727,
+        "metSBOTerms": 2727,
+        "metSmiles": 2727
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2727,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermocuvkSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2951,
+        "rxnMiriams": 2951,
+        "rxnRheaID": 2951,
+        "rxnSBOTerms": 2951
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2951,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2951,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2951,
+      "status": "PASS",
+      "strain_code": "cuvk"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 676,
+        "geneSBOTerms": 676,
+        "genes": 676
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 676,
+      "gr_rules_length": 2985,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2728,
+        "metAliases": 2728,
+        "metBiGGID": 2728,
+        "metInChIKey": 2728,
+        "metMetaNetXID": 2728,
+        "metMiriams": 2728,
+        "metPka": 2728,
+        "metPkb": 2728,
+        "metSBOTerms": 2728,
+        "metSmiles": 2728
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2728,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermocxySuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2985,
+        "rxnMiriams": 2985,
+        "rxnRheaID": 2985,
+        "rxnSBOTerms": 2985
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2985,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2985,
+        676
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2985,
+      "status": "PASS",
+      "strain_code": "cxy"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 730,
+        "geneSBOTerms": 730,
+        "genes": 730
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 730,
+      "gr_rules_length": 3030,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2781,
+        "metAliases": 2781,
+        "metBiGGID": 2781,
+        "metInChIKey": 2781,
+        "metMetaNetXID": 2781,
+        "metMiriams": 2781,
+        "metPka": 2781,
+        "metPkb": 2781,
+        "metSBOTerms": 2781,
+        "metSmiles": 2781
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2781,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermodriSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3030,
+        "rxnMiriams": 3030,
+        "rxnRheaID": 3030,
+        "rxnSBOTerms": 3030
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3030,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3030,
+        730
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3030,
+      "status": "PASS",
+      "strain_code": "dri"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 650,
+        "geneSBOTerms": 650,
+        "genes": 650
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 650,
+      "gr_rules_length": 2892,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2706,
+        "metAliases": 2706,
+        "metBiGGID": 2706,
+        "metInChIKey": 2706,
+        "metMetaNetXID": 2706,
+        "metMiriams": 2706,
+        "metPka": 2706,
+        "metPkb": 2706,
+        "metSBOTerms": 2706,
+        "metSmiles": 2706
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2706,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermoflkSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2892,
+        "rxnMiriams": 2892,
+        "rxnRheaID": 2892,
+        "rxnSBOTerms": 2892
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2892,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2892,
+        650
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2892,
+      "status": "PASS",
+      "strain_code": "flk"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 703,
+        "geneSBOTerms": 703,
+        "genes": 703
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 703,
+      "gr_rules_length": 2977,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2734,
+        "metAliases": 2734,
+        "metBiGGID": 2734,
+        "metInChIKey": 2734,
+        "metMetaNetXID": 2734,
+        "metMiriams": 2734,
+        "metPka": 2734,
+        "metPkb": 2734,
+        "metSBOTerms": 2734,
+        "metSmiles": 2734
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2734,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermolguSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 2977,
+        "rxnMiriams": 2977,
+        "rxnRheaID": 2977,
+        "rxnSBOTerms": 2977
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 2977,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        2977,
+        703
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 2977,
+      "status": "PASS",
+      "strain_code": "lgu"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 764,
+        "geneSBOTerms": 764,
+        "genes": 764
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 764,
+      "gr_rules_length": 3146,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2885,
+        "metAliases": 2885,
+        "metBiGGID": 2885,
+        "metInChIKey": 2885,
+        "metMetaNetXID": 2885,
+        "metMiriams": 2885,
+        "metPka": 2885,
+        "metPkb": 2885,
+        "metSBOTerms": 2885,
+        "metSmiles": 2885
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2885,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermolurSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3146,
+        "rxnMiriams": 3146,
+        "rxnRheaID": 3146,
+        "rxnSBOTerms": 3146
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3146,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3146,
+        764
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3146,
+      "status": "PASS",
+      "strain_code": "lur"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 727,
+        "geneSBOTerms": 727,
+        "genes": 727
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 727,
+      "gr_rules_length": 3088,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2860,
+        "metAliases": 2860,
+        "metBiGGID": 2860,
+        "metInChIKey": 2860,
+        "metMetaNetXID": 2860,
+        "metMiriams": 2860,
+        "metPka": 2860,
+        "metPkb": 2860,
+        "metSBOTerms": 2860,
+        "metSmiles": 2860
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2860,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermomgkSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3088,
+        "rxnMiriams": 3088,
+        "rxnRheaID": 3088,
+        "rxnSBOTerms": 3088
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3088,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3088,
+        727
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3088,
+      "status": "PASS",
+      "strain_code": "mgk"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1186,
+        "geneSBOTerms": 1186,
+        "genes": 1186
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1186,
+      "gr_rules_length": 3414,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3060,
+        "metAliases": 3060,
+        "metBiGGID": 3060,
+        "metInChIKey": 3060,
+        "metMetaNetXID": 3060,
+        "metMiriams": 3060,
+        "metPka": 3060,
+        "metPkb": 3060,
+        "metSBOTerms": 3060,
+        "metSmiles": 3060
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3060,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermomlotSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3414,
+        "rxnMiriams": 3414,
+        "rxnRheaID": 3414,
+        "rxnSBOTerms": 3414
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3414,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3414,
+        1186
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3414,
+      "status": "PASS",
+      "strain_code": "mlot"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1166,
+        "geneSBOTerms": 1166,
+        "genes": 1166
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1166,
+      "gr_rules_length": 3406,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3049,
+        "metAliases": 3049,
+        "metBiGGID": 3049,
+        "metInChIKey": 3049,
+        "metMetaNetXID": 3049,
+        "metMiriams": 3049,
+        "metPka": 3049,
+        "metPkb": 3049,
+        "metSBOTerms": 3049,
+        "metSmiles": 3049
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3049,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermopmorSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3406,
+        "rxnMiriams": 3406,
+        "rxnRheaID": 3406,
+        "rxnSBOTerms": 3406
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3406,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3406,
+        1166
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3406,
+      "status": "PASS",
+      "strain_code": "pmor"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1006,
+        "geneSBOTerms": 1006,
+        "genes": 1006
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1006,
+      "gr_rules_length": 3347,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3007,
+        "metAliases": 3007,
+        "metBiGGID": 3007,
+        "metInChIKey": 3007,
+        "metMetaNetXID": 3007,
+        "metMiriams": 3007,
+        "metPka": 3007,
+        "metPkb": 3007,
+        "metSBOTerms": 3007,
+        "metSmiles": 3007
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3007,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermopscfSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3347,
+        "rxnMiriams": 3347,
+        "rxnRheaID": 3347,
+        "rxnSBOTerms": 3347
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3347,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3347,
+        1006
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3347,
+      "status": "PASS",
+      "strain_code": "pscf"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 787,
+        "geneSBOTerms": 787,
+        "genes": 787
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 787,
+      "gr_rules_length": 3126,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2932,
+        "metAliases": 2932,
+        "metBiGGID": 2932,
+        "metInChIKey": 2932,
+        "metMetaNetXID": 2932,
+        "metMiriams": 2932,
+        "metPka": 2932,
+        "metPkb": 2932,
+        "metSBOTerms": 2932,
+        "metSmiles": 2932
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2932,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermopzuSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3126,
+        "rxnMiriams": 3126,
+        "rxnRheaID": 3126,
+        "rxnSBOTerms": 3126
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3126,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3126,
+        787
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3126,
+      "status": "PASS",
+      "strain_code": "pzu"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1005,
+        "geneSBOTerms": 1005,
+        "genes": 1005
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1005,
+      "gr_rules_length": 3233,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 2849,
+        "metAliases": 2849,
+        "metBiGGID": 2849,
+        "metInChIKey": 2849,
+        "metMetaNetXID": 2849,
+        "metMiriams": 2849,
+        "metPka": 2849,
+        "metPkb": 2849,
+        "metSBOTerms": 2849,
+        "metSmiles": 2849
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 2849,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermoracdSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3233,
+        "rxnMiriams": 3233,
+        "rxnRheaID": 3233,
+        "rxnSBOTerms": 3233
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3233,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3233,
+        1005
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3233,
+      "status": "PASS",
+      "strain_code": "racd"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1080,
+        "geneSBOTerms": 1080,
+        "genes": 1080
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1080,
+      "gr_rules_length": 3393,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3069,
+        "metAliases": 3069,
+        "metBiGGID": 3069,
+        "metInChIKey": 3069,
+        "metMetaNetXID": 3069,
+        "metMiriams": 3069,
+        "metPka": 3069,
+        "metPkb": 3069,
+        "metSBOTerms": 3069,
+        "metSmiles": 3069
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3069,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermorfaSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3393,
+        "rxnMiriams": 3393,
+        "rxnRheaID": 3393,
+        "rxnSBOTerms": 3393
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3393,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3393,
+        1080
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3393,
+      "status": "PASS",
+      "strain_code": "rfa"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1099,
+        "geneSBOTerms": 1099,
+        "genes": 1099
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1099,
+      "gr_rules_length": 3306,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3061,
+        "metAliases": 3061,
+        "metBiGGID": 3061,
+        "metInChIKey": 3061,
+        "metMetaNetXID": 3061,
+        "metMiriams": 3061,
+        "metPka": 3061,
+        "metPkb": 3061,
+        "metSBOTerms": 3061,
+        "metSmiles": 3061
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3061,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermotroSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3306,
+        "rxnMiriams": 3306,
+        "rxnRheaID": 3306,
+        "rxnSBOTerms": 3306
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3306,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3306,
+        1099
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3306,
+      "status": "PASS",
+      "strain_code": "tro"
+    },
+    {
+      "family_id": "m9_tfa",
+      "gene_annotation_lengths": {
+        "EnzymeDescription": 1171,
+        "geneSBOTerms": 1171,
+        "genes": 1171
+      },
+      "gene_annotation_lengths_match_genes": true,
+      "genes": 1171,
+      "gr_rules_length": 3434,
+      "mat_reload_succeeded": true,
+      "metabolite_annotation_lengths": {
+        "metAbbreviation": 3129,
+        "metAliases": 3129,
+        "metBiGGID": 3129,
+        "metInChIKey": 3129,
+        "metMetaNetXID": 3129,
+        "metMiriams": 3129,
+        "metPka": 3129,
+        "metPkb": 3129,
+        "metSBOTerms": 3129,
+        "metSmiles": 3129
+      },
+      "metabolite_annotation_lengths_match_mets": true,
+      "mets": 3129,
+      "non_target_fields_preserved": true,
+      "output_repo_path": "models/final/M9/TFA_long/ThermovpeSuccinateVitconstrained.mat",
+      "prior_rich_tfa_semantic_match": null,
+      "reaction_annotation_lengths": {
+        "rxnKEGGID": 3434,
+        "rxnMiriams": 3434,
+        "rxnRheaID": 3434,
+        "rxnSBOTerms": 3434
+      },
+      "reaction_annotation_lengths_match_rxns": true,
+      "rules_length": 3434,
+      "rules_match_rxn_gene_matrix": true,
+      "rxn_gene_matrix_orphan_columns": 0,
+      "rxn_gene_matrix_shape": [
+        3434,
+        1171
+      ],
+      "rxn_gene_matrix_shape_valid": true,
+      "rxns": 3434,
+      "status": "PASS",
+      "strain_code": "vpe"
+    }
+  ],
+  "rich_tfa_semantic_identity": {
+    "actual": 21,
+    "expected": 21,
+    "status": "PASS"
+  },
+  "status": "PASS"
+}

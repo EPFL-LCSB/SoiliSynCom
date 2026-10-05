@@ -1,0 +1,95 @@
+figure	title	source
+S1	Growth of the soil isolates on succinate	RawData/ExperimentalGrowthData/Senka_OD600_succinategrowth_pooleddata.xlsx
+S1	Growth of the soil isolates on succinate	Code/DraftModelReconstruction/Genomes/GenomeInformation_Senka_summary.xlsx
+S2	Growth of the soil isolates in PTYG	RawData/ExperimentalGrowthData/PTYG_OD600_21strain_Senka&Tania.xlsx
+S2	Growth of the soil isolates in PTYG	Code/DraftModelReconstruction/Genomes/GenomeInformation_Senka_summary.xlsx
+S3	Genome content and prediction accuracy	RawData/GEMStats/GEMStats.xlsx
+S3	Genome content and prediction accuracy	Code/ModelCuration/$BioLogCuration/11_6thConfusionMatrix(TFA)/substrates_by_category5TFAm9.xlsx
+S3	Genome content and prediction accuracy	RawData/ExperimentalGrowthData/SubstarateUtilization&ConfusionMetrics.xlsx
+S3	Genome content and prediction accuracy	Code/ExperimentalData/BioLogData/BioLogFinal.xlsx
+S3	Genome content and prediction accuracy	Code/ModelCuration/$BioLogCuration/2_CuratingModels/1_flk/1_FixingFalseNegatives/keggModel.mat
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/bbetMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/caujMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/dri.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/mlot.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/pzu.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/troMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/buolMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/vpeMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/lguMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/lurMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/pmorMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/pscfMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/racdMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/cuvkMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/cxyMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/mipMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/rfaMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/cpiMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/flkMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/mgkMemote.html
+S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/cohmMemote.html
+S4	Model quality and thermodynamic information	RawData/GEMStats/GEMStats.xlsx
+S4	Model quality and thermodynamic information	tables/supplementary/thermo_relaxations.tsv
+S5	Evidence supporting gap-filling reactions	SoilSynCom_supmat/GFUnified.xlsx
+S6	Alternative nutrient combinations supporting modelled growth	RawData/iMM/IMMDataNames_with_classification_and_stats.xlsx
+S6	Alternative nutrient combinations supporting modelled growth	RawData/iMM/plot_imm_core_variable_heatmap.py
+S7	Growth of mip and cohm in the supplementation experiment	RawData/ExperimentalValidation/MicroCohnella_MinRichMedia_0924.xlsx
+S8	Predicted uptake and secretion across metabolite groups	RawData/DiMEs/summaryAll1stIteration.xlsx
+S8	Predicted uptake and secretion across metabolite groups	RawData/DiMEs/summaryAll2ndIteration.xlsx
+S8	Predicted uptake and secretion across metabolite groups	RawData/DiMEs/CompoundClassification.xlsx
+S8	Predicted uptake and secretion across metabolite groups	Code/Analysis/DiMEs/EXCMetabolomics.mat
+S8	Predicted uptake and secretion across metabolite groups	Code/Analysis/DiMEs/MetabolomicsPool.mat
+S8	Predicted uptake and secretion across metabolite groups	Code/Analysis/DiMEs/EnviromentPool.mat
+S9	Predicted uptake and secretion of individual metabolites across strains	RawData/DiMEs/summaryAll1stIteration.xlsx
+S9	Predicted uptake and secretion of individual metabolites across strains	RawData/DiMEs/summaryAll2ndIteration.xlsx
+S9	Predicted uptake and secretion of individual metabolites across strains	Code/Analysis/DiMEs/MetabolomicsPool.mat
+S10	Candidate exchanges in additional metabolite groups	RawData/DiMEs/summaryAll1stIteration.xlsx
+S10	Candidate exchanges in additional metabolite groups	RawData/DiMEs/summaryAll2ndIteration.xlsx
+S10	Candidate exchanges in additional metabolite groups	RawData/DiMEs/CompoundClassification.xlsx
+S10	Candidate exchanges in additional metabolite groups	RawData/DiMEs/Uptake_SecretionProfile.ipynb
+S10	Candidate exchanges in additional metabolite groups	Code/Analysis/DiMEs/Models/ThermobbetPTYGVitconstrained.mat
+S11	Effect of biomass yield on predicted exchange and niche overlap	RawData/DiMEs/summaryAll1stIteration.xlsx
+S11	Effect of biomass yield on predicted exchange and niche overlap	RawData/DiMEs/summaryAll2ndIteration.xlsx
+S11	Effect of biomass yield on predicted exchange and niche overlap	RawData/DiMEs/summaryAll100_1stIteration.xlsx
+S11	Effect of biomass yield on predicted exchange and niche overlap	RawData/DiMEs/summaryAll100_2ndIteration.xlsx
+S11	Effect of biomass yield on predicted exchange and niche overlap	RawData/DiMEs/NOI.ipynb
+S12	Similarity of biosynthetic pathways in PTYG	RawData/NIS/average_similarity_CofactorsPTYG.xlsx
+S12	Similarity of biosynthetic pathways in PTYG	RawData/NIS/average_similarity_NucleotidesPTYG.xlsx
+S12	Similarity of biosynthetic pathways in PTYG	RawData/NIS/average_similarity_LipidsPTYG.xlsx
+S12	Similarity of biosynthetic pathways in PTYG	RawData/NIS/average_similarity_Amino_AcidsPTYG.xlsx
+S12	Similarity of biosynthetic pathways in PTYG	Code/Analysis/NIS/compareBiosynthesis.m
+S13	Genes supporting the synthesis of biomass components	RawData/GeneEssentiality/EssentialityDataCategorizedAllPTYG.xlsx
+S13	Genes supporting the synthesis of biomass components	RawData/GeneEssentiality/EssentialityDataCategorizedAllSuccinate.xlsx
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/bbet.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/cauj.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/dri.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/mlot.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/pzu.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/tro.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/buol.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/vpe.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/lgu.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/lur.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/pmor.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/pscf.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/racd.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/cuvk.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/cxy.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/mip.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/rfa.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/cpi.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/flk.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/mgk.fasta
+S14	Contiguity and composition of the final genome assemblies	Code/DraftModelReconstruction/Genomes/cohm.fasta
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/M9/statistics_biosynthesis_a.xlsx
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/M9/statistics_biosynthesis_b.xlsx
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/PTYG/statistics_biosynthesis_a.xlsx
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/PTYG/statistics_biosynthesis_b.xlsx
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/compareBiosynthesis.m
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/M9/PathwaySimilarity
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/M9/CostSimilarity
+S15	Size and number of alternative biosynthetic routes	Code/Analysis/NIS/output/PTYG/PathwaySimilarity
+S16	Central metabolic pathways and shared reactions	Code/Analysis/NIS/output/Core
+S16	Central metabolic pathways and shared reactions	Code/Analysis/NIS/GEMs/PTYG
+S16	Central metabolic pathways and shared reactions	Code/Analysis/NIS/compareCore.m

@@ -1,0 +1,830 @@
+condition	role	metabolite	name	n_strains	bin	strains
+Basal	substrates	C00003	NAD	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00007	Oxygen	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00009	phosphoric acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00014	Ammonia	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	substrates	C00020	Adenosine Monophosphate	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00022	Pyruvic Acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00025	Glutamic Acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00041	Alanine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00049	Aspartic Acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00059	sulfuric acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00062	Arginine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00064	Glutamine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00065	Serine	11	>10 strains	bbet;mlot;tro;buol;vpe;lgu;pmor;pscf;racd;flk;cohm
+Basal	substrates	C00079	Phenylalanine	18	>10 strains	bbet;cauj;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00082	Tyrosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00090	catechol	5	2-5 strains	bbet;tro;buol;cuvk;mgk
+Basal	substrates	C00093	Glycerophosphates	8	6-10 strains	bbet;dri;buol;vpe;pmor;pscf;racd;flk
+Basal	substrates	C00099	beta-Alanine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00105	Uridine Monophosphate	18	>10 strains	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00106	Uracil	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00114	Choline	8	6-10 strains	bbet;mlot;buol;vpe;pmor;pscf;racd;rfa
+Basal	substrates	C00116	Glycerol	19	>10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00118	Glyceraldehyde 3-Phosphate	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00120	Biotin	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00123	Leucine	17	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk;mgk
+Basal	substrates	C00135	Histidine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00144	Guanosine Monophosphate	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00148	Proline	19	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00149	(S)-malic acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00152	Asparagine	14	>10 strains	bbet;cauj;mlot;buol;vpe;lgu;pmor;pscf;racd;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00156	4-hydroxybenzoic acid	11	>10 strains	bbet;cauj;mlot;buol;vpe;pmor;pscf;racd;cuvk;flk;mgk
+Basal	substrates	C00158	Citric Acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00170	5'-methylthioadenosine	12	>10 strains	mlot;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk
+Basal	substrates	C00189	Ethanolamine	12	>10 strains	bbet;tro;buol;vpe;lgu;pmor;pscf;racd;rfa;cpi;mgk;cohm
+Basal	substrates	C00212	Adenosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00213	Sarcosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00214	Thymidine	15	>10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;flk;cohm
+Basal	substrates	C00242	Guanine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00244	Nitric Acid	18	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00253	Niacin	8	6-10 strains	bbet;dri;mlot;buol;vpe;pmor;pscf;flk
+Basal	substrates	C00256	Lactic Acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00257	gluconic acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00262	Hypoxanthine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00294	Inosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00295	Orotic Acid	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	substrates	C00296	Quinic Acid	15	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;cuvk;rfa;cpi;cohm
+Basal	substrates	C00299	Uridine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00300	Creatine	3	2-5 strains	cauj;mlot;racd
+Basal	substrates	C00311	isocitric acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00314	Pyridoxine	7	6-10 strains	bbet;cauj;mlot;buol;pmor;pscf;racd
+Basal	substrates	C00327	Citrulline	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	substrates	C00366	Uric Acid	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk
+Basal	substrates	C00378	Thiamine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00385	Xanthine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00387	Guanosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00388	Histamine	4	2-5 strains	bbet;mlot;pmor;pscf
+Basal	substrates	C00392	Mannitol	9	6-10 strains	bbet;mlot;buol;vpe;lur;pmor;pscf;racd;cuvk
+Basal	substrates	C00398	tryptamine	8	6-10 strains	bbet;mlot;tro;buol;pmor;pscf;cpi;flk
+Basal	substrates	C00417	Aconitic Acid	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	substrates	C00418	Mevalonic Acid	3	2-5 strains	vpe;cuvk;flk
+Basal	substrates	C00429	dihydrouracil	19	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00455	Nicotinamide Mononucleotide	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00475	Cytidine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00483	Tyramine	11	>10 strains	bbet;mlot;pzu;lgu;lur;pmor;pscf;racd;cxy;cpi;flk
+Basal	substrates	C00526	Deoxyuridine	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;flk;cohm
+Basal	substrates	C00534	Pyridoxamine	10	6-10 strains	bbet;cauj;mlot;pzu;buol;lur;pmor;pscf;racd;cxy
+Basal	substrates	C00544	Homogentisic Acid	10	6-10 strains	bbet;cauj;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf
+Basal	substrates	C00559	2'-deoxyadenosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00601	phenylacetaldehyde	5	2-5 strains	bbet;tro;buol;vpe;rfa
+Basal	substrates	C00624	N-acetylglutamic acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00631	2-phospho-D-glyceric acid	16	>10 strains	bbet;cauj;mlot;pzu;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	substrates	C00671	alpha-keto-beta-methylvaleric acid	14	>10 strains	bbet;mlot;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa;cpi;flk;cohm
+Basal	substrates	C00719	Betaine	11	>10 strains	bbet;mlot;buol;vpe;lur;pmor;pscf;racd;rfa;cpi;mgk
+Basal	substrates	C00794	Sorbitol	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C00864	Pantothenic Acid	6	6-10 strains	bbet;mlot;vpe;pmor;pscf;flk
+Basal	substrates	C00881	Deoxycytidine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C01026	dimethylglycine	16	>10 strains	bbet;mlot;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C01035	gamma-guanidinobutyric acid	4	2-5 strains	buol;vpe;pmor;pscf
+Basal	substrates	C01040	L-gulono-1,4-lactone	12	>10 strains	bbet;cauj;dri;mlot;buol;lur;pmor;pscf;cuvk;rfa;cpi;cohm
+Basal	substrates	C01089	(R)-3-hydroxybutyric acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C01181	gamma-butyrobetaine	1	1 strain	mlot
+Basal	substrates	C01502	Guaiacol	1	1 strain	bbet
+Basal	substrates	C01762	xanthosine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	substrates	C02350	(S)-(+)-allantoin	11	>10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;rfa;cpi
+Basal	substrates	C02376	5-Methylcytosine	12	>10 strains	bbet;dri;mlot;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;rfa
+Basal	substrates	C02630	alpha-hydroxyglutarate	3	2-5 strains	dri;pscf;mgk
+Basal	substrates	C02946	4-acetamidobutanoic acid	5	2-5 strains	mlot;pzu;buol;cuvk;rfa
+Basal	substrates	C03722	Quinolinic Acid	11	>10 strains	bbet;cauj;mlot;pzu;buol;vpe;lgu;lur;pmor;pscf;flk
+Basal	substrates	C05198	5'-deoxyadenosine	12	>10 strains	bbet;mlot;buol;vpe;lgu;lur;pmor;pscf;cpi;flk;mgk;cohm
+Basal	substrates	C05584	Vanilmandelic Acid	2	2-5 strains	bbet;cauj
+Basal	substrates	C05984	(S)-2-hydroxybutyric acid	7	6-10 strains	bbet;mlot;tro;racd;cpi;flk;cohm
+Basal	substrates	C07086	phenylacetic acid	6	6-10 strains	bbet;tro;buol;vpe;rfa;cpi
+Basal	substrates	C14818	iron(2+)	1	1 strain	racd
+Conditioned	substrates	C00003	NAD	15	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;racd;mip;rfa;cpi;flk;mgk
+Conditioned	substrates	C00007	Oxygen	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00009	phosphoric acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00011	Carbon Dioxide	16	>10 strains	bbet;cauj;dri;mlot;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk
+Conditioned	substrates	C00014	Ammonia	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00016	Flavin-Adenine Dinucleotide	19	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00020	Adenosine Monophosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00022	Pyruvic Acid	13	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;cuvk;mip;cpi;flk;mgk
+Conditioned	substrates	C00025	Glutamic Acid	12	>10 strains	bbet;cauj;dri;buol;vpe;lur;pscf;cxy;mip;flk;mgk;cohm
+Conditioned	substrates	C00026	Ketoglutaric Acids	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk
+Conditioned	substrates	C00027	Hydrogen Peroxide	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00033	Acetic Acid	13	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cxy;cpi;flk
+Conditioned	substrates	C00035	Guanosine Diphosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00037	Glycine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00041	Alanine	16	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00042	Succinic Acid	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;mip;cpi;flk;mgk
+Conditioned	substrates	C00043	Uridine Diphosphate N-Acetylglucosamine	18	>10 strains	bbet;cauj;dri;mlot;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00044	Guanosine Triphosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00047	Lysine	13	>10 strains	bbet;cauj;pzu;buol;vpe;lur;cuvk;cxy;mip;rfa;flk;mgk;cohm
+Conditioned	substrates	C00049	Aspartic Acid	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00051	Glutathione	19	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00055	Cytidine Monophosphate	17	>10 strains	bbet;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00058	formic acid	9	6-10 strains	bbet;pzu;tro;vpe;pmor;pscf;racd;cxy;flk
+Conditioned	substrates	C00059	sulfuric acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00061	Flavin Mononucleotide	15	>10 strains	bbet;cauj;dri;mlot;tro;vpe;lur;pmor;pscf;racd;cuvk;mip;cpi;flk;mgk
+Conditioned	substrates	C00062	Arginine	16	>10 strains	bbet;cauj;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;cohm
+Conditioned	substrates	C00064	Glutamine	16	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00065	Serine	8	6-10 strains	bbet;mlot;buol;vpe;lgu;pscf;racd;flk
+Conditioned	substrates	C00067	Formaldehyde	10	6-10 strains	bbet;tro;buol;vpe;pmor;racd;cuvk;cxy;rfa;cpi
+Conditioned	substrates	C00073	Methionine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00077	Ornithine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00078	Tryptophan	10	6-10 strains	bbet;mlot;buol;vpe;lur;pmor;racd;mip;cpi;flk
+Conditioned	substrates	C00079	Phenylalanine	14	>10 strains	bbet;cauj;dri;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;mip;cpi;flk
+Conditioned	substrates	C00082	Tyrosine	17	>10 strains	bbet;cauj;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	substrates	C00084	Acetaldehyde	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;cpi;flk;mgk
+Conditioned	substrates	C00085	D-fructofuranose 6-phosphate	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00086	Urea	20	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00088	Nitrous Acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00089	Sucrose	17	>10 strains	bbet;cauj;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	substrates	C00090	catechol	2	2-5 strains	bbet;mgk
+Conditioned	substrates	C00092	D-glucopyranose 6-phosphate	12	>10 strains	cauj;buol;lgu;pmor;pscf;racd;cuvk;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00093	Glycerophosphates	9	6-10 strains	bbet;dri;buol;vpe;pmor;pscf;racd;mip;flk
+Conditioned	substrates	C00094	sulfurous acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00095	D-fructofuranose	13	>10 strains	bbet;cauj;mlot;buol;vpe;lgu;lur;pscf;cuvk;cpi;flk;mgk;cohm
+Conditioned	substrates	C00097	Cysteine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00099	beta-Alanine	16	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00103	glucose-1-phosphate	4	2-5 strains	pmor;racd;mip;flk
+Conditioned	substrates	C00105	Uridine Monophosphate	12	>10 strains	dri;buol;lgu;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	substrates	C00106	Uracil	19	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00109	alpha-ketobutyric acid	8	6-10 strains	bbet;buol;vpe;lur;racd;mip;cpi;flk
+Conditioned	substrates	C00114	Choline	8	6-10 strains	bbet;buol;vpe;pmor;pscf;racd;mip;rfa
+Conditioned	substrates	C00116	Glycerol	15	>10 strains	bbet;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00118	Glyceraldehyde 3-Phosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00120	Biotin	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00121	D-ribofuranose	15	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;mip;cohm
+Conditioned	substrates	C00122	fumaric acid	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00123	Leucine	9	6-10 strains	bbet;cauj;vpe;lgu;pmor;racd;cpi;flk;mgk
+Conditioned	substrates	C00130	Inosine Monophosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00132	Methanol	19	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00133	D-alanine	16	>10 strains	bbet;cauj;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00134	Putrescine	10	6-10 strains	bbet;mlot;vpe;lgu;lur;pmor;pscf;racd;mip;flk
+Conditioned	substrates	C00135	Histidine	16	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk
+Conditioned	substrates	C00137	L-histidine	10	6-10 strains	mlot;vpe;pmor;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00140	Acetylglucosamine	9	6-10 strains	dri;mlot;vpe;lur;pscf;racd;cuvk;flk;mgk
+Conditioned	substrates	C00144	Guanosine Monophosphate	17	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;mgk
+Conditioned	substrates	C00146	Phenol	7	6-10 strains	bbet;cauj;tro;buol;pmor;racd;cohm
+Conditioned	substrates	C00147	Adenine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00148	Proline	14	>10 strains	bbet;cauj;dri;buol;vpe;lur;pmor;pscf;racd;cuvk;cxy;cpi;flk;mgk
+Conditioned	substrates	C00149	(S)-malic acid	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00152	Asparagine	13	>10 strains	bbet;cauj;dri;buol;lgu;lur;racd;cuvk;mip;rfa;cpi;flk;cohm
+Conditioned	substrates	C00156	4-hydroxybenzoic acid	11	>10 strains	bbet;cauj;mlot;tro;vpe;pmor;racd;cuvk;cxy;mip;flk
+Conditioned	substrates	C00158	Citric Acid	11	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;pscf;mip;flk
+Conditioned	substrates	C00159	Mannose	7	6-10 strains	bbet;cauj;dri;racd;cuvk;cxy;mgk
+Conditioned	substrates	C00160	glycolic acid	15	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;cpi;flk
+Conditioned	substrates	C00163	propionic acid	16	>10 strains	bbet;cauj;dri;pzu;tro;vpe;lgu;lur;pmor;racd;cxy;mip;rfa;cpi;flk;mgk
+Conditioned	substrates	C00164	acetoacetic acid	15	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;mip;cpi;flk;mgk
+Conditioned	substrates	C00170	5'-methylthioadenosine	10	6-10 strains	bbet;mlot;pzu;buol;vpe;lgu;lur;racd;rfa;cpi
+Conditioned	substrates	C00178	Thymine	6	6-10 strains	bbet;cauj;tro;lur;pmor;cpi
+Conditioned	substrates	C00179	Agmatine	14	>10 strains	bbet;dri;mlot;tro;buol;vpe;lur;pmor;pscf;racd;mip;flk;mgk;cohm
+Conditioned	substrates	C00181	xylopyranose	9	6-10 strains	bbet;mlot;buol;lur;pmor;pscf;racd;cxy;mip
+Conditioned	substrates	C00183	Valine	7	6-10 strains	bbet;vpe;racd;rfa;cpi;flk;mgk
+Conditioned	substrates	C00184	Dihydroxyacetone	9	6-10 strains	bbet;mlot;vpe;lur;racd;cuvk;cpi;flk;cohm
+Conditioned	substrates	C00185	Cellobiose	7	6-10 strains	buol;lur;racd;cuvk;mip;flk;mgk
+Conditioned	substrates	C00186	Lactic Acid	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00188	Threonine	6	6-10 strains	bbet;buol;lgu;racd;cpi;flk
+Conditioned	substrates	C00189	Ethanolamine	10	6-10 strains	bbet;tro;buol;vpe;lgu;pscf;racd;rfa;mgk;cohm
+Conditioned	substrates	C00191	glucopyranuronic acid	10	6-10 strains	bbet;buol;lur;pmor;racd;cuvk;cxy;cpi;flk;cohm
+Conditioned	substrates	C00198	beta-glucono-1,5-lactone	16	>10 strains	bbet;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	13	>10 strains	bbet;cauj;dri;mlot;lgu;lur;pmor;racd;cuvk;cpi;flk;mgk;cohm
+Conditioned	substrates	C00204	2-keto-3-deoxygluconate	13	>10 strains	bbet;dri;buol;lgu;lur;pmor;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00207	Acetone	5	2-5 strains	bbet;tro;buol;pmor;rfa
+Conditioned	substrates	C00208	Maltose	20	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00212	Adenosine	20	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00213	Sarcosine	14	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk
+Conditioned	substrates	C00214	Thymidine	7	6-10 strains	bbet;mlot;vpe;pmor;pscf;cxy;flk
+Conditioned	substrates	C00237	Carbon Monoxide	17	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk
+Conditioned	substrates	C00239	Deoxycytidine Monophosphate	16	>10 strains	bbet;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00242	Guanine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00244	Nitric Acid	18	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00245	Taurine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00246	Butyric Acid	12	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;racd;cuvk;cxy;cpi;flk
+Conditioned	substrates	C00249	Palmitic Acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00250	Pyridoxal	5	2-5 strains	bbet;cauj;mlot;pmor;racd
+Conditioned	substrates	C00253	Niacin	7	6-10 strains	bbet;dri;tro;buol;vpe;racd;flk
+Conditioned	substrates	C00255	Riboflavin	13	>10 strains	bbet;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;flk
+Conditioned	substrates	C00256	Lactic Acid	12	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;cpi;flk;mgk
+Conditioned	substrates	C00257	gluconic acid	15	>10 strains	bbet;cauj;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00258	D-glyceric acid	13	>10 strains	bbet;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00262	Hypoxanthine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00263	Homoserine	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00270	N-Acetylneuraminic Acid	8	6-10 strains	cauj;dri;racd;cuvk;mip;flk;mgk;cohm
+Conditioned	substrates	C00275	mannose-6-phosphate	20	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00283	Hydrogen Sulfide	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00288	Bicarbonates	5	2-5 strains	bbet;vpe;lgu;lur;cohm
+Conditioned	substrates	C00294	Inosine	20	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00295	Orotic Acid	16	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Conditioned	substrates	C00296	Quinic Acid	5	2-5 strains	bbet;vpe;lur;racd;cohm
+Conditioned	substrates	C00299	Uridine	15	>10 strains	bbet;cauj;dri;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00311	isocitric acid	12	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;mip;cpi
+Conditioned	substrates	C00314	Pyridoxine	6	6-10 strains	bbet;cauj;mlot;buol;pmor;racd
+Conditioned	substrates	C00315	Spermidine	11	>10 strains	bbet;dri;pzu;tro;buol;vpe;racd;cuvk;cxy;mip;flk
+Conditioned	substrates	C00320	trioxidosulfanidosulfate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00327	Citrulline	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Conditioned	substrates	C00330	Deoxyguanosine	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00334	gamma-Aminobutyric Acid	4	2-5 strains	bbet;buol;vpe;flk
+Conditioned	substrates	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	17	>10 strains	bbet;cauj;dri;mlot;tro;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	substrates	C00360	2'-deoxy-5'-adenosine monophosphate	18	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00362	2'-deoxyguanosine 5'-phosphate	18	>10 strains	bbet;dri;mlot;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	substrates	C00364	Thymidine Monophosphate	6	6-10 strains	bbet;vpe;pmor;pscf;racd;flk
+Conditioned	substrates	C00365	2'-deoxyuridylic acid	14	>10 strains	bbet;dri;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	substrates	C00366	Uric Acid	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk
+Conditioned	substrates	C00369	Glycogen	2	2-5 strains	lgu;flk
+Conditioned	substrates	C00378	Thiamine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00380	Cytosine	16	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cohm
+Conditioned	substrates	C00385	Xanthine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00387	Guanosine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00388	Histamine	4	2-5 strains	bbet;mlot;pmor;pscf
+Conditioned	substrates	C00392	Mannitol	9	6-10 strains	bbet;buol;vpe;lur;pmor;pscf;racd;cuvk;mip
+Conditioned	substrates	C00398	tryptamine	5	2-5 strains	bbet;pmor;pscf;cpi;flk
+Conditioned	substrates	C00402	D-Aspartic Acid	13	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cpi;flk;cohm
+Conditioned	substrates	C00407	Isoleucine	4	2-5 strains	bbet;vpe;racd;flk
+Conditioned	substrates	C00409	methylmercaptan	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00417	Aconitic Acid	9	6-10 strains	bbet;cauj;dri;pzu;tro;lgu;cuvk;cxy;cpi
+Conditioned	substrates	C00418	Mevalonic Acid	3	2-5 strains	vpe;cuvk;flk
+Conditioned	substrates	C00423	cinnamic acid	12	>10 strains	bbet;mlot;tro;buol;lgu;lur;pscf;racd;cxy;mip;cpi;flk
+Conditioned	substrates	C00429	dihydrouracil	17	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00431	5-aminovaleric acid	6	6-10 strains	bbet;cauj;pzu;tro;lgu;rfa
+Conditioned	substrates	C00446	galactose-1-phosphate	3	2-5 strains	racd;mip;flk
+Conditioned	substrates	C00455	Nicotinamide Mononucleotide	12	>10 strains	bbet;cauj;dri;pzu;buol;vpe;pmor;racd;cxy;cpi;flk;mgk
+Conditioned	substrates	C00463	indole	12	>10 strains	bbet;tro;buol;lgu;lur;racd;cuvk;mip;rfa;cpi;flk;cohm
+Conditioned	substrates	C00469	Ethanol	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;flk;mgk
+Conditioned	substrates	C00475	Cytidine	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00479	propionaldehyde	1	1 strain	cauj
+Conditioned	substrates	C00483	Tyramine	9	6-10 strains	bbet;mlot;pzu;lgu;pscf;racd;cxy;cpi;flk
+Conditioned	substrates	C00488	formamide	7	6-10 strains	bbet;mlot;tro;buol;vpe;rfa;mgk
+Conditioned	substrates	C00493	Shikimic Acid	12	>10 strains	bbet;pzu;buol;vpe;lur;pscf;racd;cuvk;mip;cpi;flk;cohm
+Conditioned	substrates	C00497	(R)-malic acid	2	2-5 strains	vpe;racd
+Conditioned	substrates	C00499	allantoic acid	10	6-10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cpi
+Conditioned	substrates	C00502	xylonic acid	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk
+Conditioned	substrates	C00504	Folic Acid	2	2-5 strains	mlot;mip
+Conditioned	substrates	C00526	Deoxyuridine	12	>10 strains	bbet;cauj;dri;tro;buol;vpe;racd;cuvk;cxy;mip;flk;cohm
+Conditioned	substrates	C00533	Nitric Oxide	4	2-5 strains	bbet;cauj;flk;cohm
+Conditioned	substrates	C00534	Pyridoxamine	8	6-10 strains	bbet;cauj;mlot;lur;pmor;pscf;racd;cxy
+Conditioned	substrates	C00544	Homogentisic Acid	8	6-10 strains	bbet;cauj;mlot;pzu;buol;vpe;lgu;lur
+Conditioned	substrates	C00546	Pyruvaldehyde	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;cuvk;cxy;mip;cpi;flk;mgk
+Conditioned	substrates	C00559	2'-deoxyadenosine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00577	D-glyceraldehyde	13	>10 strains	bbet;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00580	dimethyl sulfide	1	1 strain	bbet
+Conditioned	substrates	C00601	phenylacetaldehyde	3	2-5 strains	bbet;buol;vpe
+Conditioned	substrates	C00624	N-acetylglutamic acid	14	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;mip;rfa;cpi;mgk
+Conditioned	substrates	C00631	2-phospho-D-glyceric acid	16	>10 strains	bbet;cauj;mlot;pzu;buol;vpe;lgu;pmor;pscf;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	substrates	C00645	N-acetylmannosamine	5	2-5 strains	racd;cuvk;mip;flk;mgk
+Conditioned	substrates	C00655	xanthosine monophosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00671	alpha-keto-beta-methylvaleric acid	3	2-5 strains	bbet;racd;flk
+Conditioned	substrates	C00680	meso-2,6-diaminopimelic acid	12	>10 strains	bbet;pzu;buol;vpe;lgu;pscf;racd;cxy;mip;rfa;flk;mgk
+Conditioned	substrates	C00719	Betaine	8	6-10 strains	bbet;buol;vpe;lur;racd;mip;cpi;mgk
+Conditioned	substrates	C00739	D-lysine	17	>10 strains	bbet;cauj;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;cohm
+Conditioned	substrates	C00740	D-serine	8	6-10 strains	bbet;cauj;mlot;buol;vpe;lgu;racd;flk
+Conditioned	substrates	C00741	Diacetyl	6	6-10 strains	bbet;vpe;lgu;pmor;racd;cuvk
+Conditioned	substrates	C00763	D-proline	6	6-10 strains	buol;vpe;lgu;pmor;cpi;mgk
+Conditioned	substrates	C00785	Urocanic Acid	14	>10 strains	bbet;cauj;mlot;tro;buol;vpe;lgu;lur;pmor;racd;cxy;cpi;flk;mgk
+Conditioned	substrates	C00792	D-arginine	17	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;mip;rfa;cpi;flk;cohm
+Conditioned	substrates	C00793	D-cysteine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00794	Sorbitol	17	>10 strains	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C00811	p-coumaric acid	12	>10 strains	bbet;tro;buol;vpe;lgu;lur;pscf;racd;cxy;mip;cpi;flk
+Conditioned	substrates	C00819	Glutamine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00820	D-threonine	10	6-10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;cpi;flk;mgk
+Conditioned	substrates	C00864	Pantothenic Acid	8	6-10 strains	bbet;lur;pmor;racd;mip;rfa;flk;cohm
+Conditioned	substrates	C00881	Deoxycytidine	19	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C00898	tartaric acid	12	>10 strains	bbet;vpe;lgu;lur;pmor;racd;cuvk;cxy;cpi;flk;mgk;cohm
+Conditioned	substrates	C00905	D-fructofuranuronic acid	9	6-10 strains	bbet;cauj;buol;lur;racd;cxy;cpi;flk;cohm
+Conditioned	substrates	C00973	cyclomaltodextrin	3	2-5 strains	lur;mip;flk
+Conditioned	substrates	C00979	O-acetylserine	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk
+Conditioned	substrates	C00986	trimethylenediamine	15	>10 strains	bbet;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk
+Conditioned	substrates	C00993	alanylalanine	8	6-10 strains	bbet;dri;vpe;pmor;pscf;racd;flk;cohm
+Conditioned	substrates	C01005	plasmenylserine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01013	hydracrylic acid	14	>10 strains	bbet;cauj;dri;tro;vpe;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C01026	dimethylglycine	12	>10 strains	bbet;buol;vpe;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01035	gamma-guanidinobutyric acid	4	2-5 strains	dri;buol;pmor;mip
+Conditioned	substrates	C01040	L-gulono-1,4-lactone	8	6-10 strains	bbet;cauj;dri;buol;lur;cuvk;cpi;cohm
+Conditioned	substrates	C01083	Trehalose	17	>10 strains	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01089	(R)-3-hydroxybutyric acid	14	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi;flk
+Conditioned	substrates	C01367	Adenosine Monophosphate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01368	3'-uridylic acid	17	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01412	butyraldehyde	7	6-10 strains	bbet;cauj;dri;tro;buol;vpe;racd
+Conditioned	substrates	C01417	cyanic acid	5	2-5 strains	tro;vpe;lur;pmor;pscf
+Conditioned	substrates	C01419	cysteinylglycine	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01438	Methane	8	6-10 strains	bbet;cauj;mlot;buol;lur;pmor;pscf;rfa
+Conditioned	substrates	C01455	Toluene	5	2-5 strains	bbet;mlot;vpe;pmor;pscf
+Conditioned	substrates	C01502	Guaiacol	1	1 strain	bbet
+Conditioned	substrates	C01672	Cadaverine	15	>10 strains	bbet;cauj;mlot;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;mip;rfa;flk;cohm
+Conditioned	substrates	C01674	N,N-diacetylchitobiose	9	6-10 strains	mlot;vpe;lgu;lur;pscf;racd;cuvk;flk;mgk
+Conditioned	substrates	C01697	Galactitol	4	2-5 strains	mlot;buol;racd;cohm
+Conditioned	substrates	C01762	xanthosine	20	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01888	1-aminopropan-2-one	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C01929	histidinal	17	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk
+Conditioned	substrates	C02265	D-phenylalanine	9	6-10 strains	bbet;tro;buol;vpe;lgu;lur;cpi;flk;cohm
+Conditioned	substrates	C02350	(S)-(+)-allantoin	11	>10 strains	bbet;dri;mlot;tro;buol;vpe;lur;pmor;pscf;rfa;cpi
+Conditioned	substrates	C02376	5-Methylcytosine	7	6-10 strains	bbet;tro;vpe;pscf;racd;cuvk;rfa
+Conditioned	substrates	C02630	alpha-hydroxyglutarate	2	2-5 strains	dri;mgk
+Conditioned	substrates	C02713	N-acetylmuramic acid	7	6-10 strains	bbet;mlot;vpe;pmor;pscf;racd;cuvk
+Conditioned	substrates	C02946	4-acetamidobutanoic acid	1	1 strain	lur
+Conditioned	substrates	C02989	methionine sulfoxide	11	>10 strains	cauj;pzu;buol;lgu;lur;pmor;racd;rfa;cpi;flk;mgk
+Conditioned	substrates	C03089	S-methyl-5-thio-D-ribofuranose	5	2-5 strains	bbet;mlot;buol;racd;cxy
+Conditioned	substrates	C03198	(S)-4-hydroxymandelic acid	9	6-10 strains	bbet;mlot;vpe;pmor;pscf;racd;cuvk;cxy;mip
+Conditioned	substrates	C03406	Argininosuccinic Acid	3	2-5 strains	pzu;cuvk;cohm
+Conditioned	substrates	C03589	4-hydroxy-2-oxovalerate	1	1 strain	cauj
+Conditioned	substrates	C03722	Quinolinic Acid	6	6-10 strains	bbet;cauj;vpe;pmor;racd;flk
+Conditioned	substrates	C03752	glucosaminic acid	5	2-5 strains	bbet;buol;pmor;pscf;rfa
+Conditioned	substrates	C05123	Isethionic Acid	15	>10 strains	bbet;dri;mlot;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Conditioned	substrates	C05198	5'-deoxyadenosine	14	>10 strains	bbet;cauj;dri;mlot;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;flk
+Conditioned	substrates	C05629	3-phenylpropionic acid	1	1 strain	lgu
+Conditioned	substrates	C05821	Enterobactin	2	2-5 strains	bbet;buol
+Conditioned	substrates	C05822	Cytidine Monophosphate	18	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	substrates	C05984	(S)-2-hydroxybutyric acid	3	2-5 strains	bbet;racd;flk
+Conditioned	substrates	C06423	octanoic acid	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	substrates	C07086	phenylacetic acid	3	2-5 strains	bbet;tro;vpe
+Conditioned	substrates	C11499	(S)-3-sulfonatolactate(2-)	11	>10 strains	bbet;mlot;buol;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk
+Conditioned	substrates	C11544	mannosylglycerate	1	1 strain	racd
+Conditioned	substrates	C14179	sulfoacetic acid	5	2-5 strains	buol;vpe;racd;cxy;cohm
+Conditioned	substrates	C17530	methyl acetate	6	6-10 strains	bbet;dri;pzu;tro;buol;vpe
+Conditioned	substrates	C20657	meso-butane-2,3-diol	1	1 strain	racd
+Basal	products	C00003	NAD	15	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00009	phosphoric acid	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00011	Carbon Dioxide	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00014	Ammonia	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00016	Flavin-Adenine Dinucleotide	11	>10 strains	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;mgk;cohm
+Basal	products	C00020	Adenosine Monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00022	Pyruvic Acid	15	>10 strains	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00025	Glutamic Acid	13	>10 strains	bbet;dri;pzu;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00026	Ketoglutaric Acids	15	>10 strains	bbet;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00027	Hydrogen Peroxide	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk
+Basal	products	C00029	Uridine Diphosphate Glucose	8	6-10 strains	cauj;pzu;lgu;lur;racd;cuvk;mgk;cohm
+Basal	products	C00032	Heme	1	1 strain	racd
+Basal	products	C00033	Acetic Acid	15	>10 strains	bbet;cauj;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00035	Guanosine Diphosphate	12	>10 strains	dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk
+Basal	products	C00037	Glycine	17	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00041	Alanine	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00042	Succinic Acid	9	6-10 strains	dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi
+Basal	products	C00043	Uridine Diphosphate N-Acetylglucosamine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;flk;mgk;cohm
+Basal	products	C00044	Guanosine Triphosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00047	Lysine	17	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00049	Aspartic Acid	13	>10 strains	cauj;dri;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00051	Glutathione	10	6-10 strains	cauj;tro;vpe;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00052	UDP-alpha-D-galactose	10	6-10 strains	pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00055	Cytidine Monophosphate	12	>10 strains	cauj;dri;tro;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00058	formic acid	14	>10 strains	bbet;cauj;dri;pzu;buol;vpe;lgu;lur;racd;rfa;cpi;flk;mgk;cohm
+Basal	products	C00059	sulfuric acid	3	2-5 strains	lgu;lur;racd
+Basal	products	C00061	Flavin Mononucleotide	11	>10 strains	cauj;dri;pzu;tro;buol;lur;racd;cxy;rfa;cpi;cohm
+Basal	products	C00062	Arginine	18	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00064	Glutamine	15	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00065	Serine	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00067	Formaldehyde	12	>10 strains	dri;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00073	Methionine	12	>10 strains	cauj;dri;buol;vpe;lgu;lur;pmor;racd;cuvk;rfa;cpi;cohm
+Basal	products	C00077	Ornithine	15	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;mgk
+Basal	products	C00078	Tryptophan	14	>10 strains	cauj;dri;mlot;pzu;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00079	Phenylalanine	9	6-10 strains	cauj;pzu;buol;lgu;racd;cuvk;rfa;mgk;cohm
+Basal	products	C00082	Tyrosine	11	>10 strains	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00084	Acetaldehyde	16	>10 strains	bbet;cauj;dri;pzu;buol;vpe;lgu;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00085	D-fructofuranose 6-phosphate	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00086	Urea	15	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;pmor;pscf;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00088	Nitrous Acid	17	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk
+Basal	products	C00089	Sucrose	7	6-10 strains	cauj;tro;buol;racd;cuvk;cpi;mgk
+Basal	products	C00090	catechol	5	2-5 strains	buol;racd;rfa;cpi;mgk
+Basal	products	C00092	D-glucopyranose 6-phosphate	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00093	Glycerophosphates	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00094	sulfurous acid	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;mgk;cohm
+Basal	products	C00095	D-fructofuranose	12	>10 strains	cauj;dri;tro;buol;lgu;pmor;racd;cuvk;cxy;cpi;mgk;cohm
+Basal	products	C00097	Cysteine	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00099	beta-Alanine	16	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00103	glucose-1-phosphate	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk
+Basal	products	C00105	Uridine Monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00106	Uracil	13	>10 strains	cauj;dri;mlot;buol;lgu;lur;pscf;racd;cuvk;cxy;rfa;flk;cohm
+Basal	products	C00109	alpha-ketobutyric acid	13	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00114	Choline	5	2-5 strains	mlot;tro;buol;pmor;rfa
+Basal	products	C00116	Glycerol	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00118	Glyceraldehyde 3-Phosphate	9	6-10 strains	cauj;dri;pzu;tro;racd;cuvk;rfa;cpi;mgk
+Basal	products	C00121	D-ribofuranose	7	6-10 strains	cauj;buol;lgu;racd;cuvk;rfa;cohm
+Basal	products	C00122	fumaric acid	13	>10 strains	dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00123	Leucine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00127	Glutathione Disulfide	11	>10 strains	cauj;pzu;tro;buol;vpe;lgu;cuvk;cxy;rfa;mgk;cohm
+Basal	products	C00130	Inosine Monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00132	Methanol	9	6-10 strains	dri;mlot;tro;buol;pmor;pscf;racd;rfa;cohm
+Basal	products	C00133	D-alanine	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00134	Putrescine	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00135	Histidine	11	>10 strains	cauj;dri;mlot;pzu;tro;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00137	L-histidine	3	2-5 strains	rfa;cpi;mgk
+Basal	products	C00140	Acetylglucosamine	5	2-5 strains	lgu;lur;racd;flk;mgk
+Basal	products	C00144	Guanosine Monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00146	Phenol	2	2-5 strains	cpi;mgk
+Basal	products	C00147	Adenine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00148	Proline	12	>10 strains	bbet;cauj;pzu;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00149	(S)-malic acid	9	6-10 strains	dri;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00152	Asparagine	14	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00156	4-hydroxybenzoic acid	11	>10 strains	dri;tro;buol;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00158	Citric Acid	14	>10 strains	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00159	Mannose	11	>10 strains	bbet;cauj;dri;pzu;tro;pmor;racd;cuvk;cxy;rfa;mgk
+Basal	products	C00160	glycolic acid	13	>10 strains	bbet;dri;pzu;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00163	propionic acid	3	2-5 strains	bbet;buol;pmor
+Basal	products	C00164	acetoacetic acid	11	>10 strains	cauj;dri;pzu;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00167	Uridine Diphosphate Glucuronic Acid	11	>10 strains	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;cxy;mgk;cohm
+Basal	products	C00170	5'-methylthioadenosine	7	6-10 strains	bbet;pzu;tro;buol;cxy;rfa;mgk
+Basal	products	C00178	Thymine	8	6-10 strains	dri;buol;lgu;lur;racd;cuvk;cxy;rfa
+Basal	products	C00179	Agmatine	11	>10 strains	dri;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;flk
+Basal	products	C00181	xylopyranose	1	1 strain	cuvk
+Basal	products	C00183	Valine	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00184	Dihydroxyacetone	14	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lur;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00185	Cellobiose	9	6-10 strains	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00186	Lactic Acid	14	>10 strains	bbet;cauj;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00188	Threonine	14	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00189	Ethanolamine	6	6-10 strains	buol;lgu;pmor;pscf;racd;cpi
+Basal	products	C00191	glucopyranuronic acid	2	2-5 strains	cpi;cohm
+Basal	products	C00198	beta-glucono-1,5-lactone	8	6-10 strains	dri;pzu;buol;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	11	>10 strains	cauj;dri;pzu;tro;lgu;lur;racd;cuvk;flk;mgk;cohm
+Basal	products	C00204	2-keto-3-deoxygluconate	9	6-10 strains	dri;pzu;tro;buol;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00207	Acetone	2	2-5 strains	buol;cuvk
+Basal	products	C00208	Maltose	9	6-10 strains	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk
+Basal	products	C00212	Adenosine	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00213	Sarcosine	10	6-10 strains	mlot;buol;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00237	Carbon Monoxide	16	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk
+Basal	products	C00239	Deoxycytidine Monophosphate	14	>10 strains	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00242	Guanine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00244	Nitric Acid	15	>10 strains	bbet;cauj;dri;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;mgk
+Basal	products	C00245	Taurine	8	6-10 strains	bbet;mlot;buol;racd;cxy;rfa;flk;cohm
+Basal	products	C00246	Butyric Acid	11	>10 strains	bbet;cauj;pzu;buol;vpe;lgu;lur;pmor;rfa;cpi;mgk
+Basal	products	C00249	Palmitic Acid	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00250	Pyridoxal	6	6-10 strains	cauj;mlot;pzu;lur;racd;cxy
+Basal	products	C00253	Niacin	12	>10 strains	cauj;dri;mlot;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00255	Riboflavin	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cxy;rfa;cpi
+Basal	products	C00256	Lactic Acid	13	>10 strains	bbet;dri;pzu;tro;buol;vpe;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00257	gluconic acid	6	6-10 strains	dri;pzu;buol;cuvk;cpi;mgk
+Basal	products	C00258	D-glyceric acid	11	>10 strains	cauj;dri;pzu;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00262	Hypoxanthine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00263	Homoserine	11	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;cpi
+Basal	products	C00270	N-Acetylneuraminic Acid	2	2-5 strains	dri;mgk
+Basal	products	C00275	mannose-6-phosphate	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk
+Basal	products	C00283	Hydrogen Sulfide	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk
+Basal	products	C00288	Bicarbonates	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00294	Inosine	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00295	Orotic Acid	16	>10 strains	cauj;dri;mlot;pzu;tro;buol;lgu;lur;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00296	Quinic Acid	8	6-10 strains	cauj;pzu;buol;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00299	Uridine	15	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00311	isocitric acid	14	>10 strains	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00315	Spermidine	16	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;rfa;cpi;flk;mgk
+Basal	products	C00320	trioxidosulfanidosulfate	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00327	Citrulline	12	>10 strains	cauj;dri;pzu;tro;vpe;lgu;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00330	Deoxyguanosine	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00334	gamma-Aminobutyric Acid	15	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk
+Basal	products	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00360	2'-deoxy-5'-adenosine monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00362	2'-deoxyguanosine 5'-phosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00364	Thymidine Monophosphate	13	>10 strains	bbet;cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;cpi;cohm
+Basal	products	C00365	2'-deoxyuridylic acid	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00369	Glycogen	3	2-5 strains	cpi;mgk;cohm
+Basal	products	C00380	Cytosine	14	>10 strains	cauj;dri;mlot;tro;buol;vpe;lgu;lur;pscf;racd;cuvk;cxy;rfa;cohm
+Basal	products	C00385	Xanthine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00387	Guanosine	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00392	Mannitol	7	6-10 strains	cauj;dri;buol;pmor;racd;cuvk;cxy
+Basal	products	C00398	tryptamine	2	2-5 strains	pzu;racd
+Basal	products	C00402	D-Aspartic Acid	11	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cpi;cohm
+Basal	products	C00407	Isoleucine	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00409	methylmercaptan	16	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;rfa;cpi;mgk
+Basal	products	C00417	Aconitic Acid	15	>10 strains	cauj;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00418	Mevalonic Acid	1	1 strain	cuvk
+Basal	products	C00423	cinnamic acid	7	6-10 strains	tro;buol;lgu;lur;cxy;cpi;mgk
+Basal	products	C00429	dihydrouracil	12	>10 strains	cauj;dri;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;cohm
+Basal	products	C00431	5-aminovaleric acid	11	>10 strains	cauj;dri;pzu;tro;buol;vpe;pmor;racd;rfa;cpi;cohm
+Basal	products	C00446	galactose-1-phosphate	3	2-5 strains	cuvk;rfa;mgk
+Basal	products	C00455	Nicotinamide Mononucleotide	16	>10 strains	cauj;dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00463	indole	12	>10 strains	cauj;dri;mlot;tro;buol;lgu;lur;racd;cuvk;cxy;mgk;cohm
+Basal	products	C00469	Ethanol	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C00475	Cytidine	12	>10 strains	cauj;dri;pzu;tro;buol;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00479	propionaldehyde	3	2-5 strains	cauj;racd;rfa
+Basal	products	C00483	Tyramine	3	2-5 strains	lgu;racd;cpi
+Basal	products	C00487	carnitinium	1	1 strain	mlot
+Basal	products	C00488	formamide	2	2-5 strains	cpi;mgk
+Basal	products	C00493	Shikimic Acid	11	>10 strains	cauj;pzu;tro;buol;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00497	(R)-malic acid	16	>10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00499	allantoic acid	9	6-10 strains	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa;cpi
+Basal	products	C00502	xylonic acid	1	1 strain	cuvk
+Basal	products	C00504	Folic Acid	9	6-10 strains	cauj;dri;tro;buol;lur;racd;cpi;mgk;cohm
+Basal	products	C00526	Deoxyuridine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00533	Nitric Oxide	3	2-5 strains	bbet;cauj;flk
+Basal	products	C00544	Homogentisic Acid	6	6-10 strains	tro;buol;lgu;rfa;cpi;mgk
+Basal	products	C00546	Pyruvaldehyde	10	6-10 strains	bbet;cauj;dri;pzu;buol;racd;cuvk;cxy;rfa;cohm
+Basal	products	C00559	2'-deoxyadenosine	11	>10 strains	cauj;dri;pzu;tro;buol;lur;racd;rfa;cpi;mgk;cohm
+Basal	products	C00577	D-glyceraldehyde	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00580	dimethyl sulfide	1	1 strain	pzu
+Basal	products	C00601	phenylacetaldehyde	1	1 strain	cpi
+Basal	products	C00624	N-acetylglutamic acid	14	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00631	2-phospho-D-glyceric acid	12	>10 strains	dri;pzu;tro;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00645	N-acetylmannosamine	3	2-5 strains	dri;flk;mgk
+Basal	products	C00655	xanthosine monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00671	alpha-keto-beta-methylvaleric acid	15	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00680	meso-2,6-diaminopimelic acid	12	>10 strains	cauj;dri;pzu;tro;buol;vpe;lur;racd;cxy;rfa;cpi;cohm
+Basal	products	C00719	Betaine	3	2-5 strains	buol;lur;pmor
+Basal	products	C00739	D-lysine	14	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;rfa;cpi;cohm
+Basal	products	C00740	D-serine	16	>10 strains	bbet;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00741	Diacetyl	1	1 strain	racd
+Basal	products	C00763	D-proline	4	2-5 strains	vpe;lgu;cpi;mgk
+Basal	products	C00785	Urocanic Acid	13	>10 strains	bbet;cauj;mlot;tro;buol;lgu;lur;pmor;pscf;racd;cxy;cpi;mgk
+Basal	products	C00791	Creatinine	3	2-5 strains	cauj;mlot;racd
+Basal	products	C00792	D-arginine	10	6-10 strains	dri;mlot;buol;vpe;lgu;pmor;pscf;cxy;rfa;cpi
+Basal	products	C00793	D-cysteine	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00794	Sorbitol	11	>10 strains	cauj;dri;buol;lgu;pmor;racd;cuvk;cxy;cpi;flk;mgk
+Basal	products	C00805	Salicylic Acid	11	>10 strains	dri;pzu;buol;lgu;lur;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00811	p-coumaric acid	9	6-10 strains	cauj;tro;buol;lgu;lur;racd;cxy;cpi;mgk
+Basal	products	C00819	Glutamine	14	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00820	D-threonine	9	6-10 strains	cauj;dri;tro;buol;vpe;pmor;cpi;mgk;cohm
+Basal	products	C00864	Pantothenic Acid	12	>10 strains	bbet;cauj;dri;pzu;buol;lgu;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C00881	Deoxycytidine	12	>10 strains	cauj;dri;tro;buol;lgu;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00898	tartaric acid	12	>10 strains	dri;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cpi;mgk;cohm
+Basal	products	C00905	D-fructofuranuronic acid	3	2-5 strains	lur;cpi;cohm
+Basal	products	C00973	cyclomaltodextrin	10	6-10 strains	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk;cohm
+Basal	products	C00979	O-acetylserine	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C00986	trimethylenediamine	11	>10 strains	mlot;pzu;tro;buol;vpe;pmor;pscf;racd;cuvk;cxy;cpi
+Basal	products	C00993	alanylalanine	15	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01005	plasmenylserine	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C01013	hydracrylic acid	10	6-10 strains	bbet;cauj;pzu;buol;lgu;racd;cxy;rfa;cpi;cohm
+Basal	products	C01026	dimethylglycine	10	6-10 strains	buol;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01035	gamma-guanidinobutyric acid	5	2-5 strains	dri;buol;vpe;pmor;cpi
+Basal	products	C01040	L-gulono-1,4-lactone	1	1 strain	cpi
+Basal	products	C01083	Trehalose	9	6-10 strains	cauj;dri;pzu;buol;racd;cuvk;rfa;cpi;mgk
+Basal	products	C01089	(R)-3-hydroxybutyric acid	12	>10 strains	bbet;cauj;dri;pzu;buol;lgu;pmor;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01367	Adenosine Monophosphate	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01368	3'-uridylic acid	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01412	butyraldehyde	10	6-10 strains	bbet;cauj;dri;tro;buol;vpe;pmor;racd;rfa;cohm
+Basal	products	C01417	cyanic acid	4	2-5 strains	bbet;tro;vpe;lur
+Basal	products	C01419	cysteinylglycine	10	6-10 strains	cauj;pzu;tro;buol;vpe;cuvk;cxy;rfa;mgk;cohm
+Basal	products	C01438	Methane	2	2-5 strains	pzu;tro
+Basal	products	C01455	Toluene	4	2-5 strains	cauj;mlot;tro;rfa
+Basal	products	C01502	Guaiacol	1	1 strain	buol
+Basal	products	C01672	Cadaverine	13	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;pmor;racd;cuvk;rfa;cpi;cohm
+Basal	products	C01674	N,N-diacetylchitobiose	5	2-5 strains	lgu;lur;racd;flk;mgk
+Basal	products	C01697	Galactitol	1	1 strain	racd
+Basal	products	C01762	xanthosine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C01888	1-aminopropan-2-one	16	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;mgk;cohm
+Basal	products	C01929	histidinal	11	>10 strains	cauj;dri;mlot;pzu;tro;lgu;lur;rfa;cpi;mgk;cohm
+Basal	products	C02265	D-phenylalanine	7	6-10 strains	cauj;pzu;lgu;racd;rfa;mgk;cohm
+Basal	products	C02350	(S)-(+)-allantoin	9	6-10 strains	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa;cpi
+Basal	products	C02376	5-Methylcytosine	4	2-5 strains	dri;cuvk;rfa;cohm
+Basal	products	C02630	alpha-hydroxyglutarate	2	2-5 strains	dri;mgk
+Basal	products	C02679	lauric acid	1	1 strain	pmor
+Basal	products	C02693	indoleacetamide	6	6-10 strains	mlot;pzu;tro;buol;rfa;cpi
+Basal	products	C02713	N-acetylmuramic acid	5	2-5 strains	cauj;pzu;buol;lgu;racd
+Basal	products	C02714	N-acetylputrescine	5	2-5 strains	mlot;pzu;buol;cuvk;rfa
+Basal	products	C02989	methionine sulfoxide	7	6-10 strains	cauj;buol;lgu;lur;racd;rfa;cpi
+Basal	products	C03089	S-methyl-5-thio-D-ribofuranose	5	2-5 strains	pzu;buol;racd;cuvk;cxy
+Basal	products	C03198	(S)-4-hydroxymandelic acid	9	6-10 strains	dri;pzu;tro;buol;lgu;cuvk;rfa;cpi;mgk
+Basal	products	C03406	Argininosuccinic Acid	11	>10 strains	dri;tro;buol;vpe;lgu;lur;racd;cxy;rfa;mgk;cohm
+Basal	products	C03519	N-acetylphenylalanine	3	2-5 strains	pzu;buol;racd
+Basal	products	C03589	4-hydroxy-2-oxovalerate	3	2-5 strains	cauj;rfa;cohm
+Basal	products	C03722	Quinolinic Acid	14	>10 strains	cauj;mlot;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C03752	glucosaminic acid	1	1 strain	racd
+Basal	products	C03765	4-hydroxyphenylacetaldehyde	3	2-5 strains	pzu;lur;cpi
+Basal	products	C05123	Isethionic Acid	6	6-10 strains	bbet;buol;racd;cxy;rfa;flk
+Basal	products	C05198	5'-deoxyadenosine	4	2-5 strains	cuvk;cxy;rfa;cohm
+Basal	products	C05512	deoxyinosine	11	>10 strains	cauj;dri;pzu;buol;lgu;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C05583	3-methoxy-4-hydroxyphenylglycolaldehyde	2	2-5 strains	bbet;cauj
+Basal	products	C05629	3-phenylpropionic acid	3	2-5 strains	lgu;cpi;mgk
+Basal	products	C05821	Enterobactin	7	6-10 strains	bbet;cauj;tro;buol;lgu;cuvk;mgk
+Basal	products	C05822	Cytidine Monophosphate	13	>10 strains	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Basal	products	C05984	(S)-2-hydroxybutyric acid	8	6-10 strains	bbet;cauj;dri;tro;racd;cpi;flk;cohm
+Basal	products	C06193	3'-guanylic acid	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Basal	products	C06423	octanoic acid	1	1 strain	racd
+Basal	products	C06735	2-aminoacetaldehyde	4	2-5 strains	mlot;buol;pscf;rfa
+Basal	products	C07086	phenylacetic acid	2	2-5 strains	tro;cpi
+Basal	products	C08362	palmitoleic acid	14	>10 strains	cauj;dri;pzu;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;rfa;cpi;cohm
+Basal	products	C09332		8	6-10 strains	dri;tro;buol;lur;racd;rfa;cpi;cohm
+Basal	products	C11499	(S)-3-sulfonatolactate(2-)	13	>10 strains	bbet;cauj;tro;buol;vpe;lur;pmor;racd;cxy;rfa;flk;mgk;cohm
+Basal	products	C11544	mannosylglycerate	1	1 strain	racd
+Basal	products	C11588	cis-3-(1-Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol	2	2-5 strains	buol;cpi
+Basal	products	C14179	sulfoacetic acid	6	6-10 strains	buol;racd;cxy;rfa;flk;cohm
+Basal	products	C17530	methyl acetate	3	2-5 strains	dri;buol;cohm
+Basal	products	C20657	meso-butane-2,3-diol	1	1 strain	racd
+Basal	products	C21173	phosphoethanolamine-Kdo2-lipid A	2	2-5 strains	lgu;racd
+Conditioned	products	C00003	NAD	13	>10 strains	cauj;dri;pzu;tro;buol;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	products	C00009	phosphoric acid	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00011	Carbon Dioxide	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	products	C00014	Ammonia	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00016	Flavin-Adenine Dinucleotide	10	6-10 strains	cauj;dri;pzu;tro;buol;lgu;cuvk;cxy;cpi;mgk
+Conditioned	products	C00020	Adenosine Monophosphate	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;mip;cpi;mgk;cohm
+Conditioned	products	C00022	Pyruvic Acid	12	>10 strains	bbet;cauj;dri;pzu;lgu;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	products	C00025	Glutamic Acid	10	6-10 strains	bbet;pzu;vpe;lgu;racd;cuvk;cxy;mip;cpi;mgk
+Conditioned	products	C00026	Ketoglutaric Acids	8	6-10 strains	bbet;dri;vpe;lgu;cuvk;mip;cpi;mgk
+Conditioned	products	C00027	Hydrogen Peroxide	19	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00029	Uridine Diphosphate Glucose	6	6-10 strains	dri;lgu;cuvk;mip;flk;mgk
+Conditioned	products	C00033	Acetic Acid	9	6-10 strains	bbet;buol;vpe;lgu;cuvk;cxy;cpi;flk;cohm
+Conditioned	products	C00035	Guanosine Diphosphate	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;mip;cpi;mgk;cohm
+Conditioned	products	C00037	Glycine	12	>10 strains	dri;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00041	Alanine	15	>10 strains	bbet;cauj;dri;tro;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	products	C00042	Succinic Acid	6	6-10 strains	dri;lur;cuvk;cxy;mip;cpi
+Conditioned	products	C00043	Uridine Diphosphate N-Acetylglucosamine	10	6-10 strains	cauj;dri;tro;lgu;lur;cuvk;mip;cpi;flk;mgk
+Conditioned	products	C00044	Guanosine Triphosphate	8	6-10 strains	tro;buol;lgu;pmor;racd;cuvk;cpi;mgk
+Conditioned	products	C00047	Lysine	6	6-10 strains	cauj;pzu;vpe;lur;racd;cxy
+Conditioned	products	C00049	Aspartic Acid	6	6-10 strains	vpe;lur;racd;cuvk;cxy;mip
+Conditioned	products	C00051	Glutathione	11	>10 strains	dri;vpe;lur;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00052	UDP-alpha-D-galactose	6	6-10 strains	cauj;lgu;cuvk;mip;cpi;flk
+Conditioned	products	C00055	Cytidine Monophosphate	9	6-10 strains	dri;tro;lur;racd;cuvk;mip;cpi;flk;mgk
+Conditioned	products	C00058	formic acid	10	6-10 strains	bbet;cauj;dri;vpe;lgu;lur;cpi;flk;mgk;cohm
+Conditioned	products	C00059	sulfuric acid	14	>10 strains	dri;pzu;tro;buol;vpe;lgu;lur;cuvk;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00061	Flavin Mononucleotide	11	>10 strains	cauj;dri;tro;buol;lgu;lur;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00062	Arginine	15	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pscf;racd;cxy;rfa;cpi;flk;cohm
+Conditioned	products	C00064	Glutamine	12	>10 strains	dri;tro;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00065	Serine	15	>10 strains	bbet;cauj;dri;mlot;tro;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00067	Formaldehyde	8	6-10 strains	dri;buol;lur;cuvk;cpi;flk;mgk;cohm
+Conditioned	products	C00073	Methionine	15	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00077	Ornithine	9	6-10 strains	cauj;dri;tro;vpe;lgu;lur;cxy;mip;cpi
+Conditioned	products	C00078	Tryptophan	8	6-10 strains	cauj;dri;tro;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00079	Phenylalanine	4	2-5 strains	dri;lur;cuvk;cpi
+Conditioned	products	C00082	Tyrosine	4	2-5 strains	dri;lgu;cuvk;cpi
+Conditioned	products	C00084	Acetaldehyde	15	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;pmor;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	products	C00085	D-fructofuranose 6-phosphate	5	2-5 strains	cauj;dri;lgu;cuvk;cpi
+Conditioned	products	C00086	Urea	15	>10 strains	bbet;cauj;dri;mlot;tro;buol;vpe;pmor;pscf;cuvk;cxy;mip;rfa;cpi;cohm
+Conditioned	products	C00088	Nitrous Acid	18	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cxy;rfa;cpi;flk;mgk
+Conditioned	products	C00089	Sucrose	4	2-5 strains	dri;pmor;cuvk;cpi
+Conditioned	products	C00090	catechol	3	2-5 strains	cauj;tro;cuvk
+Conditioned	products	C00092	D-glucopyranose 6-phosphate	3	2-5 strains	cauj;dri;cuvk
+Conditioned	products	C00093	Glycerophosphates	14	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;lgu;lur;cuvk;cxy;cpi;mgk;cohm
+Conditioned	products	C00094	sulfurous acid	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00095	D-fructofuranose	7	6-10 strains	dri;buol;lgu;lur;pmor;cuvk;cpi
+Conditioned	products	C00097	Cysteine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00099	beta-Alanine	8	6-10 strains	bbet;cauj;dri;lur;racd;cxy;rfa;flk
+Conditioned	products	C00103	glucose-1-phosphate	7	6-10 strains	cauj;dri;tro;lgu;cuvk;cpi;mgk
+Conditioned	products	C00105	Uridine Monophosphate	11	>10 strains	cauj;dri;pzu;tro;lgu;lur;cuvk;mip;cpi;flk;mgk
+Conditioned	products	C00106	Uracil	11	>10 strains	cauj;dri;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;flk
+Conditioned	products	C00109	alpha-ketobutyric acid	10	6-10 strains	bbet;cauj;dri;pzu;tro;lgu;cuvk;cpi;mgk;cohm
+Conditioned	products	C00114	Choline	3	2-5 strains	tro;buol;pmor
+Conditioned	products	C00116	Glycerol	15	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00118	Glyceraldehyde 3-Phosphate	9	6-10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cpi;mgk
+Conditioned	products	C00121	D-ribofuranose	2	2-5 strains	buol;lur
+Conditioned	products	C00122	fumaric acid	12	>10 strains	cauj;dri;tro;buol;lgu;lur;racd;cuvk;cxy;mip;cpi;mgk
+Conditioned	products	C00123	Leucine	15	>10 strains	bbet;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;flk;cohm
+Conditioned	products	C00127	Glutathione Disulfide	13	>10 strains	cauj;dri;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00130	Inosine Monophosphate	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00132	Methanol	4	2-5 strains	dri;tro;pmor;cohm
+Conditioned	products	C00133	D-alanine	16	>10 strains	bbet;cauj;dri;tro;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00134	Putrescine	14	>10 strains	bbet;dri;tro;vpe;lgu;lur;pmor;pscf;racd;cxy;mip;flk;mgk;cohm
+Conditioned	products	C00135	Histidine	7	6-10 strains	cauj;dri;tro;pmor;cpi;mgk;cohm
+Conditioned	products	C00137	L-histidine	1	1 strain	cpi
+Conditioned	products	C00140	Acetylglucosamine	3	2-5 strains	lur;flk;mgk
+Conditioned	products	C00144	Guanosine Monophosphate	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00146	Phenol	2	2-5 strains	cpi;mgk
+Conditioned	products	C00147	Adenine	16	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00148	Proline	10	6-10 strains	bbet;pzu;vpe;lgu;racd;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00149	(S)-malic acid	3	2-5 strains	dri;cuvk;mgk
+Conditioned	products	C00152	Asparagine	12	>10 strains	cauj;dri;pzu;lgu;lur;racd;cuvk;cxy;rfa;cpi;mgk;cohm
+Conditioned	products	C00156	4-hydroxybenzoic acid	3	2-5 strains	dri;mgk;cohm
+Conditioned	products	C00158	Citric Acid	6	6-10 strains	dri;cuvk;cxy;mip;cpi;mgk
+Conditioned	products	C00159	Mannose	7	6-10 strains	bbet;cauj;dri;pzu;tro;pmor;cuvk
+Conditioned	products	C00160	glycolic acid	5	2-5 strains	vpe;lgu;cuvk;mgk;cohm
+Conditioned	products	C00163	propionic acid	2	2-5 strains	bbet;buol
+Conditioned	products	C00164	acetoacetic acid	6	6-10 strains	cauj;dri;cuvk;cpi;mgk;cohm
+Conditioned	products	C00167	Uridine Diphosphate Glucuronic Acid	9	6-10 strains	cauj;dri;tro;buol;lgu;cuvk;cxy;cpi;flk
+Conditioned	products	C00170	5'-methylthioadenosine	9	6-10 strains	bbet;pzu;tro;buol;cxy;mip;rfa;cpi;mgk
+Conditioned	products	C00178	Thymine	1	1 strain	cxy
+Conditioned	products	C00179	Agmatine	10	6-10 strains	dri;vpe;lgu;lur;pmor;pscf;racd;mip;rfa;flk
+Conditioned	products	C00181	xylopyranose	1	1 strain	cuvk
+Conditioned	products	C00183	Valine	18	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00184	Dihydroxyacetone	10	6-10 strains	bbet;dri;buol;vpe;lur;pscf;cuvk;mip;mgk;cohm
+Conditioned	products	C00185	Cellobiose	7	6-10 strains	bbet;cauj;dri;pmor;cuvk;mip;cpi
+Conditioned	products	C00186	Lactic Acid	12	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;cuvk;mip;cpi;cohm
+Conditioned	products	C00188	Threonine	12	>10 strains	cauj;tro;buol;vpe;lur;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00189	Ethanolamine	6	6-10 strains	buol;lgu;pmor;pscf;racd;cpi
+Conditioned	products	C00198	beta-glucono-1,5-lactone	4	2-5 strains	cauj;dri;pmor;cuvk
+Conditioned	products	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	9	6-10 strains	cauj;dri;pzu;lgu;lur;cuvk;cpi;flk;mgk
+Conditioned	products	C00204	2-keto-3-deoxygluconate	8	6-10 strains	cauj;dri;pmor;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00207	Acetone	3	2-5 strains	tro;buol;cuvk
+Conditioned	products	C00208	Maltose	7	6-10 strains	cauj;dri;pmor;cuvk;mip;cpi;mgk
+Conditioned	products	C00212	Adenosine	10	6-10 strains	cauj;dri;tro;buol;lgu;lur;cuvk;cpi;mgk;cohm
+Conditioned	products	C00213	Sarcosine	5	2-5 strains	lur;cuvk;cxy;mgk;cohm
+Conditioned	products	C00237	Carbon Monoxide	15	>10 strains	cauj;dri;mlot;pzu;tro;buol;vpe;lur;pmor;pscf;racd;cxy;cpi;flk;mgk
+Conditioned	products	C00239	Deoxycytidine Monophosphate	8	6-10 strains	cauj;lgu;lur;racd;cuvk;mip;cpi;flk
+Conditioned	products	C00242	Guanine	16	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00244	Nitric Acid	13	>10 strains	bbet;cauj;dri;mlot;tro;buol;lgu;lur;pmor;pscf;cxy;cpi;mgk
+Conditioned	products	C00245	Taurine	10	6-10 strains	bbet;dri;tro;buol;racd;cxy;rfa;cpi;flk;cohm
+Conditioned	products	C00246	Butyric Acid	8	6-10 strains	bbet;dri;tro;buol;lgu;mip;cpi;cohm
+Conditioned	products	C00249	Palmitic Acid	17	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00250	Pyridoxal	1	1 strain	cxy
+Conditioned	products	C00253	Niacin	11	>10 strains	cauj;dri;buol;lgu;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00255	Riboflavin	12	>10 strains	cauj;dri;pzu;tro;buol;lur;cuvk;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00256	Lactic Acid	11	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;cuvk;mip;cpi;cohm
+Conditioned	products	C00257	gluconic acid	5	2-5 strains	dri;buol;pmor;cuvk;mgk
+Conditioned	products	C00258	D-glyceric acid	4	2-5 strains	dri;buol;cuvk;mip
+Conditioned	products	C00262	Hypoxanthine	14	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;cxy;mip;rfa;cpi;cohm
+Conditioned	products	C00263	Homoserine	5	2-5 strains	dri;tro;lur;cxy;mip
+Conditioned	products	C00270	N-Acetylneuraminic Acid	2	2-5 strains	dri;mgk
+Conditioned	products	C00275	mannose-6-phosphate	5	2-5 strains	cauj;dri;lgu;cuvk;cpi
+Conditioned	products	C00283	Hydrogen Sulfide	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00288	Bicarbonates	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk
+Conditioned	products	C00294	Inosine	8	6-10 strains	cauj;dri;tro;buol;lgu;cuvk;cpi;cohm
+Conditioned	products	C00295	Orotic Acid	12	>10 strains	cauj;dri;pzu;lgu;lur;pmor;pscf;racd;cuvk;cxy;cpi;mgk
+Conditioned	products	C00296	Quinic Acid	2	2-5 strains	dri;cpi
+Conditioned	products	C00299	Uridine	9	6-10 strains	cauj;dri;tro;lgu;lur;cuvk;mip;cpi;mgk
+Conditioned	products	C00311	isocitric acid	7	6-10 strains	cauj;dri;lgu;cuvk;cxy;mip;cpi
+Conditioned	products	C00315	Spermidine	15	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cxy;mip;cpi;flk;cohm
+Conditioned	products	C00320	trioxidosulfanidosulfate	21	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00327	Citrulline	7	6-10 strains	dri;pzu;tro;lur;cxy;cpi;mgk
+Conditioned	products	C00330	Deoxyguanosine	12	>10 strains	cauj;dri;pzu;tro;lgu;lur;cuvk;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00334	gamma-Aminobutyric Acid	6	6-10 strains	dri;tro;lur;racd;cuvk;cxy
+Conditioned	products	C00352	2-amino-2-deoxy-D-glucopyranose 6-phosphate	8	6-10 strains	cauj;dri;pzu;tro;lgu;lur;cuvk;cpi
+Conditioned	products	C00360	2'-deoxy-5'-adenosine monophosphate	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;racd;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00362	2'-deoxyguanosine 5'-phosphate	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00364	Thymidine Monophosphate	7	6-10 strains	cauj;dri;lgu;lur;racd;cuvk;mip
+Conditioned	products	C00365	2'-deoxyuridylic acid	8	6-10 strains	cauj;dri;tro;lgu;racd;cuvk;mip;cpi
+Conditioned	products	C00369	Glycogen	4	2-5 strains	tro;lur;cpi;mgk
+Conditioned	products	C00380	Cytosine	10	6-10 strains	dri;buol;lgu;lur;pmor;racd;cuvk;cxy;mip;cohm
+Conditioned	products	C00385	Xanthine	16	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00387	Guanosine	12	>10 strains	cauj;dri;pzu;tro;lgu;lur;cuvk;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C00392	Mannitol	8	6-10 strains	cauj;dri;lur;pmor;racd;cuvk;cxy;mip
+Conditioned	products	C00398	tryptamine	1	1 strain	cpi
+Conditioned	products	C00402	D-Aspartic Acid	3	2-5 strains	dri;lgu;lur
+Conditioned	products	C00407	Isoleucine	17	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00409	methylmercaptan	19	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;pscf;racd;cuvk;cxy;mip;rfa;cpi;mgk
+Conditioned	products	C00417	Aconitic Acid	12	>10 strains	cauj;dri;tro;buol;vpe;lgu;lur;cuvk;cxy;mip;cpi;mgk
+Conditioned	products	C00418	Mevalonic Acid	1	1 strain	cuvk
+Conditioned	products	C00423	cinnamic acid	4	2-5 strains	vpe;cxy;mip;cpi
+Conditioned	products	C00429	dihydrouracil	11	>10 strains	cauj;dri;buol;lgu;lur;racd;cuvk;cxy;mip;flk;cohm
+Conditioned	products	C00431	5-aminovaleric acid	6	6-10 strains	dri;racd;cuvk;cxy;mip;rfa
+Conditioned	products	C00446	galactose-1-phosphate	2	2-5 strains	cuvk;mgk
+Conditioned	products	C00455	Nicotinamide Mononucleotide	15	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk
+Conditioned	products	C00463	indole	3	2-5 strains	dri;cuvk;mgk
+Conditioned	products	C00469	Ethanol	18	>10 strains	bbet;cauj;dri;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00475	Cytidine	7	6-10 strains	dri;tro;lur;cuvk;mip;cpi;cohm
+Conditioned	products	C00479	propionaldehyde	2	2-5 strains	cauj;rfa
+Conditioned	products	C00483	Tyramine	1	1 strain	cpi
+Conditioned	products	C00488	formamide	1	1 strain	mgk
+Conditioned	products	C00493	Shikimic Acid	6	6-10 strains	dri;pzu;lgu;cuvk;mip;cpi
+Conditioned	products	C00497	(R)-malic acid	12	>10 strains	bbet;cauj;dri;vpe;lgu;lur;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C00499	allantoic acid	10	6-10 strains	bbet;dri;mlot;buol;vpe;lur;pmor;pscf;rfa;cpi
+Conditioned	products	C00502	xylonic acid	2	2-5 strains	lur;cuvk
+Conditioned	products	C00504	Folic Acid	6	6-10 strains	cauj;dri;tro;cuvk;cpi;cohm
+Conditioned	products	C00526	Deoxyuridine	8	6-10 strains	cauj;dri;buol;lgu;lur;cuvk;mip;cpi
+Conditioned	products	C00533	Nitric Oxide	4	2-5 strains	bbet;cauj;flk;cohm
+Conditioned	products	C00544	Homogentisic Acid	1	1 strain	dri
+Conditioned	products	C00546	Pyruvaldehyde	6	6-10 strains	bbet;cauj;dri;pzu;tro;cuvk
+Conditioned	products	C00559	2'-deoxyadenosine	11	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cpi;mgk;cohm
+Conditioned	products	C00577	D-glyceraldehyde	6	6-10 strains	cauj;dri;tro;buol;lgu;cuvk
+Conditioned	products	C00601	phenylacetaldehyde	1	1 strain	cpi
+Conditioned	products	C00624	N-acetylglutamic acid	7	6-10 strains	bbet;dri;lgu;cuvk;mip;cpi;mgk
+Conditioned	products	C00631	2-phospho-D-glyceric acid	4	2-5 strains	dri;tro;cpi;mgk
+Conditioned	products	C00645	N-acetylmannosamine	4	2-5 strains	cauj;dri;flk;mgk
+Conditioned	products	C00655	xanthosine monophosphate	11	>10 strains	cauj;dri;pzu;tro;lgu;lur;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00671	alpha-keto-beta-methylvaleric acid	11	>10 strains	bbet;cauj;dri;pzu;buol;vpe;lgu;cuvk;cpi;mgk;cohm
+Conditioned	products	C00680	meso-2,6-diaminopimelic acid	10	6-10 strains	dri;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;cohm
+Conditioned	products	C00719	Betaine	3	2-5 strains	tro;buol;lur
+Conditioned	products	C00739	D-lysine	7	6-10 strains	cauj;dri;tro;vpe;lur;cuvk;cxy
+Conditioned	products	C00740	D-serine	12	>10 strains	bbet;dri;mlot;tro;lgu;lur;racd;cuvk;cxy;mip;cpi;cohm
+Conditioned	products	C00763	D-proline	3	2-5 strains	vpe;lgu;cpi
+Conditioned	products	C00785	Urocanic Acid	8	6-10 strains	bbet;cauj;tro;pmor;racd;mip;cpi;mgk
+Conditioned	products	C00792	D-arginine	8	6-10 strains	dri;buol;vpe;lgu;pscf;cxy;rfa;cpi
+Conditioned	products	C00793	D-cysteine	20	>10 strains	bbet;cauj;dri;mlot;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C00794	Sorbitol	9	6-10 strains	cauj;dri;lgu;lur;pmor;racd;cuvk;cxy;cpi
+Conditioned	products	C00805	Salicylic Acid	2	2-5 strains	dri;vpe
+Conditioned	products	C00811	p-coumaric acid	3	2-5 strains	cxy;mip;cpi
+Conditioned	products	C00819	Glutamine	10	6-10 strains	cauj;dri;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi
+Conditioned	products	C00820	D-threonine	3	2-5 strains	dri;tro;cohm
+Conditioned	products	C00864	Pantothenic Acid	7	6-10 strains	bbet;dri;buol;lgu;racd;cuvk;cohm
+Conditioned	products	C00881	Deoxycytidine	5	2-5 strains	tro;cuvk;mip;cpi;cohm
+Conditioned	products	C00898	tartaric acid	9	6-10 strains	cauj;dri;buol;lgu;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C00973	cyclomaltodextrin	12	>10 strains	cauj;dri;pzu;tro;buol;lgu;pmor;pscf;cuvk;mip;mgk;cohm
+Conditioned	products	C00979	O-acetylserine	13	>10 strains	bbet;cauj;dri;lgu;lur;racd;cuvk;cxy;mip;cpi;flk;mgk;cohm
+Conditioned	products	C00986	trimethylenediamine	7	6-10 strains	tro;buol;vpe;pmor;racd;cxy;mip
+Conditioned	products	C00993	alanylalanine	10	6-10 strains	cauj;dri;tro;lur;racd;cuvk;cxy;mip;mgk;cohm
+Conditioned	products	C01005	plasmenylserine	16	>10 strains	bbet;cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C01013	hydracrylic acid	3	2-5 strains	bbet;cauj;buol
+Conditioned	products	C01026	dimethylglycine	6	6-10 strains	lur;cuvk;cxy;cpi;mgk;cohm
+Conditioned	products	C01035	gamma-guanidinobutyric acid	5	2-5 strains	dri;buol;vpe;pmor;cpi
+Conditioned	products	C01040	L-gulono-1,4-lactone	1	1 strain	cpi
+Conditioned	products	C01083	Trehalose	8	6-10 strains	bbet;cauj;dri;tro;lur;pmor;cuvk;mip
+Conditioned	products	C01089	(R)-3-hydroxybutyric acid	5	2-5 strains	bbet;buol;lgu;cpi;cohm
+Conditioned	products	C01367	Adenosine Monophosphate	10	6-10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cpi;mgk;cohm
+Conditioned	products	C01368	3'-uridylic acid	8	6-10 strains	cauj;pzu;lgu;cuvk;mip;cpi;flk;mgk
+Conditioned	products	C01412	butyraldehyde	9	6-10 strains	bbet;cauj;tro;buol;vpe;pmor;racd;rfa;cohm
+Conditioned	products	C01417	cyanic acid	3	2-5 strains	bbet;tro;lur
+Conditioned	products	C01419	cysteinylglycine	16	>10 strains	cauj;dri;pzu;tro;buol;vpe;lgu;lur;racd;cuvk;cxy;mip;rfa;cpi;mgk;cohm
+Conditioned	products	C01438	Methane	2	2-5 strains	pzu;tro
+Conditioned	products	C01455	Toluene	2	2-5 strains	cauj;tro
+Conditioned	products	C01502	Guaiacol	1	1 strain	buol
+Conditioned	products	C01672	Cadaverine	12	>10 strains	bbet;dri;pzu;tro;vpe;pmor;racd;cuvk;cxy;mip;flk;cohm
+Conditioned	products	C01674	N,N-diacetylchitobiose	4	2-5 strains	dri;lgu;flk;mgk
+Conditioned	products	C01697	Galactitol	1	1 strain	racd
+Conditioned	products	C01762	xanthosine	11	>10 strains	cauj;dri;tro;buol;lgu;lur;cuvk;rfa;cpi;mgk;cohm
+Conditioned	products	C01888	1-aminopropan-2-one	4	2-5 strains	dri;tro;racd;cuvk
+Conditioned	products	C01929	histidinal	9	6-10 strains	cauj;dri;pzu;tro;pmor;racd;mip;mgk;cohm
+Conditioned	products	C02265	D-phenylalanine	3	2-5 strains	cauj;dri;cpi
+Conditioned	products	C02350	(S)-(+)-allantoin	9	6-10 strains	bbet;dri;mlot;buol;vpe;pmor;pscf;rfa;cpi
+Conditioned	products	C02376	5-Methylcytosine	1	1 strain	lur
+Conditioned	products	C02630	alpha-hydroxyglutarate	2	2-5 strains	dri;mgk
+Conditioned	products	C02713	N-acetylmuramic acid	5	2-5 strains	cauj;pzu;tro;lgu;lur
+Conditioned	products	C02714	N-acetylputrescine	1	1 strain	lur
+Conditioned	products	C02989	methionine sulfoxide	8	6-10 strains	cauj;buol;lgu;lur;racd;rfa;cpi;mgk
+Conditioned	products	C03089	S-methyl-5-thio-D-ribofuranose	3	2-5 strains	pzu;buol;cxy
+Conditioned	products	C03198	(S)-4-hydroxymandelic acid	2	2-5 strains	dri;cuvk
+Conditioned	products	C03406	Argininosuccinic Acid	11	>10 strains	bbet;dri;buol;vpe;lgu;lur;racd;cxy;mip;cpi;cohm
+Conditioned	products	C03519	N-acetylphenylalanine	1	1 strain	buol
+Conditioned	products	C03589	4-hydroxy-2-oxovalerate	2	2-5 strains	cauj;cohm
+Conditioned	products	C03722	Quinolinic Acid	15	>10 strains	cauj;pzu;tro;buol;vpe;lgu;lur;pmor;racd;cuvk;cxy;mip;cpi;mgk;cohm
+Conditioned	products	C05123	Isethionic Acid	9	6-10 strains	bbet;dri;racd;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C05198	5'-deoxyadenosine	3	2-5 strains	cuvk;cxy;cohm
+Conditioned	products	C05512	deoxyinosine	8	6-10 strains	cauj;dri;pzu;buol;lgu;cuvk;cpi;cohm
+Conditioned	products	C05629	3-phenylpropionic acid	2	2-5 strains	lgu;cpi
+Conditioned	products	C05821	Enterobactin	6	6-10 strains	cauj;tro;vpe;lgu;cuvk;mgk
+Conditioned	products	C05822	Cytidine Monophosphate	7	6-10 strains	dri;tro;lur;racd;cuvk;cxy;cpi
+Conditioned	products	C05984	(S)-2-hydroxybutyric acid	7	6-10 strains	bbet;cauj;dri;tro;racd;cpi;cohm
+Conditioned	products	C06193	3'-guanylic acid	13	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C06423	octanoic acid	1	1 strain	racd
+Conditioned	products	C06735	2-aminoacetaldehyde	4	2-5 strains	bbet;tro;buol;pscf
+Conditioned	products	C07086	phenylacetic acid	1	1 strain	cpi
+Conditioned	products	C08362	palmitoleic acid	9	6-10 strains	cauj;dri;vpe;lgu;racd;cuvk;cxy;rfa;cpi
+Conditioned	products	C09332		12	>10 strains	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;mip;cpi;mgk;cohm
+Conditioned	products	C11499	(S)-3-sulfonatolactate(2-)	11	>10 strains	bbet;cauj;tro;vpe;lur;pmor;cxy;rfa;flk;mgk;cohm
+Conditioned	products	C14179	sulfoacetic acid	9	6-10 strains	buol;lur;racd;cxy;rfa;cpi;flk;mgk;cohm
+Conditioned	products	C17530	methyl acetate	3	2-5 strains	dri;buol;cohm
+Conditioned	products	C20657	meso-butane-2,3-diol	6	6-10 strains	bbet;vpe;lgu;pmor;racd;cuvk
+Conditioned	products	C21173	phosphoethanolamine-Kdo2-lipid A	2	2-5 strains	lgu;racd

@@ -1,0 +1,241 @@
+medium	strain	category	unique_genes_in_category	category_recorded
+PTYG	bbet	Amino acids		False
+PTYG	bbet	Nucleotides	6.0	True
+PTYG	bbet	Cofactors	35.0	True
+PTYG	bbet	Fatty acids & Lipids	4.0	True
+PTYG	bbet	Cell wall components	16.0	True
+PTYG	bbet	Polyamines	1.0	True
+PTYG	buol	Amino acids		False
+PTYG	buol	Nucleotides	4.0	True
+PTYG	buol	Cofactors	34.0	True
+PTYG	buol	Fatty acids & Lipids	3.0	True
+PTYG	buol	Cell wall components	12.0	True
+PTYG	buol	Polyamines	0.0	True
+PTYG	cauj	Amino acids		False
+PTYG	cauj	Nucleotides	6.0	True
+PTYG	cauj	Cofactors	40.0	True
+PTYG	cauj	Fatty acids & Lipids	4.0	True
+PTYG	cauj	Cell wall components	13.0	True
+PTYG	cauj	Polyamines	2.0	True
+PTYG	cohm	Amino acids		False
+PTYG	cohm	Nucleotides	4.0	True
+PTYG	cohm	Cofactors	33.0	True
+PTYG	cohm	Fatty acids & Lipids	6.0	True
+PTYG	cohm	Cell wall components	15.0	True
+PTYG	cohm	Polyamines	3.0	True
+PTYG	cpi	Amino acids		False
+PTYG	cpi	Nucleotides	6.0	True
+PTYG	cpi	Cofactors	39.0	True
+PTYG	cpi	Fatty acids & Lipids	3.0	True
+PTYG	cpi	Cell wall components	14.0	True
+PTYG	cpi	Polyamines	2.0	True
+PTYG	cuvk	Amino acids		False
+PTYG	cuvk	Nucleotides	5.0	True
+PTYG	cuvk	Cofactors	36.0	True
+PTYG	cuvk	Fatty acids & Lipids	2.0	True
+PTYG	cuvk	Cell wall components	10.0	True
+PTYG	cuvk	Polyamines	2.0	True
+PTYG	cxy	Amino acids		False
+PTYG	cxy	Nucleotides	4.0	True
+PTYG	cxy	Cofactors	34.0	True
+PTYG	cxy	Fatty acids & Lipids	3.0	True
+PTYG	cxy	Cell wall components	13.0	True
+PTYG	cxy	Polyamines	1.0	True
+PTYG	dri	Amino acids		False
+PTYG	dri	Nucleotides	4.0	True
+PTYG	dri	Cofactors	32.0	True
+PTYG	dri	Fatty acids & Lipids	8.0	True
+PTYG	dri	Cell wall components	17.0	True
+PTYG	dri	Polyamines	2.0	True
+PTYG	flk	Amino acids		False
+PTYG	flk	Nucleotides	5.0	True
+PTYG	flk	Cofactors	35.0	True
+PTYG	flk	Fatty acids & Lipids	8.0	True
+PTYG	flk	Cell wall components	16.0	True
+PTYG	flk	Polyamines	1.0	True
+PTYG	lgu	Amino acids		False
+PTYG	lgu	Nucleotides	4.0	True
+PTYG	lgu	Cofactors	40.0	True
+PTYG	lgu	Fatty acids & Lipids	3.0	True
+PTYG	lgu	Cell wall components	15.0	True
+PTYG	lgu	Polyamines	5.0	True
+PTYG	lur	Amino acids		False
+PTYG	lur	Nucleotides	4.0	True
+PTYG	lur	Cofactors	41.0	True
+PTYG	lur	Fatty acids & Lipids	4.0	True
+PTYG	lur	Cell wall components	14.0	True
+PTYG	lur	Polyamines	4.0	True
+PTYG	mgk	Amino acids		False
+PTYG	mgk	Nucleotides	8.0	True
+PTYG	mgk	Cofactors	40.0	True
+PTYG	mgk	Fatty acids & Lipids	8.0	True
+PTYG	mgk	Cell wall components	16.0	True
+PTYG	mgk	Polyamines	1.0	True
+PTYG	mip	Amino acids		False
+PTYG	mip	Nucleotides	4.0	True
+PTYG	mip	Cofactors	32.0	True
+PTYG	mip	Fatty acids & Lipids	3.0	True
+PTYG	mip	Cell wall components	12.0	True
+PTYG	mip	Polyamines	0.0	True
+PTYG	mlot	Amino acids		False
+PTYG	mlot	Nucleotides	4.0	True
+PTYG	mlot	Cofactors	43.0	True
+PTYG	mlot	Fatty acids & Lipids	2.0	True
+PTYG	mlot	Cell wall components	8.0	True
+PTYG	mlot	Polyamines	0.0	True
+PTYG	pmor	Amino acids		False
+PTYG	pmor	Nucleotides	4.0	True
+PTYG	pmor	Cofactors	42.0	True
+PTYG	pmor	Fatty acids & Lipids	6.0	True
+PTYG	pmor	Cell wall components	14.0	True
+PTYG	pmor	Polyamines	2.0	True
+PTYG	pscf	Amino acids		False
+PTYG	pscf	Nucleotides	4.0	True
+PTYG	pscf	Cofactors	44.0	True
+PTYG	pscf	Fatty acids & Lipids	6.0	True
+PTYG	pscf	Cell wall components	13.0	True
+PTYG	pscf	Polyamines	2.0	True
+PTYG	pzu	Amino acids		False
+PTYG	pzu	Nucleotides	9.0	True
+PTYG	pzu	Cofactors	40.0	True
+PTYG	pzu	Fatty acids & Lipids	6.0	True
+PTYG	pzu	Cell wall components	15.0	True
+PTYG	pzu	Polyamines	1.0	True
+PTYG	racd	Amino acids		False
+PTYG	racd	Nucleotides	4.0	True
+PTYG	racd	Cofactors	43.0	True
+PTYG	racd	Fatty acids & Lipids	4.0	True
+PTYG	racd	Cell wall components	13.0	True
+PTYG	racd	Polyamines	6.0	True
+PTYG	rfa	Amino acids		False
+PTYG	rfa	Nucleotides	3.0	True
+PTYG	rfa	Cofactors	33.0	True
+PTYG	rfa	Fatty acids & Lipids	4.0	True
+PTYG	rfa	Cell wall components	12.0	True
+PTYG	rfa	Polyamines	2.0	True
+PTYG	tro	Amino acids		False
+PTYG	tro	Nucleotides	6.0	True
+PTYG	tro	Cofactors	38.0	True
+PTYG	tro	Fatty acids & Lipids	10.0	True
+PTYG	tro	Cell wall components	21.0	True
+PTYG	tro	Polyamines	0.0	True
+PTYG	vpe	Amino acids		False
+PTYG	vpe	Nucleotides	5.0	True
+PTYG	vpe	Cofactors	37.0	True
+PTYG	vpe	Fatty acids & Lipids	4.0	True
+PTYG	vpe	Cell wall components	17.0	True
+PTYG	vpe	Polyamines	1.0	True
+M9	bbet	Amino acids	19.0	True
+M9	bbet	Nucleotides	16.0	True
+M9	bbet	Cofactors	44.0	True
+M9	bbet	Fatty acids & Lipids	7.0	True
+M9	bbet	Cell wall components	18.0	True
+M9	bbet	Polyamines	1.0	True
+M9	buol	Amino acids	12.0	True
+M9	buol	Nucleotides	13.0	True
+M9	buol	Cofactors	41.0	True
+M9	buol	Fatty acids & Lipids	4.0	True
+M9	buol	Cell wall components	15.0	True
+M9	buol	Polyamines	0.0	True
+M9	cauj	Amino acids	30.0	True
+M9	cauj	Nucleotides	19.0	True
+M9	cauj	Cofactors	50.0	True
+M9	cauj	Fatty acids & Lipids	7.0	True
+M9	cauj	Cell wall components	20.0	True
+M9	cauj	Polyamines	3.0	True
+M9	cpi	Amino acids	24.0	True
+M9	cpi	Nucleotides	19.0	True
+M9	cpi	Cofactors	53.0	True
+M9	cpi	Fatty acids & Lipids	7.0	True
+M9	cpi	Cell wall components	19.0	True
+M9	cpi	Polyamines	2.0	True
+M9	cuvk	Amino acids	34.0	True
+M9	cuvk	Nucleotides	20.0	True
+M9	cuvk	Cofactors	50.0	True
+M9	cuvk	Fatty acids & Lipids	5.0	True
+M9	cuvk	Cell wall components	18.0	True
+M9	cuvk	Polyamines	4.0	True
+M9	cxy	Amino acids	29.0	True
+M9	cxy	Nucleotides	14.0	True
+M9	cxy	Cofactors	43.0	True
+M9	cxy	Fatty acids & Lipids	5.0	True
+M9	cxy	Cell wall components	20.0	True
+M9	cxy	Polyamines	3.0	True
+M9	dri	Amino acids	17.0	True
+M9	dri	Nucleotides	14.0	True
+M9	dri	Cofactors	50.0	True
+M9	dri	Fatty acids & Lipids	10.0	True
+M9	dri	Cell wall components	21.0	True
+M9	dri	Polyamines	2.0	True
+M9	flk	Amino acids	24.0	True
+M9	flk	Nucleotides	17.0	True
+M9	flk	Cofactors	49.0	True
+M9	flk	Fatty acids & Lipids	12.0	True
+M9	flk	Cell wall components	22.0	True
+M9	flk	Polyamines	1.0	True
+M9	lgu	Amino acids	24.0	True
+M9	lgu	Nucleotides	17.0	True
+M9	lgu	Cofactors	51.0	True
+M9	lgu	Fatty acids & Lipids	6.0	True
+M9	lgu	Cell wall components	21.0	True
+M9	lgu	Polyamines	7.0	True
+M9	lur	Amino acids	22.0	True
+M9	lur	Nucleotides	17.0	True
+M9	lur	Cofactors	50.0	True
+M9	lur	Fatty acids & Lipids	5.0	True
+M9	lur	Cell wall components	19.0	True
+M9	lur	Polyamines	4.0	True
+M9	mgk	Amino acids	32.0	True
+M9	mgk	Nucleotides	26.0	True
+M9	mgk	Cofactors	55.0	True
+M9	mgk	Fatty acids & Lipids	13.0	True
+M9	mgk	Cell wall components	24.0	True
+M9	mgk	Polyamines	1.0	True
+M9	mlot	Amino acids	22.0	True
+M9	mlot	Nucleotides	16.0	True
+M9	mlot	Cofactors	53.0	True
+M9	mlot	Fatty acids & Lipids	6.0	True
+M9	mlot	Cell wall components	14.0	True
+M9	mlot	Polyamines	0.0	True
+M9	pmor	Amino acids	21.0	True
+M9	pmor	Nucleotides	16.0	True
+M9	pmor	Cofactors	51.0	True
+M9	pmor	Fatty acids & Lipids	6.0	True
+M9	pmor	Cell wall components	19.0	True
+M9	pmor	Polyamines	2.0	True
+M9	pscf	Amino acids	30.0	True
+M9	pscf	Nucleotides	20.0	True
+M9	pscf	Cofactors	52.0	True
+M9	pscf	Fatty acids & Lipids	6.0	True
+M9	pscf	Cell wall components	18.0	True
+M9	pscf	Polyamines	2.0	True
+M9	pzu	Amino acids	30.0	True
+M9	pzu	Nucleotides	21.0	True
+M9	pzu	Cofactors	54.0	True
+M9	pzu	Fatty acids & Lipids	9.0	True
+M9	pzu	Cell wall components	20.0	True
+M9	pzu	Polyamines	1.0	True
+M9	racd	Amino acids	20.0	True
+M9	racd	Nucleotides	13.0	True
+M9	racd	Cofactors	53.0	True
+M9	racd	Fatty acids & Lipids	4.0	True
+M9	racd	Cell wall components	16.0	True
+M9	racd	Polyamines	6.0	True
+M9	rfa	Amino acids	23.0	True
+M9	rfa	Nucleotides	14.0	True
+M9	rfa	Cofactors	44.0	True
+M9	rfa	Fatty acids & Lipids	9.0	True
+M9	rfa	Cell wall components	17.0	True
+M9	rfa	Polyamines	2.0	True
+M9	tro	Amino acids	35.0	True
+M9	tro	Nucleotides	21.0	True
+M9	tro	Cofactors	50.0	True
+M9	tro	Fatty acids & Lipids	12.0	True
+M9	tro	Cell wall components	21.0	True
+M9	tro	Polyamines	0.0	True
+M9	vpe	Amino acids	19.0	True
+M9	vpe	Nucleotides	16.0	True
+M9	vpe	Cofactors	49.0	True
+M9	vpe	Fatty acids & Lipids	6.0	True
+M9	vpe	Cell wall components	19.0	True
+M9	vpe	Polyamines	1.0	True

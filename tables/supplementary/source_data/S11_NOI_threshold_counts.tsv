@@ -1,0 +1,5 @@
+selection	condition	n_pairs	threshold	total_directed_pairs
+pooled	Basal	343	0.75	380
+pooled	Conditioned	192	0.75	380
+optimal	Basal	132	0.75	380
+optimal	Conditioned	89	0.75	380

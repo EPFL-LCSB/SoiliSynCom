@@ -1,0 +1,55 @@
+class	panel	metabolite	source_name	display_name	producers	consumers	n_producers	n_consumers	n_triples
+Alcohols	A	C00469	Ethanol	Ethanol	rfa;cohm	mip	2	1	2
+Aldehydes	B	C00084	Acetaldehyde	Acetaldehyde	pmor;rfa;cohm	tro;lur;pscf	3	3	9
+Aldehydes	B	C00067	Formaldehyde	Formaldehyde	dri;pzu;lgu;lur;mgk;cohm	bbet;vpe;pmor;racd	6	4	24
+Aldehydes	B	C00546	Pyruvaldehyde	Pyruvaldehyde	racd;rfa;cohm	tro;vpe;lgu;lur;pmor;mip;cpi;flk;mgk	3	9	27
+Amides	C	C00499	allantoic acid	allantoic acid	rfa	pzu;tro	1	2	2
+Amides	C	C00086	Urea	Urea	pzu	lgu;lur;racd;mip;flk;mgk	1	6	6
+Amidines	D	C00179	Agmatine	Agmatine	lgu;rfa;cpi	bbet;mlot;tro;mip;mgk;cohm	3	6	18
+Amines	E	C01672	Cadaverine	Cadaverine	dri;pmor;cpi	bbet;lgu;cxy;mip;flk	3	5	15
+Amines	E	C01929	histidinal	histidinal	mlot;pzu;cohm	bbet;buol;vpe;pmor;racd;cuvk;cxy;mip;flk	3	9	27
+Amines	E	C00134	Putrescine	Putrescine	cauj;dri;pzu;tro;buol;cuvk;cxy;rfa;cpi;mgk;cohm	mip;flk	11	2	22
+Amines	E	C00315	Spermidine	Spermidine	cauj;mlot;lgu;lur;pmor;rfa;cpi;mgk	bbet;cuvk;mip	8	3	24
+Amines	E	C00986	trimethylenediamine	trimethylenediamine	mlot	bbet;mip;rfa;flk;mgk	1	5	5
+AminoAcids	F	C00431	5-aminovaleric acid	5-aminovaleric acid	dri;buol;vpe;pmor;racd;cpi;cohm	bbet;lgu	7	2	14
+AminoAcids	F	C00133	D-alanine	D-alanine	dri;mlot;pmor;rfa	pscf;flk	4	2	8
+AminoAcids	F	C00792	D-arginine	D-arginine	lgu;cxy	bbet;cauj;pzu;tro;racd;cuvk;mip;flk;cohm	2	9	18
+AminoAcids	F	C00402	D-Aspartic Acid	D-Aspartic Acid	racd	bbet;pmor;flk	1	3	3
+AminoAcids	F	C00739	D-lysine	D-lysine	dri;mlot;pmor	bbet;pscf;cuvk;cxy;mip;flk	3	6	18
+AminoAcids	F	C02265	D-phenylalanine	D-phenylalanine	cauj;pzu;racd;rfa;mgk	bbet;tro;buol;vpe;lur;cpi;flk	5	7	35
+AminoAcids	F	C00740	D-serine	D-serine	dri;pzu;tro;lur;pmor;cuvk;cxy;rfa;cpi;cohm	cauj;flk	10	2	20
+AminoAcids	F	C00820	D-threonine	D-threonine	pmor;cohm	bbet;pzu;flk	2	3	6
+AminoAcids	F	C00037	Glycine	Glycine	mlot;pmor	bbet;pscf;flk	2	3	6
+AminoAcids	F	C00263	Homoserine	Homoserine	vpe	bbet;pzu;pscf;rfa;flk;mgk;cohm	1	7	7
+AminoAcids	F	C00407	Isoleucine	Isoleucine	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;cxy;rfa;cpi;mgk;cohm	flk	14	1	14
+AminoAcids	F	C00047	Lysine	Lysine	dri;mlot;tro;lgu;pmor;racd;cpi	bbet;mip;flk	7	3	21
+AminoAcids	F	C00979	O-acetylserine	O-acetylserine	rfa;cohm	mip;flk	2	2	4
+AminoAcids	F	C00077	Ornithine	Ornithine	mlot	bbet;cuvk;flk;cohm	1	4	4
+AminoAcids	F	C00188	Threonine	Threonine	cauj;dri;tro;vpe;lur;pmor;cuvk;cxy;rfa;cohm	bbet;flk	10	2	20
+AminoAcids	F	C00078	Tryptophan	Tryptophan	cauj;dri;pzu;tro;cuvk;cxy;rfa;mgk;cohm	bbet;vpe;pmor;mip;flk	9	5	45
+AminoAcids	F	C00183	Valine	Valine	cauj;dri;pzu;tro;buol;lgu;lur;pmor;cuvk;cxy;cohm	flk	11	1	11
+Glycosides	G	C00360	2'-deoxy-5'-adenosine monophosphate	2'-deoxy-5'-adenosine monophosphate	pzu	bbet;vpe;pmor;mip;flk	1	5	5
+Glycosides	G	C00362	2'-deoxyguanosine 5'-phosphate	2'-deoxyguanosine 5'-phosphate	cauj;pzu	bbet;mlot;vpe;pmor;pscf;mip	2	6	12
+Glycosides	G	C00365	2'-deoxyuridylic acid	2'-deoxyuridylic acid	cauj;pzu;lur;rfa	bbet;vpe;pmor;mip;flk	4	5	20
+Glycosides	G	C01368	3'-uridylic acid	3'-uridylic acid	pzu	vpe;pscf;mip;flk	1	4	4
+Glycosides	G	C05822	Cytidine Monophosphate	Cytidine 3′-monophosphate	pzu;rfa	bbet;tro;buol;vpe;pmor;pscf;mip	2	7	14
+Glycosides	G	C00055	Cytidine Monophosphate	Cytidine Monophosphate	cauj	bbet;buol;vpe;pmor;mip;flk	1	6	6
+Glycosides	G	C00239	Deoxycytidine Monophosphate	Deoxycytidine Monophosphate	cauj;mlot	bbet;vpe;mip;flk	2	4	8
+Glycosides	G	C00364	Thymidine Monophosphate	Thymidine Monophosphate	cauj;dri;pzu;tro;buol;lgu;lur;cuvk;cxy;cpi;cohm	vpe;pmor;pscf;flk	11	4	44
+Glycosides	G	C00203	Uridine 5'-Diphospho-N-acetylgalactosamine	Uridine 5'-Diphospho-N-acetylgalactosamine	pzu;tro	bbet;mlot;pmor;cpi	2	4	8
+Glycosides	G	C00043	Uridine Diphosphate N-Acetylglucosamine	Uridine Diphosphate N-Acetylglucosamine	pzu;tro;buol	bbet;mlot;vpe;pmor;pscf;mip;cpi	3	7	21
+HeterocyclicCompounds	H	C00463	indole	indole	cauj;dri;mlot;cxy;mgk	bbet;mip;rfa;cpi;flk	5	5	25
+HeterocyclicCompounds	H	C00178	Thymine	Thymine	dri;buol;lgu;racd;cuvk;cxy;rfa	bbet;cauj;tro;pmor;cpi	7	5	35
+Hydrocarbons	I	C05123	Isethionic Acid	Isethionic Acid	flk	dri;mlot;tro;vpe;pmor;pscf;cuvk;cpi;mgk;cohm	1	10	10
+Hydrocarbons	I	C01438	Methane	Methane	pzu;tro	bbet;cauj;mlot;buol;lur;pmor;pscf;rfa	2	8	16
+Hydrocarbons	I	C00146	Phenol	Phenol	cpi;mgk	bbet;cauj;tro;buol;pmor;racd;cohm	2	7	14
+Hydrocarbons	I	C01455	Toluene	Toluene	cauj;tro;rfa	bbet;vpe;pmor;pscf	3	4	12
+Hydroxides	J	C01417	cyanic acid	cyanic acid	bbet	pmor;pscf	1	2	2
+Inorganics	K	C00011	Carbon Dioxide	Carbon Dioxide	pzu;buol;rfa;mgk;cohm	pmor;pscf;mip	5	3	15
+Inorganics	K	C00237	Carbon Monoxide	Carbon Monoxide	mgk	bbet;lgu	1	2	2
+Ketones	L	C01888	1-aminopropan-2-one	1-aminopropan-2-one	mlot;pmor	bbet;mip;cpi;flk	2	4	8
+Ketones	L	C00207	Acetone	Acetone	cuvk	bbet;tro;pmor;rfa	1	4	4
+Peptides	M	C00993	alanylalanine	alanylalanine	cauj;pzu;tro;buol;lgu;lur;cuvk;cxy;rfa;cpi;mgk	bbet;pmor;pscf;flk	11	4	44
+SulfurCompounds	N	C11499	(S)-3-sulfonatolactate(2-)	(S)-3-sulfonatolactate(2-)	cauj;tro;vpe;lur;pmor;mgk;cohm	mlot;pscf;cuvk;mip;cpi	7	5	35
+SulfurCompounds	N	C00580	dimethyl sulfide	dimethyl sulfide	pzu	bbet	1	1	1
+SulfurCompounds	N	C03089	S-methyl-5-thio-D-ribofuranose	S-methyl-5-thio-D-ribofuranose	pzu;cuvk	bbet;mlot	2	2	4
