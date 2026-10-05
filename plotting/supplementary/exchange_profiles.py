@@ -17,7 +17,7 @@ from matplotlib.patches import Patch, Rectangle
 from matplotlib.lines import Line2D
 from common import ROOT, EXTERNAL_DATA_ROOT, OUT, FIG, DATA, ORDER, COLORS, style, save, manifest, source_table, sha256
 
-BASE = ROOT / 'tables' / 'graphing' / 'DiMEs'
+BASE = ROOT / 'data' / 'graphing' / 'DiMEs'
 CODE = EXTERNAL_DATA_ROOT / 'Code' / 'Analysis' / 'DiMEs'
 WATER = 'C00001'
 MAIN_CLASSES = {'Sugars', 'CarboxylicAcids', 'Vitamins&Cofactors'}

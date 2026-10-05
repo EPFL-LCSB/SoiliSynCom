@@ -1,12 +1,14 @@
 # Analysis code
 
-The analysis modules retain the current top-level MATLAB scripts and Live
-Scripts for in-silico minimal media (iMM), DiMEs/niche-overlap work, and NIS
-biosynthetic comparisons. Generated enumerations, model copies, workspaces,
-logs, and bundled dependency repositories are excluded.
+We provide analysis modules for:
 
-Identical project-local helpers used by both iMM and DiMEs are stored once in
-`shared/`; `duplicate_files.tsv` records their original module aliases.
-Unmodified copied helpers from ReMIND/iMM and the MATLAB `issame` utility are
-not redistributed. Install the upstream dependencies described in each module
-README instead.
+- `imm/`: in-silico minimal-media calculations;
+- `dimes_noi/`: DiMEs enumeration, conditioned-media analysis, and niche
+  overlap;
+- `nis/`: core, extracellular, and biosynthetic-subnetwork similarity; and
+- `essentiality/`: links to the essentiality result data and plotting assets.
+
+We collect project-local functions used across iMM and DiMEs in `shared/`. The
+workflows use MATLAB, COBRA Toolbox, matTFA, ReMIND, NIS, redGEM, and compatible
+optimization solvers. We provide study inputs and result tables under
+[`data/`](../../data/).

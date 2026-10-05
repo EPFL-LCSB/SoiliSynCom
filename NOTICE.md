@@ -1,12 +1,7 @@
-# Third-party software and data notice
+# Software and data sources
 
-This repository contains selected first-party SoilSynCom research code. It
-does not redistribute the external toolboxes, solvers, or bulk reference
-databases used by the original workstation workflows.
-
-## External scientific software
-
-Depending on the workflow, the code refers to:
+We used the following scientific software and optimization tools in the
+SoilSynCom workflows:
 
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
 - [RAVEN Toolbox](https://github.com/SysBioChalmers/RAVEN)
@@ -19,28 +14,21 @@ Depending on the workflow, the code refers to:
 - [IBM ILOG CPLEX Optimization Studio](https://www.ibm.com/products/ilog-cplex-optimization-studio)
 - [Gurobi Optimizer](https://www.gurobi.com/)
 
-Install these projects from their official sources and follow their own
-license and citation requirements. Their source trees are not included here.
+Our Python notebooks use packages from the NumPy, SciPy, pandas, Matplotlib,
+Seaborn, Biopython, ETE Toolkit, Jupyter, openpyxl, and XlsxWriter ecosystems.
+Each software package retains its respective copyright, license, and citation
+terms.
 
-Python notebooks additionally use packages from the NumPy, SciPy, pandas,
-Matplotlib, Seaborn, Biopython, ETE Toolkit, Jupyter, openpyxl, and XlsxWriter
-ecosystems. Consult each package for its current license and installation
-instructions.
+The models and data use biological identifiers from resources including KEGG,
+ModelSEED, NCBI, and RAVEN. Access and reuse of these resources follow the
+terms established by their providers.
 
-## Databases and identifiers
+## Model filename interpretation
 
-Models and scripts may contain identifiers derived from KEGG, ModelSEED, NCBI,
-and other biological resources. No bulk KEGG or HMM database is distributed in
-this repository. Access to and reuse of external database content are governed
-by the respective provider's terms.
+The `cxy` and `lur` M9 models use xylose as their carbon source. Their exact
+medium and carbon-source assignments are recorded in
+`models/model_manifest.tsv`.
 
-## Retained historical filenames
-
-Some model filenames are retained so that they remain traceable to the
-manuscript analysis. In particular, `cxy` and `lur` M9 TFA filenames may refer
-to succinate even though those models use xylose. This is documented metadata,
-not a recommendation to infer experimental conditions from filenames alone.
-
-Any third-party copyright or license header already present in an adapted
-source file remains controlling for that file. Unless otherwise stated,
-first-party SoilSynCom software is licensed under GPL-3.0-only.
+Any third-party copyright or license header present in an adapted source file
+remains controlling for that file. We license first-party SoilSynCom software
+under GPL-3.0-only.

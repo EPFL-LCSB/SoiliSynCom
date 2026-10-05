@@ -70,7 +70,7 @@ def nis_ptyg():
     axes=[fig.add_axes(p) for p in [[.085,.575,.34,.345],[.50,.575,.34,.345],[.2925,.145,.34,.345]]]
     rows=[]
     for i,(fn,label) in enumerate(classes):
-        p=ROOT/f'tables/graphing/NIS/average_similarity_{fn}PTYG.xlsx'
+        p=ROOT/f'data/graphing/NIS/average_similarity_{fn}PTYG.xlsx'
         d=frame(p).loc[ORDER,ORDER]
         assert d.shape==(21,21) and np.allclose(d,d.T)
         for a in ORDER:
@@ -97,7 +97,7 @@ def nis_ptyg():
 
 
 def essentiality():
-    files={'PTYG':'tables/graphing/GeneEssentiality/EssentialityDataCategorizedAllPTYG.xlsx','M9':'tables/graphing/GeneEssentiality/EssentialityDataCategorizedAllSuccinate.xlsx'}
+    files={'PTYG':'data/graphing/GeneEssentiality/EssentialityDataCategorizedAllPTYG.xlsx','M9':'data/graphing/GeneEssentiality/EssentialityDataCategorizedAllSuccinate.xlsx'}
     categories=['Amino acids','Nucleotides','Cofactors','Fatty acids & Lipids','Cell wall components','Polyamines']
     genes={};bycat={};membership=[];summary=[]
     for med,path in files.items():

@@ -10,7 +10,7 @@ import pandas as pd
 
 HERE = Path(__file__).resolve().parent
 PROJECT_ROOT = HERE.parents[1]
-SOURCE = PROJECT_ROOT / "tables" / "graphing" / "GEMStats" / "GEMStats.xlsx"
+SOURCE = PROJECT_ROOT / "data" / "graphing" / "GEMStats" / "GEMStats.xlsx"
 OUTPUT_STEM = PROJECT_ROOT / "outputs" / "reconstruction_diagnostics" / "S05_diagnostics"
 
 sys.path.insert(0, str(PROJECT_ROOT))

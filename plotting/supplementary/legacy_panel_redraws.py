@@ -9,7 +9,7 @@ from pathlib import Path
 import os, sys, json, hashlib, re
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'outputs'/'supplementary_legacy_redraws'
-RAW=ROOT/'tables'/'graphing'/'DiMEs'
+RAW=ROOT/'data'/'graphing'/'DiMEs'
 os.environ['MPLCONFIGDIR']=str(OUT/'mpl_cache')
 import numpy as np
 import pandas as pd

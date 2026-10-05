@@ -25,9 +25,9 @@ GENUS = {'bbet':'Bradyrhizobium','cauj':'Caulobacter','dri':'Devosia','mlot':'Me
  'lgu':'Lysobacter','lur':'Luteibacter','pmor':'Pseudomonas 1','pscf':'Pseudomonas 2',
  'racd':'Rahnella','cuvk':'Curtobacterium','cxy':'Cellulomonas','mip':'Microbacterium',
  'rfa':'Rhodococcus','cpi':'Chitinophaga','flk':'Flavobacterium','mgk':'Mucilaginibacter','cohm':'Cohnella'}
-SUCC = ROOT/'tables/graphing/ExperimentalGrowthData/Senka_OD600_succinategrowth_pooleddata.xlsx'
-PTYG = ROOT/"tables/graphing/ExperimentalGrowthData/PTYG_OD600_21strain_Senka&Tania.xlsx"
-RESCUE = ROOT/'tables/graphing/ExperimentalValidation/MicroCohnella_MinRichMedia_0924.xlsx'
+SUCC = ROOT/'data/graphing/ExperimentalGrowthData/Senka_OD600_succinategrowth_pooleddata.xlsx'
+PTYG = ROOT/"data/graphing/ExperimentalGrowthData/PTYG_OD600_21strain_Senka&Tania.xlsx"
+RESCUE = ROOT/'data/graphing/ExperimentalValidation/MicroCohnella_MinRichMedia_0924.xlsx'
 GENOMES = EXTERNAL_DATA_ROOT/'Code/DraftModelReconstruction/Genomes'
 BATCH_STYLE = {'part1':'-', 'part2':(0,(5,2)), 'selected_strains_repeat':(0,(1.2,1.7))}
 BATCH_NAME = {'part1':'Original batch 1','part2':'Original batch 2','selected_strains_repeat':'Repeat batch'}

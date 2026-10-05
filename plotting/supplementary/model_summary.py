@@ -18,8 +18,8 @@ from xlsx_helpers import strict_xlsx_sheets as _strict_xlsx_sheets
 
 figures=[]
 audit=[]
-config=ROOT/'tables'/'supplementary'
-gpath=ROOT/'tables/graphing/GEMStats/GEMStats.xlsx'
+config=ROOT/'data'/'supplementary'
+gpath=ROOT/'data/graphing/GEMStats/GEMStats.xlsx'
 g=pd.read_excel(gpath,sheet_name='Sheet2').set_index('Models').loc[ORDER]
 m=pd.read_excel(gpath,sheet_name='Sheet4').set_index('Models').loc[ORDER]
 source_table(g.reset_index(),'S03_model_properties.tsv')
@@ -71,7 +71,7 @@ d=pd.DataFrame(records)
 cats=['TN','TP','FP','FN'];subs=sorted(set(d.condition)-{'PTYG'})+['PTYG']
 matrix=d.pivot(index='condition',columns='strain',values='category').loc[subs,ORDER]
 aggregate=pd.crosstab(d.strain,d.category).reindex(index=ORDER,columns=cats,fill_value=0)
-confpath=ROOT/'tables/graphing/ExperimentalGrowthData/SubstarateUtilization&ConfusionMetrics.xlsx'
+confpath=ROOT/'data/graphing/ExperimentalGrowthData/SubstarateUtilization&ConfusionMetrics.xlsx'
 reference=pd.read_excel(confpath,sheet_name='ConfusionMetrics').set_index('Model').loc[ORDER]
 assert np.array_equal(aggregate[cats].values,reference[cats].values)
 # The primary experimental workbook explicitly aligns names (row 2) to
@@ -180,7 +180,7 @@ p4=save(fig,'S04_quality_and_thermodynamics')
 figures.append(dict(number=4,title='Model quality and thermodynamic coverage',pages=[p4],sources=memfiles+[str(gpath.relative_to(ROOT)),str((config/'thermo_relaxations.tsv').relative_to(ROOT))],checks={'historical_reports':21,'memote_mean_percent':float(md.overall.mean()),'maximum_relaxed_reactions':int(ptyg.reaction_count.max())},caption='(A) Overall and category scores extracted from the 21 archived MEMOTE 0.14.0 reports. Annotation categories concern metabolites, reactions, genes and Systems Biology Ontology (SBO) terms. All scores use a common 0–100% scale; these historical reports describe the manuscript model generation. (B) Reported percentages of metabolites and reactions with thermodynamic data from the model-properties workbook. (C) Numbers of reactions whose thermodynamic constraints were relaxed in the archived PTYG models; labels give counts, not the magnitudes of relaxation. The corresponding M9 records are provided separately for the 19 strains with retained M9 results. Reaction identities, source workspaces and the documented cohm zero-relaxation correction are supplied with the data. These diagnostics describe model annotation and thermodynamic parameterization; they do not constitute experimental validation.'))
 
 # S5: retain recorded evidence, including blank scores.
-gfpath=ROOT/'tables/supplementary/GFUnified.xlsx';sheets=_strict_xlsx_sheets(gfpath);gr=[]
+gfpath=ROOT/'data/supplementary/GFUnified.xlsx';sheets=_strict_xlsx_sheets(gfpath);gr=[]
 for s in ORDER:
     rows=sheets[s];head=rows[0]
     for k,row in enumerate(rows[1:],2):
@@ -211,7 +211,7 @@ figures.append(dict(number=5,title='Recorded evidence for gap-filled reactions',
 audit.append({'analysis':'Gap-fill evidence counts','status':'source generations kept separate','details':'577 evidence entries; 545 scored, 32 unscored. Do not equate audit rows to final integrated gap-fill totals; lgu has conflicting stage-specific totals.'})
 
 # S6: audit exact retained row selection used by archived summary.
-ipath=ROOT/'tables/graphing/iMM/IMMDataNames_with_classification_and_stats.xlsx';ir=[];comp=[]
+ipath=ROOT/'data/graphing/iMM/IMMDataNames_with_classification_and_stats.xlsx';ir=[];comp=[]
 for s in ORDER:
     df=pd.read_excel(ipath,sheet_name=s+'_summary')
     vals=df.drop(columns=['Row'],errors='ignore')

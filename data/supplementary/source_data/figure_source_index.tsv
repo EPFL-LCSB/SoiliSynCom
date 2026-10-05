@@ -30,7 +30,7 @@ S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/flkMemo
 S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/mgkMemote.html
 S4	Model quality and thermodynamic information	Code/ModelCuration/MEMOTE/cohmMemote.html
 S4	Model quality and thermodynamic information	RawData/GEMStats/GEMStats.xlsx
-S4	Model quality and thermodynamic information	tables/supplementary/thermo_relaxations.tsv
+S4	Model quality and thermodynamic information	data/supplementary/thermo_relaxations.tsv
 S5	Evidence supporting gap-filling reactions	SoilSynCom_supmat/GFUnified.xlsx
 S6	Alternative nutrient combinations supporting modelled growth	RawData/iMM/IMMDataNames_with_classification_and_stats.xlsx
 S6	Alternative nutrient combinations supporting modelled growth	RawData/iMM/plot_imm_core_variable_heatmap.py

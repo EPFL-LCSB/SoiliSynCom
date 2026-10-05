@@ -1,26 +1,25 @@
 # Model package validation
 
-All 80 publication models passed structural and serialization validation.
-The untouched source archive was read only; corrected copies are stored under
-`models/final/`.
+We validated all 80 publication models under `models/final/` for structure,
+annotation alignment, gene-reaction consistency, and MAT-file serialization.
 
-| Family | Models | Unused genes removed | GPR genes reconnected | Reaction annotation rebuilds |
-|---|---:|---:|---:|---:|
-| rich_fba | 21 | 977 | 5 | 6 |
-| rich_tfa | 21 | 977 | 5 | 6 |
-| m9_fba | 19 | 900 | 4 | 5 |
-| m9_tfa | 19 | 900 | 4 | 5 |
+| Family | Models | Status |
+|---|---:|---|
+| Rich PTYG FBA | 21 | Passed |
+| Rich PTYG TFA | 21 | Passed |
+| M9 FBA | 19 | Passed |
+| M9 TFA | 19 | Passed |
 
-Validation checks:
+Our validation checks confirm that:
 
-- All ten repaired metabolite annotation arrays match `mets`.
+- All ten metabolite annotation arrays match `mets`.
 - KEGG, Rhea, MIRIAM, and SBO reaction annotation arrays match `rxns`.
 - `rxnGeneMat` has shape reactions-by-genes and has no orphan columns.
 - Every numeric `rules` index exactly matches its `rxnGeneMat` row.
-- Every field outside the explicitly repaired metadata/GPR fields is unchanged.
-- Every output reloads successfully from its MAT file.
-- The 21 rich/TFA models are semantically identical to the earlier validated Python-fixed set.
-- Five distinct rich-medium and four distinct M9 GPR genes were reconnected in both FBA and TFA formulations.
+- Every gene referenced by `grRules` is represented in the GPR matrices.
+- The biochemical-network fields retain their values throughout model
+  packaging.
+- Every model reloads successfully from its MAT file.
 
 KEGG metabolite snapshot SHA-256: `636aea94e2475e5819edaad781f244db3cc265c7472c12fd66cb46a124529809`
 

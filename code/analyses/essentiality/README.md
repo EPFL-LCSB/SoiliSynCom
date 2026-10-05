@@ -1,8 +1,10 @@
-# Essentiality
+# Gene essentiality
 
-The unaltered `Code` archive contains the retained essentiality result tables
-and thermodynamic model workspaces, but no distinct current first-party
-essentiality source script outside historical rescue material. No method was
-inferred or fabricated for this clean repository. The publication tables and
-plotting assets are provided in the corresponding `tables/` and `plotting/`
-directories.
+We provide the study-wide gene-essentiality results for rich PTYG and M9
+conditions in:
+
+- [`EssentialityDataCategorizedAllPTYG.xlsx`](../../../data/graphing/GeneEssentiality/EssentialityDataCategorizedAllPTYG.xlsx)
+- [`EssentialityDataCategorizedAllSuccinate.xlsx`](../../../data/graphing/GeneEssentiality/EssentialityDataCategorizedAllSuccinate.xlsx)
+
+We provide the corresponding figure notebook at
+[`Stats.ipynb`](../../../plotting/main/GeneEssentiality/Stats.ipynb).

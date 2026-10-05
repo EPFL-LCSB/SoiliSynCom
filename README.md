@@ -2,15 +2,15 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-Research code, curated genome-scale metabolic models, figures, and source data
-supporting the manuscript **“Genome-scale metabolic models for a synthetic
-soil microbial community as a path for understanding community functioning.”**
+We present the research code, experimental and computational data, curated
+genome-scale metabolic models, and publication figures supporting our
+manuscript **“Genome-scale metabolic models for a synthetic soil microbial
+community as a path for understanding community functioning.”**
 
-The study uses a species-resolved metabolic framework for a defined 21-member
-soil synthetic community. Manually curated genome-scale metabolic models are
-used to study growth phenotypes, minimal nutrient requirements, feasible
-uptake and secretion profiles, niche overlap, biosynthetic similarity, gene
-essentiality, and candidate metabolic exchanges.
+We use a species-resolved metabolic framework for a defined 21-member soil
+synthetic community to study growth phenotypes, minimal nutrient requirements,
+feasible uptake and secretion profiles, niche overlap, biosynthetic similarity,
+gene essentiality, and candidate metabolic exchanges.
 
 ![SoilSynCom study workflow](figures/main/Figure_2_Workflow.png)
 
@@ -18,79 +18,86 @@ essentiality, and candidate metabolic exchanges.
 
 | Path | Contents |
 |---|---|
-| [`models/`](models/) | 80 corrected final models and a checksum manifest |
-| [`code/reconstruction/`](code/reconstruction/) | Model reconstruction entry points and project helpers |
-| [`code/model_curation/`](code/model_curation/) | Manual curation scripts and the model-repair utility |
-| [`code/thermodynamic_conversion/`](code/thermodynamic_conversion/) | FBA-to-TFA conversion scripts |
-| [`code/analyses/`](code/analyses/) | iMM, DiMEs/NOI, NIS, and essentiality materials |
-| [`plotting/`](plotting/) | Cleaned manuscript notebooks and supplementary plotters |
-| [`figures/`](figures/) | Canonical main figures, Supplementary V5, and additional artwork |
-| [`tables/`](tables/) | Graphing data and Supplementary V5 source tables |
+| [`data/`](data/) | Experimental measurements, processed analysis data, graphing workbooks, and supplementary source tables |
+| [`models/`](models/) | 80 final FBA and TFA models with checksums and validation summaries |
+| [`code/reconstruction/`](code/reconstruction/) | Draft-model reconstruction and annotation code |
+| [`code/model_curation/`](code/model_curation/) | Strain-specific, phenotype-guided, and shared model-curation code |
+| [`code/thermodynamic_conversion/`](code/thermodynamic_conversion/) | FBA-to-TFA conversion workflows |
+| [`code/analyses/`](code/analyses/) | iMM, DiMEs/NOI, NIS, and essentiality analysis materials |
+| [`plotting/`](plotting/) | Manuscript notebooks and supplementary figure scripts |
+| [`figures/`](figures/) | Main figures, supplementary figures, previews, and editable artwork |
+
+## Data
+
+We provide the publication datasets under [`data/`](data/). The collection
+includes spreadsheets and delimited tables for the experimental measurements,
+model analyses, and figure source data used throughout the study.
+
+| Dataset group | Location | Contents |
+|---|---|---|
+| Growth phenotypes | [`data/graphing/ExperimentalGrowthData/`](data/graphing/ExperimentalGrowthData/) | PTYG and succinate growth measurements, BioLog plate-reader data, growth rates, and substrate-utilization summaries |
+| Experimental validation | [`data/graphing/ExperimentalValidation/`](data/graphing/ExperimentalValidation/) | Growth-validation measurements and processed community experiments |
+| Model properties | [`data/graphing/GEMStats/`](data/graphing/GEMStats/) | Genome-scale model statistics used in the manuscript figures |
+| Minimal media | [`data/graphing/iMM/`](data/graphing/iMM/) | iMM solutions, nutrient identities, classifications, and summary statistics |
+| DiMEs and niche overlap | [`data/graphing/DiMEs/`](data/graphing/DiMEs/) | Compound classifications, uptake/secretion profiles, conditioned-media results, and NOI matrices |
+| Biosynthetic similarity | [`data/graphing/NIS/`](data/graphing/NIS/) | Pairwise similarity matrices for amino acids, cofactors, lipids, and nucleotides |
+| Gene essentiality | [`data/graphing/GeneEssentiality/`](data/graphing/GeneEssentiality/) | Categorized essential-gene results for rich PTYG and M9 conditions |
+| Curation | [`data/graphing/Curation/`](data/graphing/Curation/) | Gap-filling and model-curation source tables |
+| Supplementary material | [`data/supplementary/`](data/supplementary/) | Source data for Supplementary V5 and Supplementary Table S1 |
+
+The data are supplied as XLSX, ODS, CSV, TSV, JSON, and Newick files so they
+can be inspected directly and used by the plotting and analysis code.
 
 ## Final model collection
 
-The MATLAB `.mat` collection contains four model families:
+We provide four MATLAB `.mat` model families:
 
 | Medium | Formulation | Folder | Models |
 |---|---|---|---:|
-| Rich/PTGY | FBA (short) | `models/final/rich/FBA_short` | 21 |
-| Rich/PTGY | TFA (long) | `models/final/rich/TFA_long` | 21 |
+| Rich PTYG | FBA (short) | `models/final/rich/FBA_short` | 21 |
+| Rich PTYG | TFA (long) | `models/final/rich/TFA_long` | 21 |
 | M9 | FBA (short) | `models/final/M9/FBA_short` | 19 |
 | M9 | TFA (long) | `models/final/M9/TFA_long` | 19 |
 
-The M9 set excludes `cohm` and `mip`. The `cxy` and `lur` M9 models use xylose
-as their carbon source even where retained historical TFA filenames mention
-succinate. File-level model type, medium, carbon source, dimensions, and
-SHA-256 checksums are recorded in
-[`models/model_manifest.tsv`](models/model_manifest.tsv).
-
-The public copies repair annotation-vector alignment and rebuild gene-reaction
-associations from the models' `grRules`. Scientific network content outside
-those targeted fields is unchanged. Earlier model generations are preserved
-separately by the authors and are not part of this repository.
+For the M9 collection, `cxy` and `lur` use xylose as their carbon source. The
+[`model manifest`](models/model_manifest.tsv) records the strain, medium,
+carbon source, formulation, dimensions, and SHA-256 checksum of every model.
+The [`validation summary`](models/VALIDATION.md) describes the annotation and
+gene-reaction consistency checks applied to the complete collection.
 
 ## Code and software
 
-The repository contains selected first-party research scripts used during
-model construction, curation, analysis, and figure preparation. It is a clean
-record of the code and publication assets supporting the study; it is **not a
-turnkey end-to-end reconstruction pipeline**. Several workflows depend on
-licensed solvers, external databases, and software versions configured on the
-original workstation.
+We organize the MATLAB, Python, and R code by scientific task. Reconstruction
+and curation scripts produce the strain-resolved GEMs; thermodynamic-conversion
+scripts construct the TFA formulations; the analysis modules implement iMM,
+DiMEs, niche-overlap, and NIS calculations; and the plotting notebooks connect
+the study datasets to the manuscript figures.
 
-Principal external tools include MATLAB, RAVEN, the COBRA Toolbox, matTFA,
-ReMIND, redGEM/redGEMX, NIS, NICEgame, IBM ILOG CPLEX, and Gurobi. Python
-plotting notebooks use common scientific packages including NumPy, pandas,
-SciPy, Matplotlib, Seaborn, Biopython, ETE Toolkit, and openpyxl. External
-packages are not vendored here; see [`NOTICE.md`](NOTICE.md) and the folder
-READMEs for context.
+The workflows use MATLAB, RAVEN, COBRA Toolbox, matTFA, ReMIND, redGEM/redGEMX,
+NIS, NICEgame, CPLEX, and Gurobi. Python figure code uses NumPy, pandas, SciPy,
+Matplotlib, Seaborn, Biopython, ETE Toolkit, openpyxl, and XlsxWriter. Links and
+attribution information are provided in [`NOTICE.md`](NOTICE.md).
 
-## Figures and tables
+## Figures
 
-- `figures/main` contains the eight canonical manuscript PDFs plus lightweight
-  PNG previews.
-- `figures/supplementary` contains all 31 current Supplementary V5 sheets in
-  PDF, editable SVG, and PNG.
-- `figures/additional` and `tables/graphing` retain the complete scientific
-  graph/table asset collection from the project graphing folder.
-- `tables/supplementary` contains the source tables used by Supplementary V5,
-  including the Supplementary Table S1 inputs.
-
-The canonical PDFs include final manual artwork assembly. Plotting code and
-editable assets document the underlying scientific panels but are not claimed
-to reproduce every Illustrator-level layout edit exactly.
+- [`figures/main/`](figures/main/) contains the eight manuscript figures as
+  publication PDFs with PNG previews.
+- [`figures/supplementary/`](figures/supplementary/) contains all 31
+  Supplementary V5 sheets in PDF, SVG, and PNG.
+- [`figures/additional/`](figures/additional/) contains the scientific graphs
+  and editable artwork associated with the project analyses.
 
 ## Citation
 
-Please cite the accompanying manuscript. Machine-readable software citation
-metadata and the complete author order are provided in
-[`CITATION.cff`](CITATION.cff). The article DOI will be added after assignment.
+Please cite the accompanying manuscript when using these models, data, or
+scripts. The complete author order and machine-readable citation metadata are
+provided in [`CITATION.cff`](CITATION.cff).
 
 ## License and contact
 
-First-party software in this repository is distributed under the
-[GNU General Public License v3.0 only](LICENSE). Third-party software and data
-remain subject to their respective terms; see [`NOTICE.md`](NOTICE.md).
+We distribute the first-party software under the
+[GNU General Public License v3.0 only](LICENSE). Software dependencies and data
+resources retain their respective licenses and terms.
 
-Requests for resources should be directed to Vassily Hatzimanikatis at
+For questions about the project, please contact Vassily Hatzimanikatis at
 <vassily.hatzimanikatis@epfl.ch>.

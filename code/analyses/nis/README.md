@@ -1,7 +1,9 @@
 # NIS biosynthetic analysis
 
-Current project scripts and Live Scripts for NIS core, extracellular, and
-biosynthetic-subnetwork comparisons. They depend on the external NIS, redGEM,
-matTFA, and COBRA Toolbox projects plus a compatible MILP solver. Reduced GEMs,
-copied final models, generated outputs, logs, and conflicted copies are not
-included here.
+We provide the project scripts and Live Scripts used for NIS core,
+extracellular, and biosynthetic-subnetwork comparisons. The workflows use NIS,
+redGEM, matTFA, COBRA Toolbox, and a compatible MILP solver.
+
+We provide the pairwise biosynthetic-similarity matrices for amino acids,
+cofactors, lipids, and nucleotides in the [`NIS data`](../../../data/graphing/NIS/)
+and [`supplementary source data`](../../../data/supplementary/source_data/).

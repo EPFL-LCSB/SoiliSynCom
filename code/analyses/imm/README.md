@@ -1,6 +1,9 @@
-# In-silico minimal media (iMM)
+# In-silico minimal media
 
-Current entrypoints and project adaptations for computing and inspecting
-in-silico minimal media. Required external software includes MATLAB, COBRA
-Toolbox, matTFA, ReMIND-compatible functions, and CPLEX or Gurobi. Models and
-large intermediate directionality-profile matrices are not stored here.
+We provide the MATLAB entry points and project functions used to compute and
+inspect in-silico minimal media. The workflow uses MATLAB, COBRA Toolbox,
+matTFA, ReMIND-compatible functions, and CPLEX or Gurobi.
+
+We provide the iMM solutions, nutrient identifiers, classifications, and
+summary statistics in the [`iMM data`](../../../data/graphing/iMM/) and
+[`supplementary source data`](../../../data/supplementary/source_data/).

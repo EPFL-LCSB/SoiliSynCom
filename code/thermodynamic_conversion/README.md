@@ -1,11 +1,10 @@
 # Thermodynamic conversion
 
-The retained Live Scripts convert the curated rich/PTGY and M9 FBA models to
-matTFA structures, apply the recorded model-specific corrections, and update
-gene identifiers. Companion MATLAB functions and the R summary notebook are
-included where they were part of the current conversion directory.
+We provide the Live Scripts used to convert the curated rich PTYG and M9 FBA
+models into matTFA structures, apply the recorded model-specific corrections,
+and update gene identifiers. Companion MATLAB functions and the R summary
+notebook support the conversion and quality summaries.
 
-Large workspaces, converted model binaries, thermodynamic databases, solver
-reports, plots, temporary files, and the scratch `test.mlx` notebook are not
-duplicated here. The scripts require matTFA, COBRA Toolbox, CPLEX-compatible
-solver support, and the thermodynamic input data referenced by the notebooks.
+The workflows use matTFA, COBRA Toolbox, thermodynamic parameter data, and a
+CPLEX-compatible solver. The resulting TFA models are provided under
+`models/final/rich/TFA_long/` and `models/final/M9/TFA_long/`.
