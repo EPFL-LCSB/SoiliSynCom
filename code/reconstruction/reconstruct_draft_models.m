@@ -1,20 +1,28 @@
-function reconstruct_draft_models(inputRoot, outputRoot)
+function reconstruct_draft_models(inputRoot, outputRoot, keggOutputRoot)
 %RECONSTRUCT_DRAFT_MODELS Build the 21 SoilSynCom draft GEMs with RAVEN.
 %
-% inputRoot must contain FAAs/ and KEGG_OUTPUTs/ from the source archive.
-% The e-value threshold and scoring arguments reproduce the retained
-% reconstruction commands. Each MAT file stores a variable named by its
-% strain identifier.
+% inputRoot contains the bundled FAAs/. keggOutputRoot contains the retained
+% KEGG search-output folders (BBET, BUOL, ...). The e-value threshold and
+% scoring arguments reproduce the retained reconstruction commands. Each MAT
+% file stores a variable named by its strain identifier.
+
+paths = soilSynComPaths();
 
 if nargin < 1 || isempty(inputRoot)
-    inputRoot = getenv('SOILSYNCOM_RECONSTRUCTION_INPUT_ROOT');
+    inputRoot = paths.reconstructionSequences;
 end
 if nargin < 2 || isempty(outputRoot)
-    outputRoot = fullfile(pwd, 'draft_models');
+    outputRoot = fullfile(paths.outputRoot, 'draft_models');
 end
-if isempty(inputRoot)
-    error(['Provide inputRoot or set SOILSYNCOM_RECONSTRUCTION_INPUT_ROOT. ' ...
-        'The large FASTA and KEGG-search inputs are not distributed here.']);
+if nargin < 3 || isempty(keggOutputRoot)
+    keggOutputRoot = getenv('SOILSYNCOM_KEGG_OUTPUT_ROOT');
+end
+if isempty(keggOutputRoot) && ~isempty(paths.archiveRoot)
+    keggOutputRoot = fullfile(paths.archiveRoot, 'reconstruction', 'KEGG_OUTPUTs');
+end
+if isempty(keggOutputRoot) || ~isfolder(keggOutputRoot)
+    error(['Provide keggOutputRoot or set SOILSYNCOM_KEGG_OUTPUT_ROOT to ' ...
+        'the extracted KEGG_OUTPUTs directory.']);
 end
 if ~isfolder(outputRoot)
     mkdir(outputRoot);
@@ -41,13 +49,13 @@ models = {
     'racd', 'rahnella_cdc.fasta',            'RACD';
     'rfa',  'rh_fascians.fasta',             'RFA';
     'tro',  'ta_robiniae.fasta',             'TRO';
-    'vpe',  'var_paradoxus.fasta',           'VPE'
+    'vpe',  'v_paradoxus_eps.fasta',         'VPE'
 };
 
 for index = 1:size(models, 1)
     strain = models{index, 1};
     fasta = fullfile(inputRoot, 'FAAs', models{index, 2});
-    keggOutput = fullfile(inputRoot, 'KEGG_OUTPUTs', models{index, 3}, 'kegg_output');
+    keggOutput = fullfile(keggOutputRoot, models{index, 3}, 'kegg_output');
     draft = getKEGGModelForOrganism( ...
         strain, fasta, 'dataDir', keggOutput, 0, 0, 0, 1e-20, 0.8, 0.3, -1);
     payload = struct();

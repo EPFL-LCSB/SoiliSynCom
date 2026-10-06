@@ -1,46 +1,38 @@
 % .. Author:
 % Anush Chiappino-Pepe 2018
 % Evangelia Vayena 2023
-addpath(genpath('${GUROBI_ROOT}'));
-addpath(genpath('${CPLEX_ROOT}'));
-addpath(genpath('${COBRA_ROOT}'));
-% addpath(genpath('${RAVEN_ROOT}'));
+paths = soilSynComPaths();
+addSoilSynComDependencies(paths);
 initCobraToolbox();
-cd '${SOILSYNCOM_DATA_ROOT}/DiMEs'
-% addpath(genpath('~/Documents/annotator'));
-%addpath(genpath('${SOILSYNCOM_PROJECT_ROOT}/FunctionsHub'));
-addpath(genpath('~/Dropbox/iSynComSoil/Evangelia/gapfillingRepo/gapfilling'));
-addpath(genpath('./remind'));
-addpath(genpath('${MATTFA_ROOT}'))%adding matTFA to matlab, i already
 changeCobraSolver('cplex_direct');
-saving_directory = '${SOILSYNCOM_DATA_ROOT}/DiMEs/DiMEs_output/FullAlternatives/';
-load('GrowthRates.mat');
-load('MetabolomicsPool.mat');
-if ~isdir(saving_directory)
+saving_directory = [fullfile(paths.outputRoot, 'DiMEs', 'FullAlternatives') filesep];
+load(fullfile(paths.dimes, 'GrowthRates.mat'));
+load(fullfile(paths.dimes, 'MetabolomicsPool.mat'));
+if ~isfolder(saving_directory)
     mkdir(saving_directory)
 end
 tagThermo=0
-Models{1}=load('./Models/ThermobbetPTYGVitconstrained.mat').ttmodel_bbet;
-Models{5}=load('./Models/ThermobuolPTYGVitconstrained.mat').ttmodel_buol;
-Models{3}=load('./Models/ThermocaujPTYGVitconstrained.mat').ttmodel_cauj;
-Models{4}=load('./Models/ThermocohmPTYGVitconstrained.mat').ttmodel_cohm;
-Models{2}=load('./Models/ThermocpiPTYGVitconstrained.mat').ttmodel_cpi;
-Models{6}=load('./Models/ThermocuvkPTYGVitconstrained.mat').ttmodel_cuvk;
-Models{7}=load('./Models/ThermocxyPTYGVitconstrained.mat').ttmodel_cxy;
-Models{8}=load('./Models/ThermodriPTYGVitconstrained.mat').ttmodel_dri;
-Models{9}=load('./Models/ThermoflkPTYGVitconstrained.mat').ttmodel_flk;
-Models{10}=load('./Models/ThermolguPTYGVitconstrained.mat').ttmodel_lgu;
-Models{11}=load('./Models/ThermolurPTYGVitconstrained.mat').ttmodel_lur;
-Models{12}=load('./Models/ThermomgkPTYGVitconstrained.mat').ttmodel_mgk;
-Models{13}=load('./Models/ThermomipPTYGVitconstrained.mat').ttmodel_mip;
-Models{14}=load('./Models/ThermomlotPTYGVitconstrained.mat').ttmodel_mlot;
-Models{15}=load('./Models/ThermopmorPTYGVitconstrained.mat').ttmodel_pmor;
-Models{16}=load('./Models/ThermopscfPTYGVitconstrained.mat').ttmodel_pscf;
-Models{17}=load('./Models/ThermopzuPTYGVitconstrained.mat').ttmodel_pzu;
-Models{18}=load('./Models/ThermoracdPTYGVitconstrained.mat').ttmodel_racd;
-Models{19}=load('./Models/ThermorfaPTYGVitconstrained.mat').ttmodel_rfa;
-Models{20}=load('./Models/ThermotroPTYGVitconstrained.mat').ttmodel_tro;
-Models{21}=load('./Models/ThermovpePTYGVitconstrained.mat').ttmodel_vpe;
+Models{1}=load(fullfile(paths.models.richTFA, 'ThermobbetPTYGVitconstrained.mat')).ttmodel_bbet;
+Models{5}=load(fullfile(paths.models.richTFA, 'ThermobuolPTYGVitconstrained.mat')).ttmodel_buol;
+Models{3}=load(fullfile(paths.models.richTFA, 'ThermocaujPTYGVitconstrained.mat')).ttmodel_cauj;
+Models{4}=load(fullfile(paths.models.richTFA, 'ThermocohmPTYGVitconstrained.mat')).ttmodel_cohm;
+Models{2}=load(fullfile(paths.models.richTFA, 'ThermocpiPTYGVitconstrained.mat')).ttmodel_cpi;
+Models{6}=load(fullfile(paths.models.richTFA, 'ThermocuvkPTYGVitconstrained.mat')).ttmodel_cuvk;
+Models{7}=load(fullfile(paths.models.richTFA, 'ThermocxyPTYGVitconstrained.mat')).ttmodel_cxy;
+Models{8}=load(fullfile(paths.models.richTFA, 'ThermodriPTYGVitconstrained.mat')).ttmodel_dri;
+Models{9}=load(fullfile(paths.models.richTFA, 'ThermoflkPTYGVitconstrained.mat')).ttmodel_flk;
+Models{10}=load(fullfile(paths.models.richTFA, 'ThermolguPTYGVitconstrained.mat')).ttmodel_lgu;
+Models{11}=load(fullfile(paths.models.richTFA, 'ThermolurPTYGVitconstrained.mat')).ttmodel_lur;
+Models{12}=load(fullfile(paths.models.richTFA, 'ThermomgkPTYGVitconstrained.mat')).ttmodel_mgk;
+Models{13}=load(fullfile(paths.models.richTFA, 'ThermomipPTYGVitconstrained.mat')).ttmodel_mip;
+Models{14}=load(fullfile(paths.models.richTFA, 'ThermomlotPTYGVitconstrained.mat')).ttmodel_mlot;
+Models{15}=load(fullfile(paths.models.richTFA, 'ThermopmorPTYGVitconstrained.mat')).ttmodel_pmor;
+Models{16}=load(fullfile(paths.models.richTFA, 'ThermopscfPTYGVitconstrained.mat')).ttmodel_pscf;
+Models{17}=load(fullfile(paths.models.richTFA, 'ThermopzuPTYGVitconstrained.mat')).ttmodel_pzu;
+Models{18}=load(fullfile(paths.models.richTFA, 'ThermoracdPTYGVitconstrained.mat')).ttmodel_racd;
+Models{19}=load(fullfile(paths.models.richTFA, 'ThermorfaPTYGVitconstrained.mat')).ttmodel_rfa;
+Models{20}=load(fullfile(paths.models.richTFA, 'ThermotroPTYGVitconstrained.mat')).ttmodel_tro;
+Models{21}=load(fullfile(paths.models.richTFA, 'ThermovpePTYGVitconstrained.mat')).ttmodel_vpe;
 % 
 % Models = {'ttmodel_bbet', 'ttmodel_buol', 'ttmodel_cauj', 'ttmodel_cohm', ...
 %          'ttmodel_cpi', 'ttmodel_cuvk', 'ttmodel_cxy', 'ttmodel_dri', 'ttmodel_flk', ...
@@ -241,11 +233,12 @@ end
 function generateSummaryTables(model_p)
 %Define the parsimonious values we used
 modeldescription=model_p.id;
+paths = soilSynComPaths();
 
 rowsP=[];
 rowsS=[];
 rownames={};
-saving_directory = '${SOILSYNCOM_DATA_ROOT}/DiMEs/DiMEs_output/FullAlternatives/';
+saving_directory = [fullfile(paths.outputRoot, 'DiMEs', 'FullAlternatives') filesep];
 load(strcat(saving_directory,modeldescription,'_unique_active.mat'))
 Drains = Drains';
 for i = 1:size(Active,2)

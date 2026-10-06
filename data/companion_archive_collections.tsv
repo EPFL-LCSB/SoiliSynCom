@@ -1,0 +1,15 @@
+source_archive_path	category	size_bytes	file_count	status	archive_path	notes
+Code/DraftModelReconstruction/keggdb	KEGG source database	28137229808	14	provider-managed source collection		KEGG-derived reconstruction database indexed for licensed provider access.
+Code/DraftModelReconstruction/KEGG_OUTPUTs	KEGG search outputs	1489892938	125234	provider-managed source collection		Organism-specific KEGG search outputs indexed for licensed provider access.
+Code/DraftModelReconstruction/prok90_kegg105.zip	RAVEN KEGG HMM snapshot	137903236	1	provider-managed source file		Versioned reconstruction snapshot indexed for licensed provider access.
+Code/DraftModelReconstruction/prok100_kegg94.zip	RAVEN KEGG HMM snapshot	125328674	1	provider-managed source file		Historical reconstruction snapshot indexed for licensed provider access.
+Code/FunctionsHub/gapfillingRepo/databases/keggModel.mat	KEGG gap-filling database	75390503	1	provider-managed source file		Gap-filling resource indexed for licensed provider access.
+Code/FunctionsHub/gapfillingRepo/databases/keggModel_2018.mat	KEGG gap-filling database	38157426	1	provider-managed source file		Historical gap-filling resource indexed for licensed provider access.
+Code/Analysis/DiMEs/DiMEs_output	DiMEs enumerations	82806621388	3755	indexed source collection		Full enumerated alternative solutions.
+Code/Analysis/iMMs/imm_output	iMM enumerations	15184902546	721	indexed source collection		Full minimal-media enumeration results.
+Code/Analysis/NIS/output	NIS generated output	43793980030	2761	indexed source collection		Core and biosynthetic-network analysis outputs.
+Code/Analysis/iMMs/Workspace.mat	iMM workspace	7070822548	1	indexed source file		Retained MATLAB workspace.
+Code/ModelCuration/$ThermoConversionHub/WorkspaceBBBEssentialityPTYG.mat	PTYG essentiality workspace	118694379	1	indexed source file		Retained MATLAB workspace.
+Code/ModelCuration/$ThermoConversionHub/WorkspaceBBBEssentialitySuccinate.mat	M9 essentiality workspace	108398892	1	indexed source file		Retained MATLAB workspace.
+Code/ModelCuration/$ThermoConversionHub/WorkspacePTYGFinal.mat	PTYG conversion workspace	117698152	1	indexed source file		Retained MATLAB workspace.
+Code/ModelCuration/$ThermoConversionHub/WorkspaceSuccinateFinal.mat	M9 conversion workspace	107891469	1	indexed source file		Retained MATLAB workspace.

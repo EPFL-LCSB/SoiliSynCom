@@ -7,3 +7,5 @@ matTFA, ReMIND-compatible functions, and CPLEX or Gurobi.
 We provide the iMM solutions, nutrient identifiers, classifications, and
 summary statistics in the [`iMM data`](../../../data/graphing/iMM/) and
 [`supplementary source data`](../../../data/supplementary/source_data/).
+The nutrient pools and experimental growth-rate constraints are under
+[`data/workflow_inputs/analyses/imm/`](../../../data/workflow_inputs/analyses/imm/).

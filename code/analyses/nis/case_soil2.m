@@ -1,10 +1,11 @@
 function [OriginalGEM, GEMmodel, core_ss, Biomass_rxns, met_pairs_to_remove, InorgMetSEEDIDs, BBBsToExclude, ExtraCellSubsystem, OxPhosSubsystem,InorganicMetID] = ...
-    case_nis(GEMname, ZeroZeroGEMbounds, ListForInorganicMets, ListForCofactorPairs, SelectedSubsystems, AddExtracellularSubsystem, DB_AlbertyUpdate)
+    case_soil2(GEMname, ZeroZeroGEMbounds, ListForInorganicMets, ListForCofactorPairs, SelectedSubsystems, AddExtracellularSubsystem, DB_AlbertyUpdate)
 
 % Model Specific Settings:
 fprintf(strcat('Loading the GEM for'," ",GEMname, '...\n'))
 
-GEMmodel = load(['./GEMs/M9/',GEMname]);
+paths = soilSynComPaths();
+GEMmodel = load(fullfile(paths.models.m9TFA, GEMname));
 fields = fieldnames(GEMmodel); % Get all field names
 %if there is thermo structure prefer it
 GEMmodel=GEMmodel.(fields{1});
@@ -142,7 +143,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if strcmp(ListForInorganicMets,'curated')
     % load curated list from mat-file
-    InorgMetSEEDIDs_curated = load('~/NIS/inorganic150109.mat');
+    InorgMetSEEDIDs_curated = load(fullfile(paths.nis, 'inorganic150109.mat'));
     InorgMetSEEDIDs_curated = InorgMetSEEDIDs_curated.inorganic;
     InorgMetSEEDIDs = InorgMetSEEDIDs_curated;
 elseif strcmp(ListForInorganicMets,'automatic')
@@ -156,7 +157,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if strcmp(ListForCofactorPairs,'curated')
     % load curated list from mat-file
-        met_pairs_to_remove = load('met_pairs_to_remove_KEGG.mat');
+        met_pairs_to_remove = load(fullfile(paths.nis, 'met_pairs_to_remove_KEGG.mat'));
     met_pairs_to_remove = met_pairs_to_remove.met_pairs_to_remove;
 elseif strcmp(ListForCofactorPairs,'automatic')
     % Call function to calculate the lost of cofactor pairs

@@ -1,11 +1,12 @@
 function generateSummaryTables(model_p)
 %Define the parsimonious values we used
 modeldescription=model_p.id;
+paths = soilSynComPaths();
 
 rowsP=[];
 rowsS=[];
 rownames={};
-saving_directory = '${SOILSYNCOM_DATA_ROOT}/DiMEs/DiMEs_output/';
+saving_directory = [fullfile(paths.outputRoot, 'DiMEs') filesep];
 load(strcat(saving_directory,modeldescription,'_unique_active.mat'))
 Drains = Drains';
 for i = 1:size(Active,2)

@@ -1,7 +1,7 @@
 function get_nisExtracellular
-% go to nis/runFiles to run this function
-cd ../
-cd ./GEMs
+paths = soilSynComPaths();
+% Load the final rich-medium TFA collection.
+cd(paths.models.richTFA)
 
 % here you can give a list of GEM names
 %names = {'Snodgrassella_alvi','Gilliamella_apicola'};
@@ -14,8 +14,8 @@ end
 % make sure to keep only mat files
 names = names(contains(names,'.mat'));
 names = strrep(names,'.mat','');
-cd ../
-addpath(genpath('./'))
+cd(fileparts(mfilename('fullpath')))
+addpath(genpath(fileparts(mfilename('fullpath'))))
 
 for i = 1: length(names)
  %check where it is saved
@@ -60,12 +60,11 @@ for i = 1: length(names)
         'TimeLimitForSolver',                 'yes'                                  ,... % yes, no
         'CplexParameters',                    'LCSBDefault'                          ,... % CplexDefault, LCSBDefault
         ....%paths to folders
-        'CPLEX_PATH',                         '/Applications/CPLEX_Studio1210/cplex/matlab'                        ,... %provide path to CPLEX
-        'TFA_PATH',                           '${MATTFA_ROOT}'                      ,... %provide path to matTFA
-        'thermo_data_PATH',                   strcat('./matFiles/thermo_data.mat')  ,...% Provide the path to the thermodynamic data (including the file name)
-        'redGEM_PATH',                         '${REDGEM_ROOT}'                      ,... %provide path to redGEM
-        'nis_PATH',                         '${NIS_ROOT}/'                      ,... %provide path to NIS
-        'output_PATH',                        strcat('./output/',names{i},'_D0_EX'));                              % provide output path where the files will be saved
+        'CPLEX_PATH',                         paths.external.CPLEX                    ,... %provide path to CPLEX
+        'TFA_PATH',                           paths.external.matTFA                   ,... %provide path to matTFA
+        'thermo_data_PATH',                   paths.thermoData                        ,...% Provide the path to the thermodynamic data (including the file name)
+        'redGEM_PATH',                        paths.external.redGEM                   ,... %provide path to redGEM
+        'nis_PATH',                           paths.external.NIS                      ,... %provide path to NIS
+        'output_PATH',                        fullfile(paths.outputRoot, 'NIS', [names{i} '_D0_EX']));             % provide output path where the files will be saved
      nisExtracellular(paramNISextra);
 end
-

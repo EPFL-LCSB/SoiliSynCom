@@ -1,21 +1,16 @@
 %% Setting up the paths, solver and preparing the model for ReMIND
 clear
 clc
+paths = soilSynComPaths();
 
 % Provide path to folder where your results will be saved
-saving_directory = './ime_output';
-if ~isdir(saving_directory)
+saving_directory = [fullfile(paths.outputRoot, 'iME') filesep];
+if ~isfolder(saving_directory)
     mkdir(saving_directory)
 end
 
-%add paths
-%ReMIND_directory =  '${REMIND_ROOT}/';
-ReMIND_directory =  '${REMIND_ROOT}/';
-mattfa_directory = '/yourPATH';
-cplex_directory =  '/yourPATH';
-addpath(genpath(ReMIND_directory));
-addpath(genpath(mattfa_directory));
-addpath(genpath(cplex_directory));
+% Add configured scientific software.
+addSoilSynComDependencies(paths);
 changeCobraSolver('cplex_direct');
 
 % Tag true to apply phenomapping with TFA (thermodynamic constraints will
@@ -25,9 +20,7 @@ tagThermo = 0;
 % Prepare model for phenomapping
 %load model and thermo data
 %modelDescription = 'myModel';
-%modelPath = '${SOILSYNCOM_PROJECT_ROOT}/bbet_PTYG.mat';
-modelPath = '${SOILSYNCOM_DATA_ROOT}/cuvk_PTYG.mat';
-% modeldescription = strrep(modelPath,'/yourPATH/matReMIND/models/','');
+modelPath = fullfile(paths.models.richTFA, 'ThermocuvkPTYGVitconstrained.mat');
 % modeldescription = strrep(modeldescription,'.mat','');
 modeldescription = 'cuvk';
 load(modelPath)
@@ -83,8 +76,7 @@ growthRate = 0.26;
 if tagThermo ==  0
     [model, checkList, tagReady] = initDiMEsModel(model,'',tagThermo);
 else
-    % this is the thermo database included in the mattfa toolbox
-    thermo_data_directory = '/yourPATH/mattfa/thermoDatabases/thermo_data.mat';
+    thermo_data_directory = paths.thermoData;
     thermo_data = load(thermo_data_directory);
     thermo_data = thermo_data.DB_AlbertyUpdate;
     [model, checkList, tagReady] = initDiMEsModel(model,thermo_data,tagThermo);

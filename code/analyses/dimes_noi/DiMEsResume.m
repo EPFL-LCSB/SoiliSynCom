@@ -1,7 +1,7 @@
-addpath(genpath('./remind'));
-addpath(genpath('${MATTFA_ROOT}'))%adding matTFA to matlab, i already
+paths = soilSynComPaths();
+addSoilSynComDependencies(paths);
 changeCobraSolver('cplex_direct');
-saving_directory = './DiMEs_output/';
+saving_directory = [fullfile(paths.outputRoot, 'DiMEs') filesep];
 Models = {'ttmodel_bbet', 'ttmodel_buol', 'ttmodel_cauj', 'ttmodel_cohm', ...
     'ttmodel_cpi', 'ttmodel_cuvk', 'ttmodel_cxy', 'ttmodel_dri', 'ttmodel_flk', ...
     'ttmodel_lgu', 'ttmodel_lur', 'ttmodel_mgk', 'ttmodel_mlot', ...
@@ -74,5 +74,5 @@ filename = strcat(modeldescription,'_PhenoMappingExchanges');
     
     % Get unique solutions and prepare the input for the ILP step of ReMIND
     getUniqueSol(p,modeldescription,saving_directory)
-    run GenerateSummaryTables.m
+    generateSummaryTables(r1.model_p)
 end

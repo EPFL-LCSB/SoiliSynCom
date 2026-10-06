@@ -61,7 +61,8 @@ if (nargin < 7)
     rxnNoThermo = model.rxns;
 end
 if (nargin < 8)
-    ReactionDB = load('thermo_data.mat');
+    paths = soilSynComPaths();
+    ReactionDB = load(paths.thermoData);
     ReactionDB = ReactionDB.DB_AlbertyUpdate;
 end
 if (nargin < 9)

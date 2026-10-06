@@ -18,7 +18,7 @@ gene essentiality, and candidate metabolic exchanges.
 
 | Path | Contents |
 |---|---|
-| [`data/`](data/) | Experimental measurements, processed analysis data, graphing workbooks, and supplementary source tables |
+| [`data/`](data/) | Compact workflow inputs, processed analysis data, graphing workbooks, supplementary source tables, and package manifests |
 | [`models/`](models/) | 80 final FBA and TFA models with checksums and validation summaries |
 | [`code/reconstruction/`](code/reconstruction/) | Draft-model reconstruction and annotation code |
 | [`code/model_curation/`](code/model_curation/) | Strain-specific, phenotype-guided, and shared model-curation code |
@@ -29,12 +29,15 @@ gene essentiality, and candidate metabolic exchanges.
 
 ## Data
 
-We provide the publication datasets under [`data/`](data/). The collection
-includes spreadsheets and delimited tables for the experimental measurements,
-model analyses, and figure source data used throughout the study.
+We organize compact scientific inputs and publication datasets under
+[`data/`](data/), with larger source data and computational assets in the
+companion Zenodo package. Together they cover thermodynamic data, medium and
+curation definitions, genome and protein FASTA files, analysis inputs,
+experimental measurements, processed model analyses, and figure source data.
 
 | Dataset group | Location | Contents |
 |---|---|---|
+| Workflow inputs | [`data/workflow_inputs/`](data/workflow_inputs/) | Compact thermodynamic annotations, media, curation tasks, DiMEs/iMM/NIS inputs, reconstruction metadata, and the GitHub/Zenodo checksum manifest |
 | Growth phenotypes | [`data/graphing/ExperimentalGrowthData/`](data/graphing/ExperimentalGrowthData/) | PTYG and succinate growth measurements, BioLog plate-reader data, growth rates, and substrate-utilization summaries |
 | Experimental validation | [`data/graphing/ExperimentalValidation/`](data/graphing/ExperimentalValidation/) | Growth-validation measurements and processed community experiments |
 | Model properties | [`data/graphing/GEMStats/`](data/graphing/GEMStats/) | Genome-scale model statistics used in the manuscript figures |
@@ -45,8 +48,16 @@ model analyses, and figure source data used throughout the study.
 | Curation | [`data/graphing/Curation/`](data/graphing/Curation/) | Gap-filling and model-curation source tables |
 | Supplementary material | [`data/supplementary/`](data/supplementary/) | Source data for Supplementary V5 and Supplementary Table S1 |
 
-The data are supplied as XLSX, ODS, CSV, TSV, JSON, and Newick files so they
-can be inspected directly and used by the plotting and analysis code.
+The data are supplied as MAT, FASTA, XLSX, ODS, CSV, TSV, JSON, and Newick
+files. [`input_manifest.tsv`](data/workflow_inputs/input_manifest.tsv) records
+the role, package, package path, original archive location, size, and SHA-256
+checksum of every workflow input.
+
+The [`companion archive manifest`](data/companion_archive_manifest.tsv) and
+[`collection index`](data/companion_archive_collections.tsv) catalogue the
+Zenodo package: genome and protein sequences, raw experimental workbooks, the
+full thermodynamic database, essentiality inputs, generated-analysis assets,
+and source indexes for provider-managed reconstruction and gap-filling data.
 
 ## Final model collection
 
@@ -72,6 +83,11 @@ and curation scripts produce the strain-resolved GEMs; thermodynamic-conversion
 scripts construct the TFA formulations; the analysis modules implement iMM,
 DiMEs, niche-overlap, and NIS calculations; and the plotting notebooks connect
 the study datasets to the manuscript figures.
+
+The MATLAB helper [`soilSynComPaths.m`](code/soilSynComPaths.m) resolves the
+repository and Zenodo data folders and reads workstation-specific software
+locations from environment variables. `SOILSYNCOM_ARCHIVE_ROOT` identifies an
+extracted copy of the companion data package.
 
 The workflows use MATLAB, RAVEN, COBRA Toolbox, matTFA, ReMIND, redGEM/redGEMX,
 NIS, NICEgame, CPLEX, and Gurobi. Python figure code uses NumPy, pandas, SciPy,

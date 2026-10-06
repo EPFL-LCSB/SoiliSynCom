@@ -4,7 +4,8 @@ function [OriginalGEM, GEMmodel, core_ss, Biomass_rxns, met_pairs_to_remove, Ino
 % Model Specific Settings:
 fprintf(strcat('Loading the GEM for'," ",GEMname, '...\n'))
 
-GEMmodel = load(['./GEMs/PTYG/',GEMname]);
+paths = soilSynComPaths();
+GEMmodel = load(fullfile(paths.models.richTFA, GEMname));
 %if there is thermo structure prefer it
 if isfield(GEMmodel,'ttmodel')
     GEMmodel = GEMmodel.ttmodel;
@@ -145,7 +146,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if strcmp(ListForInorganicMets,'curated')
     % load curated list from mat-file
-    InorgMetSEEDIDs_curated = load('inorganic150109.mat');
+    InorgMetSEEDIDs_curated = load(fullfile(paths.nis, 'inorganic150109.mat'));
     InorgMetSEEDIDs_curated = InorgMetSEEDIDs_curated.inorganic;
     InorgMetSEEDIDs = InorgMetSEEDIDs_curated;
 elseif strcmp(ListForInorganicMets,'automatic')
@@ -159,7 +160,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 if strcmp(ListForCofactorPairs,'curated')
     % load curated list from mat-file
-        met_pairs_to_remove = load('met_pairs_to_remove_KEGG.mat');
+        met_pairs_to_remove = load(fullfile(paths.nis, 'met_pairs_to_remove_KEGG.mat'));
     met_pairs_to_remove = met_pairs_to_remove.met_pairs_to_remove;
 elseif strcmp(ListForCofactorPairs,'automatic')
     % Call function to calculate the lost of cofactor pairs

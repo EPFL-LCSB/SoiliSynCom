@@ -1,16 +1,18 @@
 %% script to map reaction metabolic subsystems
-pathToGEMs = './GEMs/PTYG';
-outPath = '${SOILSYNCOM_DATA_ROOT}/NIS/output/SubSystems/'; %in case you don't want to overwrite the models
+paths = soilSynComPaths();
+pathToGEMs = paths.models.richTFA;
+outPath = fullfile(paths.outputRoot, 'NIS', 'SubSystems'); %in case you don't want to overwrite the models
 % please provide different output path than the folder you have initialy the GEMs
 % cd(outPath)
-addpath(genpath('${REDGEM_ROOT}/'))
-% addpath(genpath('${USER_HOME}/Documents/MATLAB/GIT/mattfa/'))
-addpath(genpath('${NIS_ROOT}/'))
+if ~isfolder(outPath)
+    mkdir(outPath)
+end
+addSoilSynComDependencies(paths);
 ids = 'KEGG'; %BiGG or KEGG for now
 if strcmp(ids,'KEGG')
-    load('${NIS_ROOT}/matFiles/metabolites4subsystems_KEGG.mat')
+    load(fullfile(paths.nis, 'metabolites4subsystems_KEGG.mat'))
     
-    met_pairs_to_remove = load('${NIS_ROOT}/matFiles/met_pairs_to_remove_KEGG.mat');
+    met_pairs_to_remove = load(fullfile(paths.nis, 'met_pairs_to_remove_KEGG.mat'));
     met_pairs_to_remove = met_pairs_to_remove.met_pairs_to_remove;
     
     ss = {'Glycolysis/Gluconeogenesis';...
@@ -19,13 +21,7 @@ if strcmp(ids,'KEGG')
         'Pyruvate Metabolism'};
     
 elseif strcmp(ids,'BiGG')
-    load('/PathTo/nis/matFiles/metabolites4subsystems_BiGG.mat')
-    met_pairs_to_remove = load('/PathTo/nis/matFiles/met_pairs_to_remove_BiGG.mat');
-    met_pairs_to_remove = met_pairs_to_remove.met_pairs_to_remove;
-    
-    ss = {'Glycolysis/Gluconeogenesis';...
-        'Pentose Phosphate Pathway';...
-        'Citric Acid Cycle';'Pyruvate Metabolism'};
+    error('Provide the BiGG subsystem-mapping MAT files before selecting ids = BiGG.');
 end
 
 % load models

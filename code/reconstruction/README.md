@@ -6,5 +6,13 @@ We provide the reconstruction commands for the 21 SoilSynCom strains in
 `AddRavenGeneAnnotations.m` transfers FASTA header annotations into a
 RAVEN-compatible model structure.
 
-The workflow uses genome FASTA files, KEGG-search results, a RAVEN database
-snapshot, and a supported optimization solver.
+Genome metadata are provided under
+[`data/workflow_inputs/reconstruction/`](../../data/workflow_inputs/reconstruction/).
+The companion Zenodo package contains the protein FASTAs and genome assemblies
+under `workflow_inputs/reconstruction/`. The reconstruction entry point reads
+that package through `SOILSYNCOM_ARCHIVE_ROOT` and accepts the extracted
+KEGG-search output directory as its third argument or through
+`SOILSYNCOM_KEGG_OUTPUT_ROOT`.
+
+The workflow uses RAVEN, a KEGG-search snapshot, and a supported optimization
+solver.

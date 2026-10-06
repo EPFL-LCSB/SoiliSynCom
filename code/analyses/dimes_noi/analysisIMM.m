@@ -22,7 +22,7 @@ function [model, drains, MinMets, cDPs] = analysisIMM(model, ...
 %    rxnNoThermo:     List of rxns for which no thermo constraints should 
 %                     be applied (default = all rxns -- equivalent to FBA)
 %    ReactionDB:      Database with all the thermodynamic information from
-%                     Alberty (default = DB_AlbertyUpdate_keng_NEW.mat)
+%                     Alberty (required)
 %    metabData:       Metabolomics data (default = empty)
 % 
 %
@@ -61,8 +61,9 @@ if (nargin < 7)
     rxnNoThermo = model.rxns;
 end
 if (nargin < 8)
-    ReactionDB = load('DB_AlbertyUpdate_keng_NEW.mat');
-    ReactionDB = ReactionDB.DB_AlbertyUpdate;
+    error(['Provide ReactionDB explicitly. The retained DiMEs helper named ' ...
+        'DB_AlbertyUpdate_keng_NEW.mat as its historical default, and that ' ...
+        'database identity must be selected explicitly.']);
 end
 if (nargin < 9)
     metabData = [];

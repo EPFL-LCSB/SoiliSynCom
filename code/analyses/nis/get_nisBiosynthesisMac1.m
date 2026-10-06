@@ -1,6 +1,7 @@
-function get_nisBiosynthesis
-% go to nis/runFiles to run this function
-cd ./GEMs/M9
+function get_nisBiosynthesisMac1
+paths = soilSynComPaths();
+% Load the final M9 TFA collection.
+cd(paths.models.m9TFA)
 
 % here you can give a list of GEM names
 %names = {'Gilliamella_apicola','Snodgrassella_alvi'};
@@ -13,8 +14,8 @@ end
 % make sure to keep only mat files
 names = names(contains(names,'.mat'));
 names = strrep(names,'.mat','');
-cd ../..
-addpath(genpath('./'))
+cd(fileparts(mfilename('fullpath')))
+addpath(genpath(fileparts(mfilename('fullpath'))))
 
 for i = 1%: length(names)
  %check where it is saved
@@ -64,12 +65,11 @@ for i = 1%: length(names)
         'TimeLimitForSolver',                 'yes'                                  ,... % yes, no
         'CplexParameters',                    'LCSBDefault'                          ,... % CplexDefault, LCSBDefault
         ....%paths to folders
-        'CPLEX_PATH',                         '${CPLEX_ROOT}/'                        ,... %provide path to CPLEX
-        'TFA_PATH',                           '${MATTFA_ROOT}'                     ,... %provide path to matTFA
-        'thermo_data_PATH',                   strcat('./DB_AlbertyUpdate')  ,...% Provide the path to the thermodynamic data (including the file name)
-        'redGEM_PATH',                         '${REDGEM_ROOT}'                      ,... %provide path to redGEM
-        'nis_PATH',                         '${NIS_ROOT}'                      ,... %provide path to NIS
-        'output_PATH',                        strcat('./output/',names{i},'_D0_Biosynthesis'));                              % provide output path where the files will be saved
+        'CPLEX_PATH',                         paths.external.CPLEX                    ,... %provide path to CPLEX
+        'TFA_PATH',                           paths.external.matTFA                   ,... %provide path to matTFA
+        'thermo_data_PATH',                   paths.nisThermoData                     ,...% Provide the path to the thermodynamic data (including the file name)
+        'redGEM_PATH',                        paths.external.redGEM                   ,... %provide path to redGEM
+        'nis_PATH',                           paths.external.NIS                      ,... %provide path to NIS
+        'output_PATH',                        fullfile(paths.outputRoot, 'NIS', [names{i} '_D0_Biosynthesis']));             % provide output path where the files will be saved
      nisBiosynthesis(paramNISbiosynthesis);
 end
-
