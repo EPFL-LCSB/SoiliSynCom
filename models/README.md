@@ -1,36 +1,20 @@
 # Genome-scale metabolic models
 
-We provide the final genome-scale metabolic model collection for the
-21-member SoilSynCom as MATLAB MAT files.
+The `final/` directory contains the original final MATLAB models used in the
+SoilSynCom study.
 
-## Model families
+| Directory | Models | Meaning |
+|---|---:|---|
+| `final/rich/FBA_short/` | 21 | Flux balance analysis models constrained for the rich PTYG medium with vitamins |
+| `final/rich/TFA_long/` | 21 | Thermodynamics-based flux analysis versions of the rich PTYG models |
+| `final/M9/FBA_short/` | 19 | Flux balance analysis models constrained for M9 minimal medium with vitamins |
+| `final/M9/TFA_long/` | 19 | Thermodynamics-based flux analysis versions of the M9 models |
 
-| Directory | Models | Formulation | Medium |
-|---|---:|---|---|
-| `final/rich/FBA_short/` | 21 | FBA | Rich PTYG |
-| `final/rich/TFA_long/` | 21 | TFA | Rich PTYG |
-| `final/M9/FBA_short/` | 19 | FBA | M9 minimal medium |
-| `final/M9/TFA_long/` | 19 | TFA | M9 minimal medium |
+`FBA_short` denotes the conventional stoichiometric model structure used for
+flux balance analysis. `TFA_long` denotes the corresponding model extended
+with the variables and constraints used for thermodynamics-based flux
+analysis.
 
-“Short” denotes the flux-balance-analysis model and “long” denotes the
-thermodynamics-based flux-analysis formulation. In the M9 collection, `cxy`
-and `lur` use xylose as their carbon source. The carbon-source field in the
-[`model manifest`](model_manifest.tsv) provides the model-level interpretation.
-
-## Model curation and validation
-
-Each model contains metabolite and reaction annotations aligned with its model
-entities. The `rules`, `grRules`, and `rxnGeneMat` fields provide consistent
-gene-protein-reaction mappings. All 80 MAT files pass annotation-dimension,
-GPR-consistency, matrix-dimension, and serialization checks.
-
-We provide the collection metadata and validation results in:
-
-- [`model_manifest.tsv`](model_manifest.tsv), with the strain, medium, carbon
-  source, formulation, model dimensions, and SHA-256 checksum;
-- [`VALIDATION.md`](VALIDATION.md), with a concise validation summary; and
-- [`validation_summary.json`](validation_summary.json), with machine-readable
-  validation results.
-
-We provide the associated model-quality and thermodynamic-coverage
-measurements in the [`supplementary source data`](../data/supplementary/source_data/).
+The M9 collection contains 19 strains because `cohm` and `mip` are not part of
+that model set. In the M9 collection, `cxy` and `lur` use xylose as the carbon
+source despite the historical `Succinate` wording in their TFA filenames.

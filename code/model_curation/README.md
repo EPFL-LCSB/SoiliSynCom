@@ -12,10 +12,6 @@ ordered curation steps and their scientific annotations.
   utilities.
 - `shared_templates/` contains common script templates used across strain
   workflows.
-- `repair_model_families.py` aligns model annotations and gene-reaction
-  matrices across the four publication model families.
-- `model_families.tsv` defines the rich PTYG and M9 FBA/TFA model collections.
-
 The medium definitions, shared curation structures, metabolic tasks, BioLog
 inputs, and strain-specific false-task tables are provided under
 [`data/workflow_inputs/curation/`](../../data/workflow_inputs/curation/). The

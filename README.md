@@ -1,4 +1,4 @@
-# SoilSynCom
+# SoiliSynCom
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
@@ -61,20 +61,9 @@ and source indexes for provider-managed reconstruction and gap-filling data.
 
 ## Final model collection
 
-We provide four MATLAB `.mat` model families:
-
-| Medium | Formulation | Folder | Models |
-|---|---|---|---:|
-| Rich PTYG | FBA (short) | `models/final/rich/FBA_short` | 21 |
-| Rich PTYG | TFA (long) | `models/final/rich/TFA_long` | 21 |
-| M9 | FBA (short) | `models/final/M9/FBA_short` | 19 |
-| M9 | TFA (long) | `models/final/M9/TFA_long` | 19 |
-
-For the M9 collection, `cxy` and `lur` use xylose as their carbon source. The
-[`model manifest`](models/model_manifest.tsv) records the strain, medium,
-carbon source, formulation, dimensions, and SHA-256 checksum of every model.
-The [`validation summary`](models/VALIDATION.md) describes the annotation and
-gene-reaction consistency checks applied to the complete collection.
+The original final MATLAB model files are provided under [`models/final/`](models/final/).
+The four model families and their directory names are explained in the
+[`models` README](models/README.md).
 
 ## Code and software
 

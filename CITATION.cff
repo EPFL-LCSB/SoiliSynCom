@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or its models, please cite the accompanying manuscript."
 type: software
 title: "Genome-scale metabolic models for a synthetic soil microbial community as a path for understanding community functioning"
-repository-code: "https://github.com/EPFL-LCSB/SoilSynCom"
+repository-code: "https://github.com/EPFL-LCSB/SoiliSynCom"
 license: GPL-3.0-only
 authors:
   - family-names: Keshk

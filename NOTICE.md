@@ -30,12 +30,6 @@ definition `inorganic150109.mat` retains its provenance from the EPFL-LCSB
 redGEM distribution and is covered by the redGEM Apache-2.0 license. These
 files are recorded individually in the workflow-input checksum manifest.
 
-## Model filename interpretation
-
-The `cxy` and `lur` M9 models use xylose as their carbon source. Their exact
-medium and carbon-source assignments are recorded in
-`models/model_manifest.tsv`.
-
 Any third-party copyright or license header present in an adapted source file
 remains controlling for that file. We license first-party SoilSynCom software
 under GPL-3.0-only.
