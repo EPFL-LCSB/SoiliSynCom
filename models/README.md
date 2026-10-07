@@ -1,20 +1,25 @@
-# Genome-scale metabolic models
+# SoilSynCom TFA models
 
-The `final/` directory contains the original final MATLAB models used in the
-SoilSynCom study.
+The `final/` directory contains the 80 thermodynamic flux analysis (TFA)
+models used in the SoilSynCom study. Models are supplied as MATLAB MAT files,
+with one `ttmodel_<strain>` structure in each file.
 
-| Directory | Models | Meaning |
-|---|---:|---|
-| `final/rich/FBA_short/` | 21 | Flux balance analysis models constrained for the rich PTYG medium with vitamins |
-| `final/rich/TFA_long/` | 21 | Thermodynamics-based flux analysis versions of the rich PTYG models |
-| `final/M9/FBA_short/` | 19 | Flux balance analysis models constrained for M9 minimal medium with vitamins |
-| `final/M9/TFA_long/` | 19 | Thermodynamics-based flux analysis versions of the M9 models |
+## Model families
 
-`FBA_short` denotes the conventional stoichiometric model structure used for
-flux balance analysis. `TFA_long` denotes the corresponding model extended
-with the variables and constraints used for thermodynamics-based flux
-analysis.
+| Directory | Models | Exchange reactions | Meaning |
+|---|---:|---:|---|
+| `final/curated_exchanges/PTYG/` | 21 | 392 | Models constrained for PTYG medium with the curated exchange repertoire |
+| `final/curated_exchanges/M9/` | 19 | 392 | Models constrained for M9 medium with the curated exchange repertoire |
+| `final/full_exchanges/PTYG/` | 21 | 1,184 | Models constrained for PTYG medium with the broader exchange repertoire |
+| `final/full_exchanges/M9/` | 19 | 1,184 | Models constrained for M9 medium with the broader exchange repertoire |
 
-The M9 collection contains 19 strains because `cohm` and `mip` are not part of
-that model set. In the M9 collection, `cxy` and `lur` use xylose as the carbon
-source despite the historical `Succinate` wording in their TFA filenames.
+The curated repertoire is based on *Escherichia coli* exchanges together with
+additional study-relevant and metabolomics compounds. The full repertoire
+represents the alternative model collection with expanded extracellular
+compound coverage. All four collections are TFA models.
+
+PTYG uses glucose as its carbon source and contains all 21 strains. The M9
+collections contain 19 strains because `cohm` and `mip` are not represented in
+that condition. Seventeen M9 models use succinate; `cxy` and `lur` use xylose.
+The curated `cxy` and `lur` filenames retain the historical word `Succinate`,
+but their model bounds correctly specify xylose uptake.

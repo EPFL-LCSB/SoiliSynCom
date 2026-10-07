@@ -49,10 +49,18 @@ if ~isempty(paths.archiveWorkflowInputs)
     paths.experimental = fullfile(paths.archiveWorkflowInputs, 'experimental');
 end
 
-paths.models.richFBA = fullfile(repositoryRoot, 'models', 'final', 'rich', 'FBA_short');
-paths.models.richTFA = fullfile(repositoryRoot, 'models', 'final', 'rich', 'TFA_long');
-paths.models.m9FBA = fullfile(repositoryRoot, 'models', 'final', 'M9', 'FBA_short');
-paths.models.m9TFA = fullfile(repositoryRoot, 'models', 'final', 'M9', 'TFA_long');
+paths.models.ptygCuratedTFA = fullfile(repositoryRoot, 'models', 'final', ...
+    'curated_exchanges', 'PTYG');
+paths.models.m9CuratedTFA = fullfile(repositoryRoot, 'models', 'final', ...
+    'curated_exchanges', 'M9');
+paths.models.ptygFullTFA = fullfile(repositoryRoot, 'models', 'final', ...
+    'full_exchanges', 'PTYG');
+paths.models.m9FullTFA = fullfile(repositoryRoot, 'models', 'final', ...
+    'full_exchanges', 'M9');
+
+% Current DiMEs and NIS scripts use the curated-exchange collections.
+paths.models.richTFA = paths.models.ptygCuratedTFA;
+paths.models.m9TFA = paths.models.m9CuratedTFA;
 
 paths.external.matTFA = getenv('MATTFA_ROOT');
 paths.external.ReMIND = getenv('REMIND_ROOT');

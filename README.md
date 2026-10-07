@@ -19,7 +19,7 @@ gene essentiality, and candidate metabolic exchanges.
 | Path | Contents |
 |---|---|
 | [`data/`](data/) | Compact workflow inputs, processed analysis data, graphing workbooks, supplementary source tables, and package manifests |
-| [`models/`](models/) | 80 final FBA and TFA models with checksums and validation summaries |
+| [`models/`](models/) | 80 final TFA models covering PTYG and M9 conditions with curated and full exchange repertoires |
 | [`code/reconstruction/`](code/reconstruction/) | Draft-model reconstruction and annotation code |
 | [`code/model_curation/`](code/model_curation/) | Strain-specific, phenotype-guided, and shared model-curation code |
 | [`code/thermodynamic_conversion/`](code/thermodynamic_conversion/) | FBA-to-TFA conversion workflows |

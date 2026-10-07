@@ -12,7 +12,7 @@ provided under
 The full `thermo_data.mat` database is stored under
 `workflow_inputs/thermodynamics/` in the companion Zenodo package and is
 resolved through `SOILSYNCOM_ARCHIVE_ROOT`.
-The resulting TFA models are provided under `models/final/rich/TFA_long/` and
-`models/final/M9/TFA_long/`.
+The resulting TFA models are organized by medium and exchange repertoire under
+`models/final/curated_exchanges/` and `models/final/full_exchanges/`.
 
 The workflows use matTFA, COBRA Toolbox, and a CPLEX-compatible solver.
