@@ -1,6 +1,6 @@
 # SoiliSynCom
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+[![License: Apache_2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 We present the research code, experimental and computational data, curated
 genome-scale metabolic models, and publication figures supporting our
